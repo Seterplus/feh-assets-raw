@@ -1,0 +1,8 @@
+{
+    "pathRegexList": [
+        "Common/Arena/.*",
+        "Common/.*_Delivery\\..*",
+        "Common/Portrait/.*",
+        "USEN/.*_Message_Data\\..*"
+    ]
+}

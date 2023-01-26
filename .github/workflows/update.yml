@@ -1,0 +1,40 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout raw
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.UPDATER_PAT }}
+          path: raw
+
+      - name: Checkout updater
+        uses: actions/checkout@v3
+        with:
+          repository: Seterplus/feh-assets-updater
+          token: ${{ secrets.UPDATER_PAT }}
+          path: updater
+
+      - name: Install python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "pypy3.9"
+
+      - name: Update assets
+        env:
+          BAAS_ID: ${{ secrets.BAAS_ID }}
+          BAAS_PASSWORD: ${{ secrets.BAAS_PASSWORD }}
+        run: |
+          git config --global user.name "Update bot"
+          git config --global user.email "seterplus@users.noreply.github.com"
+
+          cd updater
+          python ./update.py ../raw
