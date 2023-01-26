@@ -1,0 +1,49 @@
+<head>
+  <title>Feh Arena Bonus</title>
+  <script>
+    async function writeDocument() {
+      function writeBrs(num) {
+        document.write('<br>'.repeat(num));
+      }
+      const season_icons = [
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Icon_Season_Fire.png/revision/latest?cb=20200504094527',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Icon_Season_Water.png/revision/latest?cb=20200504094538',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Icon_Season_Wind.png/revision/latest?cb=20200504094617',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b7/Icon_Season_Earth.png/revision/latest?cb=20200504094601',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Icon_Season_Light.png/revision/latest?cb=20221011232345',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Icon_Season_Dark.png/revision/latest?cb=20200504094708',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Icon_Season_Astra.png/revision/latest?cb=20200504094807',
+        'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/76/Icon_Season_Anima.png/revision/latest?cb=2020050409474',
+      ];
+      function writeSeason(season) {
+        document.write('<div style="display:inline-block"><img referrerpolicy="no-referrer" width="100%" src="' + season_icons[season - 1] + '"></div>');
+      }
+      function writeHeader(week) {
+        writeBrs(3);
+        for (const season of week.seasons) {
+          writeSeason(season);
+        }
+        for (const season of week.aether_seasons) {
+          writeSeason(season);
+        }
+        document.write('<div style="display:inline-block;font-size:30px;vertical-align:top;padding:20px">' + week.start + ' to ' + week.finish + '</div>');
+        writeBrs(1);
+      }
+      let data = await fetch('./arena.json');
+      data = await data.json();
+      data.forEach(week => {
+        writeHeader(week);
+        week.units.forEach(unit => {
+          document.write('<div style="width:20%;display:inline-block">');
+          document.write('<img referrerpolicy="no-referrer" width="100%" src="' + unit.icon + '" onerror="this.remove()">');
+          document.write('<div>' + unit.hero_id + '</div><div>' + unit.hero_name + '</div>');
+          document.write('</div>');
+        });
+      });
+      writeBrs(3);
+    }
+
+    writeDocument();
+  </script>
+</head>
+Waiting...
