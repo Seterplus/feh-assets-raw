@@ -19,8 +19,11 @@ ICON_BACKUP_RE = re.compile(r'[^"]*_Unit_Idle.png/revision/latest\?[^"]*')
 
 
 def fetch_wiki(page_name, page_contents):
-    with urllib.request.urlopen(WIKI_PAGE + urllib.parse.quote(page_name)) as f:
-        page_contents[page_name] = json.loads(f.read())['parse']['text']['*']
+    try:
+        with urllib.request.urlopen(WIKI_PAGE + urllib.parse.quote(page_name)) as f:
+            page_contents[page_name] = json.loads(f.read())['parse']['text']['*']
+    except Exception as e:
+        page_contents[page_name] = ''
 
 
 def main():
