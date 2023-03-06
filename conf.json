@@ -3,6 +3,7 @@
         "Common/Arena/.*",
         "Common/.*_Delivery\\..*",
         "Common/Portrait/.*",
+        "Common/Summon/.*",
         "USEN/.*_Message_Data\\..*"
     ]
 }
