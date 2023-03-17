@@ -118,8 +118,8 @@ def main():
         bonus_book = bonus_books[start_date]
         if bonus_book != 0:
             units.append({
-                'hero_id': f"Book {bonus_book}",
-                'hero_name': "",
+                'hero_id': "&nbsp;",
+                'hero_name': f"Book {bonus_book}",
                 'icon': BOOK_ICON_URL_PREFIX + BOOK_ICONS[bonus_book - 1],
             })
         assert len(units) == 10
