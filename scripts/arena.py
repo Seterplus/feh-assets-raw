@@ -16,6 +16,21 @@ WEEK_SECONDS = 7 * 86400
 WIKI_PAGE = 'https://feheroes.fandom.com/api.php?action=parse&prop=text&format=json&origin=*&page='
 ICON_RE = re.compile(r'[^"]*_Unit_Idle_No_Wep.png/revision/latest\?[^"]*')
 ICON_BACKUP_RE = re.compile(r'[^"]*_Unit_Idle.png/revision/latest\?[^"]*')
+BOOK_ICON_URL_PREFIX = 'https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/'
+BOOK_ICONS = [
+    '0/0d/Divine_Code_Ephemera_1.png/revision/latest?cb=20200508135744',
+    '0/07/Divine_Code_Ephemera_2.png/revision/latest?cb=20200508135750',
+    '9/94/Divine_Code_Ephemera_3.png/revision/latest?cb=20200508135404',
+    'd/df/Divine_Code_Ephemera_4.png/revision/latest?cb=20200508135437',
+    'c/c1/Divine_Code_Ephemera_5.png/revision/latest?cb=20200507050526',
+    '8/8b/Divine_Code_Ephemera_6.png/revision/latest?cb=20200508135505',
+    'c/cb/Divine_Code_Ephemera_7.png/revision/latest?cb=20200508135700',
+    'b/b1/Divine_Code_Ephemera_8.png/revision/latest?cb=20200508135718',
+    'a/a7/Divine_Code_Ephemera_9.png/revision/latest?cb=20200508135724',
+    'e/e3/Divine_Code_Ephemera_10.png/revision/latest?cb=20201014082802',
+    '3/30/Divine_Code_Ephemera_11.png/revision/latest?cb=20201014082907',
+    'e/ec/Divine_Code_Ephemera_12.png/revision/latest?cb=20201014082917',
+]
 
 
 def fetch_wiki(page_name, page_contents):
@@ -105,7 +120,7 @@ def main():
             units.append({
                 'hero_id': f"Book {bonus_book}",
                 'hero_name': "",
-                'icon': '',
+                'icon': BOOK_ICON_URL_PREFIX + BOOK_ICONS[bonus_book - 1],
             })
         assert len(units) == 10
 
