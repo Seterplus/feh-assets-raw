@@ -108,7 +108,7 @@ def main():
         units = arena_data[start_date]['units']
         for unit in units:
             hero_id, hero_name = unit['hero_id'], unit['hero_name']
-            if '>PID_' + hero_id.encode('ascii', 'xmlcharrefreplace').decode() + '<' not in unit_pages[hero_name]:
+            if '>PID_' + hero_id + '<' not in unit_pages[hero_name]:
                 unit['icon'] = ''
                 continue
             content = unit_pages[hero_name + '/Misc']
