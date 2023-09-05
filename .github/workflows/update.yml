@@ -11,13 +11,13 @@ jobs:
 
     steps:
       - name: Checkout raw
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.UPDATER_PAT }}
           path: raw
 
       - name: Checkout updater
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Seterplus/feh-assets-updater
           token: ${{ secrets.UPDATER_PAT }}
