@@ -2,6 +2,7 @@
     "pathRegexList": [
         "Common/Arena/.*",
         "Common/.*_Delivery\\..*",
+        "Common/.*_SRPG_ReleaseVersion\\..*",
         "Common/Portrait/.*",
         "Common/Summon/.*",
         "USEN/.*_Message_Data\\..*"
