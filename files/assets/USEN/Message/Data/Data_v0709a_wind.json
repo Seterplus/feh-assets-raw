@@ -729,7 +729,7 @@
   },
   {
     "key": "MSID_H_死からは逃れ…・神",
-    "value": "For each foe within 4 spaces of unit, unit can\nmove to any of the nearest spaces adjacent\nto that foe (unless space is impassible terrain).\nInflicts Atk/Spd/Def/Res-5 on foes within\n2 spaces of unit during combat. If unit's\nSpd > foe's Spd, neutralizes effects that\nguarantee foe's follow-up attacks and\neffects that prevent unit's follow-up\nattacks during combat."
+    "value": "For each foe within 4 spaces of unit, unit can\nmove to any of the nearest spaces adjacent\nto that foe (unless space is impassable terrain).\nInflicts Atk/Spd/Def/Res-5 on foes within\n2 spaces of unit during combat. If unit's\nSpd > foe's Spd, neutralizes effects that\nguarantee foe's follow-up attacks and\neffects that prevent unit's follow-up\nattacks during combat."
   },
   {
     "key": "MSID_H_風神の団扇",
