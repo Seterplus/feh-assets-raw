@@ -413,7 +413,7 @@
   },
   {
     "key": "MSID_H_母娘の静やかな祝福",
-    "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit is within 2 spaces of an\nally, grants the following effects to unit and\nallies within 2 spaces of unit for 1 turn: \"unit\ncan move to a space adjacent to an ally within\n2 spaces\" and【Dual Strike】.  If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd+6 and Special cooldown charge +1\nto unit per attack during combat. (Only highest\nvalue applied. Does not stack.)\n\n【Dual Strike】\nIf unit initiates combat and is adjacent to an\nally with Dual Strike (excluding unit), unit\nattacks twice. (That turn only. Does not stack.)"
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit is within 2 spaces of an\nally, grants the following effects to unit and\nallies within 2 spaces of unit for 1 turn: \"unit\ncan move to a space adjacent to an ally\nwithin 2 spaces\" and【Dual Strike】.\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd+6 and Special\ncooldown charge +1 to unit per attack\nduring combat (only highest value applied;\ndoes not stack).\n\n【Dual Strike】\nIf unit initiates combat and is adjacent to an\nally with Dual Strike (excluding unit), unit\nattacks twice. (That turn only. Does not stack.)"
   },
   {
     "key": "MSID_H_荘厳なる祝福の聖斧",
