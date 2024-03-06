@@ -588,12 +588,24 @@
     "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit is within 2 spaces of an\nally, grants Spd/Res+6,【Bonus Doubler】,\nand【Null Panic】to unit and allies\nwithin 2 spaces of unit for 1 turn. If unit\ninitiates combat or is within 2 spaces of\nan ally, grants Atk/Spd/Def/Res+5 to unit,\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks, and deals damage\n= 20% of unit's Spd during combat (excluding\narea-of-effect Specials).\n\n【Bonus Doubler】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current bonus on each of unit's stats\nfor 1 turn. Calculates each stat bonus\nindependently.\n\n【Null Panic】\nIf unit is inflicted with Panic (bonuses converted\ninto penalties), neutralizes the \"converts\nbonuses on target into penalties\" effect for\n1 turn. (Even though the effect is neutralized,\nthe Panic status remains, and is treated as a\nPenalty status.)"
   },
   {
+    "key": "MSID_H_砂漠の天馬騎士の剣_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit is within 2 spaces of an\nally, grants Spd/Res+6,【Bonus Doubler】,\nand【Null Panic】to unit and allies\nwithin 2 spaces of unit for 1 turn. If unit\ninitiates combat or is within 2 spaces of\nan ally, grants Atk/Spd/Def/Res+5 to unit,\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks, and deals damage\n= 20% of unit's Spd during combat (excluding\narea-of-effect Specials)."
+  },
+  {
     "key": "MSID_H_ナバタの槍",
     "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Hexblade】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials).\n\n【Hexblade】\nCalculates damage using the lower of foe's\nDef or Res during combat for 1 turn (including\ndamage dealt by Specials before combat)."
   },
   {
+    "key": "MSID_H_ナバタの槍_NOSKW",
+    "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Hexblade】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials)."
+  },
+  {
     "key": "MSID_H_ナバタの槍＋",
     "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Hexblade】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials).\n\n【Hexblade】\nCalculates damage using the lower of foe's\nDef or Res during combat for 1 turn (including\ndamage dealt by Specials before combat)."
+  },
+  {
+    "key": "MSID_H_ナバタの槍＋_NOSKW",
+    "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Hexblade】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials)."
   },
   {
     "key": "MSID_H_永遠の理想郷の双斧",
@@ -608,8 +620,16 @@
     "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Desperation】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials).\n\n【Desperation】\nGrants the following effect for 1 turn: \"If unit\ninitiates combat, unit can make a follow-up\nattack before foe can counterattack.\""
   },
   {
+    "key": "MSID_H_ナバタの燭台_NOSKW",
+    "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Desperation】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials)."
+  },
+  {
     "key": "MSID_H_ナバタの燭台＋",
     "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Desperation】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials).\n\n【Desperation】\nGrants the following effect for 1 turn: \"If unit\ninitiates combat, unit can make a follow-up\nattack before foe can counterattack.\""
+  },
+  {
+    "key": "MSID_H_ナバタの燭台＋_NOSKW",
+    "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants \"unit cannot be slowed by terrain\n(does not apply to impassable terrain)\" and\n【Desperation】to unit for 1 turn. If unit initiates\ncombat or is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+4 to unit during combat and\ndeals damage = 10% of unit's Atk (excluding\narea-of-effect Specials)."
   },
   {
     "key": "MSID_H_三雄の双刃",
@@ -630,6 +650,10 @@
   {
     "key": "MSID_H_双界イグレーヌ",
     "value": "$aGrants【Resonance: Blades】,【Treachery】,\nand【Desperation】to unit and allies from the\nsame titles as unit.\n\n【Resonance: Blades】\nGrants Atk/Spd+4 during combat for 1 turn.\n\n【Treachery】\nUnit deals additional damage = total bonuses\non unit for 1 turn.\n\n【Desperation】\nGrants the following effect for 1 turn: \"If unit\ninitiates combat, unit can make a follow-up\nattack before foe can counterattack.\""
+  },
+  {
+    "key": "MSID_H_双界イグレーヌ_NOSKW",
+    "value": "$aGrants【Resonance: Blades】,【Treachery】,\nand【Desperation】to unit and allies from the\nsame titles as unit."
   },
   {
     "key": "MID_CHAPTER_TITLE_CX093",

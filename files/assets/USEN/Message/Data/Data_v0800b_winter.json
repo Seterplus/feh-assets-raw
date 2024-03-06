@@ -1212,20 +1212,40 @@
     "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25% and unit\ninitiates combat, applies【Divine Vein (Flame)】on\n5 spaces in a line centered on foe's space and\non the 5 spaces behind those spaces (based on\ndirection unit is facing) for 1 turn after combat.\nAt start of combat, if unit's HP ≥ 25%, inflicts\nAtk/Def-X on foe (X = 15 - number of adjacent\nallies × 2; min 6), grants Special cooldown\ncount-Y to unit before unit's first attack\n(Y = number of spaces from start position to\nend position of whoever initiated combat,\nmax 3; if foe is in a space where allied\n【Divine Vein (Flame)】is applied, then the value is\ntreated as 3), and reduces the percentage of\nfoe's non-Special \"reduce damage by X%\" skills\nby percentage = 100 - number of allies\nadjacent to unit × 30 during combat, and also,\nif unit has weapon-triangle advantage or if foe\nis in a space where allied【Divine Vein (Flame)】is\napplied, neutralizes foe's non-Special \"if foe\nwould reduce unit's HP to 0, unit survives\nwith 1 HP\" effects during combat.\n\n【Divine Vein (Flame)】\nApplies the following effects on space: Acts as\ndifficult terrain for foes with Range = 2 (moving\nover this space costs +1 movement; does not\napply to \"cannot be slowed by terrain\" effects;\nmovement cost cannot exceed unit's allowed\nmovement). At start of enemy phase, deals\n7 damage to foe, and also, as combat begins,\ndeals an additional 7 damage to foe (effects\nthat reduce damage \"during combat\" do not\napply; will not reduce foe's HP below 1).\n(Divine Vein effects do not stack; replaces any\nexisting Divine Vein effect; Divine Vein effects\napplied simultaneously cancel each other out.)"
   },
   {
+    "key": "MSID_H_黒鷲の聖夜の槍_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25% and unit\ninitiates combat, applies【Divine Vein (Flame)】on\n5 spaces in a line centered on foe's space and\non the 5 spaces behind those spaces (based on\ndirection unit is facing) for 1 turn after combat.\nAt start of combat, if unit's HP ≥ 25%, inflicts\nAtk/Def-X on foe (X = 15 - number of adjacent\nallies × 2; min 6), grants Special cooldown\ncount-Y to unit before unit's first attack\n(Y = number of spaces from start position to\nend position of whoever initiated combat,\nmax 3; if foe is in a space where allied\n【Divine Vein (Flame)】is applied, then the value is\ntreated as 3), and reduces the percentage of\nfoe's non-Special \"reduce damage by X%\" skills\nby percentage = 100 - number of allies\nadjacent to unit × 30 during combat, and also,\nif unit has weapon-triangle advantage or if foe\nis in a space where allied【Divine Vein (Flame)】is\napplied, neutralizes foe's non-Special \"if foe\nwould reduce unit's HP to 0, unit survives\nwith 1 HP\" effects during combat."
+  },
+  {
     "key": "MSID_H_青獅子の聖夜の斧",
     "value": "$aEnables【Canto (２)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP ≥ 25%, grants\nAtk/Spd+6 and【Null Follow-Up】to unit\nfor 1 turn. At start of combat, if unit's\nHP ≥ 25%, grants Atk/Spd/Def/Res+X to unit\n(X = 5 + 15% of unit's Spd at start of combat)\nand grants Special cooldown count-Y to unit\nbefore unit's first attack during combat\n(Y = number of spaces from start position\nto end position of whoever initiated combat,\nmax 3; if number of【Bonus】effects\nactive on unit, excluding stat bonuses, ≥ 4,\nthen the value is treated as 3), and\nrestores 7 HP to unit after combat.\n\n【Canto (２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move ２ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than ２ space(s).)\n\n【Null Follow-Up】\nIf unit's Spd > foe's Spd during combat,\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks for 1 turn.\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_青獅子の聖夜の斧_NOSKW",
+    "value": "$aEnables【Canto (２)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP ≥ 25%, grants\nAtk/Spd+6 and【Null Follow-Up】to unit\nfor 1 turn. At start of combat, if unit's\nHP ≥ 25%, grants Atk/Spd/Def/Res+X to unit\n(X = 5 + 15% of unit's Spd at start of combat)\nand grants Special cooldown count-Y to unit\nbefore unit's first attack during combat\n(Y = number of spaces from start position\nto end position of whoever initiated combat,\nmax 3; if number of【Bonus】effects\nactive on unit, excluding stat bonuses, ≥ 4,\nthen the value is treated as 3), and\nrestores 7 HP to unit after combat."
   },
   {
     "key": "MSID_H_金鹿の聖夜の弓",
     "value": "$aEffective against flying foes. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4\nand Atk/Spd/Def/Res+X to unit and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack during combat (X = number of\nspaces from start position to end position of\nwhoever initiated combat, max 3; if【Penalty】\neffects are active on foe, then the value is\ntreated as 3).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
   },
   {
+    "key": "MSID_H_金鹿の聖夜の弓_NOSKW",
+    "value": "$aEffective against flying foes. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4\nand Atk/Spd/Def/Res+X to unit and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack during combat (X = number of\nspaces from start position to end position of\nwhoever initiated combat, max 3; if【Penalty】\neffects are active on foe, then the value is\ntreated as 3)."
+  },
+  {
     "key": "MSID_H_金鹿の聖夜の弓＋",
     "value": "$aEffective against flying foes. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4\nand Atk/Spd/Def/Res+X to unit and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack during combat (X = number of\nspaces from start position to end position of\nwhoever initiated combat, max 3; if【Penalty】\neffects are active on foe, then the value is\ntreated as 3).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
   },
   {
+    "key": "MSID_H_金鹿の聖夜の弓＋_NOSKW",
+    "value": "$aEffective against flying foes. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4\nand Atk/Spd/Def/Res+X to unit and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack during combat (X = number of\nspaces from start position to end position of\nwhoever initiated combat, max 3; if【Penalty】\neffects are active on foe, then the value is\ntreated as 3)."
+  },
+  {
     "key": "MSID_H_見えざる聖夜の刃",
     "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit and grants bonus\nto unit's Atk/Spd = 9 - number of allies\nadjacent to unit × 2 (min 0), neutralizes effects\nthat prevent unit's follow-up attacks, and\nneutralizes effects that inflict \"Special cooldown\ncharge -X\" on unit during combat, and also,\nif unit initiates combat, reduces the percentage\nof foe's non-Special \"reduce damage by X%\"\nskills by percentage = X × 30 and reduces\ndamage from foe's first attack by percentage\n= X × 30 during combat (X = number of spaces\nfrom start position to end position of whoever\ninitiated combat, max 3; if any space within\n2 spaces of unit has a Divine Vein effect\napplied or counts as difficult terrain, excluding\nimpassable terrain, value is treated as 3;\n\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes). After\ncombat, if unit attacked, inflicts Def/Res-7 on\ntarget and foes within 2 spaces of target\nthrough their next actions.\n\n【Canto (Dist.; Max ３)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nunit moved prior to taking action (max ３).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than ３.)"
+  },
+  {
+    "key": "MSID_H_見えざる聖夜の刃_NOSKW",
+    "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit and grants bonus\nto unit's Atk/Spd = 9 - number of allies\nadjacent to unit × 2 (min 0), neutralizes effects\nthat prevent unit's follow-up attacks, and\nneutralizes effects that inflict \"Special cooldown\ncharge -X\" on unit during combat, and also,\nif unit initiates combat, reduces the percentage\nof foe's non-Special \"reduce damage by X%\"\nskills by percentage = X × 30 and reduces\ndamage from foe's first attack by percentage\n= X × 30 during combat (X = number of spaces\nfrom start position to end position of whoever\ninitiated combat, max 3; if any space within\n2 spaces of unit has a Divine Vein effect\napplied or counts as difficult terrain, excluding\nimpassable terrain, value is treated as 3;\n\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes). After\ncombat, if unit attacked, inflicts Def/Res-7 on\ntarget and foes within 2 spaces of target\nthrough their next actions."
   },
   {
     "key": "MSID_H_真覇天",
@@ -1244,24 +1264,48 @@
     "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 1; max 3).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
   },
   {
+    "key": "MSID_H_攻撃守備の備え1_NOSKW",
+    "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 1; max 3)."
+  },
+  {
     "key": "MSID_H_攻撃守備の備え2",
     "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 1; max 5).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_攻撃守備の備え2_NOSKW",
+    "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 1; max 5)."
   },
   {
     "key": "MSID_H_攻撃守備の備え3",
     "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 3; max 7).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
   },
   {
+    "key": "MSID_H_攻撃守備の備え3_NOSKW",
+    "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 3; max 7)."
+  },
+  {
     "key": "MSID_H_攻撃守備の備え4",
     "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 3; max 9), and also, if\nnumber of【Bonus】effects active on\nunit (excluding stat bonuses) ≥ 4, unit can\ncounterattack regardless of foe's range\nduring combat.\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_攻撃守備の備え4_NOSKW",
+    "value": "$aIf【Bonus】is active on unit, grants\nAtk/Def+X to unit during combat (X = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, × 2, + 3; max 9), and also, if\nnumber of【Bonus】effects active on\nunit (excluding stat bonuses) ≥ 4, unit can\ncounterattack regardless of foe's range\nduring combat."
   },
   {
     "key": "MSID_H_真狂嵐",
     "value": "$aAt start of turn, if unit's HP = 100% or if any\nfoe is within 3 columns or 3 rows centered\non unit, grants \"unit can move 1 extra space\n(that turn only; does not stack)\" and【Charge】\nto unit for 1 turn. If number of allies adjacent\nto unit ≤ 1, inflicts Atk/Def-5 on foe during\ncombat, deals damage = 15% of unit's Atk\n(excluding area-of-effect Specials), and if\nunit initiates combat, grants another action\nto unit after combat (once per turn; if a skill\neffect moves unit after combat, this effect\noccurs based on unit's final placement after\nthat movement).\n\n【Charge】\nUnit can move up to 3 spaces in any cardinal\ndirection. (Cannot move through foes, terrain\nthat blocks movement, or effects of skills like\nObstruct. Granted movement treated as\nWarp movement.)"
   },
   {
+    "key": "MSID_H_真狂嵐_NOSKW",
+    "value": "$aAt start of turn, if unit's HP = 100% or if any\nfoe is within 3 columns or 3 rows centered\non unit, grants \"unit can move 1 extra space\n(that turn only; does not stack)\" and【Charge】\nto unit for 1 turn. If number of allies adjacent\nto unit ≤ 1, inflicts Atk/Def-5 on foe during\ncombat, deals damage = 15% of unit's Atk\n(excluding area-of-effect Specials), and if\nunit initiates combat, grants another action\nto unit after combat (once per turn; if a skill\neffect moves unit after combat, this effect\noccurs based on unit's final placement after\nthat movement)."
+  },
+  {
     "key": "MSID_H_真無惨",
     "value": "$aAt start of combat, if foe's HP ≥ 25%, inflicts\nAtk/Spd/Def-4 on foe during combat, deals\ndamage = 25% of unit's Atk (excluding\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 40% during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and also,\nafter combat, grants【Vantage】and【Dodge】\nto unit and inflicts Atk/Spd/Def/Res-6 on target\nand foes within 3 spaces of target through their\nnext actions.\n\n【Vantage】\nIf foe initiates combat, unit can counterattack\nbefore foe's first attack for 1 turn.\n\n【Dodge】\nIf unit's Spd > foe's Spd, reduces damage from\nattacks during combat and from area-of-effect\nSpecials (excluding Røkkr area-of-effect\nSpecials) by percentage = difference between\nstats × 4 (max 40%)."
+  },
+  {
+    "key": "MSID_H_真無惨_NOSKW",
+    "value": "$aAt start of combat, if foe's HP ≥ 25%, inflicts\nAtk/Spd/Def-4 on foe during combat, deals\ndamage = 25% of unit's Atk (excluding\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 40% during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and also,\nafter combat, grants【Vantage】and【Dodge】\nto unit and inflicts Atk/Spd/Def/Res-6 on target\nand foes within 3 spaces of target through their\nnext actions."
   },
   {
     "key": "MSID_H_理の守備隊形",
@@ -1274,6 +1318,10 @@
   {
     "key": "MSID_H_比翼ベレト",
     "value": "$aGrants Def/Res+6, \"reduces damage from area-\nof-effect Specials by 80% (excluding Røkkr\narea-of-effect Specials),\" and【Hexblade】to\nunit and allies within 2 spaces of unit for 1 turn.\nGrants the following effect to unit for 1 turn:\n\"Neutralizes 'effective against armored' bonuses.\"\n\n【Hexblade】\nCalculates damage using the lower of foe's\nDef or Res during combat for 1 turn (including\ndamage dealt by Specials before combat)."
+  },
+  {
+    "key": "MSID_H_比翼ベレト_NOSKW",
+    "value": "$aGrants Def/Res+6, \"reduces damage from area-\nof-effect Specials by 80% (excluding Røkkr\narea-of-effect Specials),\" and【Hexblade】to\nunit and allies within 2 spaces of unit for 1 turn.\nGrants the following effect to unit for 1 turn:\n\"Neutralizes 'effective against armored' bonuses.\""
   },
   {
     "key": "MID_CHAPTER_TITLE_CX091",

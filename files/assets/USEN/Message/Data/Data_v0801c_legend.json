@@ -1492,6 +1492,10 @@
     "value": "$aBoosts Special damage by 40% of unit's Spd.\nNeutralizes effects that inflict \"Special cooldown\ncharge -X\" on unit during combat. If unit's\nSpecial is ready or has triggered during this\ncombat,【Potent Follow X%】has\ntriggered, and X ≤ 99, then X = 100. If unit's\nor foe's Special is ready or triggered before\nor during this combat, reduces damage from\nfoe's next attack by 40% (once per combat;\nexcluding area-of-effect Specials).\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
   },
   {
+    "key": "MSID_H_スターラッシュ_NOSKW",
+    "value": "$aBoosts Special damage by 40% of unit's Spd.\nNeutralizes effects that inflict \"Special cooldown\ncharge -X\" on unit during combat. If unit's\nSpecial is ready or has triggered during this\ncombat,【Potent Follow X%】has\ntriggered, and X ≤ 99, then X = 100. If unit's\nor foe's Special is ready or triggered before\nor during this combat, reduces damage from\nfoe's next attack by 40% (once per combat;\nexcluding area-of-effect Specials)."
+  },
+  {
     "key": "MSID_H_攻撃速さの竜眼1",
     "value": "If foe initiates combat or foe's HP ≥ 75%\nat start of combat, grants Atk/Spd+2 to unit\nduring combat, and also, if foe's attack can\ntrigger foe's Special and unit's Res ≥ foe's\nRes+15 during combat, inflicts Special\ncooldown count+1 on foe before foe's first\nattack. (Cannot exceed the foe's maximum\nSpecial cooldown.)"
   },
@@ -1512,24 +1516,48 @@
     "value": "$aInflicts Atk/Spd-4 on foe during combat. If\na Rally Assist skill is used by unit or targets\nunit, inflicts Atk/Spd-6,【Guard】,\n【Discord】, and【Schism】on foes\nin cardinal directions of unit and target\nthrough their next actions.\n\n【Guard】\nInflicts Special cooldown charge -1 on target\nper attack during combat through its next action.\n(Only highest value applied. Does not stack.)\n\n【Discord】\nInflicts Atk/Spd/Def/Res-X on unit during\ncombat (X = 2 + number of allies within\n2 spaces of unit; max 5) through its\nnext action.\n\n【Schism】\nNeutralizes Triangle Attack, Dual Strike, and\nPathfinder effects active on unit through\nunit's next action. Unit is excluded from ally\nTriangle Attack and Dual Strike effects\ncalculated using numbers of allies. When this\nstatus (Schism) is neutralized, Triangle Attack,\nDual Strike, and Pathfinder effects are also\nneutralized."
   },
   {
+    "key": "MSID_H_攻撃速さの大共謀4_NOSKW",
+    "value": "$aInflicts Atk/Spd-4 on foe during combat. If\na Rally Assist skill is used by unit or targets\nunit, inflicts Atk/Spd-6,【Guard】,\n【Discord】, and【Schism】on foes\nin cardinal directions of unit and target\nthrough their next actions."
+  },
+  {
     "key": "MSID_H_神速1",
     "value": "$aIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 50; otherwise, X = 10).\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_神速1_NOSKW",
+    "value": "$aIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 50; otherwise, X = 10)."
   },
   {
     "key": "MSID_H_神速2",
     "value": "$aReduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 10%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 60; otherwise, X = 20).\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
   },
   {
+    "key": "MSID_H_神速2_NOSKW",
+    "value": "$aReduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 10%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 60; otherwise, X = 20)."
+  },
+  {
     "key": "MSID_H_神速3",
     "value": "$aReduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 20%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 70; otherwise, X = 30).\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_神速3_NOSKW",
+    "value": "$aReduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 20%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 70; otherwise, X = 30)."
   },
   {
     "key": "MSID_H_神速4",
     "value": "$aInflicts Spd/Def-4 on foe during combat and\nreduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 30%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 80; otherwise, X = 40).\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
   },
   {
+    "key": "MSID_H_神速4_NOSKW",
+    "value": "$aInflicts Spd/Def-4 on foe during combat and\nreduces damage from attacks during combat\nand from area-of-effect Specials (excluding\nRøkkr area-of-effect Specials) by 30%.\nIf decreasing the Spd difference necessary to\nmake a follow-up attack by 25 would allow\nunit to trigger a follow-up attack (excluding\nguaranteed or prevented follow-ups),\ntriggers【Potent Follow X%】during\ncombat (if unit cannot perform follow-up\nand attack twice, X = 80; otherwise, X = 40)."
+  },
+  {
     "key": "MSID_H_リトスの神竜王",
     "value": "$aAfter unit acts (if Canto triggers, after Canto),\napplies【Divine Vein (Stone)】to spaces within\n5 rows and 5 columns centered on unit for\n1 turn. Grants Atk/Spd/Def/Res+4 to allies\nwithin 5 rows and 5 columns centered on unit\nand neutralizes effects that inflict \"Special\ncooldown charge -X\" on those allies during\ncombat. If there is an ally within 5 rows\nand 5 columns centered on unit, grants\nAtk/Spd/Def/Res+4 to unit, reduces damage\nfrom attacks by 30% (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit\nduring combat.\n\n【Divine Vein (Stone)】\nApplies the following effects on space for unit\nand allies: Grants Def/Res+6 during combat,\nreduces damage from foe's Specials by 10\nduring combat (excluding area-of-effect\nSpecials), and reduces damage from\narea-of-effect Specials by 50% (excluding\nRøkkr area-of-effect Specials). (Divine Vein\neffects do not stack; replaces any existing\nDivine Vein effect; Divine Vein effects applied\nsimultaneously cancel each other out. Does not\ncount as defensive terrain.)"
+  },
+  {
+    "key": "MSID_H_リトスの神竜王_NOSKW",
+    "value": "$aAfter unit acts (if Canto triggers, after Canto),\napplies【Divine Vein (Stone)】to spaces within\n5 rows and 5 columns centered on unit for\n1 turn. Grants Atk/Spd/Def/Res+4 to allies\nwithin 5 rows and 5 columns centered on unit\nand neutralizes effects that inflict \"Special\ncooldown charge -X\" on those allies during\ncombat. If there is an ally within 5 rows\nand 5 columns centered on unit, grants\nAtk/Spd/Def/Res+4 to unit, reduces damage\nfrom attacks by 30% (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit\nduring combat."
   },
   {
     "key": "MSID_H_紋章マルス",

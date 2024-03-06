@@ -1068,12 +1068,20 @@
     "value": "$aAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe or inflict\n\"Special cooldown charge -X\" on unit\nduring combat, and also, if unit's attack\ncan trigger unit's Special and unit's\nSpd+Res ≥ foe's Spd+Res-5 during combat\n(excluding effects from【Phantom】), grants\nSpecial cooldown count-2 to unit before\nunit's first attack during combat. At start\nof combat, if unit's HP ≥ 25%, restores 7 HP\nto unit after combat.\n\n【Phantom】\nIf a skill effect compares unit's stats to a foe's\nstats, treats unit's stats as if granted +X."
   },
   {
+    "key": "MSID_H_穢れなき白槍R_NOSKW",
+    "value": "$aAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe or inflict\n\"Special cooldown charge -X\" on unit\nduring combat, and also, if unit's attack\ncan trigger unit's Special and unit's\nSpd+Res ≥ foe's Spd+Res-5 during combat\n(excluding effects from【Phantom】), grants\nSpecial cooldown count-2 to unit before\nunit's first attack during combat. At start\nof combat, if unit's HP ≥ 25%, restores 7 HP\nto unit after combat."
+  },
+  {
     "key": "MSID_H_リュングヘイズR",
     "value": "At start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit, neutralizes\neffects that guarantee foe's follow-up attacks\nand effects that prevent unit's follow-up\nattacks, and deals damage = 20% of unit's\nSpd (excluding area-of-effect Specials)\nduring combat."
   },
   {
     "key": "MSID_H_フェザーソードR",
     "value": "$aEnables【Canto (２)】.\n\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+4 to unit, grants bonus to\nunit's Atk/Spd = number of allies within 3\nspaces × 3 (max 6), and reduces damage\nfrom foe's first attack by 40% during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes).\n\n【Canto (２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move ２ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than ２ space(s).)"
+  },
+  {
+    "key": "MSID_H_フェザーソードR_NOSKW",
+    "value": "$aEnables【Canto (２)】.\n\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+4 to unit, grants bonus to\nunit's Atk/Spd = number of allies within 3\nspaces × 3 (max 6), and reduces damage\nfrom foe's first attack by 40% during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes)."
   },
   {
     "key": "MSID_H_グルグラントR",
@@ -1094,6 +1102,10 @@
   {
     "key": "MSID_H_こわいゆめ・神",
     "value": "$aGrants another action to target ally. Inflicts\nAtk/Spd/Def/Res-5,【Guard】, and【Discord】\non foes in cardinal directions of unit and\ntarget ally through their next actions. (Cannot\ntarget an ally with Sing or Dance. This skill\ntreated as Sing or Dance.)\n\n【Guard】\nInflicts Special cooldown charge -1 on target\nper attack during combat through its next action.\n(Only highest value applied. Does not stack.)\n\n【Discord】\nInflicts Atk/Spd/Def/Res-X on unit during\ncombat (X = 2 + number of allies within\n2 spaces of unit; max 5) through its\nnext action."
+  },
+  {
+    "key": "MSID_H_こわいゆめ・神_NOSKW",
+    "value": "$aGrants another action to target ally. Inflicts\nAtk/Spd/Def/Res-5,【Guard】, and【Discord】\non foes in cardinal directions of unit and\ntarget ally through their next actions. (Cannot\ntarget an ally with Sing or Dance. This skill\ntreated as Sing or Dance.)"
   },
   {
     "key": "MSID_H_魔弾・神",
@@ -1122,6 +1134,10 @@
   {
     "key": "MSID_H_儚く優しい心の器",
     "value": "$aEnables【Canto (１)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25%, deals\ndamage to foe = X% of foe's Atk as combat\nbegins (if unit has weapon-triangle advantage\nor if unit's Res > foe's Res, X = 40; otherwise,\nX = 20; activates only when unit can attack in\ncombat; effects that reduce damage \"during\ncombat\" do not apply; will not reduce foe's\nHP below 1), grants Atk/Def/Res+5 to unit\nduring combat, grants bonus to unit's\nAtk/Def/Res during combat = 20% of unit's\nRes at start of combat, and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials).\n\n【Canto (１)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move １ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than １ space(s).)"
+  },
+  {
+    "key": "MSID_H_儚く優しい心の器_NOSKW",
+    "value": "$aEnables【Canto (１)】.\n\nAccelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP ≥ 25%, deals\ndamage to foe = X% of foe's Atk as combat\nbegins (if unit has weapon-triangle advantage\nor if unit's Res > foe's Res, X = 40; otherwise,\nX = 20; activates only when unit can attack in\ncombat; effects that reduce damage \"during\ncombat\" do not apply; will not reduce foe's\nHP below 1), grants Atk/Def/Res+5 to unit\nduring combat, grants bonus to unit's\nAtk/Def/Res during combat = 20% of unit's\nRes at start of combat, and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials)."
   },
   {
     "key": "MSID_H_無垢なる愛のブレス",
@@ -1164,8 +1180,16 @@
     "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants Def/Res+6 and【Warp Bubble】to\nunit for 1 turn. At start of turn, grants Def/Res+6\nand【Warp Bubble】to any support partner\nwithin 2 spaces of unit or, if unit is not on a\nteam with unit's support partner, to ally with\nthe highest Def within 2 spaces of unit for\n1 turn. If unit is within 2 spaces of an ally,\ninflicts Special cooldown charge -1 on foe\nper attack during combat (only highest value\napplied; does not stack), and reduces\nthe percentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials). If a foe\nuses bow, dagger, magic, or staff and initiates\ncombat against an ally within 2 spaces of unit,\ntriggers【Savior】on unit. If unit triggers\nSavior, grants Atk/Def/Res+4 during combat.\n\n【Warp Bubble】\nFoes cannot warp into spaces within 4 spaces\nof unit. (Does not affect foes with Pass skills or\nwarp effects from structures, like camps and\nfortresses in Rival Domains.)\n\n【Savior】\nUnit takes ally's space, enters combat in ally's\nplace, and receives all after-combat effects.\n\nSavior will not trigger if ally is on terrain that\nunit cannot move to or if multiple units are able\nto use Savior during the same combat. If Savior\ntriggers, after-combat movement effects do\nnot occur."
   },
   {
+    "key": "MSID_H_闇の樹海の竜神_NOSKW",
+    "value": "$aAt start of turn, if unit is within 2 spaces of an\nally, grants Def/Res+6 and【Warp Bubble】to\nunit for 1 turn. At start of turn, grants Def/Res+6\nand【Warp Bubble】to any support partner\nwithin 2 spaces of unit or, if unit is not on a\nteam with unit's support partner, to ally with\nthe highest Def within 2 spaces of unit for\n1 turn. If unit is within 2 spaces of an ally,\ninflicts Special cooldown charge -1 on foe\nper attack during combat (only highest value\napplied; does not stack), and reduces\nthe percentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials). If a foe\nuses bow, dagger, magic, or staff and initiates\ncombat against an ally within 2 spaces of unit,\ntriggers【Savior】on unit. If unit triggers\nSavior, grants Atk/Def/Res+4 during combat."
+  },
+  {
     "key": "MSID_H_攻撃魔防の奮激4",
     "value": "$aAt start of turn, if number of allies adjacent\nto unit ≤ 2, grants Atk/Res+6 and【Incited】\nto unit for 1 turn. If number of allies adjacent\nto unit ≤ 1, grants Atk/Res+3 to unit\nduring combat.\n\n【Incited】\nIf unit initiates combat, grants bonus to unit's\nAtk/Spd/Def/Res = number of spaces from\nstart position to end position of unit during\ncombat (max 3; that turn only)."
+  },
+  {
+    "key": "MSID_H_攻撃魔防の奮激4_NOSKW",
+    "value": "$aAt start of turn, if number of allies adjacent\nto unit ≤ 2, grants Atk/Res+6 and【Incited】\nto unit for 1 turn. If number of allies adjacent\nto unit ≤ 1, grants Atk/Res+3 to unit\nduring combat."
   },
   {
     "key": "MSID_H_比翼リオン",
@@ -1174,6 +1198,10 @@
   {
     "key": "MSID_H_リュングヘイズ改",
     "value": "$aGrants Spd+3. Enables【Canto (３)】during turns\n1 through 4. If unit initiates combat or is within\n2 spaces of an ally, grants Atk/Spd+6 and\nDef/Res+4 to unit, neutralizes unit's penalties\nto Atk/Spd, and reduces damage from foe's\nfirst attack by 40% during combat (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes).\n\n【Canto (３)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move ３ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than ３ space(s).)"
+  },
+  {
+    "key": "MSID_H_リュングヘイズ改_NOSKW",
+    "value": "$aGrants Spd+3. Enables【Canto (３)】during turns\n1 through 4. If unit initiates combat or is within\n2 spaces of an ally, grants Atk/Spd+6 and\nDef/Res+4 to unit, neutralizes unit's penalties\nto Atk/Spd, and reduces damage from foe's\nfirst attack by 40% during combat (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes)."
   },
   {
     "key": "MSID_H_フェザーソード改",
@@ -1190,6 +1218,10 @@
   {
     "key": "MSID_H_被害妄想の弓改",
     "value": "$aEffective against flying foes. Grants Atk+3.\nAt start of combat, if unit's HP ≤ 99% or\nif【Penalty】is active on unit, grants\nAtk/Spd+5 to unit during combat and unit\nmakes a guaranteed follow-up attack, and\nalso, if unit initiates combat, unit can make a\nfollow-up attack before foe can counterattack.\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
+  },
+  {
+    "key": "MSID_H_被害妄想の弓改_NOSKW",
+    "value": "$aEffective against flying foes. Grants Atk+3.\nAt start of combat, if unit's HP ≤ 99% or\nif【Penalty】is active on unit, grants\nAtk/Spd+5 to unit during combat and unit\nmakes a guaranteed follow-up attack, and\nalso, if unit initiates combat, unit can make a\nfollow-up attack before foe can counterattack."
   },
   {
     "key": "MSID_H_不幸の花改",

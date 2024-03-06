@@ -500,12 +500,20 @@
     "value": "$aAt start of turn, inflicts Spd/Def-6\nand【Discord】on closest foes within\n5 spaces and any foe within 2 spaces\nof those foes through their next actions.\nAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd+5 and Special cooldown\ncharge +1 to unit per attack during combat\n(only highest value applied; does not stack),\nand after combat, if unit initiated combat\nand attacked, deals 7 damage to target and\nfoes within 2 spaces of target.\n\n【Discord】\nInflicts Atk/Spd/Def/Res-X on unit during\ncombat (X = 2 + number of allies within\n2 spaces of unit; max 5) through its\nnext action."
   },
   {
+    "key": "MSID_H_影身の暗器R_NOSKW",
+    "value": "$aAt start of turn, inflicts Spd/Def-6\nand【Discord】on closest foes within\n5 spaces and any foe within 2 spaces\nof those foes through their next actions.\nAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd+5 and Special cooldown\ncharge +1 to unit per attack during combat\n(only highest value applied; does not stack),\nand after combat, if unit initiated combat\nand attacked, deals 7 damage to target and\nfoes within 2 spaces of target."
+  },
+  {
     "key": "MSID_H_業炎フォルブレイズR",
     "value": "If unit initiates combat or is within 2 spaces of\nan ally, grants Atk/Res+5 to unit during combat,\nunit makes a guaranteed follow-up attack,\ndeals damage = 15% of unit's Res (including\nwhen dealing damage with a Special triggered\nbefore combat), and reduces damage from\nfoe's first attack during combat by 30%."
   },
   {
     "key": "MSID_H_幻影ロッドR",
     "value": "$aAt start of turn, inflicts Atk/Res-6\nand【Sabotage】on foes within 3 columns\nor 3 rows centered on unit through their\nnext actions. If foe initiates combat or if\nfoe's HP ≥ 75% at start of combat, inflicts\nAtk/Res-5 on foe during combat, deals\ndamage = 15% of unit's Atk (excluding\narea-of-effect Specials), and restores\n7 HP to unit after combat.\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit through its next action. Calculates\neach stat penalty independently."
+  },
+  {
+    "key": "MSID_H_幻影ロッドR_NOSKW",
+    "value": "$aAt start of turn, inflicts Atk/Res-6\nand【Sabotage】on foes within 3 columns\nor 3 rows centered on unit through their\nnext actions. If foe initiates combat or if\nfoe's HP ≥ 75% at start of combat, inflicts\nAtk/Res-5 on foe during combat, deals\ndamage = 15% of unit's Atk (excluding\narea-of-effect Specials), and restores\n7 HP to unit after combat."
   },
   {
     "key": "MSID_H_予兆の風R",
@@ -524,16 +532,32 @@
     "value": "$aBefore combat this unit initiates, foes\nin an area near target take damage equal to\n(unit's Atk - foe's Def or Res). After combat,\nif unit's Special triggered, grants【Canto (１)】\nto unit and allies within 3 rows or 3 columns\ncentered on unit for 1 turn (granted even\nif unit's HP reaches 0).\n\n【Canto (１)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move １ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than １ space(s).)"
   },
   {
+    "key": "MSID_H_天与の魔道・承_NOSKW",
+    "value": "$aBefore combat this unit initiates, foes\nin an area near target take damage equal to\n(unit's Atk - foe's Def or Res). After combat,\nif unit's Special triggered, grants【Canto (１)】\nto unit and allies within 3 rows or 3 columns\ncentered on unit for 1 turn (granted even\nif unit's HP reaches 0)."
+  },
+  {
     "key": "MSID_H_王者の刃",
     "value": "$aGrants Spd+3. At start of turn, if unit is within\n2 spaces of an ally, grants Atk/Spd+6 and the\nfollowing status to unit and allies within 2\nspaces for 1 turn: \"neutralizes penalties on\nunit during combat.\" If unit initiates combat,\nunit attacks twice. If unit initiates combat or\nif unit is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+5 to unit and grants Special\ncooldown charge +1 to unit per attack during\ncombat (only highest value applied; does\nnot stack).\n\nEffect:【Dagger ７】\n\n【Dagger ７】\nAfter combat, if unit attacked, inflicts\nDef/Res-７ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_王者の刃_NOSKW",
+    "value": "$aGrants Spd+3. At start of turn, if unit is within\n2 spaces of an ally, grants Atk/Spd+6 and the\nfollowing status to unit and allies within 2\nspaces for 1 turn: \"neutralizes penalties on\nunit during combat.\" If unit initiates combat,\nunit attacks twice. If unit initiates combat or\nif unit is within 2 spaces of an ally, grants\nAtk/Spd/Def/Res+5 to unit and grants Special\ncooldown charge +1 to unit per attack during\ncombat (only highest value applied; does\nnot stack).\n\nEffect:【Dagger ７】"
   },
   {
     "key": "MSID_H_攻防の暗器",
     "value": "$aAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+5 during combat and reduces damage\nfrom foe's first attack during combat by 30%.\n\nEffect:【Dagger ５】\n\n【Dagger ５】\nAfter combat, if unit attacked, inflicts\nDef/Res-５ on target and foes within\n2 spaces of target through their next actions."
   },
   {
+    "key": "MSID_H_攻防の暗器_NOSKW",
+    "value": "$aAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+5 during combat and reduces damage\nfrom foe's first attack during combat by 30%.\n\nEffect:【Dagger ５】"
+  },
+  {
     "key": "MSID_H_攻防の暗器＋",
     "value": "$aAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+5 during combat and reduces damage\nfrom foe's first attack during combat by 30%.\n\nEffect:【Dagger ７】\n\n【Dagger ７】\nAfter combat, if unit attacked, inflicts\nDef/Res-７ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_攻防の暗器＋_NOSKW",
+    "value": "$aAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+5 during combat and reduces damage\nfrom foe's first attack during combat by 30%.\n\nEffect:【Dagger ７】"
   },
   {
     "key": "MSID_H_魔器・雷公の書",
@@ -544,12 +568,24 @@
     "value": "$aFoe cannot counterattack. Accelerates Special\ntrigger (cooldown count-1; max cooldown count\nvalue cannot be reduced below 1). At start of\nturn, grants the【Bonus】effects active\non the foe with the most【Bonus】effects\nactive (excluding stat bonuses) to unit and\nallies within 2 spaces for 1 turn, and\nneutralizes【Bonus】effects active on\nthat foe (excluding bonuses granted at the start\nof the same turn). Inflicts Atk/Spd/Def/Res-4 on\nfoes within 3 columns or 3 rows centered\non unit during combat. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd+6 to unit\nduring combat, and deals damage = number\nof【Bonus】effects active on unit,\nexcluding stat bonuses, × 5 (max 20;\nexcluding area-of-effect Specials).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
   },
   {
+    "key": "MSID_H_シーフ_NOSKW",
+    "value": "$aFoe cannot counterattack. Accelerates Special\ntrigger (cooldown count-1; max cooldown count\nvalue cannot be reduced below 1). At start of\nturn, grants the【Bonus】effects active\non the foe with the most【Bonus】effects\nactive (excluding stat bonuses) to unit and\nallies within 2 spaces for 1 turn, and\nneutralizes【Bonus】effects active on\nthat foe (excluding bonuses granted at the start\nof the same turn). Inflicts Atk/Spd/Def/Res-4 on\nfoes within 3 columns or 3 rows centered\non unit during combat. At start of combat,\nif unit's HP ≥ 25%, grants Atk/Spd+6 to unit\nduring combat, and deals damage = number\nof【Bonus】effects active on unit,\nexcluding stat bonuses, × 5 (max 20;\nexcluding area-of-effect Specials)."
+  },
+  {
     "key": "MSID_H_リペア",
     "value": "$aCalculates damage from staff like other weapons.\nAccelerates Special trigger (cooldown count-1;\nmax cooldown count value cannot be reduced\nbelow 1). At start of turn, neutralizes\nany【Penalty】on unit and allies\nwithin 2 spaces of unit (excluding penalties\ninflicted at start of turn) and restores 20 HP\nto those units. Grants Atk/Spd/Def/Res+4 to\nallies within 2 spaces during combat. At start\nof combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit during combat\nand unit makes a guaranteed follow-up attack.\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
   },
   {
+    "key": "MSID_H_リペア_NOSKW",
+    "value": "$aCalculates damage from staff like other weapons.\nAccelerates Special trigger (cooldown count-1;\nmax cooldown count value cannot be reduced\nbelow 1). At start of turn, neutralizes\nany【Penalty】on unit and allies\nwithin 2 spaces of unit (excluding penalties\ninflicted at start of turn) and restores 20 HP\nto those units. Grants Atk/Spd/Def/Res+4 to\nallies within 2 spaces during combat. At start\nof combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit during combat\nand unit makes a guaranteed follow-up attack."
+  },
+  {
     "key": "MSID_H_刃の葬り手の爪",
     "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7,【Exposure】, and a penalty that\nneutralizes non-Special \"if foe would reduce\nunit's HP to 0, unit survives with 1 HP\" effects\non nearest foe and foes within 2 spaces of\nthem through their next actions. At start\nof combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit and inflicts\nAtk/Spd/Def-X on foe (X = number of foes\nwithin 2 spaces of target with Bonuses or\nPenalties active on them, excluding target, × 3,\n+ 4; max 10), deals Y damage (Y = total number\nof Bonuses and Penalties active on foe and any\nfoe within 2 spaces of foe, excluding stat\nbonuses and stat penalties, × 3; excluding when\ndealing damage with an area-of-effect Special),\nreduces damage from attacks by 40%, and\nreduces the percentage of foe's non-Special\n\"reduce damage by X%\" skills by 50% during\ncombat. At start of turn, if unit is adjacent to\nonly beast or dragon allies or if unit is not\nadjacent to any ally, unit transforms (otherwise,\nunit reverts). If unit transforms, unit can move\n1 extra space (that turn only; does not stack)\nand grants Atk+2 to unit.\n\n【Exposure】\nFoe's attacks deal +10 damage."
+  },
+  {
+    "key": "MSID_H_刃の葬り手の爪_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7,【Exposure】, and a penalty that\nneutralizes non-Special \"if foe would reduce\nunit's HP to 0, unit survives with 1 HP\" effects\non nearest foe and foes within 2 spaces of\nthem through their next actions. At start\nof combat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+5 to unit and inflicts\nAtk/Spd/Def-X on foe (X = number of foes\nwithin 2 spaces of target with Bonuses or\nPenalties active on them, excluding target, × 3,\n+ 4; max 10), deals Y damage (Y = total number\nof Bonuses and Penalties active on foe and any\nfoe within 2 spaces of foe, excluding stat\nbonuses and stat penalties, × 3; excluding when\ndealing damage with an area-of-effect Special),\nreduces damage from attacks by 40%, and\nreduces the percentage of foe's non-Special\n\"reduce damage by X%\" skills by 50% during\ncombat. At start of turn, if unit is adjacent to\nonly beast or dragon allies or if unit is not\nadjacent to any ally, unit transforms (otherwise,\nunit reverts). If unit transforms, unit can move\n1 extra space (that turn only; does not stack)\nand grants Atk+2 to unit."
   },
   {
     "key": "MSID_H_雷神の右腕",
@@ -564,8 +600,16 @@
     "value": "$aEnables【Canto (Rem.; Min １)】.\nInflicts Spd/Res-4 on foe during combat\nand unit deals +7 damage including when\ndealing damage with a Special triggered\nbefore combat.\n\n【Canto (Rem.; Min １)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = any\nmovement not already used that turn (min １;\nif unit used a movement skill that warped\nthem, its remaining movement is １).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit's remaining\nmovement.)"
   },
   {
+    "key": "MSID_H_速さ魔防の遠影4_NOSKW",
+    "value": "$aEnables【Canto (Rem.; Min １)】.\nInflicts Spd/Res-4 on foe during combat\nand unit deals +7 damage including when\ndealing damage with a Special triggered\nbefore combat."
+  },
+  {
     "key": "MSID_H_攻撃速さの謀策3",
     "value": "$aAt start of player phase or enemy phase, if\nany foes within 3 rows or 3 columns centered\non unit have Res < unit's Res+5, inflicts\nAtk/Spd-7,【Ploy】, and【Exposure】\non those foes through their next actions.\n\n【Ploy】\nNeutralizes【Bonus Doubler】,【Treachery】,\nand【Grand Strategy】effects active on unit\nduring combat through unit's next action.\n\n【Exposure】\nFoe's attacks deal +10 damage.\n\n【Bonus Doubler】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current bonus on each of unit's stats\nfor 1 turn. Calculates each stat bonus\nindependently.\n\n【Treachery】\nUnit deals additional damage = total bonuses\non unit for 1 turn.\n\n【Grand Strategy】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current penalty on each of unit's\nstats × 2 for 1 turn. (Example: if unit has -7\npenalty to Atk, grants Atk+14, for a net bonus\nof Atk+7.) Calculates each stat bonus\nindependently.\n\nUnit's negative effects that last \"through\nunit's next action\" will remain in effect until\nthis status (Grand Strategy) is neutralized."
+  },
+  {
+    "key": "MSID_H_攻撃速さの謀策3_NOSKW",
+    "value": "$aAt start of player phase or enemy phase, if\nany foes within 3 rows or 3 columns centered\non unit have Res < unit's Res+5, inflicts\nAtk/Spd-7,【Ploy】, and【Exposure】\non those foes through their next actions."
   },
   {
     "key": "MSID_H_赤い竜騎士の斧改",
@@ -574,6 +618,10 @@
   {
     "key": "MSID_H_影身の暗器改",
     "value": "$aGrants Spd+3. If unit initiates combat or is\nwithin 2 spaces of an ally, grants Atk/Spd+5 to\nunit during combat and deals damage = 10% of\nunit's Spd (excluding area-of-effect Specials),\nand also, if unit's Spd > foe's Spd or unit is\nwithin 2 spaces of unit's support partner\n(if any), foe cannot counterattack. If unit\ninitiates combat and unit is within 2 spaces\nof support partner, unit and support partner\nswap spaces after combat (if unit is within\n2 spaces of more than one support partner,\nswap does not occur).\n\nEffect:【Dagger ７】\n\n【Dagger ７】\nAfter combat, if unit attacked, inflicts\nDef/Res-７ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_影身の暗器改_NOSKW",
+    "value": "$aGrants Spd+3. If unit initiates combat or is\nwithin 2 spaces of an ally, grants Atk/Spd+5 to\nunit during combat and deals damage = 10% of\nunit's Spd (excluding area-of-effect Specials),\nand also, if unit's Spd > foe's Spd or unit is\nwithin 2 spaces of unit's support partner\n(if any), foe cannot counterattack. If unit\ninitiates combat and unit is within 2 spaces\nof support partner, unit and support partner\nswap spaces after combat (if unit is within\n2 spaces of more than one support partner,\nswap does not occur).\n\nEffect:【Dagger ７】"
   },
   {
     "key": "MSID_H_業炎フォルブレイズ改",
@@ -586,6 +634,10 @@
   {
     "key": "MSID_H_予兆の風改",
     "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes. If【Bonus】\nis active on unit or if unit's HP ≥ 50% at start of\ncombat, grants Atk/Spd+5 to unit during\ncombat, neutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent unit's\nfollow-up attacks during combat, and deals\ndamage = 15% of unit's Spd (excluding\narea-of-effect Specials).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_予兆の風改_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes. If【Bonus】\nis active on unit or if unit's HP ≥ 50% at start of\ncombat, grants Atk/Spd+5 to unit during\ncombat, neutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent unit's\nfollow-up attacks during combat, and deals\ndamage = 15% of unit's Spd (excluding\narea-of-effect Specials)."
   },
   {
     "key": "MSID_H_神祖竜のブレス改",
