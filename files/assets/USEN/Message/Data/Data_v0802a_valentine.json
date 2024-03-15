@@ -1065,7 +1065,7 @@
   },
   {
     "key": "MSID_H_穢れなき白槍R",
-    "value": "$aAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe or inflict\n\"Special cooldown charge -X\" on unit\nduring combat, and also, if unit's attack\ncan trigger unit's Special and unit's\nSpd+Res ≥ foe's Spd+Res-5 during combat\n(excluding effects from【Phantom】), grants\nSpecial cooldown count-2 to unit before\nunit's first attack during combat. At start\nof combat, if unit's HP ≥ 25%, restores 7 HP\nto unit after combat.\n\n【Phantom】\nIf a skill effect compares unit's stats to a foe's\nstats, treats unit's stats as if granted +X."
+    "value": "$aAt start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe or inflict\n\"Special cooldown charge -X\" on unit\nduring combat, and also, if unit's attack\ncan trigger unit's Special and unit's\nSpd+Res ≥ foe's Spd+Res-5 during combat\n(excluding effects from【Phantom】), grants\nSpecial cooldown count-2 to unit before\nunit's first attack during combat. At start\nof combat, if unit's HP ≥ 25%, restores 7 HP\nto unit after combat.\n\n【Phantom】\nIf a skill effect compares unit's stats to foe or\nally stats, treats unit's stats as if granted +X."
   },
   {
     "key": "MSID_H_穢れなき白槍R_NOSKW",

@@ -1481,7 +1481,7 @@
   },
   {
     "key": "MSID_H_英雄王の剣",
-    "value": "Accelerates Special trigger (cooldown count-1).\nEffective against dragon foes. At start of\ncombat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+X to unit (X = 20% of unit's\nSpd at start of combat, + 5), reduces damage\nfrom foe's first attack by 40% (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes), reduces the percentage of\nfoe's non-Special \"reduce damage by X%\" skills\nby 50%, and unit can make a follow-up attack\nbefore foe can counterattack during combat."
+    "value": "Accelerates Special trigger (cooldown count-1).\nEffective against dragon foes. At start of\ncombat, if unit's HP ≥ 25%, grants\nAtk/Spd/Def/Res+X to unit (X = 20% of unit's\nSpd at start of combat, + 5), reduces damage\nfrom foe's first attack by 40% (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes), reduces the percentage of\nfoe's non-Special \"reduce damage by X%\" skills\nby 50%, and unit can make a follow-up attack\nbefore foe's next attack during combat."
   },
   {
     "key": "MSID_H_白き神竜王のブレス",
