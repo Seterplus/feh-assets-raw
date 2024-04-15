@@ -1,0 +1,186 @@
+[
+  {
+    "key": "MID_AUTO_COOP_TITLE",
+    "value": "自動契合度大戰"
+  },
+  {
+    "key": "MID_AUTO_COOP_CLOSED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_AUTO_COOP_SCORE",
+    "value": "得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_BONUS_AUTHORITY",
+    "value": "獎勵出處"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_BONUS_INFO",
+    "value": "$a今天還剩$a0次　得分$a1倍！"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_REWARD_INFO",
+    "value": "$a每日限定１次，首次遊玩時\n可獲得下列報酬。（最多領取$a0次）"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION",
+    "value": "選擇共同戰鬥的夥伴"
+  },
+  {
+    "key": "MID_AUTO_COOP_REWARD_CONFIRM",
+    "value": "檢視報酬"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_DAYS",
+    "value": "$a距離結束還有$a0天"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_HOURS",
+    "value": "$a距離結束還有$a0小時"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_MINUTES",
+    "value": "$a距離結束還有$a0分鐘"
+  },
+  {
+    "key": "MID_AUTO_COOP_REWARD_SCORE",
+    "value": "累計"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_INFO",
+    "value": "請選擇要共同戰鬥的夥伴。"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_STAMINA",
+    "value": "$a消費$a0體力"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_FRIEND",
+    "value": "好友"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_CONFIRM_DIALOG_TEXT",
+    "value": "要和這位玩家共同戰鬥嗎？"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_CONFIRM_DIALOG_OK",
+    "value": "進行占卜"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_INFO",
+    "value": "兩隊隊長的契合度（每次均有可能變動）"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_VALUE_TITLE",
+    "value": "契合度"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_VALUE",
+    "value": "$a$a0％"
+  },
+  {
+    "key": "MID_AUTO_COOP_DIFFICULTY_TITLE",
+    "value": "自動契合度大戰"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_WITHOUT_BONUS",
+    "value": "$a契合度　$a0％"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_INFO_WITH_BONUS",
+    "value": "$a契合度　$a0％\n出擊時我軍全員所有能力＋$a1！"
+  },
+  {
+    "key": "MID_AUTO_COOP_DETAIL_DIALOG_DAILY_REWARD_INFO",
+    "value": "$a每日限定１次，首次遊玩時\n可獲得報酬。（最多領取$a0次）"
+  },
+  {
+    "key": "MID_AUTO_COOP_DETAIL_DIALOG_SCORE",
+    "value": "最高得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_BONUS_REWARD",
+    "value": "每日限定１次遊玩報酬"
+  },
+  {
+    "key": "MID_AUTO_COOP_SCORE_REWARD",
+    "value": "$a累計得分報酬　$a0"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT",
+    "value": "本次結果"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_TELOP",
+    "value": "獲得得分！"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_KILL",
+    "value": "擊敗評價"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_ALIVE",
+    "value": "生存評價"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_AFFINITY",
+    "value": "契合度獎勵"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_DAILY_BONUS",
+    "value": "$a每日限定１次得分$a0倍"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_CURRENT_SCORE",
+    "value": "本次得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_TOTAL_SCORE",
+    "value": "累計得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_DIALOG_END_OF_TERM",
+    "value": "已超過賽季結束時間，\n無法計入本次結果。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_00",
+    "value": "跟那個人的契合度如何……？"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_01",
+    "value": "◆自動契合度大戰◆\n你將與其他玩家\n各自派遣部隊至異界，\n合作執行任務。\n\n獲得的得分將會隨著\n兩部隊的契合度而變化。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_02",
+    "value": "◆選擇共同戰鬥的玩家◆\n將從３位其他玩家中選擇１人，\n並與該玩家的部隊共同戰鬥。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_03",
+    "value": "◆契合度占卜◆\n將會占卜自己與其他玩家\n所派出部隊之間的契合度。\n（純粹只是占卜結果，\n　並不代表英雄的實際想法）\n契合度越高，\n全體英雄在戰鬥中的能力值提升越多。\n此外，也會有額外的得分獎勵。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_04",
+    "value": "◆契合度占卜小提示◆\n本活動將有兩個獎勵出處，\n若來自兩個出處的英雄各有４位，\n在占卜時最容易出現好的結果。\n\n占卜結果也會受當下運氣影響，\n即使是以相同的組合去占卜，\n每次占卜的結果可能也會有所不同。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_05",
+    "value": "◆會戰◆\n將「自動」進行戰鬥。\n\n會依據過關時的結果獲得得分，\n並根據累計得分獲得報酬。\n\n傳承效果於本戰鬥中無效。"
+  },
+  {
+    "key": "MID_CONFIG_HOME_NOTIFICATION_AUTO_COOP",
+    "value": "自動契合度大戰\n城堡通知"
+  },
+  {
+    "key": "MID_HOME_AUTO_COOP_NOTIFICATION",
+    "value": "可獲得每日限定１次遊玩報酬。\n要移動至自動契合度大戰嗎？"
+  },
+  {
+    "key": "MID_HOME_AUTO_COOP_NAVIGATION_JUMP",
+    "value": "前往自動契合度大戰"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202312",
+    "value": "虛無將惡夢……　結"
+  }
+]
