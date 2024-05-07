@@ -1,0 +1,83 @@
+[
+  {
+    "hero_id": "PID_伝承クロム",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇魔器ルミエル",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇ヴェイル",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇ウルスラ",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇ネルガル",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇ロイド",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_双界ワユ",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ディアドラ",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_エメリナ",
+    "active": {
+      "start": "2024-05-14T07:00:00Z",
+      "finish": "2024-05-21T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]
