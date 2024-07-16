@@ -977,11 +977,11 @@
   },
   {
     "key": "MSID_H_マクベスの惑書改",
-    "value": "$aGrants Res+3. At start of odd-numbered turns,\nif any foe's HP ≤ unit's HP-1 and that foe is\nnot adjacent to another foe, inflicts Atk/Spd-6\nand【Guard】on that foe through its next\naction. At start of even-numbered turns, if any\nfoe's HP < unit's HP and that foe is\nadjacent to another foe, inflicts Def/Res-6\nand【Panic】on that foe through its next\naction. At start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit during\ncombat.\n\n【Guard】\nInflicts Special cooldown charge -1 on target\nper attack during combat through its next action.\n(Only highest value applied. Does not stack.)\n\n【Panic】\nConverts bonuses on target into penalties\nthrough its next action."
+    "value": "$aGrants Res+3. At start of odd-numbered turns,\nif any foe's HP < unit's HP and that foe is\nnot adjacent to another foe, inflicts Atk/Spd-6\nand【Guard】on that foe through its next\naction. At start of even-numbered turns, if any\nfoe's HP < unit's HP and that foe is\nadjacent to another foe, inflicts Def/Res-6\nand【Panic】on that foe through its next\naction. At start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit during\ncombat.\n\n【Guard】\nInflicts Special cooldown charge -1 on target\nper attack during combat through its next action.\n(Only highest value applied. Does not stack.)\n\n【Panic】\nConverts bonuses on target into penalties\nthrough its next action."
   },
   {
     "key": "MSID_H_マクベスの惑書改_NOSKW",
-    "value": "$aGrants Res+3. At start of odd-numbered turns,\nif any foe's HP ≤ unit's HP-1 and that foe is\nnot adjacent to another foe, inflicts Atk/Spd-6\nand【Guard】on that foe through its next\naction. At start of even-numbered turns, if any\nfoe's HP < unit's HP and that foe is\nadjacent to another foe, inflicts Def/Res-6\nand【Panic】on that foe through its next\naction. At start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit during\ncombat."
+    "value": "$aGrants Res+3. At start of odd-numbered turns,\nif any foe's HP < unit's HP and that foe is\nnot adjacent to another foe, inflicts Atk/Spd-6\nand【Guard】on that foe through its next\naction. At start of even-numbered turns, if any\nfoe's HP < unit's HP and that foe is\nadjacent to another foe, inflicts Def/Res-6\nand【Panic】on that foe through its next\naction. At start of combat, if unit's HP ≥ 25%,\ngrants Atk/Spd/Def/Res+4 to unit during\ncombat."
   },
   {
     "key": "MID_STAGE_SELECT_SCENARIO_MAIN_PART_8",
