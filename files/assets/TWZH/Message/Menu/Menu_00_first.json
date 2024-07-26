@@ -765,11 +765,11 @@
   },
   {
     "key": "MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING",
-    "value": "縛鎖鬥技場不會耗費對戰權。\n\n只有在每天第一次挑戰時，\n才能取得經驗值、SP及英雄。"
+    "value": "縛鎖鬥技場不會耗費對戰權。\n\n只有在每天第一次挑戰時，\n才能取得經驗值、SP及英雄值。"
   },
   {
     "key": "MID_CHAIN_ARENA_DIALOG_BATTLE_CONFIRM_WARNING_TWICE",
-    "value": "縛鎖鬥技場不會耗費對戰權。\n\n由於今天已重複挑戰，\n因此無法取得經驗值、SP及英雄。"
+    "value": "縛鎖鬥技場不會耗費對戰權。\n\n由於今天已重複挑戰，\n因此無法取得經驗值、SP及英雄值。"
   },
   {
     "key": "MID_CHAIN_ARENA_DIALOG_GIVEUP_TEXT",
