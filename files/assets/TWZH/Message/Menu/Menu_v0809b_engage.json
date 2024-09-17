@@ -1,0 +1,102 @@
+[
+  {
+    "key": "MID_CONFIG_SHOW_TAMER_ACCESSORY",
+    "value": "顯示攜伴飾品"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_05_v0809b",
+    "value": "◆偶像不會繼承的事物◆\n下列的事物會消失。\n\n・突破極限\n・開花擅長、神裝、攜伴之心\n・祝福、聖印、飾品"
+  },
+  {
+    "key": "MID_ITEM_TAMER_SOUL",
+    "value": "攜伴之心"
+  },
+  {
+    "key": "MID_ITEM_HELP_TAMER_SOUL",
+    "value": "用於「賦予攜伴之心」\n使用後的英雄可裝備攜伴飾品，\n使ＨＰ、攻擊、速度、防守、魔防＋１"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202409",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_Title",
+    "value": "瀑布修行"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_Common",
+    "value": "搭檔約了今天一起去瀑布修行！\n身心彷彿也被洗滌得更加敏銳……"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_3",
+    "value": "不知道被什麼直擊了頭部！好痛！！\n似乎修行的火候還不夠……"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_4",
+    "value": "突然被拉開，嚇了一大跳！\n感謝察覺到危險而出手相助的搭檔！"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_5",
+    "value": "是瀑布修行的成果嗎？\n像在跳舞一樣輕鬆地躲過了危機！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202409",
+    "value": "無拘無束的熱沙"
+  },
+  {
+    "key": "MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_03",
+    "value": "◆能量上限獎勵◆\n在能量水瓶達到LV.4時，\n可儲存的能量上限\n將增加至４００。\n（賽季開始時的能量\n　為２５０）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_8",
+    "value": "攜伴"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SELL_USED_TAMER_SOUL_WARNING",
+    "value": "將要送回\n已使用攜伴之心的角色。\n\n確定要送回嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_USED_TAMER_SOUL_WARNING",
+    "value": "將要消費\n已使用攜伴之心的角色。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_USED_TAMER_SOUL_WARNING",
+    "value": "將要消費\n已使用攜伴之心的角色。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_GENERATE_USED_TAMER_SOUL_WARNING",
+    "value": "將要以已使用攜伴之心的角色\n製作秘傳書。\n\n確定要製作秘傳書嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL",
+    "value": "賦予攜伴之心"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_CONFIRM",
+    "value": "要賦予攜伴之心嗎？\n\n被賦予攜伴之心的英雄\n可裝備「攜伴飾品」，\n且使ＨＰ、攻擊、速度、\n防守、魔防＋１。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_CONFIRM_DECIDE",
+    "value": "賦予攜伴之心"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_INFO",
+    "value": "請選擇要賦予攜伴之心的角色。"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_TAMER",
+    "value": "攜伴英雄\n\nＨＰ、攻擊、速度、防守、魔防＋１\n\n對攜伴英雄以外的英雄\n使用「攜伴之心」後，\n其ＨＰ、攻擊、速度、防守、魔防也可＋１，\n並可裝備攜伴飾品"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_00",
+    "value": "◆賦予攜伴之心◆\n賦予攜伴之心後，\n可裝備攜伴飾品，\n且使ＨＰ、攻擊、速度、\n防守、魔防＋１。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_01",
+    "value": "◆對鬥技場登場敵方得分的影響◆\n「賦予攜伴之心」提升的能力值\n並不影響在鬥技場等處\n配對對手的強度以及可獲得的得分。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_02",
+    "value": "◆其他◆\n・能將攜伴之心賦予給\n　攜伴英雄以外的英雄。\n\n・攜伴飾品沒有數量限制，\n　被賦予攜伴之心的複數英雄\n　也能裝備相同種類的攜伴飾品。"
+  }
+]

@@ -13109,7 +13109,7 @@
   },
   {
     "key": "MID_SCF_ギュミル水瓶_HELP",
-    "value": "$aStores up to $a0 Aether. If destroyed in an\nattack, it restores Aether to the raiding party\n(if they win).\nNote: Cannot be removed. Can be destroyed."
+    "value": "$aStores up to $a0 Aether. If destroyed in an\nattack, they restore Aether to the raiding party\n(if they win).\nNote: Cannot be removed. Can be destroyed."
   },
   {
     "key": "MID_SCF_防砦",
@@ -13281,7 +13281,7 @@
   },
   {
     "key": "MID_SCF_落雷の罠A_HELP",
-    "value": "$aIf foe ends movement on this structure's\nspace, deals $a0 damage to target and\nunits within 3 spaces. (Cancels foe's attack or\nAssist skill.)"
+    "value": "$aIf foe ends movement on this structure's\nspace, deals $a0 damage to target and\nunits within 3 spaces. (Cancels foe's attack,\nAssist skill, etc.)"
   },
   {
     "key": "MID_SCF_落雷の罠A_BATTLEHELP",
@@ -13297,7 +13297,7 @@
   },
   {
     "key": "MID_SCF_重圧の罠A_HELP",
-    "value": "$aIf foe ends movement on this structure's\nspace, restricts movement of target and units\nwithin 2 spaces with HP ≤ $a0 to 1 space\nthrough their next actions. (Cancels foe's\nattack and Assist skills.)"
+    "value": "$aIf foe ends movement on this structure's\nspace, restricts movement of target and units\nwithin 2 spaces with HP ≤ $a0 to 1 space\nthrough their next actions. (Cancels foe's\nattack, Assist skill, etc.)"
   },
   {
     "key": "MID_SCF_重圧の罠A_BATTLEHELP",
@@ -20705,7 +20705,7 @@
   },
   {
     "key": "MID_SCF_停止の罠A_HELP",
-    "value": "$aIf foe ends movement on this structure's\nspace and foe's HP ≤ $a0, cancels the\nfoe's attack, Assist skill, etc. and ends that\nfoe's action. (Magic traps cannot be disarmed\nby Disarm Trap skills.)"
+    "value": "$aIf foe ends movement on this structure's\nspace and foe's HP ≤ $a0, cancels foe's\nattack, Assist skill, etc. and ends that foe's\naction. (Magic traps cannot be disarmed by\nDisarm Trap skills.)"
   },
   {
     "key": "MID_SCF_停止の罠A_BATTLEHELP",
