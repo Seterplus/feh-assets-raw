@@ -1,0 +1,42 @@
+[
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202402",
+    "value": "將心意寄託於花"
+  },
+  {
+    "key": "MID_SHOP_SUBSCRIPTION_DIALOG_CEIL_TEXT_V8_2",
+    "value": "在超英雄・W超英雄・\n紋章士/傳承/神階英雄・英雄祭召喚中\n進行４０次召喚後即可「任選召喚」。"
+  },
+  {
+    "key": "MID_SUMMON_CEILING_PICKUP_UNIT_LIST_ONLY_FEHPASS",
+    "value": "加入FEH PASS後，\n即可於以下角色中進行「任選」"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_INHERIT_WARNING_DIABOLOS_SKILL_NO_DISPARITY_LIMIT",
+    "value": "已繼承的魔器無法再次繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_INHERIT_WARNING_RESONATE_SKILL_NO_DISPARITY_LIMIT",
+    "value": "已繼承的響心技能無法再次繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00_v0802",
+    "value": "◆繼承技能◆\n一次最多可繼承\n其他夥伴的５個技能。\n被繼承的夥伴將會消失。\n\n繼承到的技能\n在學習技能之後即可使用。\n（學習所需的ＳＰ是１．５倍）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_03__v0802",
+    "value": "◆注意◆\n繼承需要技能資質的技能時，\n必須學習・繼承指定的技能。\n例如：若想繼承「死線４」，\n必須已學習・繼承\n「死線１」「死線２」「死線３」，\n或同時繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_07_v0802",
+    "value": "◆裝備魔器技能的限制◆\n・除魔器英雄、響心英雄外\n　無法同時裝備\n　魔器及專用技能。\n　（但僅「歌唱」「起舞」「奏樂」\n　　為對象外）\n　（「悠悠搖曳」等為對象內）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_08_v0802",
+    "value": "◆裝備響心技能的限制◆\n・除魔器英雄、響心英雄外\n　無法同時裝備\n　響心技能及專用技能。\n　（但武器技能及\n　　「歌唱」「起舞」「奏樂」\n　　為對象外）\n　（「悠悠搖曳」等為對象內）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_5_HELP2",
+    "value": "請選擇５個要繼承的技能。"
+  }
+]
