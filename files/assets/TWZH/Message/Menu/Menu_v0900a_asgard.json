@@ -1,0 +1,202 @@
+[
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_02_v0900",
+    "value": "◆可成為夥伴的英雄◆\n僅可讓版本「１」～「６」的英雄\n成為夥伴。\n\n自己派遣的英雄、\n阿爾馮斯、夏蓉、安娜\n無法成為夥伴。"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING9",
+    "value": "第９部開頭影片"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A",
+    "value": "為紀念第９部開始，\n已贈送城堡畫面特殊主題\n「天之王國之城」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「天之王國之城」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「天之王國之城」進行變更。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202412",
+    "value": "奧斯提亞的雄風"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65544",
+    "value": "天之王國之城"
+  },
+  {
+    "key": "MID_SCF_防増援魔法陣",
+    "value": "防衛・轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_防増援魔法陣_HELP",
+    "value": "$a增援將於第$a0回合登場\n此設備必須要防衛部隊中有\n擁有「增援欄位」神階效果的神階英雄\n※詳情記載於「飛空城　編組防衛部隊」內的說明"
+  },
+  {
+    "key": "MID_SCF_攻増援魔法陣",
+    "value": "攻擊・轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_攻増援魔法陣_HELP",
+    "value": "$a增援將於第$a0回合登場\n該回合內，增援在行動後可再次行動（僅限１次）\n此設備必須要攻擊部隊中有\n擁有「增援欄位」神階效果的神階英雄\n※詳情記載於「飛空城　編組攻擊部隊」內的說明"
+  },
+  {
+    "key": "MID_SCF_増援魔法陣",
+    "value": "轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_増援魔法陣_HOLIDAYHELP",
+    "value": "召喚增援英雄的魔法陣"
+  },
+  {
+    "key": "MID_SCF_天の国の玉座",
+    "value": "天之王國的寶座"
+  },
+  {
+    "key": "MID_SCF_天の国の玉座_HELP",
+    "value": "飛空城特別活動的物品\n天之王國阿斯嘉特的國王專用的高貴寶座\n底部有尖銳的腳和黑色物體，那是什麼呢？"
+  },
+  {
+    "key": "MID_SCF_天の国の旗",
+    "value": "天之王國的旗幟"
+  },
+  {
+    "key": "MID_SCF_天の国の旗_HELP",
+    "value": "飛空城特別活動的物品\n盧恩等人的國家——天之王國阿斯嘉特的旗幟"
+  },
+  {
+    "key": "MID_SCF_不思議な石板",
+    "value": "不可思議的石板"
+  },
+  {
+    "key": "MID_SCF_不思議な石板_HELP",
+    "value": "飛空城特別活動的物品\n和盧恩帶著的石板有著相同設計\n能感覺到石板中有著不可思議的力量"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_09_v0900a",
+    "value": "◆神階效果２　攻擊部隊特別欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入攻擊部隊\n（含特別欄位、增援欄位），\n即可使用特別欄位。\n\n（詳情請參考下一頁）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_16",
+    "value": "◆神階效果３　攻擊部隊增援欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入攻擊部隊\n（含特別欄位、增援欄位），\n即可使用增援欄位。\n\n能使欄位有效的英雄\n以及不會影響獲得的評價的特點\n與「特別欄位」相同。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_17",
+    "value": "此外，\n根據該神階英雄突破極限的最大次數，\n強化增援英雄的能力值。\n（每＋１相當於神龍之花＋２）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_18",
+    "value": "使用增援欄位\n需要「攻擊・轉移魔法陣」。\n\n「攻擊・轉移魔法陣」\n不會被破壞。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_08_v0900a",
+    "value": "◆神階效果２　防衛部隊特別欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入防衛部隊\n（含特別欄位、增援欄位），\n即可使用特別欄位。\n\n（詳情請參考下一頁）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_16",
+    "value": "◆神階效果３　防衛部隊增援欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入防衛部隊\n（含特別欄位、增援欄位），\n即可使用增援欄位。\n\n能使欄位有效的英雄\n以及不會影響獲得的評價的特點\n與「特別欄位」相同。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_17",
+    "value": "此外，\n根據該神階英雄突破極限的最大次數，\n強化增援英雄的能力值。\n（每＋１相當於神龍之花＋２）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_18",
+    "value": "使用增援欄位\n需要「防衛・轉移魔法陣」。\n\n「防衛・轉移魔法陣」\n不會被破壞。"
+  },
+  {
+    "key": "MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_22_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_14_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_14_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202412",
+    "value": "冬之飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202412",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_BATTLE",
+    "value": "要進行戰鬥嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_TESTPLAY",
+    "value": "要進行模擬戰嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_DISPATCH",
+    "value": "要進行派遣嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_LEGEND_NOT_FOUND",
+    "value": "由於未編組處於現在季節，並擁有\n「攻擊部隊增援欄位」神階效果的\n神階英雄，因此增援欄位目前無效。\n\n（※詳情記載於「飛空城　編組攻擊部隊」\n　　內的說明）"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_BLESSED",
+    "value": "由於編組於增援欄位的英雄\n未滿足以下任一條件，\n因此增援欄位目前無效。\n・處於現在季節的傳承英雄\n・處於現在季節的光、\n　天屬性的神階英雄\n・被賦予與現在季節\n　相同屬性光、天之祝福的英雄"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_FACILITY_NOT_FOUND",
+    "value": "未設置攻擊・轉移魔法陣，\n故編組於攻擊部隊增援欄位的\n英雄無法登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_ORGANIZED",
+    "value": "已設置攻擊・轉移魔法陣，\n但攻擊部隊增援欄位中\n未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_UNABLE",
+    "value": "被編組至增援欄位的英雄\n於本季節中無效。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_BATTLE",
+    "value": "進行戰鬥"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_TESTPLAY",
+    "value": "開始戰鬥"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_DISPATCH",
+    "value": "派遣"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_ONLY_MAGIC_CIRCLE_UNIT_WARNING",
+    "value": "除了增援欄位以外未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT",
+    "value": "要結束編輯地圖嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_LEGEND_NOT_FOUND",
+    "value": "由於未編組處於現在季節，並擁有\n「防衛部隊增援欄位」神階效果的\n神階英雄，因此增援欄位目前無效。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_ORGANIZED",
+    "value": "已設置防衛・轉移魔法陣，\n但防衛部隊增援欄位中\n未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_FACILITY_NOT_FOUND",
+    "value": "未設置防衛・轉移魔法陣，\n故編組於防衛部隊增援欄位的\n英雄無法登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE",
+    "value": "結束"
+  },
+  {
+    "key": "MID_SKYCASTLE_TROOP_REINFORCEMENT",
+    "value": "增援"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "hero_id": "PID_伝承リュール男",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承セリス",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ニーズヘッグ味方",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_レーラズ味方",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器シアチ味方",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器リリーナ",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_エルフィン",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ボールス",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_オージェ",
+    "active": {
+      "start": "2024-12-10T07:00:00Z",
+      "finish": "2024-12-17T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]
