@@ -605,11 +605,11 @@
   },
   {
     "key": "MSID_H_生存本能の弓R",
-    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7 and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nAt start of combat, if unit's HP ≥ 25, grants\nAtk/Spd+6 to unit, neutralizes unit's penalties\nto Atk/Spd, and deals damage = 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials).\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit through its next action. Calculates\neach stat penalty independently."
+    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7 and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+6 to unit, neutralizes unit's penalties\nto Atk/Spd, and deals damage = 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials).\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit through its next action. Calculates\neach stat penalty independently."
   },
   {
     "key": "MSID_H_生存本能の弓R_NOSKW",
-    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7 and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nAt start of combat, if unit's HP ≥ 25, grants\nAtk/Spd+6 to unit, neutralizes unit's penalties\nto Atk/Spd, and deals damage = 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials)."
+    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nSpd/Def-7 and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nAt start of combat, if unit's HP ≥ 25%, grants\nAtk/Spd+6 to unit, neutralizes unit's penalties\nto Atk/Spd, and deals damage = 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials)."
   },
   {
     "key": "MSID_H_アーリアルR",

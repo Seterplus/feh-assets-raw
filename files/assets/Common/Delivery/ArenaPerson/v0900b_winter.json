@@ -1,0 +1,182 @@
+[
+  {
+    "hero_id": "PID_伝承ルフレ男",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承クロード",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ルーン",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_比翼リュール男",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭オルテンシア",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭シェズ女",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭フォデス",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_響心ヘクトル",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ツァイス",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アンナ",
+    "active": {
+      "start": "2024-12-17T07:00:00Z",
+      "finish": "2024-12-24T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承リュール男",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承ファ",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ルーン",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_比翼リュール男",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭オルテンシア",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭シェズ女",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_冬祭フォデス",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_響心ヘクトル",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ツァイス",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アンナ",
+    "active": {
+      "start": "2024-12-24T07:00:00Z",
+      "finish": "2024-12-31T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]
