@@ -3049,7 +3049,7 @@
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_TEXT_IOS",
-    "value": "目前使用的Apple ID以及儲存資料\n並非當初加入FEH PASS時的組合。\n要使用目前的儲存資料\n恢復FEH PASS的使用權嗎？"
+    "value": "目前使用的Apple 帳號以及儲存資料\n並非當初加入FEH PASS時的組合。\n要使用目前的儲存資料\n恢復FEH PASS的使用權嗎？"
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_TEXT_ANDROID",
@@ -3057,7 +3057,7 @@
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_WARNING_IOS",
-    "value": "※如要恢復加入FEH PASS時的\nApple ID與儲存資料的組合，\n請至「常見問題」進行確認。"
+    "value": "※如要恢復加入FEH PASS時的\nApple 帳號與儲存資料的組合，\n請至「常見問題」進行確認。"
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_WARNING_ANDROID",
@@ -3085,7 +3085,7 @@
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_UNSIGNED_IOS",
-    "value": "目前使用的Apple ID\n尚未加入FEH PASS\n因此無法恢復。\n\n關於加入FEH PASS與恢復使用權的詳情，\n請至「常見問題」進行確認。"
+    "value": "目前使用的Apple 帳號\n尚未加入FEH PASS\n因此無法恢復。\n\n關於加入FEH PASS與恢復使用權的詳情，\n請至「常見問題」進行確認。"
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_UNSIGNED_ANDROID",
@@ -6845,7 +6845,7 @@
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_WARNING_CONTINUATION_IOS",
-    "value": "※請事先於「常見問題」\n確認恢復FEH PASS後的\n連續加入期間計算說明。\n\n※如要恢復加入FEH PASS時的\nApple ID與儲存資料的組合，\n請至「常見問題」進行確認。"
+    "value": "※請事先於「常見問題」\n確認恢復FEH PASS後的\n連續加入期間計算說明。\n\n※如要恢復加入FEH PASS時的\nApple 帳號與儲存資料的組合，\n請至「常見問題」進行確認。"
   },
   {
     "key": "MID_SHOP_SUBSCRIPTION_DIALOG_RESTORE_WARNING_CONTINUATION_ANDROID",
