@@ -23742,5 +23742,1293 @@
   {
     "key": "MID_VOTE_TERM_202311_01",
     "value": "過去與未來交匯之時"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_02_v0800",
+    "value": "◆可成為夥伴的英雄◆\n僅可讓版本「１」～「５」的英雄\n成為夥伴。\n\n自己派遣的英雄、\n阿爾馮斯、夏蓉、安娜\n無法成為夥伴。"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING8",
+    "value": "第８部開頭影片"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0800A",
+    "value": "為紀念第８部開始，\n已贈送城堡畫面特殊主題\n「世界樹王國之城」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0800A_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「世界樹王國之城」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0800A_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「世界樹王國之城」進行變更。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202312",
+    "value": "與宣揚的希望同在"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65543",
+    "value": "世界樹王國之城"
+  },
+  {
+    "key": "MID_SCF_世界樹の聖獣の像",
+    "value": "世界樹神獸像"
+  },
+  {
+    "key": "MID_SCF_世界樹の聖獣の像_HELP",
+    "value": "飛空城特別活動的物品\n住在世界樹尤克特拉希爾的神獸像\n光是看著就能感受到一股神秘的療癒之力"
+  },
+  {
+    "key": "MID_SCF_世界樹の門",
+    "value": "世界樹之門"
+  },
+  {
+    "key": "MID_SCF_世界樹の門_HELP",
+    "value": "飛空城特別活動的物品\n世界樹王國尤克特拉希爾中的樹門\n神秘的樹與寂靜的氛圍相輔相成，讓人心靜"
+  },
+  {
+    "key": "MID_SCF_掲示された手配書",
+    "value": "張貼的通緝令"
+  },
+  {
+    "key": "MID_SCF_掲示された手配書_HELP",
+    "value": "飛空城特別活動的物品\n張貼在世界樹王國尤克特拉希爾的通緝令\n是誰為了什麼而張貼的呢……"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202312",
+    "value": "冬之飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202312",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_AUTO_COOP_TITLE",
+    "value": "自動契合度大戰"
+  },
+  {
+    "key": "MID_AUTO_COOP_CLOSED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_AUTO_COOP_SCORE",
+    "value": "得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_BONUS_AUTHORITY",
+    "value": "獎勵出處"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_BONUS_INFO",
+    "value": "$a今天還剩$a0次　得分$a1倍！"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_REWARD_INFO",
+    "value": "$a每日限定１次，首次遊玩時\n可獲得下列報酬。（最多領取$a0次）"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION",
+    "value": "選擇共同戰鬥的夥伴"
+  },
+  {
+    "key": "MID_AUTO_COOP_REWARD_CONFIRM",
+    "value": "檢視報酬"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_DAYS",
+    "value": "$a距離結束還有$a0天"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_HOURS",
+    "value": "$a距離結束還有$a0小時"
+  },
+  {
+    "key": "MID_AUTO_COOP_REMAINING_MINUTES",
+    "value": "$a距離結束還有$a0分鐘"
+  },
+  {
+    "key": "MID_AUTO_COOP_REWARD_SCORE",
+    "value": "累計"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_INFO",
+    "value": "請選擇要共同戰鬥的夥伴。"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_STAMINA",
+    "value": "$a消費$a0體力"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_SELECTION_FRIEND",
+    "value": "好友"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_CONFIRM_DIALOG_TEXT",
+    "value": "要和這位玩家共同戰鬥嗎？"
+  },
+  {
+    "key": "MID_AUTO_COOP_TROOP_CONFIRM_DIALOG_OK",
+    "value": "進行占卜"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_INFO",
+    "value": "兩隊隊長的契合度（每次均有可能變動）"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_VALUE_TITLE",
+    "value": "契合度"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_VALUE",
+    "value": "$a$a0％"
+  },
+  {
+    "key": "MID_AUTO_COOP_DIFFICULTY_TITLE",
+    "value": "自動契合度大戰"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_WITHOUT_BONUS",
+    "value": "$a契合度　$a0％"
+  },
+  {
+    "key": "MID_AUTO_COOP_AFFINITY_INFO_WITH_BONUS",
+    "value": "$a契合度　$a0％\n出擊時我軍全員所有能力＋$a1！"
+  },
+  {
+    "key": "MID_AUTO_COOP_DETAIL_DIALOG_DAILY_REWARD_INFO",
+    "value": "$a每日限定１次，首次遊玩時\n可獲得報酬。（最多領取$a0次）"
+  },
+  {
+    "key": "MID_AUTO_COOP_DETAIL_DIALOG_SCORE",
+    "value": "最高得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_DAILY_BONUS_REWARD",
+    "value": "每日限定１次遊玩報酬"
+  },
+  {
+    "key": "MID_AUTO_COOP_SCORE_REWARD",
+    "value": "$a累計得分報酬　$a0"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT",
+    "value": "本次結果"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_TELOP",
+    "value": "獲得得分！"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_KILL",
+    "value": "擊敗評價"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_ALIVE",
+    "value": "生存評價"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_AFFINITY",
+    "value": "契合度獎勵"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_DAILY_BONUS",
+    "value": "$a每日限定１次得分$a0倍"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_CURRENT_SCORE",
+    "value": "本次得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_RESULT_TOTAL_SCORE",
+    "value": "累計得分"
+  },
+  {
+    "key": "MID_AUTO_COOP_DIALOG_END_OF_TERM",
+    "value": "已超過賽季結束時間，\n無法計入本次結果。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_00",
+    "value": "跟那個人的契合度如何……？"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_01",
+    "value": "◆自動契合度大戰◆\n你將與其他玩家\n各自派遣部隊至異界，\n合作執行任務。\n\n獲得的得分將會隨著\n兩部隊的契合度而變化。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_02",
+    "value": "◆選擇共同戰鬥的玩家◆\n將從３位其他玩家中選擇１人，\n並與該玩家的部隊共同戰鬥。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_03",
+    "value": "◆契合度占卜◆\n將會占卜自己與其他玩家\n所派出部隊之間的契合度。\n（純粹只是占卜結果，\n　並不代表英雄的實際想法）\n契合度越高，\n全體英雄在戰鬥中的能力值提升越多。\n此外，也會有額外的得分獎勵。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_04",
+    "value": "◆契合度占卜小提示◆\n本活動將有兩個獎勵出處，\n若來自兩個出處的英雄各有４位，\n在占卜時最容易出現好的結果。\n\n占卜結果也會受當下運氣影響，\n即使是以相同的組合去占卜，\n每次占卜的結果可能也會有所不同。"
+  },
+  {
+    "key": "MID_AUTOCOOP_HELP_DIALOG_05",
+    "value": "◆會戰◆\n將「自動」進行戰鬥。\n\n會依據過關時的結果獲得得分，\n並根據累計得分獲得報酬。\n\n傳承效果於本戰鬥中無效。"
+  },
+  {
+    "key": "MID_CONFIG_HOME_NOTIFICATION_AUTO_COOP",
+    "value": "自動契合度大戰\n城堡通知"
+  },
+  {
+    "key": "MID_HOME_AUTO_COOP_NOTIFICATION",
+    "value": "可獲得每日限定１次遊玩報酬。\n要移動至自動契合度大戰嗎？"
+  },
+  {
+    "key": "MID_HOME_AUTO_COOP_NAVIGATION_JUMP",
+    "value": "前往自動契合度大戰"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202312",
+    "value": "虛無將惡夢……　結"
+  },
+  {
+    "key": "MID_VOTE_TERM_202312",
+    "value": "那個寶物是我的了！"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202401",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR16_Picnic_Title",
+    "value": "野餐"
+  },
+  {
+    "key": "MID_SPR16_Picnic_Common",
+    "value": "在搭檔的邀請下一同前來野餐！\n對方似乎還幫忙準備了午餐……"
+  },
+  {
+    "key": "MID_SPR16_Picnic_3",
+    "value": "不小心把三明治掉在地上了。\n沒能吃到讓人非常遺憾……"
+  },
+  {
+    "key": "MID_SPR16_Picnic_4",
+    "value": "和搭檔一起吃的三明治特別美味！\n肚子和心靈都得到了滿足。"
+  },
+  {
+    "key": "MID_SPR16_Picnic_5",
+    "value": "超出籃子容量的豐盛款待！\n歡樂派對要開始了！！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202401",
+    "value": "寄託夢想"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202401",
+    "value": "終將交會的道路"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202401R",
+    "value": "復刻・在深淵蠢動的絕望"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202401_2",
+    "value": "理想國度的藍圖"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202402",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_SUM18_Thunder_Title",
+    "value": "打雷"
+  },
+  {
+    "key": "MID_SUM18_Thunder_Common",
+    "value": "突如其來的大雨讓兩人躲在岩蔭下避雨，\n其實兩人有點怕打雷，要保密喔……"
+  },
+  {
+    "key": "MID_SUM18_Thunder_3",
+    "value": "樹木被雷擊中後變得慘不忍睹，\n那強大的威力震懾了兩人！"
+  },
+  {
+    "key": "MID_SUM18_Thunder_4",
+    "value": "雷很幸運地擊中了敵人！！\n兩人覺得是因為平時有做好事才獲得善報！"
+  },
+  {
+    "key": "MID_SUM18_Thunder_5",
+    "value": "兔子跟搭檔都平安無事！這固然可喜可賀，\n但挺身保護兔子的搭檔也很令人感到驕傲。"
+  },
+  {
+    "key": "MID_SCF_７周年ケーキ",
+    "value": "７週年蛋糕"
+  },
+  {
+    "key": "MID_SCF_７周年ケーキ_HELP",
+    "value": "飛空城特別活動的物品\n為了慶祝７週年而製作的巨大蛋糕"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202401",
+    "value": "記念用飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202401",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING_ENGAGED_RESET",
+    "value": "其他角色將與紋章士解除結合。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_SET_LOAD_WARNING_ENGAGED_DUPLICATION",
+    "value": "因會發生重複結合的情況，\n故有角色無法進行結合。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_7",
+    "value": "紋章士"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE",
+    "value": "結合"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP1",
+    "value": "請選擇紋章士英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP2",
+    "value": "請選擇要結合的對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_BEFORE",
+    "value": "變更前"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_AFTER",
+    "value": "變更後"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_CONFIRM",
+    "value": "$a結合後，將根據所選的紋章士英雄\n強化結合對象的奧義，\n並根據紋章士英雄突破極限的次數，\n強化結合對象的能力值。\n要讓$a0與$a1\n結合嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_WARNING",
+    "value": "每位紋章士英雄\n只能與１位英雄結合，\n結合對象隨時可以變更。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_BUTTON_DECIDE",
+    "value": "結合"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_RESET",
+    "value": "$a要讓$a0與$a1\n解除結合嗎？\n"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_BUTTON_RESET",
+    "value": "解除結合"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_DIALOG_SUCCESS",
+    "value": "已變更結合對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_EMPTY",
+    "value": "沒有紋章士英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_00",
+    "value": "與紋章士結合吧"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_01",
+    "value": "◆結合◆\n紋章士英雄能\n與其他英雄結合。\n\n紋章士英雄能\n賦予結合對象特殊的力量。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_02",
+    "value": "◆結合效果１　強化奧義◆\n將強化結合對象的奧義。\n\n強化的內容，\n將根據紋章士英雄有所不同。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_03",
+    "value": "◆結合效果２　提升能力◆\n將根據紋章士英雄突破極限的次數，\n強化結合對象的能力值。\n（每＋１相當於神龍之花＋１）\n\n提升的能力值並不影響在鬥技場等處\n配對對手的強度以及可獲得的得分。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_04",
+    "value": "◆其他◆\n紋章士英雄無法與自己結合。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202401",
+    "value": "對孩子的思念"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202402",
+    "value": "將心意寄託於花"
+  },
+  {
+    "key": "MID_SHOP_SUBSCRIPTION_DIALOG_CEIL_TEXT_V8_2",
+    "value": "在超英雄・W超英雄・\n紋章士/傳承/神階英雄・英雄祭召喚中\n進行４０次召喚後即可「任選召喚」。"
+  },
+  {
+    "key": "MID_SUMMON_CEILING_PICKUP_UNIT_LIST_ONLY_FEHPASS",
+    "value": "加入FEH PASS後，\n即可於以下角色中進行「任選」"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_INHERIT_WARNING_DIABOLOS_SKILL_NO_DISPARITY_LIMIT",
+    "value": "已繼承的魔器無法再次繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_INHERIT_WARNING_RESONATE_SKILL_NO_DISPARITY_LIMIT",
+    "value": "已繼承的響心技能無法再次繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_00_v0802",
+    "value": "◆繼承技能◆\n一次最多可繼承\n其他夥伴的５個技能。\n被繼承的夥伴將會消失。\n\n繼承到的技能\n在學習技能之後即可使用。\n（學習所需的ＳＰ是１．５倍）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_03__v0802",
+    "value": "◆注意◆\n繼承需要技能資質的技能時，\n必須學習・繼承指定的技能。\n例如：若想繼承「死線４」，\n必須已學習・繼承\n「死線１」「死線２」「死線３」，\n或同時繼承。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_07_v0802",
+    "value": "◆裝備魔器技能的限制◆\n・除魔器英雄、響心英雄外\n　無法同時裝備\n　魔器及專用技能。\n　（但僅「歌唱」「起舞」「奏樂」\n　　為對象外）\n　（「悠悠搖曳」等為對象內）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_HELP_DIALOG_08_v0802",
+    "value": "◆裝備響心技能的限制◆\n・除魔器英雄、響心英雄外\n　無法同時裝備\n　響心技能及專用技能。\n　（但武器技能及\n　　「歌唱」「起舞」「奏樂」\n　　為對象外）\n　（「悠悠搖曳」等為對象內）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_5_HELP2",
+    "value": "請選擇５個要繼承的技能。"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202402_01",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_AUT15_Wall_Title",
+    "value": "二續・迷宮陷阱"
+  },
+  {
+    "key": "MID_AUT15_Wall_Common",
+    "value": "兩人在漆黑的迷宮進行探索時，\n發現了在牆壁上的可疑拉桿……！"
+  },
+  {
+    "key": "MID_AUT15_Wall_3",
+    "value": "後來，兩人一點點地推動牆壁，\n在八小時後才成功脫險。幸好有搭檔在……"
+  },
+  {
+    "key": "MID_AUT15_Wall_4",
+    "value": "多虧搭檔的迅速判斷，成功避開了陷阱！\n兩人順利地攻略了迷宮。"
+  },
+  {
+    "key": "MID_AUT15_Wall_5",
+    "value": "這個陷阱……很有趣！！\n兩人盡情地玩著陷阱。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202402",
+    "value": "化雪的睿智"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_7",
+    "value": "玩雪的回憶"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_7",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202403",
+    "value": "國民投票決勝錦標賽"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_SKILL_KEYWORD",
+    "value": "顯示技能用語說明"
+  },
+  {
+    "key": "MID_IDOL_TOWER_HELP_DIALOG_06",
+    "value": "◆強化偶像的機會的獎勵◆\n・到第１３層以上，\n　會選出２個\n　SP有一定程度的技能。\n\n・到第２５層，\n　會選出２個\n　SP較高的技能。"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202403",
+    "value": "名作誕生？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_0",
+    "value": "Heroes・紋章の謎・Echoes"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_1",
+    "value": "聖戦の系譜・トラキア７７６"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_2",
+    "value": "封印の剣・烈火の剣・聖魔の光石"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_3",
+    "value": "Heroes・蒼炎の軌跡・暁の女神"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_4",
+    "value": "覚醒・ｉｆ"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2024_5",
+    "value": "風花雪月・ENGAGE"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202403",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN16_Capsicum_Title",
+    "value": "辣椒"
+  },
+  {
+    "key": "MID_WIN16_Capsicum_Common",
+    "value": "天寒地凍，冷到渾身發抖……\n找到了，就是這個！只要吃了這個……"
+  },
+  {
+    "key": "MID_WIN16_Capsicum_3",
+    "value": "雖然辣椒的辣味漸退，\n但卻比之前更冷了！"
+  },
+  {
+    "key": "MID_WIN16_Capsicum_4",
+    "value": "勉強忍耐了辣椒的辣味！\n兩人的身體暖和了起來。"
+  },
+  {
+    "key": "MID_WIN16_Capsicum_5",
+    "value": "兩人散發出的熱氣將雪融化，\n提前迎來了春天！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202403",
+    "value": "希望燈火的連繫者"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202403R",
+    "value": "復刻・榮耀如礦石"
+  },
+  {
+    "key": "MID_VOTE_TERM_202403_01",
+    "value": "逐二兔者，兩兔皆失"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202404",
+    "value": "年幼的聖王"
+  },
+  {
+    "key": "MID_SKILL_SET_EDIT_HELP_DIALOG_00_v0804",
+    "value": "◆編輯・裝備技能組◆\n每個角色可登錄１０種\n欲裝備的技能・聖印組合。\n\n只要先編輯完成技能組，\n之後即可一次裝備\n登錄的技能・聖印組合。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_DIALOG_WARNING_DIABOLOS",
+    "value": "將會失去１次「特殊繼承」。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_DIALOG_RECONFIRM_WARNING_DIABOLOS",
+    "value": "將會失去１次「特殊繼承」。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_DIALOG_RECONFIRM_WARNING_DIABOLOS",
+    "value": "無法同時裝備已繼承的\n魔器及專用技能（部分技能除外）。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_DIALOG_RECONFIRM_WARNING_RESONATE",
+    "value": "無法同時裝備已繼承的\n響心技能及武器以外的\n專用技能（部分技能除外）。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202404",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR17_Fountain_Title",
+    "value": "相約見面"
+  },
+  {
+    "key": "MID_SPR17_Fountain_Common",
+    "value": "和夥伴約在噴水池前碰面！\n但夥伴似乎還沒來……"
+  },
+  {
+    "key": "MID_SPR17_Fountain_3",
+    "value": "兩人完美地錯過！\n之後也遲遲未能見到彼此……"
+  },
+  {
+    "key": "MID_SPR17_Fountain_4",
+    "value": "噴水池停止了噴水，兩人互相發現了對方！\n四目相交的瞬間，兩人都感到有些害羞……"
+  },
+  {
+    "key": "MID_SPR17_Fountain_5",
+    "value": "水舞表演讓兩人看得入迷，忘了時間……\n托夥伴遲到的福，才能看到精采的表演！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202404",
+    "value": "將決心化為力量"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMITBREAK_WARNING_DIABOLOS_FOR_IDOL",
+    "value": "由於無法將偶像設定為繼承技能的消滅方，\n將會失去魔器英雄的「特殊繼承」。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMITBREAK_WARNING_RESONATE_FOR_IDOL",
+    "value": "由於無法將偶像設定為繼承技能的消滅方，\n將會失去響心英雄的「特殊繼承」。"
+  },
+  {
+    "key": "MID_HERO_TRIAL_HELP_DIALOG_06",
+    "value": "◆突破極限考驗◆\n僅限於擁有版本8.4後\n突破極限的傳承、神階、紋章士英雄時\n才可挑戰的特殊考驗關卡。\n\n比一般的考驗難度更高，\n可獲得６００個「神龍之花」。"
+  },
+  {
+    "key": "MID_STAGE_SELECT_HERO_TRIAL_LIMIT_BREAK",
+    "value": "突破極限考驗"
+  },
+  {
+    "key": "MID_VOTE_TERM_202405",
+    "value": "魔道登峰造極之人"
+  },
+  {
+    "key": "MID_CONFIG_TAP_DELAY_PROTECTION",
+    "value": "防止點觸時的延遲"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202405",
+    "value": "通向末日的門"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202405",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_SUM19_Fireworks_Title",
+    "value": "煙火"
+  },
+  {
+    "key": "MID_SUM19_Fireworks_Common",
+    "value": "祭典的壓軸好戲——\n煙火秀馬上就要開始了！"
+  },
+  {
+    "key": "MID_SUM19_Fireworks_3",
+    "value": "沒想到煙火竟然沒成功綻放……\n滿心期待卻落空，令人有些遺憾……"
+  },
+  {
+    "key": "MID_SUM19_Fireworks_4",
+    "value": "看著愛心造型的煙火，讓人有些害羞！\n一定是煙火把臉頰照紅的吧……"
+  },
+  {
+    "key": "MID_SUM19_Fireworks_5",
+    "value": "壯觀的貓頭鷹造型煙火在夜空中綻放！\n耀眼奪目的光景讓鎮上一片歡聲雷動！！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202405R",
+    "value": "復刻・輪迴的命運之輪"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202405",
+    "value": "今天就坦率一點吧"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_8",
+    "value": "亞斯克王國的野營地"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_8",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202406",
+    "value": "目睹黑暗之人"
+  },
+  {
+    "key": "MID_CONFIG_HOME_NOTIFICATION_COOP_TRIAL",
+    "value": "連戰！共同會戰\n城堡通知"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TITLE",
+    "value": "連戰！共同會戰"
+  },
+  {
+    "key": "MID_COOP_TRIAL_CLOSED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_REWARD_CONFIRM",
+    "value": "檢視報酬"
+  },
+  {
+    "key": "MID_COOP_TRIAL_ORGANIZE_DISPATCH",
+    "value": "設定派遣部隊"
+  },
+  {
+    "key": "MID_COOP_TRIAL_REMAINING_DAYS",
+    "value": "$a距離結束還有$a0天"
+  },
+  {
+    "key": "MID_COOP_TRIAL_REMAINING_HOURS",
+    "value": "$a距離結束還有$a0小時"
+  },
+  {
+    "key": "MID_COOP_TRIAL_REMAINING_MINUTES",
+    "value": "$a距離結束還有$a0分鐘"
+  },
+  {
+    "key": "MID_COOP_TRIAL_FIRST_REWARD_INFO",
+    "value": "首次遊玩時可獲得報酬。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_START_BATTLE",
+    "value": "開始戰鬥"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TOP_INFO",
+    "value": "$a從自己與其他玩家的部隊中選擇英雄，\n一起奮戰到底，打贏$a0連戰吧！"
+  },
+  {
+    "key": "MID_COOP_TRIAL_AUTHORITY_BONUS_TITLE",
+    "value": "獎勵"
+  },
+  {
+    "key": "MID_COOP_TRIAL_AUTHORITY_BONUS",
+    "value": "若編組的部隊中，自己的角色與共同戰鬥的玩家的角色來自相同的出處，\n出擊時ＨＰ＋１０，攻擊、速度、防守、魔防＋４。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_FIRST_REWARD",
+    "value": "首次遊玩報酬"
+  },
+  {
+    "key": "MID_COOP_TRIAL_MAP_REWARD",
+    "value": "$a$a0　過關報酬"
+  },
+  {
+    "key": "MID_COOP_TRIAL_DIALOG_END_OF_TERM",
+    "value": "已超過結束時間，\n無法計入本次結果。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_SELECTION_CAPTION",
+    "value": "請選擇共同戰鬥的玩家。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_SELECTION_WIN_COUNT",
+    "value": "$a過關數 $a0/$a1"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_SELECTION_DECIDE",
+    "value": "選擇部隊"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_CONFIRM_TEXT",
+    "value": "要和這位玩家共同戰鬥嗎？"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_CONFIRM_OK",
+    "value": "進行戰鬥"
+  },
+  {
+    "key": "MID_COOP_TRIAL_SURRENDER",
+    "value": "投降"
+  },
+  {
+    "key": "MID_COOP_TRIAL_SUSPEND",
+    "value": "暫時中斷"
+  },
+  {
+    "key": "MID_COOP_TRIAL_SURRENDER_CONFIRM",
+    "value": "要放棄挑戰連戰！共同會戰，\n棄權投降嗎？"
+  },
+  {
+    "key": "MID_COOP_TRIAL_SURRENDER_CONFIRM_YES",
+    "value": "投降"
+  },
+  {
+    "key": "MID_COOP_TRIAL_SURRENDER_CONFIRM_NO",
+    "value": "重新考慮"
+  },
+  {
+    "key": "MID_COOP_TRIAL_ORGANIZE_DISPATCH_INFO",
+    "value": "請設定要作為援軍派遣出去的部隊。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_ASSIGN_MY_UNITS",
+    "value": "編入自己的英雄"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_RESTRICTION_EMPTY",
+    "value": "・部隊人數不足。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_RESTRICTION_GUEST_COUNT",
+    "value": "・請在部隊裡編組兩位以上\n　共同戰鬥的玩家的英雄。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_RESTRICTION_PERSON_COUNT",
+    "value": "・加入部隊裡的英雄不能重複。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_RESTRICTION_AGAINER_COUNT",
+    "value": "・部隊中最多只能編入１名\n　可使用歌唱或起舞的英雄。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_TROOP_RESTRICTION_GUARDIAN_COUNT",
+    "value": "・部隊中最多只能編入１名\n　可使用守護人的英雄。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_ORGANIZE_INFO",
+    "value": "最多可以編組２位自己的英雄。"
+  },
+  {
+    "key": "MID_COOP_TRIAL_RESULT_TITLE",
+    "value": "本次結果"
+  },
+  {
+    "key": "MID_COOP_TRIAL_FAILED_TERM_END",
+    "value": "無法繼續前進。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_00",
+    "value": "同心協力突破難關吧！"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_01",
+    "value": "◆連戰！共同會戰◆\n從自己的部隊與\n其他玩家的部隊中選擇英雄，\n同心協力挑戰強敵。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_02",
+    "value": "◆選擇共同戰鬥的玩家◆\n將從３位其他玩家中選擇１人，\n並與該玩家的部隊共同戰鬥。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_03",
+    "value": "◆選擇難度◆\n・可選擇難度。\n\n・過關較高的難度後，\n　也會一併獲得\n　較低難度的所有報酬。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_04",
+    "value": "◆編組部隊◆\n・以自己和共同戰鬥的玩家的英雄\n　編組部隊。\n\n・必須編組兩位以上\n　共同戰鬥的玩家的英雄。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_05",
+    "value": "◆編組◆\n・１個部隊中最多只能編入１名\n　持有歌唱或起舞技能的英雄。\n・１個部隊中最多只能編入１名\n　持有守護人技能的英雄。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_06",
+    "value": "◆縛鎖規則◆\n・加入部隊裡的英雄\n　不能重複。\n\n・在連戰中，戰鬥過的英雄\n　無法參與後續地圖的戰鬥。\n（若有複數同樣的英雄時，\n　其中一位已經戰鬥過的話，\n　則其餘英雄皆無法戰鬥。）"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_07",
+    "value": "◆相同出處獎勵◆\n・若編組的部隊中，自己的英雄\n　與共同戰鬥的玩家的英雄\n　來自相同的出處，\n　出擊時可獲得以下獎勵：\n　最高ＨＰ＋１０，\n　攻擊、速度、防守、魔防＋４。"
+  },
+  {
+    "key": "MID_COOPTRIAL_HELP_DIALOG_08",
+    "value": "◆其他◆\n・傳承英雄、神階英雄的\n　季節效果無效。\n・無法使用連翼或雙界技能。\n・無法獲得經驗值和ＳＰ。\n・無法使用光之加護。"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING8_2",
+    "value": "第８部後半段開頭影片"
+  },
+  {
+    "key": "MID_HOME_COOP_TRIAL_NOTIFICATION",
+    "value": "可獲得首次遊玩報酬。\n要移動至連戰！共同會戰嗎？"
+  },
+  {
+    "key": "MID_HOME_COOP_TRIAL_NAVIGATION_JUMP",
+    "value": "前往連戰！共同會戰"
+  },
+  {
+    "key": "MID_IDOL_TICKET_HELP_DIALOG_05_v0806",
+    "value": "◆偶像的限制◆\n・偶像無法設定為\n　繼承技能、突破極限時的消滅方。\n（也無法使用於\n　魔器、響心英雄等的特殊繼承）\n・偶像無法轉換為秘傳書。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202406",
+    "value": "破曉照耀的未來"
+  },
+  {
+    "key": "MID_SCF_K0018",
+    "value": "光之王國之城"
+  },
+  {
+    "key": "MID_SCF_K0018_Ex",
+    "value": "特徵：防禦地形＋林地"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202406",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_AUT16_FallenTree_Title",
+    "value": "路樹倒塌"
+  },
+  {
+    "key": "MID_AUT16_FallenTree_Common",
+    "value": "倒塌的巨樹堵住了道路……\n得想想辦法才行！！"
+  },
+  {
+    "key": "MID_AUT16_FallenTree_3",
+    "value": "順利把倒塌的樹處理掉了！\n不過兩人都筋疲力盡，快走不動了……"
+  },
+  {
+    "key": "MID_AUT16_FallenTree_4",
+    "value": "夥伴用餘下的木頭做了隻小鳥當禮物！\n被夥伴不為人知的才藝給深深打動了！"
+  },
+  {
+    "key": "MID_AUT16_FallenTree_5",
+    "value": "什麼！居然用倒塌的樹做了菲的巨大雕像！！\n做得太好了，兩人加……一鳥都非常開心！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202406",
+    "value": "盛夏贈禮"
+  },
+  {
+    "key": "MID_VOTE_TERM_202406_01",
+    "value": "劍術高手們"
+  },
+  {
+    "key": "MID_OCCUPATION_RECOLLECTION_TITLE_202407",
+    "value": "雷伊等人　１"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202407",
+    "value": "過去的王、未來的女王　１"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202407_1",
+    "value": "第５部前半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202407_2",
+    "value": "第５部後半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202407_3",
+    "value": "第５部結局"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_SET_EDIT_HELP5",
+    "value": "請選擇要編入技能組中的紋章士英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_SET_EDIT_SELECT_ENGAGE",
+    "value": "選擇紋章士英雄"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202407",
+    "value": "變強的決心"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202407",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN17_UnderRock_Title",
+    "value": "岩石下有什麼？"
+  },
+  {
+    "key": "MID_WIN17_UnderRock_Common",
+    "value": "岩石下方傳來了聲響……\n得趕快挪開岩石確認一下才行！！"
+  },
+  {
+    "key": "MID_WIN17_UnderRock_3",
+    "value": "敵人自岩石下竄出！！趕快追上夥伴吧！\n……這絕對不是逃跑……不是喔！！！"
+  },
+  {
+    "key": "MID_WIN17_UnderRock_4",
+    "value": "成功救出了被困的旅人！\n之後將旅人平安送回村子了。"
+  },
+  {
+    "key": "MID_WIN17_UnderRock_5",
+    "value": "原來是有動物被困在底下！\n被纏著想一起玩，動彈不得……"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202407R",
+    "value": "復刻・夢境盡頭的光"
+  },
+  {
+    "key": "MID_SCF_ビーチとフェー",
+    "value": "海灘與菲"
+  },
+  {
+    "key": "MID_SCF_ビーチとフェー_HELP",
+    "value": "飛空城特別活動的物品\n菲在夏日海灘上愉快享受假期的雕像\n聽說牠伸出雙腳放鬆的模樣能讓人們展露笑容"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202408",
+    "value": "記念用飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202408",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202408",
+    "value": "天氣炎熱才更需要清爽一下！"
+  },
+  {
+    "key": "MID_JOURNEY_HELP_DIALOG_03_03_v0808",
+    "value": "◆任選回憶活動◆\n若要解鎖旅行的回憶，\n需消費「日記的碎片」×１０。\n\n在舉辦期間內最多可解鎖\n６次旅行的回憶。"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202408",
+    "value": "過去的王、未來的女王　２"
+  },
+  {
+    "key": "MID_CAPABILITY_LARGE_VESSEL",
+    "value": "大器"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202408",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR18_Alone_Title",
+    "value": "獨處時光"
+  },
+  {
+    "key": "MID_SPR18_Alone_Common",
+    "value": "深夜裡夥伴悄悄地一個人外出，\n這麼晚了，是有什麼事呢……"
+  },
+  {
+    "key": "MID_SPR18_Alone_3",
+    "value": "啊！過分！！居然一個人偷吃餅乾！！\n後來幾天，兩人的旅行變得有些尷尬……"
+  },
+  {
+    "key": "MID_SPR18_Alone_4",
+    "value": "看到夥伴獨自鍛鍊，心裡大受感動！\n忍不住跑出來一起揮灑汗水！"
+  },
+  {
+    "key": "MID_SPR18_Alone_5",
+    "value": "神清氣爽的早晨！日出看起來真耀眼！！\n這真是辛勤鍛鍊後最美好的回報！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202408",
+    "value": "背負希望的人們"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_9",
+    "value": "白夜的祭典"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_9",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202408_01",
+    "value": "偉大英雄齊聚一堂"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202409",
+    "value": "過去的王、未來的女王　３"
+  },
+  {
+    "key": "MID_UNIT_EDIT_ENGAGE_HELP_DIALOG_04_v0809a",
+    "value": "◆其他◆\n紋章士英雄無法與自己結合。\n\n即使有２位以上相同的紋章士英雄，\n也只能與１位英雄結合。"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_TAMER_ACCESSORY",
+    "value": "顯示攜伴飾品"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_05_v0809b",
+    "value": "◆偶像不會繼承的事物◆\n下列的事物會消失。\n\n・突破極限\n・開花擅長、神裝、攜伴之心\n・祝福、聖印、飾品"
+  },
+  {
+    "key": "MID_ITEM_TAMER_SOUL",
+    "value": "攜伴之心"
+  },
+  {
+    "key": "MID_ITEM_HELP_TAMER_SOUL",
+    "value": "用於「賦予攜伴之心」\n使用後的英雄可裝備攜伴飾品，\n使ＨＰ、攻擊、速度、防守、魔防＋１"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202409",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_Title",
+    "value": "瀑布修行"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_Common",
+    "value": "搭檔約了今天一起去瀑布修行！\n身心彷彿也被洗滌得更加敏銳……"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_3",
+    "value": "不知道被什麼直擊了頭部！好痛！！\n似乎修行的火候還不夠……"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_4",
+    "value": "突然被拉開，嚇了一大跳！\n感謝察覺到危險而出手相助的搭檔！"
+  },
+  {
+    "key": "MID_AUT17_Waterfall_5",
+    "value": "是瀑布修行的成果嗎？\n像在跳舞一樣輕鬆地躲過了危機！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202409",
+    "value": "無拘無束的熱沙"
+  },
+  {
+    "key": "MID_SKYCASTLE_EDIT_ADDFACILITY_HELP_DIALOG_03",
+    "value": "◆能量上限獎勵◆\n在能量水瓶達到LV.4時，\n可儲存的能量上限\n將增加至４００。\n（賽季開始時的能量\n　為２５０）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_8",
+    "value": "攜伴"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SELL_USED_TAMER_SOUL_WARNING",
+    "value": "將要送回\n已使用攜伴之心的角色。\n\n確定要送回嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_USED_TAMER_SOUL_WARNING",
+    "value": "將要消費\n已使用攜伴之心的角色。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_USED_TAMER_SOUL_WARNING",
+    "value": "將要消費\n已使用攜伴之心的角色。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_GENERATE_USED_TAMER_SOUL_WARNING",
+    "value": "將要以已使用攜伴之心的角色\n製作秘傳書。\n\n確定要製作秘傳書嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL",
+    "value": "賦予攜伴之心"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_CONFIRM",
+    "value": "要賦予攜伴之心嗎？\n\n被賦予攜伴之心的英雄\n可裝備「攜伴飾品」，\n且使ＨＰ、攻擊、速度、\n防守、魔防＋１。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_CONFIRM_DECIDE",
+    "value": "賦予攜伴之心"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_INFO",
+    "value": "請選擇要賦予攜伴之心的角色。"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_TAMER",
+    "value": "攜伴英雄\n\nＨＰ、攻擊、速度、防守、魔防＋１\n\n對攜伴英雄以外的英雄\n使用「攜伴之心」後，\n其ＨＰ、攻擊、速度、防守、魔防也可＋１，\n並可裝備攜伴飾品"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_00",
+    "value": "◆賦予攜伴之心◆\n賦予攜伴之心後，\n可裝備攜伴飾品，\n且使ＨＰ、攻擊、速度、\n防守、魔防＋１。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_01",
+    "value": "◆對鬥技場登場敵方得分的影響◆\n「賦予攜伴之心」提升的能力值\n並不影響在鬥技場等處\n配對對手的強度以及可獲得的得分。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_TAMER_SOUL_HELP_DIALOG_02",
+    "value": "◆其他◆\n・能將攜伴之心賦予給\n　攜伴英雄以外的英雄。\n\n・攜伴飾品沒有數量限制，\n　被賦予攜伴之心的複數英雄\n　也能裝備相同種類的攜伴飾品。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202409R",
+    "value": "復刻・與宣揚的希望同在"
+  },
+  {
+    "key": "MID_VOTE_TERM_202409",
+    "value": "凜冽如冰"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202410",
+    "value": "過去的王、未來的女王　４"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202410_1",
+    "value": "第５部前半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202410_2",
+    "value": "第５部後半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202410_3",
+    "value": "第５部結局"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202410_4",
+    "value": "雷金和無人機的特別影片①"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202410_5",
+    "value": "雷金和無人機的特別影片②"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202410",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_SUM20_VolcanicBombs_Title",
+    "value": "火山彈"
+  },
+  {
+    "key": "MID_SUM20_VolcanicBombs_Common",
+    "value": "在前行的途中，火山彈突然襲來！！\n面對逼近的威脅，兩人心跳加速！！"
+  },
+  {
+    "key": "MID_SUM20_VolcanicBombs_3",
+    "value": "火山彈來得猝不及防，只能任由自己被擊飛！\n在大自然的力量下，兩人毫無招架之力！"
+  },
+  {
+    "key": "MID_SUM20_VolcanicBombs_4",
+    "value": "在將要被擊中的瞬間成功躲過了火山彈！\n兩人露出了安心的笑容！"
+  },
+  {
+    "key": "MID_SUM20_VolcanicBombs_5",
+    "value": "在剎那間將火山彈打回原本的火山口中！\n出乎意料的發展讓兩人興奮不已！！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202410",
+    "value": "可能性的氣息"
+  },
+  {
+    "key": "MID_VOTE_TERM_202410",
+    "value": "才能開花的瞬間"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202411R",
+    "value": "復刻・化雪的睿智"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202411",
+    "value": "過去的王、未來的女王　５"
+  },
+  {
+    "key": "MID_UNIT_EDIT_CHANGING",
+    "value": "變更中"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING8_3",
+    "value": "第８部結束劇情"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202411",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN18_Library_Title",
+    "value": "圖書館"
+  },
+  {
+    "key": "MID_WIN18_Library_Common",
+    "value": "夥伴拿來了一本書！\n究竟會是什麼樣的故事呢……"
+  },
+  {
+    "key": "MID_WIN18_Library_3",
+    "value": "兩個人看書看得入迷，最後居然\n搶奪了起來。結果自然是自作自受……"
+  },
+  {
+    "key": "MID_WIN18_Library_4",
+    "value": "原來這是本浪漫的愛情小說！\n兩人不禁♡噗通♡噗通♡臉紅心跳！！"
+  },
+  {
+    "key": "MID_WIN18_Library_5",
+    "value": "看完了一集後……很好奇後續的劇情！！\n因為太想看續集，兩人完全忘了時間……"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202411",
+    "value": "照耀未來的光明"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_10",
+    "value": "稍早一步的冬祭"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_10",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202411",
+    "value": "集合！忍者們！"
   }
 ]
