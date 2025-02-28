@@ -489,7 +489,7 @@
   },
   {
     "key": "MSID_H_速さの吸収1",
-    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+1 to unit.\n\nDeals damage = 5% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+5.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately; stat increases\nare not treated as Bonus effects)."
+    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+1 to unit.\n\nDeals damage = 5% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+5.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
   },
   {
     "key": "MSID_H_速さの吸収1_NOSKW",
@@ -497,7 +497,7 @@
   },
   {
     "key": "MSID_H_速さの吸収2",
-    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+2 to unit.\n\nDeals damage = 10% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+10.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately; stat increases\nare not treated as Bonus effects)."
+    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+2 to unit.\n\nDeals damage = 10% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+10.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
   },
   {
     "key": "MSID_H_速さの吸収2_NOSKW",
@@ -505,7 +505,7 @@
   },
   {
     "key": "MSID_H_速さの吸収3",
-    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+3 to unit.\n\nDeals damage = 15% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+15.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately; stat increases\nare not treated as Bonus effects)."
+    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+3 to unit.\n\nDeals damage = 15% of unit's Spd during\ncombat (excluding area-of-effect Specials).\n\n(This skill grants max of【Great Talent】+15.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
   },
   {
     "key": "MSID_H_速さの吸収3_NOSKW",
@@ -513,7 +513,7 @@
   },
   {
     "key": "MSID_H_速さの吸収4",
-    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+4 to unit.\n\nInflicts Spd/Def-4 on foe, unit deals damage =\n20% of unit's Spd (excluding area-of-effect\nSpecials), neutralizes unit's penalties to Spd,\nand neutralizes effects that inflict \"Special\ncooldown charge -X\" on unit during combat.\n\n(This skill grants max of【Great Talent】+20.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately; stat increases\nare not treated as Bonus effects)."
+    "value": "$aAt start of turn, grants Spd【Great Talent】+1\nto unit.\n\nAfter combat, if unit attacked, grants\nSpd【Great Talent】+4 to unit.\n\nInflicts Spd/Def-4 on foe, unit deals damage =\n20% of unit's Spd (excluding area-of-effect\nSpecials), neutralizes unit's penalties to Spd,\nand neutralizes effects that inflict \"Special\ncooldown charge -X\" on unit during combat.\n\n(This skill grants max of【Great Talent】+20.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
   },
   {
     "key": "MSID_H_速さの吸収4_NOSKW",
