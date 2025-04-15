@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504",
+    "value": "To celebrate Fire Emblem's 35th\nanniversary, a new 8-Bit Castle\ndesign is ready for you to use!\n\nTake a look!"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504_DIALOG",
+    "value": "Having checked out the 8-Bit\nCastle design, do you want to\nuse it?"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504_REVERT_AFTER",
+    "value": "If you change your mind, tap\nUpgrade Castle, then Change\nDesign, then 8-Bit Castle."
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202504",
+    "value": "Archive of the West"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_Title",
+    "value": "Hungry Hero"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_Common",
+    "value": "\"No eating while walking!\" one scolds.\nBut hunger had set in and taken over."
+  },
+  {
+    "key": "MID_SPR20_EatWalking_3",
+    "value": "The hungry one eats it all on the spot.\nBut chokes! Phew, that was close..."
+  },
+  {
+    "key": "MID_SPR20_EatWalking_4",
+    "value": "Ever grateful for the reminder, the\nhungry one offers the larger piece."
+  },
+  {
+    "key": "MID_SPR20_EatWalking_5",
+    "value": "Continuous chomps attract animals.\nTill belly and heart are warm and full..."
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202504",
+    "value": "Dragon Legacy"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65545",
+    "value": "8-Bit Castle"
+  },
+  {
+    "key": "MID_SCF_マルスの像",
+    "value": "Marth Statue"
+  },
+  {
+    "key": "MID_SCF_マルスの像_HELP",
+    "value": "Fire Emblem: Shadow Dragon or Fire Emblem:\nMystery of the Emblem is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_アルムの像",
+    "value": "Alm Statue"
+  },
+  {
+    "key": "MID_SCF_アルムの像_HELP",
+    "value": "Fire Emblem Echoes: Shadows of Valentia is\nyour favorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_セリカの像",
+    "value": "Celica Statue"
+  },
+  {
+    "key": "MID_SCF_セリカの像_HELP",
+    "value": "Fire Emblem Echoes: Shadows of Valentia is\nyour favorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_シグルドの像",
+    "value": "Sigurd Statue"
+  },
+  {
+    "key": "MID_SCF_シグルドの像_HELP",
+    "value": "Fire Emblem: Genealogy of the Holy War is\nyour favorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_セリスの像",
+    "value": "Seliph Statue"
+  },
+  {
+    "key": "MID_SCF_セリスの像_HELP",
+    "value": "Fire Emblem: Genealogy of the Holy War is\nyour favorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_リーフの像",
+    "value": "Leif Statue"
+  },
+  {
+    "key": "MID_SCF_リーフの像_HELP",
+    "value": "Fire Emblem: Thracia 776 is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_ロイの像",
+    "value": "Roy Statue"
+  },
+  {
+    "key": "MID_SCF_ロイの像_HELP",
+    "value": "Fire Emblem: The Binding Blade is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_リンの像",
+    "value": "Lyn Statue"
+  },
+  {
+    "key": "MID_SCF_リンの像_HELP",
+    "value": "Fire Emblem: The Blazing Blade is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_エリウッドの像",
+    "value": "Eliwood Statue"
+  },
+  {
+    "key": "MID_SCF_エリウッドの像_HELP",
+    "value": "Fire Emblem: The Blazing Blade is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ヘクトルの像",
+    "value": "Hector Statue"
+  },
+  {
+    "key": "MID_SCF_ヘクトルの像_HELP",
+    "value": "Fire Emblem: The Blazing Blade is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_エイリークの像",
+    "value": "Eirika Statue"
+  },
+  {
+    "key": "MID_SCF_エイリークの像_HELP",
+    "value": "Fire Emblem: The Sacred Stones is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_エフラムの像",
+    "value": "Ephraim Statue"
+  },
+  {
+    "key": "MID_SCF_エフラムの像_HELP",
+    "value": "Fire Emblem: The Sacred Stones is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_アイクの像",
+    "value": "Ike Statue"
+  },
+  {
+    "key": "MID_SCF_アイクの像_HELP",
+    "value": "Fire Emblem: Path of Radiance or Fire Emblem:\nRadiant Dawn is your favorite? Then place this\n8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ミカヤの像",
+    "value": "Micaiah Statue"
+  },
+  {
+    "key": "MID_SCF_ミカヤの像_HELP",
+    "value": "Fire Emblem: Radiant Dawn is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_サザの像",
+    "value": "Sothe Statue"
+  },
+  {
+    "key": "MID_SCF_サザの像_HELP",
+    "value": "Fire Emblem: Radiant Dawn is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_クロムの像",
+    "value": "Chrom Statue"
+  },
+  {
+    "key": "MID_SCF_クロムの像_HELP",
+    "value": "Fire Emblem Awakening is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ルキナの像",
+    "value": "Lucina Statue"
+  },
+  {
+    "key": "MID_SCF_ルキナの像_HELP",
+    "value": "Fire Emblem Awakening is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ルフレ男の像",
+    "value": "Robin M Statue"
+  },
+  {
+    "key": "MID_SCF_ルフレ男の像_HELP",
+    "value": "Fire Emblem Awakening is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ルフレ女の像",
+    "value": "Robin F Statue"
+  },
+  {
+    "key": "MID_SCF_ルフレ女の像_HELP",
+    "value": "Fire Emblem Awakening is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_カムイ男の像",
+    "value": "Corrin M Statue"
+  },
+  {
+    "key": "MID_SCF_カムイ男の像_HELP",
+    "value": "Fire Emblem Fates is your favorite? Then place\nthis 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_カムイ女の像",
+    "value": "Corrin F Statue"
+  },
+  {
+    "key": "MID_SCF_カムイ女の像_HELP",
+    "value": "Fire Emblem Fates is your favorite? Then place\nthis 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_ベレトの像",
+    "value": "Byleth M Statue"
+  },
+  {
+    "key": "MID_SCF_ベレトの像_HELP",
+    "value": "Fire Emblem: Three Houses is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_ベレスの像",
+    "value": "Byleth F Statue"
+  },
+  {
+    "key": "MID_SCF_ベレスの像_HELP",
+    "value": "Fire Emblem: Three Houses is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_エーデルの像",
+    "value": "Edelgard Statue"
+  },
+  {
+    "key": "MID_SCF_エーデルの像_HELP",
+    "value": "Fire Emblem: Three Houses is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_ディミトリの像",
+    "value": "Dimitri Statue"
+  },
+  {
+    "key": "MID_SCF_ディミトリの像_HELP",
+    "value": "Fire Emblem: Three Houses is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_クロードの像",
+    "value": "Claude Statue"
+  },
+  {
+    "key": "MID_SCF_クロードの像_HELP",
+    "value": "Fire Emblem: Three Houses is your favorite?\nThen place this 8-bit statue in your\nAether Keep!"
+  },
+  {
+    "key": "MID_SCF_リュール男の像",
+    "value": "Alear M Statue"
+  },
+  {
+    "key": "MID_SCF_リュール男の像_HELP",
+    "value": "Fire Emblem Engage is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_リュール女の像",
+    "value": "Alear F Statue"
+  },
+  {
+    "key": "MID_SCF_リュール女の像_HELP",
+    "value": "Fire Emblem Engage is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_樹の像",
+    "value": "Itsuki Statue"
+  },
+  {
+    "key": "MID_SCF_樹の像_HELP",
+    "value": "Tokyo Mirage Sessions ♯FE Encore is your\nfavorite? Then place this 8-bit statue in\nyour Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_アルフォンスの像",
+    "value": "Alfonse Statue"
+  },
+  {
+    "key": "MID_SCF_アルフォンスの像_HELP",
+    "value": "Fire Emblem Heroes is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_シャロンの像",
+    "value": "Sharena Statue"
+  },
+  {
+    "key": "MID_SCF_シャロンの像_HELP",
+    "value": "Fire Emblem Heroes is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_SCF_アンナの像",
+    "value": "Anna Statue"
+  },
+  {
+    "key": "MID_SCF_アンナの像_HELP",
+    "value": "Fire Emblem Heroes is your favorite? Then\nplace this 8-bit statue in your Aether Keep!"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202504",
+    "value": "SP Aether Stones"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202504",
+    "value": "Used in Aether Raids to build structures that\nare available for a limited time. If that period\nhas elapsed, these stones will be lost."
+  }
+]
