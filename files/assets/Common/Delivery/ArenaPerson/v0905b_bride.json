@@ -1,0 +1,182 @@
+[
+  {
+    "hero_id": "PID_伝承ギネヴィア",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承ベレト",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器魔獣ドゥドゥー",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇リュール女",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇リュール男",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇レナ",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ファフニール味方",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_マリアンヌ",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ニケ",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アルフォンス",
+    "active": {
+      "start": "2025-05-20T07:00:00Z",
+      "finish": "2025-05-27T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承カミラ",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承シーダ",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器魔獣ドゥドゥー",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇リュール女",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇リュール男",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇レナ",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ファフニール味方",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_闇マーク男",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_レナ",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アルフォンス",
+    "active": {
+      "start": "2025-05-27T07:00:00Z",
+      "finish": "2025-06-03T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]
