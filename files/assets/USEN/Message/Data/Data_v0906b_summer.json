@@ -1,0 +1,818 @@
+[
+  {
+    "key": "MDAID_旅先の海の軟体動物",
+    "value": "Ocean Mollusk"
+  },
+  {
+    "key": "MDAID_H_旅先の海の軟体動物",
+    "value": "Proof that two Heroes bested a boss\non their journeys together. Serves as\na souvenir from their travels."
+  },
+  {
+    "key": "MID_ENHANCE_HELP_87",
+    "value": "If unit is defeated, foe gets another action\n  (once per turn for the entire map)"
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_TITLE",
+    "value": "Grand Hero Battles"
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_A1",
+    "value": "Defeat Jarod"
+  },
+  {
+    "key": "MID_MISSION_H_S202506HERO01_A1",
+    "value": "Clear the Grand Hero Battle against Jarod\nwith Anna: Commander on your team."
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_A2",
+    "value": "Defeat Jarod"
+  },
+  {
+    "key": "MID_MISSION_H_S202506HERO01_A2",
+    "value": "Clear the Grand Hero Battle against Jarod\non Lunatic or higher difficulty with Jarod\non your team."
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_A3",
+    "value": "Defeat Jarod"
+  },
+  {
+    "key": "MID_MISSION_H_S202506HERO01_A3",
+    "value": "Defeat Jarod at level 40 or higher with\nAnna: Commander."
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_A4",
+    "value": "Defeat Jarod"
+  },
+  {
+    "key": "MID_MISSION_H_S202506HERO01_A4",
+    "value": "Defeat Jarod at level 40 or higher with Jarod."
+  },
+  {
+    "key": "MID_MISSION_S202506HERO01_A5",
+    "value": "Defeat Jarod"
+  },
+  {
+    "key": "MID_MISSION_H_S202506HERO01_A5",
+    "value": "Clear the Grand Hero Battle against Jarod\non Lunatic or higher difficulty using only\nflying allies."
+  },
+  {
+    "key": "MID_MISSION_S202506JOURNEY01_TITLE",
+    "value": "Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_S202506JOURNEY01_A1",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202506JOURNEY01_A1",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202506JOURNEY01_A2",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202506JOURNEY01_A2",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_TITLE",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_A1",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202506KIZUNA01_A1",
+    "value": "Clear the Bound Hero Battle against Felix &\nSylvain with Sharena: Princess of Askr on\nyour team."
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_A2",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202506KIZUNA01_A2",
+    "value": "Clear the Bound Hero Battle against Felix &\nSylvain on Lunatic or higher difficulty with\nAlfonse: Prince of Askr on your team."
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_A3",
+    "value": "Defeat Felix"
+  },
+  {
+    "key": "MID_MISSION_H_S202506KIZUNA01_A3",
+    "value": "Defeat Felix: Lone-Wolf Blade at level 40 or\nhigher with Sharena: Princess of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_A4",
+    "value": "Defeat Sylvain"
+  },
+  {
+    "key": "MID_MISSION_H_S202506KIZUNA01_A4",
+    "value": "Defeat Sylvain: Consummate Flirt at level 40 or\nhigher with Alfonse: Prince of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202506KIZUNA01_A5",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202506KIZUNA01_A5",
+    "value": "Clear the Bound Hero Battle against Felix &\nSylvain on Lunatic or higher difficulty using\nonly cavalry allies."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA01_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA01_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA01_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA01_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA01_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA01_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA01_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA01_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA01_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA02_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA02_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA02_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA02_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA02_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA02_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA02_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SENKA02_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SENKA02_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_TITLE",
+    "value": " Feh Pass"
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A3",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A3",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A5",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A5",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_S202506SUBSC02_A6",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506SUBSC02_A6",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_TITLE",
+    "value": "Test of a Lance"
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A1",
+    "value": "KO Lance Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A1",
+    "value": "Defeat a lance foe."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A2",
+    "value": "KO Foe w/Axe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A2",
+    "value": "Defeat a lance foe with an axe ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A3",
+    "value": "KO Foe w/Green Tome"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A3",
+    "value": "Defeat a lance foe with a green tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A4",
+    "value": "KO Foe w/Lance"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A4",
+    "value": "Defeat a lance foe with a lance ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A5",
+    "value": "KO Foe w/Blue Tome"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A5",
+    "value": "Defeat a lance foe with a blue tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A6",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A6",
+    "value": "Defeat a lance foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A7",
+    "value": "KO Foe w/Red Tome"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A7",
+    "value": "Defeat a lance foe with a red tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A8",
+    "value": "KO Foe w/Colorless Bow"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A8",
+    "value": "Defeat a lance foe with a colorless bow ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A9",
+    "value": "KO Foe w/Colorless Dagger"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A9",
+    "value": "Defeat a lance foe with a colorless dagger ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A10",
+    "value": "KO Foe w/Staff"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A10",
+    "value": "Defeat a lance foe with a staff ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A11",
+    "value": "KO Foe w/Green"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A11",
+    "value": "Defeat a lance foe with a green ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A12",
+    "value": "KO Foe w/Blue"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A12",
+    "value": "Defeat a lance foe with a blue ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A13",
+    "value": "KO Foe w/Red"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A13",
+    "value": "Defeat a lance foe with a red ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A14",
+    "value": "KO Foe w/Colorless"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A14",
+    "value": "Defeat a lance foe with a colorless ally."
+  },
+  {
+    "key": "MID_MISSION_S202506VSWEAPON01_A15",
+    "value": "KO Lance Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202506VSWEAPON01_A15",
+    "value": "Defeat a lance foe."
+  },
+  {
+    "key": "MID_MISSION_W_S202506STORY_P01_TITLE",
+    "value": "Pious Summer"
+  },
+  {
+    "key": "MID_MISSION_W_S202506STORY_P01_A1",
+    "value": "Clear P112-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202506STORY_P01_A1",
+    "value": "Clear Paralogue 112: Part 1 on Lunatic\ndifficulty with an axe ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202506STORY_P01_A2",
+    "value": "Clear P112-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202506STORY_P01_A2",
+    "value": "Clear Paralogue 112: Part 2 on Lunatic\ndifficulty with a sword ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202506STORY_P01_A3",
+    "value": "Clear P112-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202506STORY_P01_A3",
+    "value": "Clear Paralogue 112: Part 3 on Lunatic\ndifficulty with a lance ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MPID_双界セリカ",
+    "value": "Celica"
+  },
+  {
+    "key": "MPID_SEARCH_双界セリカ",
+    "value": "Celica"
+  },
+  {
+    "key": "MPID_水着ニノ",
+    "value": "Nino"
+  },
+  {
+    "key": "MPID_SEARCH_水着ニノ",
+    "value": "Nino"
+  },
+  {
+    "key": "MPID_水着外伝パオラ",
+    "value": "Palla"
+  },
+  {
+    "key": "MPID_SEARCH_水着外伝パオラ",
+    "value": "Palla"
+  },
+  {
+    "key": "MPID_水着ラピス",
+    "value": "Lapis"
+  },
+  {
+    "key": "MPID_SEARCH_水着ラピス",
+    "value": "Lapis"
+  },
+  {
+    "key": "MPID_水着フォガート",
+    "value": "Fogado"
+  },
+  {
+    "key": "MPID_SEARCH_水着フォガート",
+    "value": "Fogado"
+  },
+  {
+    "key": "MPID_HONOR_双界セリカ",
+    "value": "Sunlit Priestesses"
+  },
+  {
+    "key": "MPID_HONOR_水着ニノ",
+    "value": "Burst of Summer"
+  },
+  {
+    "key": "MPID_HONOR_水着外伝パオラ",
+    "value": "Soaring Summer"
+  },
+  {
+    "key": "MPID_HONOR_水着ラピス",
+    "value": "Forager of the Sea"
+  },
+  {
+    "key": "MPID_HONOR_水着フォガート",
+    "value": "Summer of Bliss"
+  },
+  {
+    "key": "MPID_H_双界セリカ",
+    "value": "Celica, a priestess and follower of Mila, and\nSerra, a cleric and follower of Elimine, bring\ntheir protection to the beach this summer. They\nappear in Fire Emblem Echoes: Shadows of\nValentia / Fire Emblem: The Blazing Blade."
+  },
+  {
+    "key": "MPID_H_水着ニノ",
+    "value": "A young girl and member of the Black Fang, a\nleague of assassins. She brings smiles to the\npeople of Askr, in the midst of the glittering sea.\nAppears in Fire Emblem: The Blazing Blade."
+  },
+  {
+    "key": "MPID_H_水着外伝パオラ",
+    "value": "Eldest of the three sisters who are pegasus\nknights of the Macedonian Whitewings. Enjoys\nAskr's summer to its fullest. Appears in Fire\nEmblem Echoes: Shadows of Valentia."
+  },
+  {
+    "key": "MPID_H_水着ラピス",
+    "value": "A warrior of Brodia and retainer to Alcryst, she\nhunts for food on the beach and in the ocean.\nAppears in Fire Emblem Engage."
+  },
+  {
+    "key": "MPID_H_水着フォガート",
+    "value": "First prince of Solm. He loves the heat, the\nocean, the beach, and everyone. Appears in\nFire Emblem Engage."
+  },
+  {
+    "key": "MPID_VOICE_双界セリカ",
+    "value": "Erica Lindbeck + Kate Higgins"
+  },
+  {
+    "key": "MPID_VOICE_水着ニノ",
+    "value": "Sarah Blandy"
+  },
+  {
+    "key": "MPID_VOICE_水着外伝パオラ",
+    "value": "Alexis Tipton"
+  },
+  {
+    "key": "MPID_VOICE_水着ラピス",
+    "value": "Takayanagi Tomoyo (高柳知葉)"
+  },
+  {
+    "key": "MPID_VOICE_水着フォガート",
+    "value": "Zeno Robinson"
+  },
+  {
+    "key": "MPID_VOICE_ナーシェンEX01",
+    "value": "Kaiji Tang"
+  },
+  {
+    "key": "MPID_ILLUST_双界セリカ",
+    "value": "Fuwaomu (ふわおむ)"
+  },
+  {
+    "key": "MPID_ILLUST_水着ニノ",
+    "value": "Amagasa Yun (雨傘ゆん)"
+  },
+  {
+    "key": "MPID_ILLUST_水着外伝パオラ",
+    "value": "GomashioPonzu (ごましおポン酢)"
+  },
+  {
+    "key": "MPID_ILLUST_水着ラピス",
+    "value": "Idenshi Hina (遺伝子ひな)"
+  },
+  {
+    "key": "MPID_ILLUST_水着フォガート",
+    "value": "argon / Trys Inc."
+  },
+  {
+    "key": "MPID_ILLUST_ナーシェンEX01",
+    "value": "Suekane Kumiko (スエカネクミコ)"
+  },
+  {
+    "key": "MPID_LEGEND_双界セリカ",
+    "value": "(Harmonized Skills can be used by tapping the\nHarmonized button. Harmonized Skills cannot be\nused by units deployed using Pair Up.)\n(Skills like Duo Skills and Harmonized Skills\ncannot be used when skills with Styles\nare equipped.)\n\nResonance Effect: Echoes: Shadows\nof Valentia / The Blazing Blade\nIncreases scores in Resonant Battles.\n(More details can be found in the Help\nmessages within Resonant Battles.)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0906b_summer_01_双界セリカ",
+    "value": "With her Style, she can reach foes six\nspaces away and attack four times\nfrom afar with Specials, then retreat."
+  },
+  {
+    "key": "MID_TIPS_Summon_v0906b_summer_01_水着ラピス",
+    "value": "Triggers Specials repeatedly and\ndamages foes after combat! Allies\nwho best afflicted foes gain an action!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0906b_summer_01_水着ニノ",
+    "value": "She hinders Savior for her foes. Can\ndeal +57 damage and buries foes with\na powerful Special and Desperation!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0906b_summer_01_水着外伝パオラ",
+    "value": "Gains Special cooldown count-1 if\nhers is at its max at start of turn.\nShe reins in foes and can use Canto!"
+  },
+  {
+    "key": "MSID_大漁呼ぶ魚獲りの銛",
+    "value": "Haulin' Harpoon"
+  },
+  {
+    "key": "MSID_SEARCH_大漁呼ぶ魚獲りの銛",
+    "value": "Haulin' Harpoon"
+  },
+  {
+    "key": "MSID_夏の海に弾む球",
+    "value": "Bouncin' Ball"
+  },
+  {
+    "key": "MSID_SEARCH_夏の海に弾む球",
+    "value": "Bouncin' Ball"
+  },
+  {
+    "key": "MSID_敬虔なる信徒の供物",
+    "value": "Pious Offering"
+  },
+  {
+    "key": "MSID_SEARCH_敬虔なる信徒の供物",
+    "value": "Pious Offering"
+  },
+  {
+    "key": "MSID_ヤシの葉",
+    "value": "Fannin' Foliage"
+  },
+  {
+    "key": "MSID_SEARCH_ヤシの葉",
+    "value": "Fannin' Foliage"
+  },
+  {
+    "key": "MSID_ヤシの葉＋",
+    "value": "Fannin' Foliage+"
+  },
+  {
+    "key": "MSID_SEARCH_ヤシの葉＋",
+    "value": "Fannin' Foliage+"
+  },
+  {
+    "key": "MSID_南国の果汁",
+    "value": "Tropical Juice"
+  },
+  {
+    "key": "MSID_SEARCH_南国の果汁",
+    "value": "Tropical Juice"
+  },
+  {
+    "key": "MSID_南国の果汁＋",
+    "value": "Tropical Juice+"
+  },
+  {
+    "key": "MSID_SEARCH_南国の果汁＋",
+    "value": "Tropical Juice+"
+  },
+  {
+    "key": "MSID_魔光",
+    "value": "Magic Light"
+  },
+  {
+    "key": "MSID_SEARCH_魔光",
+    "value": "Magic Light"
+  },
+  {
+    "key": "MSID_ソフィアの聖魂",
+    "value": "Holy Soul of Zofia"
+  },
+  {
+    "key": "MSID_SEARCH_ソフィアの聖魂",
+    "value": "Holy Soul of Zofia"
+  },
+  {
+    "key": "MSID_攻撃守備の近影4",
+    "value": "A/D Near Trace 4"
+  },
+  {
+    "key": "MSID_SEARCH_攻撃守備の近影4",
+    "value": "A/D Near Trace 4"
+  },
+  {
+    "key": "MSID_秘奥・速魔凪",
+    "value": "S/R Lull Finish"
+  },
+  {
+    "key": "MSID_SEARCH_秘奥・速魔凪",
+    "value": "S/R Lull Finish"
+  },
+  {
+    "key": "MSID_黒い牙の絆",
+    "value": "Black Fang Bond"
+  },
+  {
+    "key": "MSID_SEARCH_黒い牙の絆",
+    "value": "Black Fang Bond"
+  },
+  {
+    "key": "MSID_迅雷風烈・追撃鼓動",
+    "value": "Pulse Tempest F"
+  },
+  {
+    "key": "MSID_SEARCH_迅雷風烈・追撃鼓動",
+    "value": "Pulse Tempest F"
+  },
+  {
+    "key": "MSID_H_大漁呼ぶ魚獲りの銛",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nAccelerates Special trigger (cooldown count-1).\n\nWhen Canto triggers, enables unit to use\n【Distant Swap】on ally (this effect is not\ntreated as an Assist skill; if similar effects are\nactive, this effect does not trigger).\n\nIf unit initiates combat or is within 2\nspaces of an ally, grants bonus to unit's\nAtk/Spd/Def/Res = number of allies within\n3 rows or 3 columns centered on unit × 3, + 5\n(max 14), grants Special cooldown count-1 to\nunit before unit's first attack, unit deals +X × 8\ndamage (max 32; excluding area-of-effect\nSpecials; X = number of foes within 3 spaces\nof target, including target), and reduces\ndamage from foe's attacks by 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials), and also, reduces damage by an\nadditional 20% of unit's Spd when foe's attack\ntriggers foe's Special (excluding area-of-effect\nSpecials).\n\nIf unit initiates combat, after combat, deals 10\ndamage to foe and foes within 2 spaces of that\nfoe, and inflicts【Share Spoils+】on those foes\nthrough their next actions.\n\n【Canto (Dist. +1; Max ４)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1. (Max ４.)\n\n【Distant Swap】\nRange = 2. Unit and target ally swap spaces.\n\n【Share Spoils+】\nInflicts Atk/Spd/Def/Res-5 on unit during\ncombat and neutralizes \"reduces damage\nby X%\" effects from unit's non-Special skills\n(excluding area-of-effect Specials).\n\nOnce per turn for the entire map, if foe\ninitiates combat and if unit is defeated in\ncombat, grants another action to that foe\nafter combat (this effect has priority over\nother similar effects aside from Share Spoils;\nif this status and Share Spoils are both active\nat the same time, they are both treated as\nhaving been triggered; other similar effects\naside from Share Spoils are treated as not\nhaving triggered)."
+  },
+  {
+    "key": "MSID_H_大漁呼ぶ魚獲りの銛_NOSKW",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nAccelerates Special trigger (cooldown count-1).\n\nWhen Canto triggers, enables unit to use\n【Distant Swap】on ally (this effect is not\ntreated as an Assist skill; if similar effects are\nactive, this effect does not trigger).\n\nIf unit initiates combat or is within 2\nspaces of an ally, grants bonus to unit's\nAtk/Spd/Def/Res = number of allies within\n3 rows or 3 columns centered on unit × 3, + 5\n(max 14), grants Special cooldown count-1 to\nunit before unit's first attack, unit deals +X × 8\ndamage (max 32; excluding area-of-effect\nSpecials; X = number of foes within 3 spaces\nof target, including target), and reduces\ndamage from foe's attacks by 20% of unit's\nSpd during combat (excluding area-of-effect\nSpecials), and also, reduces damage by an\nadditional 20% of unit's Spd when foe's attack\ntriggers foe's Special (excluding area-of-effect\nSpecials).\n\nIf unit initiates combat, after combat, deals 10\ndamage to foe and foes within 2 spaces of that\nfoe, and inflicts【Share Spoils+】on those foes\nthrough their next actions."
+  },
+  {
+    "key": "MSID_H_夏の海に弾む球",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of turn, if unit is within 2 spaces of an\nally, grants Atk/Spd+6, \"neutralizes penalties\non unit during combat,\" and【Hexblade】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd = 20%\nof unit's Spd at start of combat + 6, unit\ndeals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of【Bonus】\neffects active on unit, excluding stat bonuses +\nnumber of【Penalty】effects active on foe,\nexcluding stat penalties), and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials), and also,\nif unit initiates combat, unit can make a\nfollow-up attack before foe's next attack.\n\n【Hexblade】\nCalculates damage using the lower of foe's\nDef or Res during combat for 1 turn (including\ndamage dealt by Specials before combat).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
+  },
+  {
+    "key": "MSID_H_夏の海に弾む球_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of turn, if unit is within 2 spaces of an\nally, grants Atk/Spd+6, \"neutralizes penalties\non unit during combat,\" and【Hexblade】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd = 20%\nof unit's Spd at start of combat + 6, unit\ndeals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of【Bonus】\neffects active on unit, excluding stat bonuses +\nnumber of【Penalty】effects active on foe,\nexcluding stat penalties), and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials), and also,\nif unit initiates combat, unit can make a\nfollow-up attack before foe's next attack."
+  },
+  {
+    "key": "MSID_H_敬虔なる信徒の供物",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd =\n20% of unit's Spd at start of combat + 6,\nunit deals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit, excluding stat bonuses +\nnumber of Penalty effects active on foe,\nexcluding stat penalties), neutralizes effects\nthat guarantee foe's follow-up attacks and\neffects that prevent unit's follow-up attacks,\nand grants Special cooldown charge +1 to unit\nper attack during combat (only highest value\napplied; does not stack).\n\nUnit can use the following【Style】:\n――――― Echo Style ―――――\nUnit can attack foes 3 spaces away (unit\ncannot attack foes 2 spaces away).\n\nUnit attacks twice and calculates damage at\n60% during combat (this calculation stacks with\nother effects that calculate damage at X% such\nas Potent Follow).\n\nUnit suffers a counterattack if any of the\nfollowing conditions are met: foe is armored\nwith Range = 2 or foe can counterattack\nregardless of unit's range. After-combat\nmovement effects do not occur. Skill\neffect's Range is treated as 2, including by\nskill effects determined by attack Range,\nlike Pavise and Aegis. This Style can be\nused only once per turn.\n――――――――――――――――――――\n\n【Style】\nChange Style using the Style button at the\nbottom of the screen.\n\nA unit's Style is only active when that unit\nis taking an action. When unit is equipped with\na skill that has a Style, unit will not be able to\nuse skills like Duo Skills or Harmonized Skills.\nStyle use is disabled when unit is deployed\nusing Pair Up or when unit is equipped with\nmultiple skills that have a Style."
+  },
+  {
+    "key": "MSID_H_敬虔なる信徒の供物_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd =\n20% of unit's Spd at start of combat + 6,\nunit deals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit, excluding stat bonuses +\nnumber of Penalty effects active on foe,\nexcluding stat penalties), neutralizes effects\nthat guarantee foe's follow-up attacks and\neffects that prevent unit's follow-up attacks,\nand grants Special cooldown charge +1 to unit\nper attack during combat (only highest value\napplied; does not stack).\n\nUnit can use the following【Style】:\n――――― Echo Style ―――――\nUnit can attack foes 3 spaces away (unit\ncannot attack foes 2 spaces away).\n\nUnit attacks twice and calculates damage at\n60% during combat (this calculation stacks with\nother effects that calculate damage at X% such\nas Potent Follow).\n\nUnit suffers a counterattack if any of the\nfollowing conditions are met: foe is armored\nwith Range = 2 or foe can counterattack\nregardless of unit's range. After-combat\nmovement effects do not occur. Skill\neffect's Range is treated as 2, including by\nskill effects determined by attack Range,\nlike Pavise and Aegis. This Style can be\nused only once per turn.\n――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_ヤシの葉",
+    "value": "At start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_ヤシの葉＋",
+    "value": "At start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_南国の果汁",
+    "value": "$aAt start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials).\n\nEffect:【Dagger ５】\n\n【Dagger ５】\nAfter combat, if unit attacked, inflicts\nDef/Res-５ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_南国の果汁_NOSKW",
+    "value": "$aAt start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials).\n\nEffect:【Dagger ５】"
+  },
+  {
+    "key": "MSID_H_南国の果汁＋",
+    "value": "$aAt start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials).\n\nEffect:【Dagger ７】\n\n【Dagger ７】\nAfter combat, if unit attacked, inflicts\nDef/Res-７ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_南国の果汁＋_NOSKW",
+    "value": "$aAt start of turn, if unit's Special cooldown\ncount is at its maximum value, grants Special\ncooldown count-1 to unit.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+5 to unit\nand deals damage = 15% of unit's Atk during\ncombat (excluding area-of-effect Specials).\n\nEffect:【Dagger ７】"
+  },
+  {
+    "key": "MSID_H_魔光",
+    "value": "When Special triggers, treats foe's Def/Res\nas if reduced by 50% and neutralizes foe's\n\"reduces damage by X%\" effects from foe's\nnon-Special skills."
+  },
+  {
+    "key": "MSID_H_ソフィアの聖魂",
+    "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAt start of turn, inflicts Spd/Res-7,【Sabotage】,\nand【Discord】on closest foes and foes within 2\nspaces of those foes through their next actions.\n\nInflicts Spd/Res-5 on foe and deals damage =\n20% of unit's Spd during combat (excluding\narea-of-effect Specials), and also, if unit's\nHP > 1 and foe would reduce unit's HP to 0,\nunit survives with 1 HP (once per combat;\ndoes not stack with non-Special effects that\nallow unit to survive with 1 HP if foe's attack\nwould reduce HP to 0). Restores 7 HP to unit\nafter combat.\n\n【Canto (Dist.; Max ３)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nunit moved prior to taking action (max ３).\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit through its next action. Calculates\neach stat penalty independently.\n\n【Discord】\nInflicts Atk/Spd/Def/Res-X on unit during\ncombat (X = 2 + number of allies within\n2 spaces of unit; max 5) through its\nnext action."
+  },
+  {
+    "key": "MSID_H_ソフィアの聖魂_NOSKW",
+    "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAt start of turn, inflicts Spd/Res-7,【Sabotage】,\nand【Discord】on closest foes and foes within 2\nspaces of those foes through their next actions.\n\nInflicts Spd/Res-5 on foe and deals damage =\n20% of unit's Spd during combat (excluding\narea-of-effect Specials), and also, if unit's\nHP > 1 and foe would reduce unit's HP to 0,\nunit survives with 1 HP (once per combat;\ndoes not stack with non-Special effects that\nallow unit to survive with 1 HP if foe's attack\nwould reduce HP to 0). Restores 7 HP to unit\nafter combat."
+  },
+  {
+    "key": "MSID_H_攻撃守備の近影4",
+    "value": "$aEnables【Canto (Rem. +1; Min ２)】.\n\nInflicts Atk/Def-4 on foe during combat\nand unit deals +7 damage, including when\ndealing damage with a Special triggered\nbefore combat.\n\n【Canto (Rem. +1; Min ２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = any\nmovement not already used that turn +1\n(min ２; if unit used a movement\nskill that warped them, unit can move\n２ space(s)).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit would be able to\nmove with normal Canto movement.)"
+  },
+  {
+    "key": "MSID_H_攻撃守備の近影4_NOSKW",
+    "value": "$aEnables【Canto (Rem. +1; Min ２)】.\n\nInflicts Atk/Def-4 on foe during combat\nand unit deals +7 damage, including when\ndealing damage with a Special triggered\nbefore combat."
+  },
+  {
+    "key": "MSID_H_秘奥・速魔凪",
+    "value": "$aInflicts Spd/Res-4 on foe, inflicts additional\npenalty on foe's Spd/Res = number of【Bonus】\neffects on foe, excluding stat bonuses (max 4),\nneutralizes foe's bonuses to Spd/Res, and\nreduces damage from foe's attacks by 7\nduring combat (excluding area-of-effect\nSpecials), and also, if unit's Special is ready\nor triggered before or during this combat,\ndeals +15 damage during combat (except\nwhen dealing damage with area-of-effect\nSpecials), and when unit deals damage to\nfoe during combat, restores 7 HP to unit.\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_秘奥・速魔凪_NOSKW",
+    "value": "$aInflicts Spd/Res-4 on foe, inflicts additional\npenalty on foe's Spd/Res = number of【Bonus】\neffects on foe, excluding stat bonuses (max 4),\nneutralizes foe's bonuses to Spd/Res, and\nreduces damage from foe's attacks by 7\nduring combat (excluding area-of-effect\nSpecials), and also, if unit's Special is ready\nor triggered before or during this combat,\ndeals +15 damage during combat (except\nwhen dealing damage with area-of-effect\nSpecials), and when unit deals damage to\nfoe during combat, restores 7 HP to unit."
+  },
+  {
+    "key": "MSID_H_黒い牙の絆",
+    "value": "$aEnables【Canto (２)】.\n\nWhen Canto triggers, enables unit to use\n【Distant Swap】on ally (this effect is not\ntreated as an Assist skill; if similar effects are\nactive, this effect does not trigger).\n\nAt start of turn, if unit is within 2 spaces of\nan ally, grants \"unit can move 1 extra space\"\nto unit (that turn only; does not stack), and\nalso, if Special cooldown count is at its\nmaximum value, grants Special cooldown\ncount-2 to unit; if Special cooldown count is\nat its maximum value - 1, grants Special\ncooldown count-1 to unit.\n\nAt start of turn, if unit is within 2 spaces of an\nally, inflicts Spd/Res-7,【Exposure】, and\n【Undefended】on closest foes through their\nnext actions, and inflicts Spd/Res-7 and\n【Exposure】on foes within 2 spaces of those\nfoes through their next actions.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd+5 to unit and unit\ndeals +7 damage during combat (excluding\narea-of-effect Specials).\n\n【Canto (２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move ２ space(s).\n(Once per turn. Only highest value applied.\nDoes not stack.)\n\n【Distant Swap】\nRange = 2. Unit and target ally swap spaces.\n\n【Exposure】\nFoe's attacks deal +10 damage.\n\n【Undefended】\nUnit cannot be protected by Savior through\ntheir next action."
+  },
+  {
+    "key": "MSID_H_黒い牙の絆_NOSKW",
+    "value": "$aEnables【Canto (２)】.\n\nWhen Canto triggers, enables unit to use\n【Distant Swap】on ally (this effect is not\ntreated as an Assist skill; if similar effects are\nactive, this effect does not trigger).\n\nAt start of turn, if unit is within 2 spaces of\nan ally, grants \"unit can move 1 extra space\"\nto unit (that turn only; does not stack), and\nalso, if Special cooldown count is at its\nmaximum value, grants Special cooldown\ncount-2 to unit; if Special cooldown count is\nat its maximum value - 1, grants Special\ncooldown count-1 to unit.\n\nAt start of turn, if unit is within 2 spaces of an\nally, inflicts Spd/Res-7,【Exposure】, and\n【Undefended】on closest foes through their\nnext actions, and inflicts Spd/Res-7 and\n【Exposure】on foes within 2 spaces of those\nfoes through their next actions.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd+5 to unit and unit\ndeals +7 damage during combat (excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_迅雷風烈・追撃鼓動",
+    "value": "At start of turn, unit can move 1 extra space\n(that turn only; does not stack).\n\nGrants bonus to unit's Atk/Spd/Def/Res\nduring combat = number of spaces from start\nposition to end position of whoever initiated\ncombat (max 3), and also, if unit's attack can\ntrigger unit's Special, grants Special cooldown\ncount-2 to unit before unit's first\nfollow-up attack."
+  },
+  {
+    "key": "MSID_H_双界セリカ",
+    "value": "$aNeutralizes any【Penalty】, restores 40 HP,\nand grants【Resonance: Blades】to unit and\nallies from the same titles as unit for 1 turn.\n\nOnce used, Harmonized Skill cannot be\nactivated again right away. At start of every\nthird turn, if Harmonized Skill has already been\nused, unit can use Harmonized Skill again.\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard).\n\n【Resonance: Blades】\nGrants Atk/Spd+4 during combat for 1 turn."
+  },
+  {
+    "key": "MSID_H_双界セリカ_NOSKW",
+    "value": "$aNeutralizes any【Penalty】, restores 40 HP,\nand grants【Resonance: Blades】to unit and\nallies from the same titles as unit for 1 turn.\n\nOnce used, Harmonized Skill cannot be\nactivated again right away. At start of every\nthird turn, if Harmonized Skill has already been\nused, unit can use Harmonized Skill again."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_CX111",
+    "value": "Paralogue 112"
+  },
+  {
+    "key": "MID_CHAPTER_CX111",
+    "value": "Pious Summer"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1111",
+    "value": "Paralogue 112-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1112",
+    "value": "Paralogue 112-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1113",
+    "value": "Paralogue 112-3"
+  },
+  {
+    "key": "MID_STAGE_X1111",
+    "value": "Coral-Haired Trio"
+  },
+  {
+    "key": "MID_STAGE_X1112",
+    "value": "Those Precious to Us"
+  },
+  {
+    "key": "MID_STAGE_X1113",
+    "value": "Seaside Friendship"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0202",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_STAGE_T0202",
+    "value": "N & U"
+  },
+  {
+    "key": "MID_CHAPTER_ST_CX056",
+    "value": "P. 111 & 112"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0110",
+    "value": "Paralogue 111"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0111",
+    "value": "Paralogue 112"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X1111",
+    "value": "P. 111 & 112"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB276",
+    "value": "Skill Studies 276"
+  },
+  {
+    "key": "MID_STAGE_PB276",
+    "value": "Sunlit Priestesses"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB277",
+    "value": "Skill Studies 277"
+  },
+  {
+    "key": "MID_STAGE_PB277",
+    "value": "Ocean's Fresh Bounty"
+  }
+]
