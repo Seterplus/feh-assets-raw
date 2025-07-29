@@ -1,0 +1,182 @@
+[
+  {
+    "hero_id": "PID_伝承シェズ男",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承ミルラ",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_バルドル味方",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ヘズ味方",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_響心リーフ",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器マチュア",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_メリアエ味方",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_リノアン",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ダグダ",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アンナ",
+    "active": {
+      "start": "2025-07-29T07:00:00Z",
+      "finish": "2025-08-05T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承エリンシア",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ヴェロニカ2味方",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_バルドル味方",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ヘズ味方",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_響心リーフ",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_魔器マチュア",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_メリアエ味方",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_リノアン",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ダグダ",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アンナ",
+    "active": {
+      "start": "2025-08-05T07:00:00Z",
+      "finish": "2025-08-12T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]
