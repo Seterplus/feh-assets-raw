@@ -825,7 +825,7 @@
   },
   {
     "key": "MSID_H_闇魔道の研究書R",
-    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nAtk/Res-7,【Panic】, and【Deep Wounds】\non closest foes and foes within 2 spaces of\nthose foes through their next actions.\n\nAt start of combat, if unit's HP ≥ 25%, inflicts\nAtk/Spd/Res-5 on foe, neutralizes unit's\npenalties to Atk/Spd/Res, and unit makes\nguaranteed follow-up attack during combat.\n\n【Panic】\nConverts bonuses on target into penalties\nthrough its next action.\n\n【Deep Wounds】\nUnit's HP cannot be healed through its\nnext action."
+    "value": "$aAt start of turn, if unit's HP ≥ 25%, inflicts\nAtk/Res-7,【Panic】, and【Deep Wounds】\non closest foes and foes within 2 spaces of\nthose foes through their next actions.\n\nAt start of combat, if unit's HP ≥ 25%, inflicts\nAtk/Spd/Res-5 on foe, neutralizes unit's\npenalties to Atk/Spd/Res, and unit makes\nguaranteed follow-up attack during combat.\n\n【Panic】\nConverts bonuses on unit into penalties through\nits next action.\n\n【Deep Wounds】\nUnit's HP cannot be healed through its\nnext action."
   },
   {
     "key": "MSID_H_闇魔道の研究書R_NOSKW",

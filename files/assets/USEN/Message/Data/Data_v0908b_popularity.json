@@ -1,0 +1,854 @@
+[
+  {
+    "key": "MDAID_アスクの王女の冠",
+    "value": "Askran Tiara"
+  },
+  {
+    "key": "MDAID_H_アスクの王女の冠",
+    "value": "An ancestral tiara of Askr from\nSharena. What makes it so appealing\nis its simplicity and elegant outline."
+  },
+  {
+    "key": "MDAID_アスクの王女の冠・極",
+    "value": "Askran Tiara EX"
+  },
+  {
+    "key": "MDAID_H_アスクの王女の冠・極",
+    "value": "An ancestral tiara of Askr from\nSharena. Its golden chain and blue\njewel give it a very refined ambiance."
+  },
+  {
+    "key": "MDAID_天日の神の頭飾り",
+    "value": "Celestial Halo"
+  },
+  {
+    "key": "MDAID_H_天日の神の頭飾り",
+    "value": "An accessory emitting a blinding light\nfrom Baldr. With the power of Ásgarðr,\nit floats above the head all on its own."
+  },
+  {
+    "key": "MDAID_天日の神の頭飾り・極",
+    "value": "Celestial Halo EX"
+  },
+  {
+    "key": "MDAID_H_天日の神の頭飾り・極",
+    "value": "An accessory emitting a blinding light\nfrom Baldr. While it looks like heaven's\nprotection, it doesn't grant invincibility."
+  },
+  {
+    "key": "MDAID_体の癒し手のマスク",
+    "value": "Healing Mask"
+  },
+  {
+    "key": "MDAID_H_体の癒し手のマスク",
+    "value": "A special mask from Eikþyrnir. It is\nstructured for easy breathing and can\nbe used for any form of training."
+  },
+  {
+    "key": "MDAID_体の癒し手のマスク・極",
+    "value": "Healing Mask EX"
+  },
+  {
+    "key": "MDAID_H_体の癒し手のマスク・極",
+    "value": "A special mask from Eikþyrnir. It is\ninfused with life energy of Yggdrasill,\nand through it comes the freshest air."
+  },
+  {
+    "key": "MDAID_士官学校の帽子B",
+    "value": "Academy Cap B"
+  },
+  {
+    "key": "MDAID_H_士官学校の帽子B",
+    "value": "A cap from Byleth. It comes from\nGarreg Mach Monastery."
+  },
+  {
+    "key": "MDAID_士官学校の帽子B・極",
+    "value": "Academy Cap B EX"
+  },
+  {
+    "key": "MDAID_H_士官学校の帽子B・極",
+    "value": "A cap from Byleth. It feels a bit heavy\nat first, but it comes with a cat who\nrelishes in the comfort."
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_88",
+    "value": "Grants bonus to Atk/Spd/Def/Res during\ncombat = highest bonus on each stat between\nunit and allies within 2 spaces of unit.\nCalculates each stat bonus independently.\n(For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_90",
+    "value": "While unit lives, unit gets 2× SP after combat\nor after using an Assist skill (only highest value\napplied; does not stack).\n\nGrants Atk/Spd/Def/Res+5 to unit during\ncombat, any \"reduces damage by X%\" effect\nthat can be triggered only once per combat by\nunit's equipped Special skill can be triggered\nup to twice per combat (excludes boosted\nSpecial effects from engaging; only highest\nvalue applied; does not stack), and grants\nSpecial cooldown count-1 after combat.\n(For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_91",
+    "value": "If unit's attack can trigger unit's Special, grants\nSpecial cooldown count-X before unit's first\nattack (X = number of Penalty effects active\non foe, excluding stat penalties; max 2).\n(For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_88",
+    "value": "Increase Atk/Spd/Def/Res = highest bonus on\n  unit and nearby allies"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_89",
+    "value": "\"Savior\" triggers for magic attacks; Special\n  damage reduction can trigger twice"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_90",
+    "value": "2× SP; Special damage reduction can trigger\n  twice; Special cooldown count-1"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_91",
+    "value": "Inflicts Special cooldown count - number of\n  foe's Penalties before attacking"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_92",
+    "value": "Inflicts Spd penalty = number of Penalties on\n  foe + 4 (max 8)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_93",
+    "value": "Inflicts Res penalty = number of Penalties on\n  foe + 4 (max 8)"
+  },
+  {
+    "key": "MID_MISSION_S202508BOARDGAME01_TITLE",
+    "value": "Pawns of Loki"
+  },
+  {
+    "key": "MID_MISSION_S202508BOARDGAME01_A1",
+    "value": "PoL: Complete a Game"
+  },
+  {
+    "key": "MID_MISSION_H_S202508BOARDGAME01_A1",
+    "value": "Finish all turns to complete a game of Pawns\nof Loki."
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_TITLE",
+    "value": "Grand Hero Battles"
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_A1",
+    "value": "Defeat Panette"
+  },
+  {
+    "key": "MID_MISSION_H_S202508HERO01_A1",
+    "value": "Clear the Grand Hero Battle against Panette:\nClassy Brawler with Alfonse: Prince of Askr on\nyour team."
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_A2",
+    "value": "Defeat Panette"
+  },
+  {
+    "key": "MID_MISSION_H_S202508HERO01_A2",
+    "value": "Clear the Grand Hero Battle against Panette:\nClassy Brawler on Lunatic or higher difficulty\nwith Panette: Classy Brawler on your team."
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_A3",
+    "value": "Defeat Panette"
+  },
+  {
+    "key": "MID_MISSION_H_S202508HERO01_A3",
+    "value": "Defeat Panette: Classy Brawler at level 40 or\nhigher with Alfonse: Prince of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_A4",
+    "value": "Defeat Panette"
+  },
+  {
+    "key": "MID_MISSION_H_S202508HERO01_A4",
+    "value": "Defeat Panette: Classy Brawler at level 40 or\nhigher with Panette: Classy Brawler."
+  },
+  {
+    "key": "MID_MISSION_S202508HERO01_A5",
+    "value": "Defeat Panette"
+  },
+  {
+    "key": "MID_MISSION_H_S202508HERO01_A5",
+    "value": "Clear the Grand Hero Battle against Panette:\nClassy Brawler on Lunatic or higher difficulty\nusing only flying allies."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_TITLE",
+    "value": " Feh Pass"
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A3",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A3",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A5",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A5",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_S202508SUBSC02_A6",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508SUBSC02_A6",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_TITLE",
+    "value": "Green Hostiles"
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A1",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A1",
+    "value": "Defeat a green foe."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A2",
+    "value": "KO Green Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A2",
+    "value": "Defeat a green foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A3",
+    "value": "KO Green Foe w/R Tome"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A3",
+    "value": "Defeat a green foe with a red tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A4",
+    "value": "KO Green Foe w/R Infantry"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A4",
+    "value": "Defeat a green foe with a red infantry ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A5",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A5",
+    "value": "Defeat a green foe that is level 10 or higher\nwith an axe ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A6",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A6",
+    "value": "Defeat a green foe that is level 10 or higher\nwith a green tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A7",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A7",
+    "value": "Defeat a green foe that is level 10 or higher\nwith a green armored ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A8",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A8",
+    "value": "Defeat a green foe that is level 20 or higher\nwith a lance ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A9",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A9",
+    "value": "Defeat a green foe that is level 20 or higher\nwith a blue tome ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A10",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A10",
+    "value": "Defeat a green foe that is level 20 or higher\nwith a blue cavalry ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A11",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A11",
+    "value": "Defeat a green foe that is level 30 or higher\nwith a colorless bow ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A12",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A12",
+    "value": "Defeat a green foe that is level 30 or higher\nwith a colorless dagger ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A13",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A13",
+    "value": "Defeat a green foe that is level 30 or higher\nwith a colorless flying ally."
+  },
+  {
+    "key": "MID_MISSION_S202508VSTYPE01_A14",
+    "value": "KO Level 40+ Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202508VSTYPE01_A14",
+    "value": "Defeat a green foe that is level 40 or higher."
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_TITLE",
+    "value": "Truth & Justice"
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_A1",
+    "value": "Clear 10-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202508STORY_C01_A1",
+    "value": "Clear Book IX, Chapter 10: Part 1 on Lunatic\ndifficulty with a lance ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_A2",
+    "value": "Clear 10-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202508STORY_C01_A2",
+    "value": "Clear Book IX, Chapter 10: Part 2 on Lunatic\ndifficulty with an axe ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_A3",
+    "value": "Clear 10-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202508STORY_C01_A3",
+    "value": "Clear Book IX, Chapter 10: Part 3 on Lunatic\ndifficulty with a sword ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_A4",
+    "value": "Clear 10-4 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202508STORY_C01_A4",
+    "value": "Clear Book IX, Chapter 10: Part 4 on Lunatic\ndifficulty with a lance ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202508STORY_C01_A5",
+    "value": "Clear 10-5 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202508STORY_C01_A5",
+    "value": "Clear Book IX, Chapter 10: Part 5 on Lunatic\ndifficulty with an axe ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MPID_総選挙シャロン",
+    "value": "Sharena"
+  },
+  {
+    "key": "MPID_SEARCH_総選挙シャロン",
+    "value": "Sharena"
+  },
+  {
+    "key": "MPID_総選挙バルドル",
+    "value": "Baldr"
+  },
+  {
+    "key": "MPID_SEARCH_総選挙バルドル",
+    "value": "Baldr"
+  },
+  {
+    "key": "MPID_総選挙エイクス",
+    "value": "Eikþyrnir"
+  },
+  {
+    "key": "MPID_SEARCH_総選挙エイクス",
+    "value": "Eikþyrnir"
+  },
+  {
+    "key": "MPID_総選挙ベレト",
+    "value": "Byleth"
+  },
+  {
+    "key": "MPID_SEARCH_総選挙ベレト",
+    "value": "Byleth"
+  },
+  {
+    "key": "MPID_ブルーノ味方",
+    "value": "Bruno"
+  },
+  {
+    "key": "MPID_SEARCH_ブルーノ味方",
+    "value": "Bruno"
+  },
+  {
+    "key": "MPID_HONOR_総選挙シャロン",
+    "value": "Hopeful Princess"
+  },
+  {
+    "key": "MPID_HONOR_総選挙バルドル",
+    "value": "Rays of Judgment"
+  },
+  {
+    "key": "MPID_HONOR_総選挙エイクス",
+    "value": "Resolved to Train"
+  },
+  {
+    "key": "MPID_HONOR_総選挙ベレト",
+    "value": "Anchor of Hope"
+  },
+  {
+    "key": "MPID_HONOR_ブルーノ味方",
+    "value": "Masked Knight"
+  },
+  {
+    "key": "MPID_H_総選挙シャロン",
+    "value": "Princess of Askr. Dons the same garb as her\nmother, Henriette, and swears to bring peace\nback to the land."
+  },
+  {
+    "key": "MPID_H_総選挙バルドル",
+    "value": "A god of Ásgarðr, the celestial realm. She\nbeams with confidence as she accompanies\naccused criminals to their judgment."
+  },
+  {
+    "key": "MPID_H_総選挙エイクス",
+    "value": "A member of Yggdrasill's Healing Hands who\nanswers the call of many, tautening his body\nwith power."
+  },
+  {
+    "key": "MPID_H_総選挙ベレト",
+    "value": "A former mercenary, and once a teacher at the\nOfficers Academy. Wields the blade of another\nworld for those who seek peace. Appears in\nFire Emblem: Three Houses."
+  },
+  {
+    "key": "MPID_H_ブルーノ味方",
+    "value": "A masked knight whose identity and motives\nare a mystery."
+  },
+  {
+    "key": "MPID_VOICE_総選挙シャロン",
+    "value": "Julie Maddalena"
+  },
+  {
+    "key": "MPID_VOICE_総選挙バルドル",
+    "value": "Sam Slade"
+  },
+  {
+    "key": "MPID_VOICE_総選挙エイクス",
+    "value": "Takeuchi Shunsuke"
+  },
+  {
+    "key": "MPID_VOICE_総選挙ベレト",
+    "value": "Zach Aguilar"
+  },
+  {
+    "key": "MPID_VOICE_ブルーノ味方",
+    "value": "T. Axelrod"
+  },
+  {
+    "key": "MPID_VOICE_レーヴァテイン味方EX01",
+    "value": "Kugimiya Rie"
+  },
+  {
+    "key": "MPID_ILLUST_総選挙シャロン",
+    "value": "Niji Hayashi (ニジハヤシ)"
+  },
+  {
+    "key": "MPID_ILLUST_総選挙バルドル",
+    "value": "Manabi Okada (岡田学彌)"
+  },
+  {
+    "key": "MPID_ILLUST_総選挙エイクス",
+    "value": "Nishiki Areku (西木あれく)"
+  },
+  {
+    "key": "MPID_ILLUST_総選挙ベレト",
+    "value": "Mebaru (めばる)"
+  },
+  {
+    "key": "MPID_ILLUST_ブルーノ味方",
+    "value": "Kozaki Yusuke (コザキユースケ)"
+  },
+  {
+    "key": "MPID_ILLUST_レーヴァテイン味方EX01",
+    "value": "Chiko (チーコ)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0908b_popularity_01_総選挙エイクス",
+    "value": "Works with allies to cover physical\nand magical attacks with Savior! Also\nforbids foes from warping close by!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0908b_popularity_01_総選挙ベレト",
+    "value": "Uses Style to pierce foes three spaces\nout! Gains double SP with Prof's\nGuidance and solidifies defenses!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0908b_popularity_01_総選挙シャロン",
+    "value": "Follows up twice with high firepower!\nPlus, she and her allies gain an action,\nmaking her unstoppable!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0908b_popularity_01_総選挙バルドル",
+    "value": "Her powerful weapon-triangle attacks\noverwhelm foes! Uses her Style to\nrain judgment upon red and blue foes!"
+  },
+  {
+    "key": "MSID_真覇天帝の剣",
+    "value": "Sublime Creator"
+  },
+  {
+    "key": "MSID_SEARCH_真覇天帝の剣",
+    "value": "Sublime Creator"
+  },
+  {
+    "key": "MSID_天真の神弓",
+    "value": "Truth Seeker"
+  },
+  {
+    "key": "MSID_SEARCH_天真の神弓",
+    "value": "Truth Seeker"
+  },
+  {
+    "key": "MSID_王書グラズヘイム",
+    "value": "Glaðsbók"
+  },
+  {
+    "key": "MSID_SEARCH_王書グラズヘイム",
+    "value": "Glaðsbok"
+  },
+  {
+    "key": "MSID_心身の鍛錬の角",
+    "value": "Tempered Antler"
+  },
+  {
+    "key": "MSID_SEARCH_心身の鍛錬の角",
+    "value": "Tempered Antler"
+  },
+  {
+    "key": "MSID_異邦ヴラスキャルヴ",
+    "value": "Cryptic Valaskjálf"
+  },
+  {
+    "key": "MSID_SEARCH_異邦ヴラスキャルヴ",
+    "value": "Cryptic Valaskjalf"
+  },
+  {
+    "key": "MSID_入れ替え・歩法",
+    "value": "Swap Gait"
+  },
+  {
+    "key": "MSID_SEARCH_入れ替え・歩法",
+    "value": "Swap Gait"
+  },
+  {
+    "key": "MSID_肉体の咆哮",
+    "value": "Mighty Roar"
+  },
+  {
+    "key": "MSID_SEARCH_肉体の咆哮",
+    "value": "Mighty Roar"
+  },
+  {
+    "key": "MSID_角逐",
+    "value": "Archrival"
+  },
+  {
+    "key": "MSID_SEARCH_角逐",
+    "value": "Archrival"
+  },
+  {
+    "key": "MSID_師の導き",
+    "value": "Prof's Guidance"
+  },
+  {
+    "key": "MSID_SEARCH_師の導き",
+    "value": "Prof's Guidance"
+  },
+  {
+    "key": "MSID_天に代わりて",
+    "value": "Heaven's Stead"
+  },
+  {
+    "key": "MSID_SEARCH_天に代わりて",
+    "value": "Heaven's Stead"
+  },
+  {
+    "key": "MSID_攻撃速さの詠唱",
+    "value": "Atk/Spd Aria"
+  },
+  {
+    "key": "MSID_SEARCH_攻撃速さの詠唱",
+    "value": "Atk/Spd Aria"
+  },
+  {
+    "key": "MSID_速さ魔防の枷",
+    "value": "Spd/Res Shackle"
+  },
+  {
+    "key": "MSID_SEARCH_速さ魔防の枷",
+    "value": "Spd/Res Shackle"
+  },
+  {
+    "key": "MSID_真回避・見切り反撃",
+    "value": "Null C-Avoid"
+  },
+  {
+    "key": "MSID_SEARCH_真回避・見切り反撃",
+    "value": "Null C-Avoid"
+  },
+  {
+    "key": "MSID_お母様みたいに",
+    "value": "Just like Mother"
+  },
+  {
+    "key": "MSID_SEARCH_お母様みたいに",
+    "value": "Just like Mother"
+  },
+  {
+    "key": "MSID_鎧の護り手・理・茨",
+    "value": "A/D Briar P Save"
+  },
+  {
+    "key": "MSID_SEARCH_鎧の護り手・理・茨",
+    "value": "A/D Briar P Save"
+  },
+  {
+    "key": "MSID_開闢の鼓動状態",
+    "value": "Creation Pulse"
+  },
+  {
+    "key": "MSID_SEARCH_開闢の鼓動状態",
+    "value": "Creation Pulse"
+  },
+  {
+    "key": "MSID_H_真覇天帝の剣",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nUnit can counterattack regardless of foe's range.\n\nFor allies within 3 rows or 3 columns centered\non unit, grants Atk/Spd/Def/Res+5, neutralizes\npenalties on ally, and when ally deals damage\nto foe, restores 7 HP to ally during combat.\n\nIf unit is within 3 spaces of an ally, grants\nbonus to unit's Atk/Spd/Def/Res = number of\nallies within 3 rows or 3 columns centered on\nunit × 3, + 5 (max 14), neutralizes penalties\non unit, unit deals +X × 5 damage (excluding\narea-of-effect Specials), reduces damage\nfrom foe's attacks by X × 3 (excluding area-\nof-effect Specials), reduces damage from\nfoe's attacks by an additional X × 3 when foe's\nattack triggers foe's Special (excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit and foe, excluding stat\nbonuses; max 5), and when unit deals\ndamage to foe, restores 7 HP to unit during\ncombat.\n\nUnit can use the following【Style】:\n――――― Sublime Heaven Style ―――――\nUnit can attack foes 3 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Special cooldown count-1 to unit\nbefore unit's first attack during combat. If foe\nuses dragon or beast damage and unit's\nSpecial triggers, deals damage = 20% of\nunit's Atk (excluding area-of-effect Specials).\n\nCannot move through spaces within 3 spaces\nof foe that has triggered the【Bulwark】effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1 or foe can counterattack regardless\nof unit's range.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. Once used,\nthis Style cannot be used for two turns.\n――――――――――――――――――――\n\n【Style】\nChange Style using the Style button at the\nbottom of the screen.\n\nA unit's Style is only active when that unit\nis taking an action. Style use is disabled when\nunit is deployed using Pair Up or when unit is\nequipped with multiple skills that have a Style.\n\n【Bulwark】\nFoes with Range = 1 cannot move through\nspaces adjacent to unit (does not affect foes\nwith Pass skills).\n\nFoes with Range = 2 cannot move through\nspaces within 2 spaces of unit (does not affect\nfoes with Pass skills)."
+  },
+  {
+    "key": "MSID_H_真覇天帝の剣_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nUnit can counterattack regardless of foe's range.\n\nFor allies within 3 rows or 3 columns centered\non unit, grants Atk/Spd/Def/Res+5, neutralizes\npenalties on ally, and when ally deals damage\nto foe, restores 7 HP to ally during combat.\n\nIf unit is within 3 spaces of an ally, grants\nbonus to unit's Atk/Spd/Def/Res = number of\nallies within 3 rows or 3 columns centered on\nunit × 3, + 5 (max 14), neutralizes penalties\non unit, unit deals +X × 5 damage (excluding\narea-of-effect Specials), reduces damage\nfrom foe's attacks by X × 3 (excluding area-\nof-effect Specials), reduces damage from\nfoe's attacks by an additional X × 3 when foe's\nattack triggers foe's Special (excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit and foe, excluding stat\nbonuses; max 5), and when unit deals\ndamage to foe, restores 7 HP to unit during\ncombat.\n\nUnit can use the following【Style】:\n――――― Sublime Heaven Style ―――――\nUnit can attack foes 3 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Special cooldown count-1 to unit\nbefore unit's first attack during combat. If foe\nuses dragon or beast damage and unit's\nSpecial triggers, deals damage = 20% of\nunit's Atk (excluding area-of-effect Specials).\n\nCannot move through spaces within 3 spaces\nof foe that has triggered the【Bulwark】effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1 or foe can counterattack regardless\nof unit's range.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. Once used,\nthis Style cannot be used for two turns.\n――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_天真の神弓",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes. Neutralizes\n\"effective against flying\" bonuses.\n\nAt start of turn, if unit is within 2 spaces of\nan ally, grants \"unit can move 1 extra space\"\nto unit (that turn only; does not stack).\n\nAt start of player phase or enemy phase,\nif unit is within 2 spaces of an ally, grants\n\"reduces the percentage of foe's non-Special\n'reduce damage by X%' skills by 50% during\ncombat (excluding area-of-effect Specials)\"\nand \"Special cooldown charge +1 per attack\nduring combat (only highest value applied;\ndoes not stack)\" to unit and allies within 2\nspaces of unit for 1 turn.\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd/Def/Res\n= number of allies within 3 rows or 3 columns\ncentered on unit × 3, + 5 (max 14), unit\ndeals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit, excluding stat bonuses +\nnumber of Penalty effects active on foe,\nexcluding stat penalties), reduces damage\nfrom foe's attacks by Y (excluding area-of-\neffect Specials), reduces damage from\nfoe's Specials by an additional Y (excluding\narea-of-effect Specials; if unit has weapon-\ntriangle disadvantage, Y = 20% of unit's Spd;\notherwise, Y = 50% of unit's Spd), and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe during combat.\n\nUnit can use the following【Style】:\n――――― Weapon Triangle: Green Style ―――――\nWhen determining weapon triangle, counts\nunit as green (does not affect skill effects\nthat trigger based on attribute, such as \"if\nin combat against a green foe\"). This Style can\nbe used only once per turn.\n―――――――――――――――――――――――――\n\n【Style】\nChange Style using the Style button at the\nbottom of the screen.\n\nA unit's Style is only active when that unit\nis taking an action. Style use is disabled when\nunit is deployed using Pair Up or when unit is\nequipped with multiple skills that have a Style."
+  },
+  {
+    "key": "MSID_H_天真の神弓_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes. Neutralizes\n\"effective against flying\" bonuses.\n\nAt start of turn, if unit is within 2 spaces of\nan ally, grants \"unit can move 1 extra space\"\nto unit (that turn only; does not stack).\n\nAt start of player phase or enemy phase,\nif unit is within 2 spaces of an ally, grants\n\"reduces the percentage of foe's non-Special\n'reduce damage by X%' skills by 50% during\ncombat (excluding area-of-effect Specials)\"\nand \"Special cooldown charge +1 per attack\nduring combat (only highest value applied;\ndoes not stack)\" to unit and allies within 2\nspaces of unit for 1 turn.\n\nIf unit initiates combat or is within 2 spaces of\nan ally, grants bonus to unit's Atk/Spd/Def/Res\n= number of allies within 3 rows or 3 columns\ncentered on unit × 3, + 5 (max 14), unit\ndeals +X × 5 damage (max 25; excluding\narea-of-effect Specials; X = number of Bonus\neffects active on unit, excluding stat bonuses +\nnumber of Penalty effects active on foe,\nexcluding stat penalties), reduces damage\nfrom foe's attacks by Y (excluding area-of-\neffect Specials), reduces damage from\nfoe's Specials by an additional Y (excluding\narea-of-effect Specials; if unit has weapon-\ntriangle disadvantage, Y = 20% of unit's Spd;\notherwise, Y = 50% of unit's Spd), and\nneutralizes effects that grant \"Special\ncooldown charge +X\" to foe during combat.\n\nUnit can use the following【Style】:\n――――― Weapon Triangle: Green Style ―――――\nWhen determining weapon triangle, counts\nunit as green (does not affect skill effects\nthat trigger based on attribute, such as \"if\nin combat against a green foe\"). This Style can\nbe used only once per turn.\n―――――――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_王書グラズヘイム",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf unit initiates combat or is within 3 spaces of\nan ally, grants bonus to unit's Atk/Spd = 20%\nof unit's Spd at start of combat + 6, unit\ndeals +X × 5 damage (max 25; excluding area-\nof-effect Specials; X = number of Bonus effects\nactive on unit, excluding stat bonuses + number\nof Penalty effects active on foe, excluding stat\npenalties), and neutralizes effects that\nguarantee foe's follow-up attacks and effects\nthat prevent unit's follow-up attacks during\ncombat, and restores 7 HP to unit after\ncombat, and also, if decreasing the Spd\ndifference necessary to make a follow-up\nattack by 10 would allow unit to trigger a\nfollow-up attack (excluding guaranteed or\nprevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nIf ally initiates combat and is within 3 spaces of\nunit, grants another action to that ally after\ncombat (if a skill belonging to that ally triggers\nan effect that grants them another action, such\nas Galeforce, this effect is treated as not having\ntriggered; if a skill not belonging to that ally\ntriggers an effect that grants that ally another\naction at the same time as this effect, this\neffect is also considered to have been\ntriggered; once per turn; \"within 3 spaces\" is\ncalculated based on the position after\ntriggering post-combat skill effects that\nchange positioning).\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_王書グラズヘイム_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf unit initiates combat or is within 3 spaces of\nan ally, grants bonus to unit's Atk/Spd = 20%\nof unit's Spd at start of combat + 6, unit\ndeals +X × 5 damage (max 25; excluding area-\nof-effect Specials; X = number of Bonus effects\nactive on unit, excluding stat bonuses + number\nof Penalty effects active on foe, excluding stat\npenalties), and neutralizes effects that\nguarantee foe's follow-up attacks and effects\nthat prevent unit's follow-up attacks during\ncombat, and restores 7 HP to unit after\ncombat, and also, if decreasing the Spd\ndifference necessary to make a follow-up\nattack by 10 would allow unit to trigger a\nfollow-up attack (excluding guaranteed or\nprevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nIf ally initiates combat and is within 3 spaces of\nunit, grants another action to that ally after\ncombat (if a skill belonging to that ally triggers\nan effect that grants them another action, such\nas Galeforce, this effect is treated as not having\ntriggered; if a skill not belonging to that ally\ntriggers an effect that grants that ally another\naction at the same time as this effect, this\neffect is also considered to have been\ntriggered; once per turn; \"within 3 spaces\" is\ncalculated based on the position after\ntriggering post-combat skill effects that\nchange positioning)."
+  },
+  {
+    "key": "MSID_H_心身の鍛錬の角",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nFoes with Range = 1 cannot warp into spaces\nwithin 3 spaces of unit, and foes with Range = 2\ncannot warp into spaces within 4 spaces of unit\n(in either case, does not affect foes with Pass\nskills or warp effects from structures, like\ncamps and fortresses in Rival Domains).\n\nAt start of player phase or enemy phase, if unit\nis within 2 spaces of an ally, grants Atk/Def+6,\n【Fringe Bonus】, \"neutralizes foe's bonuses\nduring combat,\" and【Null Panic】to unit and\nallies within 2 spaces of unit for 1 turn.\n\nIf unit is within 2 spaces of an ally, and if unit\nor allies within 2 spaces of unit have bonuses\nto Atk/Spd/Def/Res after start-of-turn skills\ntrigger, or, if defending in Aether Raids, after\nstart-of-turn skills trigger at the start of turn 1\nof enemy phase, grants an additional +3 to each\ncorresponding stat for unit and those allies\nfor 1 turn (calculates each stat bonus\nindependently; max 10).\n\nIf unit is within 3 spaces of an ally, grants bonus\nto unit's Atk/Def/Res = 20% of unit's Def at\nstart of combat + 5, unit deals +X damage\n(excluding area-of-effect Specials), reduces\ndamage from foe's attacks by 50% of X during\ncombat (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 50% of X during combat (excluding\narea-of-effect Specials; X = highest total\nbonuses among unit and allies within 3 spaces\nof unit).\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, and unit can\ncounterattack regardless of foe's range.\n\n【Fringe Bonus】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = highest bonus on each stat between\nunit and allies within 2 spaces of unit for 1 turn.\nCalculates each stat bonus independently.\n\n【Null Panic】\nIf unit is inflicted with Panic (bonuses converted\ninto penalties), neutralizes the \"converts\nbonuses on target into penalties\" effect for\n1 turn."
+  },
+  {
+    "key": "MSID_H_心身の鍛錬の角_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nFoes with Range = 1 cannot warp into spaces\nwithin 3 spaces of unit, and foes with Range = 2\ncannot warp into spaces within 4 spaces of unit\n(in either case, does not affect foes with Pass\nskills or warp effects from structures, like\ncamps and fortresses in Rival Domains).\n\nAt start of player phase or enemy phase, if unit\nis within 2 spaces of an ally, grants Atk/Def+6,\n【Fringe Bonus】, \"neutralizes foe's bonuses\nduring combat,\" and【Null Panic】to unit and\nallies within 2 spaces of unit for 1 turn.\n\nIf unit is within 2 spaces of an ally, and if unit\nor allies within 2 spaces of unit have bonuses\nto Atk/Spd/Def/Res after start-of-turn skills\ntrigger, or, if defending in Aether Raids, after\nstart-of-turn skills trigger at the start of turn 1\nof enemy phase, grants an additional +3 to each\ncorresponding stat for unit and those allies\nfor 1 turn (calculates each stat bonus\nindependently; max 10).\n\nIf unit is within 3 spaces of an ally, grants bonus\nto unit's Atk/Def/Res = 20% of unit's Def at\nstart of combat + 5, unit deals +X damage\n(excluding area-of-effect Specials), reduces\ndamage from foe's attacks by 50% of X during\ncombat (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 50% of X during combat (excluding\narea-of-effect Specials; X = highest total\nbonuses among unit and allies within 3 spaces\nof unit).\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, and unit can\ncounterattack regardless of foe's range."
+  },
+  {
+    "key": "MSID_H_異邦ヴラスキャルヴ",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of player phase or enemy phase, if\nunit's HP ≥ 25%, grants Atk/Spd+6,\n【Anathema】, and \"unit makes a guaranteed\nfollow-up attack during combat\" to unit and\nallies within 2 spaces of unit for 1 turn.\n\nIf unit's HP ≥ 25% at start of combat, grants\nbonus to unit's Atk/Spd = 20% of unit's Spd\nat start of combat + 6, deals damage = 20%\nof unit's Spd (excluding area-of-effect\nSpecials), and unit can make a follow-up attack\nbefore foe's next attack during combat, and\nalso, if foe initiates combat, unit can\ncounterattack before foe's first attack.\n\n【Anathema】\nInflicts Spd/Def/Res-4 on foes within 3 spaces\nof unit during combat."
+  },
+  {
+    "key": "MSID_H_異邦ヴラスキャルヴ_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of player phase or enemy phase, if\nunit's HP ≥ 25%, grants Atk/Spd+6,\n【Anathema】, and \"unit makes a guaranteed\nfollow-up attack during combat\" to unit and\nallies within 2 spaces of unit for 1 turn.\n\nIf unit's HP ≥ 25% at start of combat, grants\nbonus to unit's Atk/Spd = 20% of unit's Spd\nat start of combat + 6, deals damage = 20%\nof unit's Spd (excluding area-of-effect\nSpecials), and unit can make a follow-up attack\nbefore foe's next attack during combat, and\nalso, if foe initiates combat, unit can\ncounterattack before foe's first attack."
+  },
+  {
+    "key": "MSID_H_入れ替え・歩法",
+    "value": "$aUnit and target ally swap spaces.\n\nIf unit uses an Assist skill on the current turn,\nenables【Canto (１)】.\n\n【Canto (１)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move １ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit would be able to\nmove with normal Canto movement.)"
+  },
+  {
+    "key": "MSID_H_入れ替え・歩法_NOSKW",
+    "value": "$aUnit and target ally swap spaces.\n\nIf unit uses an Assist skill on the current turn,\nenables【Canto (１)】."
+  },
+  {
+    "key": "MSID_H_肉体の咆哮",
+    "value": "$aBoosts damage by 60% of unit's Def when\nSpecial triggers.\n\nAt start of player phase or enemy phase, grants\nRes+6 and【Magic Twin Save】to target allies\nwithin 2 spaces of unit for 1 turn (if support\npartner is on player team, targets any support\npartner; otherwise, targets ally with the highest\nRes at start of battle, excluding unit; \"at start of\nbattle\" excludes increases to Res granted after\nally is deployed, such as Legendary Effects,\nMythic Effects, Bonus Heroes, Great Talent,\netc.; does not trigger when unit is equipped\nwith \"Savior\" effects other than【P Save】).\n\nReduces damage from foe's attacks during\ncombat by 40% (excluding area-of-effect\nSpecials) and grants Special cooldown count-X\n÷ 12 (rounded down) to unit before unit's first\nattack during combat (X = highest total bonuses\namong unit and allies within 3 spaces of unit),\nand also, if unit's Def ≥ foe's Def+5, disables\nunit's and foe's effects that change attack\npriority during combat.\n\n【Magic Twin Save】\nIf a magic, staff, or dragon foe initiates combat\nagainst an ally within 2 spaces of unit, triggers\nSavior on unit (triggers only if unit is not\nequipped with a skill that can trigger another\nSavior effect; if unit is granted multiple statuses\nthat enable \"Savior\" effects to trigger, Savior\nwill not trigger).\n\nIf foe uses magic, staff, or dragon damage,\ndisables foe's effects that \"calculate damage\nusing the lower of foe's Def or Res\" (including\narea-of-effect Specials), and any \"reduces\ndamage by X%\" effect that can be triggered\nonly once per combat by unit's equipped\nSpecial skill can be triggered up to twice per\ncombat during combat (excludes boosted\nSpecial effects from engaging; only highest\nvalue applied; does not stack).\n\n【P Save】\n\"If sword, lance, axe, bow, dagger, or beast foe\ninitiates combat\" is an activation condition for\n\"Savior.\""
+  },
+  {
+    "key": "MSID_H_肉体の咆哮_NOSKW",
+    "value": "$aBoosts damage by 60% of unit's Def when\nSpecial triggers.\n\nAt start of player phase or enemy phase, grants\nRes+6 and【Magic Twin Save】to target allies\nwithin 2 spaces of unit for 1 turn (if support\npartner is on player team, targets any support\npartner; otherwise, targets ally with the highest\nRes at start of battle, excluding unit; \"at start of\nbattle\" excludes increases to Res granted after\nally is deployed, such as Legendary Effects,\nMythic Effects, Bonus Heroes, Great Talent,\netc.; does not trigger when unit is equipped\nwith \"Savior\" effects other than【P Save】).\n\nReduces damage from foe's attacks during\ncombat by 40% (excluding area-of-effect\nSpecials) and grants Special cooldown count-X\n÷ 12 (rounded down) to unit before unit's first\nattack during combat (X = highest total bonuses\namong unit and allies within 3 spaces of unit),\nand also, if unit's Def ≥ foe's Def+5, disables\nunit's and foe's effects that change attack\npriority during combat."
+  },
+  {
+    "key": "MSID_H_角逐",
+    "value": "When Special triggers, boosts damage by X%\nof the greater of unit's or foe's Atk (if unit has\nweapon-triangle advantage, X = 80; otherwise,\nX = 70).\n\nReduces damage from foe's first attack by\n40% (\"first attack\" normally means only the\nfirst strike; for effects that grant \"unit attacks\ntwice,\" it means the first and second strikes)\nand inflicts Special cooldown charge -1 on foe\nper attack during combat (only highest value\napplied; does not stack), and also, if unit has\nweapon-triangle advantage, grants Special\ncooldown count-2 to unit and inflicts Special\ncooldown count+2 on foe before unit's first\nattack during combat (cannot exceed foe's\nmaximum Special cooldown)."
+  },
+  {
+    "key": "MSID_H_師の導き",
+    "value": "$aAt start of turn, and at start of enemy phase\n(except for in Summoner Duels), if unit is within\n3 spaces of an ally, grants【Prof's Guidance】\nand【Null Follow-Up】to unit and allies within\n3 spaces of unit for 1 turn, and also, for unit\nand allies within 3 spaces of unit, if Special\ncooldown count is at its maximum value, grants\nSpecial cooldown count-1.\n\nIf unit is within 3 spaces of an ally, grants\nAtk/Spd/Def/Res+9 to unit, unit deals +7\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nreduces the percentage of foe's non-Special\n\"reduce damage by X%\" skills by 50% during\ncombat (excluding area-of-effect Specials),\nand also, if decreasing the Spd difference\nnecessary to make a follow-up attack by 10\nwould allow unit to trigger a follow-up attack\n(excluding guaranteed or prevented follow-ups),\ntriggers【Potent Follow 100%】during combat.\n\n【Prof's Guidance】\nWhile unit lives, unit gets 2× SP after combat\nor after using an Assist skill (only highest value\napplied; does not stack).\n\nGrants Atk/Spd/Def/Res+5 to unit during\ncombat, any \"reduces damage by X%\" effect\nthat can be triggered only once per combat by\nunit's equipped Special skill can be triggered\nup to twice per combat (excludes boosted\nSpecial effects from engaging; only highest\nvalue applied; does not stack), and grants\nSpecial cooldown count-1 after combat.\n\n【Null Follow-Up】\nIf unit's Spd > foe's Spd during combat,\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks for 1 turn.\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_師の導き_NOSKW",
+    "value": "$aAt start of turn, and at start of enemy phase\n(except for in Summoner Duels), if unit is within\n3 spaces of an ally, grants【Prof's Guidance】\nand【Null Follow-Up】to unit and allies within\n3 spaces of unit for 1 turn, and also, for unit\nand allies within 3 spaces of unit, if Special\ncooldown count is at its maximum value, grants\nSpecial cooldown count-1.\n\nIf unit is within 3 spaces of an ally, grants\nAtk/Spd/Def/Res+9 to unit, unit deals +7\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nreduces the percentage of foe's non-Special\n\"reduce damage by X%\" skills by 50% during\ncombat (excluding area-of-effect Specials),\nand also, if decreasing the Spd difference\nnecessary to make a follow-up attack by 10\nwould allow unit to trigger a follow-up attack\n(excluding guaranteed or prevented follow-ups),\ntriggers【Potent Follow 100%】during combat."
+  },
+  {
+    "key": "MSID_H_天に代わりて",
+    "value": "$aEnables【Canto (Rem.; Min １)】.\n\nAt start of turn, if unit is within 2 spaces of an\nally, inflicts【Triangle Adept】and【Exposure】\non closest foes and foes within 2 spaces of\nthose foes through their next actions.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+9 to unit,\nunit deals +7 damage (excluding area-of-effect\nSpecials), reduces damage from foe's first\nattack by 7 (\"first attack\" normally means only\nthe first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes), and neutralizes effects that guarantee\nfoe's follow-up attacks and effects that prevent\nunit's follow-up attacks during combat, and\nalso, if【Exposure】is active on foe, or if unit\nhas weapon-triangle advantage, unit attacks\ntwice.\n\n【Canto (Rem.; Min １)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = any\nmovement not already used that turn (min. １;\nif unit used a movement skill that warped\nthem, unit can move １ space(s)).\n(Once per turn. Only highest value applied.\nDoes not stack.)\n\n【Triangle Adept】\nIf unit has weapon-triangle advantage, boosts Atk\nby 20% through its next action, and if unit has\nweapon-triangle disadvantage, reduces Atk by 20%\nthrough its next action.\n\n【Exposure】\nFoe's attacks deal +10 damage."
+  },
+  {
+    "key": "MSID_H_天に代わりて_NOSKW",
+    "value": "$aEnables【Canto (Rem.; Min １)】.\n\nAt start of turn, if unit is within 2 spaces of an\nally, inflicts【Triangle Adept】and【Exposure】\non closest foes and foes within 2 spaces of\nthose foes through their next actions.\n\nIf unit initiates combat or is within 2 spaces\nof an ally, grants Atk/Spd/Def/Res+9 to unit,\nunit deals +7 damage (excluding area-of-effect\nSpecials), reduces damage from foe's first\nattack by 7 (\"first attack\" normally means only\nthe first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes), and neutralizes effects that guarantee\nfoe's follow-up attacks and effects that prevent\nunit's follow-up attacks during combat, and\nalso, if【Exposure】is active on foe, or if unit\nhas weapon-triangle advantage, unit attacks\ntwice."
+  },
+  {
+    "key": "MSID_H_攻撃速さの詠唱",
+    "value": "If unit initiates combat or is within 3 spaces of\nan ally, grants bonus to unit's Atk/Spd = unit's\nmaximum Special cooldown count + 7 during\ncombat, and also, when unit's Special triggers,\ndeals damage = unit's maximum Special\ncooldown count × X (excluding area-of-effect\nSpecials; if unit triggers the \"unit attacks twice\"\neffect, X = 3; otherwise, X = 5)."
+  },
+  {
+    "key": "MSID_H_速さ魔防の枷",
+    "value": "$aAt start of turn, and after unit acts (if Canto\ntriggers, after Canto), inflicts【Spd Shackle】\nand【Res Shackle】on closest foes and foes\nwithin 2 spaces of those foes through their\nnext actions.\n\nInflicts Spd/Res-4 on foe and deals damage\n= number of【Penalty】effects active on foe,\nexcluding stat penalties, × 2, + 7 during combat\n(max 15; excluding area-of-effect Specials).\n\n【Spd Shackle】\nInflicts penalty on unit's Spd during combat =\nnumber of【Penalty】effects active on unit + 4,\nexcluding stat penalties (max 8; through unit's\nnext action).\n\n【Res Shackle】\nInflicts penalty on unit's Res during combat =\nnumber of【Penalty】effects active on unit + 4,\nexcluding stat penalties (max 8; through unit's\nnext action).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
+  },
+  {
+    "key": "MSID_H_速さ魔防の枷_NOSKW",
+    "value": "$aAt start of turn, and after unit acts (if Canto\ntriggers, after Canto), inflicts【Spd Shackle】\nand【Res Shackle】on closest foes and foes\nwithin 2 spaces of those foes through their\nnext actions.\n\nInflicts Spd/Res-4 on foe and deals damage\n= number of【Penalty】effects active on foe,\nexcluding stat penalties, × 2, + 7 during combat\n(max 15; excluding area-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_真回避・見切り反撃",
+    "value": "If a skill compares unit's Spd to a foe's or ally's\nSpd, treats unit's Spd as if granted +7.\n\nReduces damage from area-of-effect\nSpecials by 80% (excluding Røkkr\narea-of-effect Specials).\n\nInflicts Atk/Spd-4 on foe, deals damage =\ndifference between Spd stats + 5 (max 15;\nexcluding area-of-effect Specials; if unit's\nSpd < foe's Spd, treats Spd difference as 0),\nreduces damage from foe's attacks by 20%\nof unit's Spd (excluding area-of-effect\nSpecials), and neutralizes effects that\nprevent unit's counterattacks during combat."
+  },
+  {
+    "key": "MSID_H_お母様みたいに",
+    "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAt start of player phase or enemy phase, if unit\nis within 3 spaces of an ally, grants\n【Creation Pulse】and【Empathy】to unit and\nallies within 3 spaces of unit for 1 turn.\n\nIf unit initiates combat or if unit is within 3\nspaces of an ally, grants Atk/Spd+5 to unit\nand unit deals +7 damage during combat\n(excluding area-of-effect Specials), and also,\nif unit's HP > 1 and foe would reduce unit's\nHP to 0, unit survives with 1 HP (once per\ncombat; does not stack with non-Special\neffects that allow unit to survive with 1 HP if\nfoe's attack would reduce HP to 0).\n\nAfter unit acts, if an ally within 3 spaces of unit\ninitiates combat, grants another action to unit\nafter ally's combat, and if Canto has already\nbeen triggered, re-enables Canto (once per\nturn; if another effect that grants action to unit\nhas been activated at the same time, this effect\nis also considered to have been triggered;\n\"within 3 spaces\" is calculated based on the\nposition after triggering post-combat skill\neffects that change positioning).\n\n【Canto (Dist.; Max ３)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nunit moved prior to taking action (max ３).\n\n【Creation Pulse】\nIf unit's attack can trigger unit's Special, grants\nSpecial cooldown count-X before unit's first\nattack during combat (X = number of Penalty\neffects active on foe, excluding stat penalties;\nmax 2).\n(For 1 turn.)\n\n【Empathy】\nGrants bonus to unit's Atk/Spd/Def/Res =\nnumber of types of Bonus effects, excluding\nstat bonuses, and Penalty effects, excluding\nstat penalties, active on player team and\nenemy team during combat (max 7)."
+  },
+  {
+    "key": "MSID_H_お母様みたいに_NOSKW",
+    "value": "$aEnables【Canto (Dist.; Max ３)】.\n\nAt start of player phase or enemy phase, if unit\nis within 3 spaces of an ally, grants\n【Creation Pulse】and【Empathy】to unit and\nallies within 3 spaces of unit for 1 turn.\n\nIf unit initiates combat or if unit is within 3\nspaces of an ally, grants Atk/Spd+5 to unit\nand unit deals +7 damage during combat\n(excluding area-of-effect Specials), and also,\nif unit's HP > 1 and foe would reduce unit's\nHP to 0, unit survives with 1 HP (once per\ncombat; does not stack with non-Special\neffects that allow unit to survive with 1 HP if\nfoe's attack would reduce HP to 0).\n\nAfter unit acts, if an ally within 3 spaces of unit\ninitiates combat, grants another action to unit\nafter ally's combat, and if Canto has already\nbeen triggered, re-enables Canto (once per\nturn; if another effect that grants action to unit\nhas been activated at the same time, this effect\nis also considered to have been triggered;\n\"within 3 spaces\" is calculated based on the\nposition after triggering post-combat skill\neffects that change positioning)."
+  },
+  {
+    "key": "MSID_H_鎧の護り手・理・茨",
+    "value": "$aIf sword, lance, axe, bow, dagger, or beast foe\ninitiates combat against an ally within 2 spaces\nof unit, triggers【Savior】on unit.\n\nIf foe uses sword, lance, axe, bow, dagger, or\nbeast damage, grants Atk/Def+4 to unit,\ndisables foe's effects that \"calculate damage\nusing the lower of foe's Def or Res\" (including\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 5 during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and\nunit's next attack deals damage = 40% of foe's\nattack damage prior to reductions (resets at\nend of combat; only highest value applied;\ndoes not stack).\n\n【Savior】\nUnit takes ally's space, enters combat in ally's\nplace, and receives all after-combat effects.\n\nSavior will not trigger if ally is on terrain that\nunit cannot move to or if multiple units are able\nto use Savior during the same combat. If Savior\ntriggers, after-combat movement effects do\nnot occur."
+  },
+  {
+    "key": "MSID_H_鎧の護り手・理・茨_NOSKW",
+    "value": "$aIf sword, lance, axe, bow, dagger, or beast foe\ninitiates combat against an ally within 2 spaces\nof unit, triggers【Savior】on unit.\n\nIf foe uses sword, lance, axe, bow, dagger, or\nbeast damage, grants Atk/Def+4 to unit,\ndisables foe's effects that \"calculate damage\nusing the lower of foe's Def or Res\" (including\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 5 during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and\nunit's next attack deals damage = 40% of foe's\nattack damage prior to reductions (resets at\nend of combat; only highest value applied;\ndoes not stack)."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_C0910",
+    "value": "Book IX, Chapter 10"
+  },
+  {
+    "key": "MID_CHAPTER_C0910",
+    "value": "Truth & Justice"
+  },
+  {
+    "key": "MID_STAGE_TITLE_S9101",
+    "value": "Chapter 10-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_S9102",
+    "value": "Chapter 10-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_S9103",
+    "value": "Chapter 10-3"
+  },
+  {
+    "key": "MID_STAGE_TITLE_S9104",
+    "value": "Chapter 10-4"
+  },
+  {
+    "key": "MID_STAGE_TITLE_S9105",
+    "value": "Chapter 10-5"
+  },
+  {
+    "key": "MID_STAGE_S9101",
+    "value": "Vengeance Never-Ending"
+  },
+  {
+    "key": "MID_STAGE_S9102",
+    "value": "Hopeful Princess"
+  },
+  {
+    "key": "MID_STAGE_S9103",
+    "value": "Resolved to Train"
+  },
+  {
+    "key": "MID_STAGE_S9104",
+    "value": "Rays of Judgment"
+  },
+  {
+    "key": "MID_STAGE_S9105",
+    "value": "The Origin of the Name"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0205",
+    "value": "Masked Knight"
+  },
+  {
+    "key": "MID_STAGE_T0205",
+    "value": "Bruno"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0206",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_STAGE_T0206",
+    "value": "S & T"
+  },
+  {
+    "key": "MID_CHAPTER_ST_C0909",
+    "value": "Chapters 9 & 10"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_S0909",
+    "value": "Chapter 9"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_S0910",
+    "value": "Chapter 10"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_S1910",
+    "value": "Chapters 9 & 10"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB283",
+    "value": "Skill Studies 283"
+  },
+  {
+    "key": "MID_STAGE_PB283",
+    "value": "Resolute Anchor of Hope"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB284",
+    "value": "Skill Studies 284"
+  },
+  {
+    "key": "MID_STAGE_PB284",
+    "value": "Rays of Hope"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PC142",
+    "value": "Grandmaster 142"
+  },
+  {
+    "key": "MID_STAGE_PC142",
+    "value": "Crimea's Royal Court"
+  }
+]
