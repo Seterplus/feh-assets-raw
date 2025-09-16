@@ -1,0 +1,150 @@
+[
+  {
+    "key": "MID_UNIT_INFO_BLESSING_CONNECT",
+    "value": "$a相連英雄\n\n・每次出擊均會提升\n　「支援」「與召喚師的羈絆誓約」等級，\n　且能超越等級「Ｓ」，提升至「Ｓ＋」\n・自己和支援對象獲得支援效果時，\n　自己和支援對象\n　戰鬥中，$a0、$a1再＋$a2\n\n對相連英雄以外的英雄\n使用「$a3」後，\n可獲得與其相同的加持"
+  },
+  {
+    "key": "MID_ITEM_BOUQUET",
+    "value": "$a$a0的花束"
+  },
+  {
+    "key": "MID_ITEM_HELP_BOUQUET",
+    "value": "$a・每次出擊均會提升\n　「支援」「與召喚師的羈絆誓約」等級，\n　且能超越等級「Ｓ」，提升至「Ｓ＋」\n・自己和支援對象獲得支援效果時，\n　自己和支援對象\n　戰鬥中，$a0、$a1再＋$a2"
+  },
+  {
+    "key": "MID_ITEM_HELP_TAMER_SOUL_FOR_INFO",
+    "value": "・可裝備攜伴飾品\n・HP、攻擊、速度、防守、魔防＋１"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_9",
+    "value": "相連"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SELL_USED_BOUQUET_WARNING",
+    "value": "將要送回\n已使用花束的角色。\n\n確定要送回嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_USED_BOUQUET_WARNING",
+    "value": "將要消費\n已使用花束的角色。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_USED_BOUQUET_WARNING",
+    "value": "將要消費\n已使用花束的角色。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_GENERATE_USED_BOUQUET_WARNING",
+    "value": "將要以已使用花束的角色\n製作秘傳書。\n\n確定要製作秘傳書嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_RECOLLECTION_5",
+    "value": "支援 S+ 回顧"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_EMPTY",
+    "value": "目前未持有任何花束。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET",
+    "value": "贈送花束"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP1",
+    "value": "請選擇花束。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP2",
+    "value": "請選擇要贈送花束的對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_SELECT_LEFT",
+    "value": "消滅"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_SELECT_RIGHT",
+    "value": "贈送"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_CONFIRM",
+    "value": "$a要贈送\n$a0嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_WARNING",
+    "value": "贈送新的花束後，\n過去獲得的花束效果將會消失。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_BUTTON_DECIDE",
+    "value": "贈送"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_RANK_5",
+    "value": "S+"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_5",
+    "value": "有支援對象時，\n戰鬥中的攻擊速度防守魔防＋２"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_5",
+    "value": "ＨＰ＋７、攻擊速度防守魔防＋２"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_00",
+    "value": "◆贈送花束◆\n贈送花束後，\n其他英雄也可獲得\n相連英雄所持有的效果。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_01",
+    "value": "◆效果１◆\n每次出擊均會提升\n「支援」「與召喚師的羈絆誓約」等級，\n且能超越等級Ｓ，提升至Ｓ＋。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_02",
+    "value": "・「與召喚師的羈絆誓約」S＋\n　除了等級S的效果外，ＨＰ再＋２\n\n・「支援」S＋\n　等級為Ｓ的兩人\n　在戰鬥時相鄰所發動的支援效果\n　（攻擊速度防守魔防＋２），\n　變為無論兩人距離幾格均會發動"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_03",
+    "value": "◆效果２◆\n自己和支援對象獲得支援效果時，\n自己和支援對象\n戰鬥中的能力值再提升\n（提升的能力值\n　依花束而異）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_04",
+    "value": "◆其他◆\n・能將花束贈送給\n　相連英雄以外的英雄。\n\n・以複數花束強化能力值時，\n　將依照各能力值的最大值\n　來進行判定。"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_05_v0909b",
+    "value": "◆偶像不會繼承的事物◆\n下列的事物會消失。\n\n・突破極限\n・開花擅長、神裝、攜伴之心、花束\n・祝福、聖印、飾品"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202509",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR21_Feast_Title",
+    "value": "飽餐一頓"
+  },
+  {
+    "key": "MID_SPR21_Feast_Common",
+    "value": "睽違三天，終於能吃到像樣的一餐！！\n剩下來的甜甜圈會歸於誰呢？？"
+  },
+  {
+    "key": "MID_SPR21_Feast_3",
+    "value": "被突然出現的老鼠給搶走了……\n搭檔的跳躍力也令人大吃一驚……真厲害！"
+  },
+  {
+    "key": "MID_SPR21_Feast_4",
+    "value": "差點以為搭檔想要獨吞……\n甜甜圈非常好吃。"
+  },
+  {
+    "key": "MID_SPR21_Feast_5",
+    "value": "什麼！新的甜甜圈上桌了！！\n兩人抬頭仰望著那座氣派的甜甜圈塔！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202509",
+    "value": "為了那樣的笑容"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_PLUS",
+    "value": "兩人締結了最強韌的羈絆！\n戰鬥時無論距離幾格，能力都會提升。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_PLUS_WITH_USER",
+    "value": "兩人締結了最強韌的羈絆！\n夥伴的能力進一步提升。"
+  }
+]
