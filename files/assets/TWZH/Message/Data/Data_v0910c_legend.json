@@ -1,0 +1,754 @@
+[
+  {
+    "key": "MDAID_弓戦士のバンダナ・金",
+    "value": "弓戰士的頭巾・金"
+  },
+  {
+    "key": "MDAID_H_弓戦士のバンダナ・金",
+    "value": "戰勝神階英雄海姆達爾的證明。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_TITLE",
+    "value": "１１月任務"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A1",
+    "value": "在縛鎖鬥技場達成1勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A1",
+    "value": "在縛鎖鬥技場達成1勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A2",
+    "value": "在縛鎖鬥技場達成3連勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A2",
+    "value": "在縛鎖鬥技場達成3連勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A3",
+    "value": "在縛鎖鬥技場達成5連勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A3",
+    "value": "在縛鎖鬥技場達成5連勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A4",
+    "value": "特殊:以阿爾馮斯擊敗"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A4",
+    "value": "以亞斯克王國的王子阿爾馮斯擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A5",
+    "value": "特殊:以夏蓉擊敗"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A5",
+    "value": "以亞斯克王國的公主夏蓉擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A6",
+    "value": "特殊:以安娜擊敗"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A6",
+    "value": "以特務機關的隊長安娜擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A7",
+    "value": "擊敗赤屬性"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A7",
+    "value": "擊敗赤屬性的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A8",
+    "value": "擊敗青屬性"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A8",
+    "value": "擊敗青屬性的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A9",
+    "value": "擊敗綠屬性"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A9",
+    "value": "擊敗綠屬性的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A10",
+    "value": "擊敗無屬性"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A10",
+    "value": "擊敗無屬性的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A11",
+    "value": "擊敗步行"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A11",
+    "value": "擊敗步行的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A12",
+    "value": "擊敗重裝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A12",
+    "value": "擊敗重裝的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A13",
+    "value": "擊敗騎馬"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A13",
+    "value": "擊敗騎馬的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A14",
+    "value": "擊敗飛行"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A14",
+    "value": "擊敗飛行的敵人。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A15",
+    "value": "特殊:突破第5章-第1節"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A15",
+    "value": "在4人皆生存的狀態下\n過關<第8部>第5章-第1節(超難)。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A16",
+    "value": "特殊:突破第5章-第2節"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A16",
+    "value": "在4人皆生存的狀態下\n過關<第8部>第5章-第2節(超難)。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A17",
+    "value": "特殊:突破第5章-第3節"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A17",
+    "value": "在4人皆生存的狀態下\n過關<第8部>第5章-第3節(超難)。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A18",
+    "value": "特殊:突破第5章-第4節"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A18",
+    "value": "在4人皆生存的狀態下\n過關<第8部>第5章-第4節(超難)。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A19",
+    "value": "特殊:突破第5章-第5節"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A19",
+    "value": "在4人皆生存的狀態下\n過關<第8部>第5章-第5節(超難)。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A20",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A20",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A21",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A21",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A22",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A22",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A23",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A23",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A24",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A24",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_M202511A_A25",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_M202511A_A25",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_TITLE",
+    "value": "投票大戰"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A1",
+    "value": "在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A1",
+    "value": "過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A2",
+    "value": "在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A2",
+    "value": "過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A3",
+    "value": "在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A3",
+    "value": "過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A4",
+    "value": "在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A4",
+    "value": "過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A5",
+    "value": "在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A5",
+    "value": "過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A6",
+    "value": "突破修練之塔・第2層"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A6",
+    "value": "過關修練之塔・第2層。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A7",
+    "value": "突破修練之塔・第5層"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A7",
+    "value": "過關修練之塔・第5層。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A8",
+    "value": "突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A8",
+    "value": "過關修練之塔・第8層。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A9",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A9",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A10",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A10",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A11",
+    "value": "在鬥技場(中級以上)獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A11",
+    "value": "在鬥技場(中級以上)獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A12",
+    "value": "在鬥技場(中級以上)獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A12",
+    "value": "在鬥技場(中級以上)獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A13",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A13",
+    "value": "我軍內有赤屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A14",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A14",
+    "value": "我軍內有青屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A15",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A15",
+    "value": "我軍內有綠屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A16",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A16",
+    "value": "我軍內有無屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A17",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A17",
+    "value": "我軍內有赤屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A18",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A18",
+    "value": "我軍內有青屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A19",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A19",
+    "value": "我軍內有綠屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A20",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A20",
+    "value": "我軍內有無屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A21",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A21",
+    "value": "我軍內有赤屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A22",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A22",
+    "value": "我軍內有青屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A23",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A23",
+    "value": "我軍內有綠屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202510VOTE02_A24",
+    "value": "特殊:在投票大戰獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202510VOTE02_A24",
+    "value": "我軍內有無屬性成員，\n過關投票大戰。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_TITLE",
+    "value": "來自斧的挑戰"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A1",
+    "value": "擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A1",
+    "value": "擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A2",
+    "value": "以劍擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A2",
+    "value": "以劍的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A3",
+    "value": "以赤魔擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A3",
+    "value": "以赤魔的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A4",
+    "value": "以斧擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A4",
+    "value": "以斧的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A5",
+    "value": "以綠魔擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A5",
+    "value": "以綠魔的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A6",
+    "value": "以槍擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A6",
+    "value": "以槍的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A7",
+    "value": "以青魔擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A7",
+    "value": "以青魔的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A8",
+    "value": "以無屬性弓擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A8",
+    "value": "以無屬性弓的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A9",
+    "value": "以無屬性暗器擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A9",
+    "value": "以無屬性暗器的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A10",
+    "value": "以杖擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A10",
+    "value": "以杖的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A11",
+    "value": "以赤屬性擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A11",
+    "value": "以赤屬性的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A12",
+    "value": "以綠屬性擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A12",
+    "value": "以綠屬性的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A13",
+    "value": "以青屬性擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A13",
+    "value": "以青屬性的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A14",
+    "value": "以無屬性擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A14",
+    "value": "以無屬性的我方擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202511VSWEAPON01_A15",
+    "value": "擊敗斧"
+  },
+  {
+    "key": "MID_MISSION_H_S202511VSWEAPON01_A15",
+    "value": "擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_TITLE",
+    "value": "１１月修練任務"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A1",
+    "value": "特殊:突破修練之塔・第1層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A1",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第1層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A2",
+    "value": "特殊:突破修練之塔・第2層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A2",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第2層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A3",
+    "value": "特殊:突破修練之塔・第3層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A3",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第3層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A4",
+    "value": "特殊:突破修練之塔・第4層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A4",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第4層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A5",
+    "value": "特殊:突破修練之塔・第5層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A5",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第5層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A6",
+    "value": "特殊:突破修練之塔・第6層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A6",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第6層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A7",
+    "value": "特殊:突破修練之塔・第7層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A7",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第7層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A8",
+    "value": "特殊:突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A8",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第8層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A9",
+    "value": "特殊:突破修練之塔・第9層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A9",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第9層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A10",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A10",
+    "value": "在4人皆生存的狀態下\n過關修練之塔・第10層。"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A11",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A11",
+    "value": "我軍全員為步行，\n在4人皆生存的狀態下\n過關修練之塔・第10層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A12",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A12",
+    "value": "我軍全員為重裝，\n在4人皆生存的狀態下\n過關修練之塔・第10層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A13",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A13",
+    "value": "我軍全員為騎馬，\n在4人皆生存的狀態下\n過關修練之塔・第10層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_M202511B_A14",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202511B_A14",
+    "value": "我軍全員為飛行，\n在4人皆生存的狀態下\n過關修練之塔・第10層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MPID_ヘイムダル味方",
+    "value": "海姆達爾"
+  },
+  {
+    "key": "MPID_SEARCH_ヘイムダル味方",
+    "value": "海姆達爾"
+  },
+  {
+    "key": "MPID_HONOR_ヘイムダル味方",
+    "value": "預知之神"
+  },
+  {
+    "key": "MPID_H_ヘイムダル味方",
+    "value": "天之王國阿斯嘉特的神，個性理智。\n能預知對方在不久將來中所採取的所有行動。"
+  },
+  {
+    "key": "MPID_VOICE_ヘイムダル味方",
+    "value": "内山夕実(Yumi Uchiyama)"
+  },
+  {
+    "key": "MPID_ILLUST_ヘイムダル味方",
+    "value": "前嶋重機(Shigeki Maeshima)"
+  },
+  {
+    "key": "MPID_LEGEND_ヘイムダル味方",
+    "value": "神階效果：「理」　我方ＨＰ＋５、攻擊＋３\n在「理」的季節時，\n被賦予「理」的祝福的夥伴，\n與此英雄一起出擊，\n於飛空城將會獲得的神階效果加持，\n並減少防衛失敗時下降的評價。\n（減少數值：\n　神階英雄數（最多２名）×被賦予祝福的英雄數×５）\n\n此外，在「理」的季節時，\n根據神階英雄本身突破極限的次數，\n減少防衛失敗時下降的評價。\n（減少數值：突破極限次數×１）（最多２０）\n\n神階效果２：「理」　防衛部隊特別欄位\n神階效果３：「理」　防衛部隊增援欄位\n（※詳情記載於「飛空城　編組防衛部隊」內的說明）"
+  },
+  {
+    "key": "MID_TIPS_Summon_v0910c_legend_01_ヘイムダル味方",
+    "value": "預測未來，並依照預定執行一切的神。\n以「預知陷阱」阻止敵人的行動！封印輔助\n技能的救助和反擊，以無情一擊葬送敵人！"
+  },
+  {
+    "key": "MSID_魔笛ギャラルホルン",
+    "value": "魔笛加拉爾號角"
+  },
+  {
+    "key": "MSID_SEARCH_魔笛ギャラルホルン",
+    "value": "魔笛加拉爾號角"
+  },
+  {
+    "key": "MSID_攻撃魔防の詠唱",
+    "value": "攻擊魔防的詠唱"
+  },
+  {
+    "key": "MSID_SEARCH_攻撃魔防の詠唱",
+    "value": "攻擊魔防的詠唱"
+  },
+  {
+    "key": "MSID_すべて読めていた",
+    "value": "一切如我所料"
+  },
+  {
+    "key": "MSID_SEARCH_すべて読めていた",
+    "value": "一切如我所料"
+  },
+  {
+    "key": "MSID_攻魔鼓舞・強襲",
+    "value": "攻魔鼓舞・強攻"
+  },
+  {
+    "key": "MSID_SEARCH_攻魔鼓舞・強襲",
+    "value": "攻魔鼓舞･強攻"
+  },
+  {
+    "key": "MSID_H_魔笛ギャラルホルン",
+    "value": "$a容易發動奧義（發動計量－１）\n\n回合開始時，自身奧義發動計量－１\n\n飛空城防衛時的敵軍回合開始時，\n為位於自身縱向３列內的我方單位當中，\n最靠近地圖下方的我方\n賦予【預知陷阱】的效果（１回合）\n\n飛空城防衛時以外的敵軍回合開始時，\n離敵人最近的我方單位當中，\n防守最高的我方（自己除外）只有１名時，\n賦予該我方【預知陷阱】的效果（１回合）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、防守、魔防－５，\n抵銷攻擊、防守、魔防的＋強化狀態\n\n若戰鬥開始時，自身ＨＰ在２５％以上，\n戰鬥中，敵人的攻擊及魔防下降\n（下降數值為：自己在戰鬥開始時的魔防×２０％），\n自己給予的傷害＋○（範圍奧義除外），\n自己所受傷害－○（範圍奧義除外）\n（○的數值為：位於自身縱向３列及橫向３列內的\n　我方人數×５，最大１５），\n戰鬥後回復ＨＰ７\n\n【預知陷阱】\n受到敵人攻擊時，若在現在的回合內\n（我軍回合、敵軍回合分別計算）尚未進行過戰鬥，\n則發動以下效果\n・取消敵人攻擊，並視為已行動狀態\n・為該敵人附加【無法輔助】、無法反擊的異常狀態\n　（直到敵人下次行動結束）\n・解除我軍被賦予的【預知陷阱】的效果\n（此效果會在飛空城陷阱之後、\n　「守護人」之前發動，\n　在洛基的棋盤遊戲中則不會發動）\n\n【無法輔助】\n被附加此異常狀態的單位無法使用輔助技能，\n也無法獲得夥伴施放輔助技能效果\n（直到狀態異常者下次行動結束）\n（也無法獲得能解除不利的異常狀態的\n　「休息」、「大喝＋」等輔助技能效果）\n（也無法使用輔助技能「起舞」、「歌唱」）"
+  },
+  {
+    "key": "MSID_H_魔笛ギャラルホルン_NOSKW",
+    "value": "$a容易發動奧義（發動計量－１）\n\n回合開始時，自身奧義發動計量－１\n\n飛空城防衛時的敵軍回合開始時，\n為位於自身縱向３列內的我方單位當中，\n最靠近地圖下方的我方\n賦予【預知陷阱】的效果（１回合）\n\n飛空城防衛時以外的敵軍回合開始時，\n離敵人最近的我方單位當中，\n防守最高的我方（自己除外）只有１名時，\n賦予該我方【預知陷阱】的效果（１回合）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、防守、魔防－５，\n抵銷攻擊、防守、魔防的＋強化狀態\n\n若戰鬥開始時，自身ＨＰ在２５％以上，\n戰鬥中，敵人的攻擊及魔防下降\n（下降數值為：自己在戰鬥開始時的魔防×２０％），\n自己給予的傷害＋○（範圍奧義除外），\n自己所受傷害－○（範圍奧義除外）\n（○的數值為：位於自身縱向３列及橫向３列內的\n　我方人數×５，最大１５），\n戰鬥後回復ＨＰ７"
+  },
+  {
+    "key": "MSID_H_攻撃魔防の詠唱",
+    "value": "由自己發動攻擊時，\n或周圍３格內有我方單位時，\n戰鬥中的攻擊及魔防提升\n（提升數值為：奧義發動計量的最大值＋７），\n且發動奧義時，\n造成的傷害＋（奧義發動計量的最大值×○）\n（範圍奧義除外）\n（○的數值為：發動攻擊２次的效果時為３，\n　若非上述情形時則為５）"
+  },
+  {
+    "key": "MSID_H_すべて読めていた",
+    "value": "$a可發動【再移動（剩餘距離，最少１）】\n\n我軍回合及敵軍回合開始時，\n若有敵人魔防低於自己，\n且２格內有其他敵方單位，\n為該敵人附加【弱點暴露】、【不和】、【空轉】的\n異常狀態（直到敵人下次行動結束）\n\n若戰鬥開始時，自身ＨＰ在２５％以上，\n戰鬥中，敵人的攻擊及魔防－５，敵方無法追擊，\n敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值），\n自己給予的傷害＋（魔防×２０％）（範圍奧義除外），\n自己所受傷害－（魔防×２０％）（範圍奧義除外），\n自己在初次攻擊前奧義發動計量－１\n\n【再移動（剩餘距離，最少１）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n可馬上移動\n\n可移動的範圍為上述行動前\n剩餘的移動距離\n（最少１，傳送時也為１）\n（若有多個相同系統效果，僅取最大值）\n（１回合僅能發動１次）\n\n【弱點暴露】\n受到敵人攻擊時的傷害＋１０\n\n【不和】\n戰鬥中的攻擊、速度、防守、魔防下降\n（下降數值為：周圍２格內的我方人數（上限３）＋２）\n\n【空轉】\n「移動＋１」的效果將被視為\n「將最大移動範圍限制為１格」的異常狀態"
+  },
+  {
+    "key": "MSID_H_すべて読めていた_NOSKW",
+    "value": "$a可發動【再移動（剩餘距離，最少１）】\n\n我軍回合及敵軍回合開始時，\n若有敵人魔防低於自己，\n且２格內有其他敵方單位，\n為該敵人附加【弱點暴露】、【不和】、【空轉】的\n異常狀態（直到敵人下次行動結束）\n\n若戰鬥開始時，自身ＨＰ在２５％以上，\n戰鬥中，敵人的攻擊及魔防－５，敵方無法追擊，\n敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值），\n自己給予的傷害＋（魔防×２０％）（範圍奧義除外），\n自己所受傷害－（魔防×２０％）（範圍奧義除外），\n自己在初次攻擊前奧義發動計量－１"
+  },
+  {
+    "key": "MSID_H_攻魔鼓舞・強襲",
+    "value": "回合開始時，若周圍２格內有我方單位，\n則自己和周圍２格內的我方單位\n攻擊及魔防＋６，\n並賦予「戰鬥中使敵人奧義相關技能以外的\n　『傷害降低◯◯％』效果減少一半\n　（計算效果時，小數點後無條件捨去）\n　（範圍奧義除外）」的效果（１回合）\n\n戰鬥中的攻擊及魔防提升\n（提升數值為：地圖上\n　被賦予「戰鬥中使敵人奧義相關技能以外的\n　『傷害降低◯◯％』效果減少一半\n　（計算效果時，小數點後無條件捨去）\n　（範圍奧義除外）」的我方人數＋２）\n（自己除外，最大５）"
+  },
+  {
+    "key": "MID_STAGE_HONOR_L0092",
+    "value": "預知之神"
+  },
+  {
+    "key": "MID_STAGE_L0092",
+    "value": "海姆達爾"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB291",
+    "value": "技能篇２９１"
+  },
+  {
+    "key": "MID_STAGE_PB291",
+    "value": "天之兩翼"
+  }
+]
