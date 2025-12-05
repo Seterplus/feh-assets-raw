@@ -1,0 +1,194 @@
+[
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_02_v1000",
+    "value": "◆可成為夥伴的英雄◆\n僅可讓版本「１」～「７」的英雄\n成為夥伴。\n\n自己派遣的英雄，\n以及活動開始時最初的４人\n（阿爾馮斯、夏蓉、安娜、艾緒）\n無法成為夥伴。"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING10",
+    "value": "第１０部開頭影片"
+  },
+  {
+    "key": "MID_HERO_TRIAL_HELP_DIALOG_06_v1000a",
+    "value": "◆突破極限考驗◆\n僅限於擁有版本8.4後\n突破極限的\n傳承、神階、紋章士、救世英雄時\n才可挑戰的特殊考驗關卡。\n\n比一般的考驗難度更高，\n可獲得６００個「神龍之花」。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V1000A",
+    "value": "為紀念第１０部開始，\n已贈送城堡畫面特殊主題\n「冰之儀式神殿」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V1000A_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「冰之儀式神殿」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V1000A_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「冰之儀式神殿」進行變更。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202512",
+    "value": "邁向金色的明天"
+  },
+  {
+    "key": "MID_BLESSING_1",
+    "value": "火"
+  },
+  {
+    "key": "MID_BLESSING_2",
+    "value": "水"
+  },
+  {
+    "key": "MID_BLESSING_3",
+    "value": "風"
+  },
+  {
+    "key": "MID_BLESSING_4",
+    "value": "地"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_SAVIOR",
+    "value": "$a賦予自己的效果１：「$a0」之激戰\n在「$a0」的季節，\n於鬥技場等地會有得分較高的對手登場\n（未加上突破極限及技能效果等情況下，\n　自己的能力值合計將被視為$a1）\n（技能及聖印將被視為擁有最高SP，\n　但判定「最高SP」時，\n　武器以外的個人專用技能的SP除外）\n\n可透過「救世」賦予其他英雄力量\n※賦予救世的對象隨時可以變更\n\n賦予救世對象的效果１：強化能力\n根據救世英雄突破極限的次數，\n強化救世對象的能力值\n（每＋１相當於神龍之花＋１）\n（提升的能力值並不影響在鬥技場等處\n　配對對手的強度以及可獲得的得分）\n\n賦予救世對象的效果２：在鬥技場出現強敵\n在「$a0」的季節，\n於鬥技場等地會有得分較高的對手登場\n（以救世英雄及救世對象中較高方計算得分）\n（當對象為傳承英雄時，僅對「$a0」的傳承英雄有效）\n\n賦予救世對象的效果３：在鬥技場受到強化\n在「$a0」的季節，三角互克中佔優勢時，\n戰鬥中，給予的傷害＋２０，所受傷害－２０\n（均將範圍奧義除外）\n自己為無屬性時，對無屬性在三角互克中佔優勢\n（當對象為傳承英雄時，僅對「$a0」的傳承英雄有效）\n\n賦予救世對象的效果４：在鬥技場受到祝福\n在「$a0」的季節，傳承英雄以外的英雄\n除了自己的祝福之外，也會被視為擁有「$a0」的祝福"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_GRANTED_SAVIOR",
+    "value": "$a賦予救世對象的效果１：強化能力\n根據救世英雄突破極限的次數，\n強化救世對象的能力值\n（每＋１相當於神龍之花＋１）\n（提升的能力值並不影響在鬥技場等處\n　配對對手的強度以及可獲得的得分）\n\n賦予救世對象的效果２：在鬥技場出現強敵\n在「$a0」的季節，\n於鬥技場等地會有得分較高的對手登場\n（以救世英雄及救世對象中較高方計算得分）\n（當對象為傳承英雄時，僅對「$a0」的傳承英雄有效）\n\n賦予救世對象的效果３：在鬥技場受到強化\n在「$a0」的季節，三角互克中佔優勢時，\n戰鬥中，給予的傷害＋２０，所受傷害－２０\n（均將範圍奧義除外）\n自己為無屬性時，對無屬性在三角互克中佔優勢\n（當對象為傳承英雄時，僅對「$a0」的傳承英雄有效）\n\n賦予救世對象的效果４：在鬥技場受到祝福\n在「$a0」的季節，傳承英雄以外的英雄\n除了自己的祝福之外，也會被視為擁有「$a0」的祝福"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_10",
+    "value": "救世"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR",
+    "value": "救世"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP1",
+    "value": "請選擇救世英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP2",
+    "value": "請選擇要賦予救世的對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_BEFORE",
+    "value": "變更前"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_AFTER",
+    "value": "變更後"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_CONFIRM",
+    "value": "$a賦予救世後，救世對象\n就能獲得下述效果。\n・強化能力\n・在鬥技場出現強敵\n・在鬥技場受到強化\n・在鬥技場受到祝福\n要讓$a0對$a1\n賦予救世嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_CONFIRM_LEGENED_MISMATHCH",
+    "value": "$a賦予救世後，救世對象\n就能獲得下述效果。\n・強化能力\n要讓$a0對$a1\n賦予救世嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_WARNING",
+    "value": "每位救世英雄\n只能對１位英雄賦予救世，\n賦予救世的對象隨時可以變更。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_WARNING_LEGENED_MISMATHCH",
+    "value": "當對象為擁有不同祝福的傳承英雄時，\n部分效果無效。\n每位救世英雄\n只能對１位英雄賦予救世，\n賦予救世的對象隨時可以變更。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_BUTTON_DECIDE",
+    "value": "賦予救世"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_RESET",
+    "value": "$a要解除$a0\n賦予$a1的救世嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_BUTTON_RESET",
+    "value": "解除救世"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_DIALOG_SUCCESS",
+    "value": "已變更救世對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_EMPTY",
+    "value": "沒有救世英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_00",
+    "value": "◆救世◆\n救世英雄能\n賦予其他英雄「救世」。\n\n救世英雄能\n賦予救世對象特殊的力量。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_01",
+    "value": "◆救世效果１　提升能力◆\n將根據救世英雄突破極限的次數，\n強化救世對象的能力值。\n（每＋１相當於神龍之花＋１）\n\n提升的能力值並不影響在鬥技場等處\n配對對手的強度以及可獲得的得分。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_02",
+    "value": "◆救世效果２　在鬥技場出現強敵◆\n救世對象\n在救世英雄的祝福季節，\n於鬥技場等地\n會有得分較高的對手登場。\n（以救世英雄及救世對象中\n　較高方計算得分）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_03",
+    "value": "（當救世對象為傳承英雄時，\n　僅限救世對象與救世英雄\n　擁有相同祝福時有效）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_04",
+    "value": "◆救世效果３　在鬥技場受到強化◆\n救世對象\n在救世英雄的祝福季節，\n將發動後述效果。\n（當救世對象為傳承英雄時，\n　僅限救世對象與救世英雄\n　擁有相同祝福時有效）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_05",
+    "value": "三角互克中佔優勢時，\n戰鬥中，給予的傷害＋２０，\n所受傷害－２０\n（均將範圍奧義除外）\n自己為無屬性時，\n對無屬性在三角互克中佔優勢"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_06",
+    "value": "◆救世效果４　在鬥技場受到祝福◆\n救世對象\n在救世英雄的祝福季節，\n除了自己的祝福之外，\n也會被視為擁有救世英雄的祝福。\n（僅限傳承英雄以外的英雄）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_07",
+    "value": "此外，\n即使被視為擁有兩個祝福，\n祝福效果所帶來的\n經驗值、SP２倍的效果也不會疊加。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_08",
+    "value": "◆其他◆\n救世的效果當中，\n「在鬥技場○○」的對象如下。\n\n・鬥技場\n・縛鎖鬥技場\n・好友雙人組合戰"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_09",
+    "value": "◆其他◆\n救世英雄的效果當中，\n・激戰\n・在鬥技場出現強敵\n・在鬥技場受到強化\n僅限自己操作時有效。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SAVIOR_HELP_DIALOG_10",
+    "value": "◆其他◆\n救世的效果\n僅會影響救世對象。\n例如：\n救世英雄Ａ對救世英雄Ｂ賦予救世，\n即使救世英雄Ｂ對Ｃ賦予救世，\nＡ的效果也不會影響Ｃ，\n僅會影響Ｂ。"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65552",
+    "value": "冰之儀式神殿"
+  },
+  {
+    "key": "MID_SCF_九の世界の縮図",
+    "value": "九界縮圖"
+  },
+  {
+    "key": "MID_SCF_九の世界の縮図_HELP",
+    "value": "飛空城特別活動的物品\n以九界及世界樹為原型設計\n一想到正在俯瞰世界，就覺得很不可思議……"
+  },
+  {
+    "key": "MID_SCF_救世の剣の像",
+    "value": "救世之劍像"
+  },
+  {
+    "key": "MID_SCF_救世の剣の像_HELP",
+    "value": "飛空城特別活動的物品\n以繼承了世界意志的阿爾馮斯的劍為原型設計\n看著就會湧現出對抗滅世之冬的決心……"
+  },
+  {
+    "key": "MID_SCF_救世の槍の像",
+    "value": "救世之槍像"
+  },
+  {
+    "key": "MID_SCF_救世の槍の像_HELP",
+    "value": "飛空城特別活動的物品\n以繼承了世界意志的菲約爾姆的槍為原型設計\n看著就能靜下心對抗滅世之冬……"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202512",
+    "value": "冬之飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202512",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  }
+]
