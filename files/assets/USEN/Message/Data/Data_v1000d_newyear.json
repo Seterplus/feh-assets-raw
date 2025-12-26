@@ -1,0 +1,982 @@
+[
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_100",
+    "value": "$aGrants bonus to Atk during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_100_NOSKW",
+    "value": "$aGrants bonus to Atk during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_101",
+    "value": "$aGrants bonus to Res during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_101_NOSKW",
+    "value": "$aGrants bonus to Res during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_100",
+    "value": "Grants Atk bonus = number of Bonuses on\n  unit + 4 (max 8)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_101",
+    "value": "Grants Res bonus = number of Bonuses on\n  unit + 4 (max 8)"
+  },
+  {
+    "key": "MID_MISSION_M202601A_TITLE",
+    "value": "Jan Quests"
+  },
+  {
+    "key": "MID_MISSION_M202601A_A1",
+    "value": "Arena Assault: Win 1"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A1",
+    "value": "Win one battle in Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A2",
+    "value": "Arena Assault: 3 in a Row"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A2",
+    "value": "Win three consecutive battles\nin Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A3",
+    "value": "Arena Assault: 5 in a Row"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A3",
+    "value": "Win five consecutive battles\nin Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A4",
+    "value": "KO w/Alfonse"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A4",
+    "value": "Defeat a foe with Alfonse: Prince of Askr."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A5",
+    "value": "KO w/Sharena"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A5",
+    "value": "Defeat a foe with Sharena: Princess of Askr."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A6",
+    "value": "KO w/Anna"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A6",
+    "value": "Defeat a foe with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A7",
+    "value": "KO Red Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A7",
+    "value": "Defeat a red foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A8",
+    "value": "KO Blue Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A8",
+    "value": "Defeat a blue foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A9",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A9",
+    "value": "Defeat a green foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A10",
+    "value": "KO Colorless Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A10",
+    "value": "Defeat a colorless foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A11",
+    "value": "KO Infantry Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A11",
+    "value": "Defeat an infantry foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A12",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A12",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A13",
+    "value": "KO Cavalry Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A13",
+    "value": "Defeat a cavalry foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A14",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A14",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A15",
+    "value": "Clear 7-1"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A15",
+    "value": "Clear Book VIII, Chapter 7: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A16",
+    "value": "Clear 7-2"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A16",
+    "value": "Clear Book VIII, Chapter 7: Part 2 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A17",
+    "value": "Clear 7-3"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A17",
+    "value": "Clear Book VIII, Chapter 7: Part 3 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A18",
+    "value": "Clear 7-4"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A18",
+    "value": "Clear Book VIII, Chapter 7: Part 4 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A19",
+    "value": "Clear 7-5"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A19",
+    "value": "Clear Book VIII, Chapter 7: Part 5 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A20",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A20",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A21",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A21",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A22",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A22",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A23",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A23",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A24",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A24",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_M202601A_A25",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202601A_A25",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_TITLE",
+    "value": "Grand Hero Battles"
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_A1",
+    "value": "Defeat Vaida"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO01_A1",
+    "value": "Clear the Grand Hero Battle against Vaida:\nDracofang General with Anna: Commander\non your team."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_A2",
+    "value": "Defeat Vaida"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO01_A2",
+    "value": "Clear the Grand Hero Battle against Vaida:\nDracofang General on Lunatic or higher\ndifficulty with Vaida: Dracofang General\non your team."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_A3",
+    "value": "Defeat Vaida"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO01_A3",
+    "value": "Defeat Vaida: Dracofang General at level 40 or\nhigher with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_A4",
+    "value": "Defeat Vaida"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO01_A4",
+    "value": "Defeat Vaida: Dracofang General at level 40 or\nhigher with Vaida: Dracofang General."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO01_A5",
+    "value": "Defeat Vaida"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO01_A5",
+    "value": "Clear the Grand Hero Battle against Vaida:\nDracofang General on Lunatic or higher\ndifficulty using only flying allies."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_TITLE",
+    "value": "New Year!"
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A3",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A3",
+    "value": "Defeat a foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A4",
+    "value": "KO Foe w/Lance"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A4",
+    "value": "Defeat a foe with a lance ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A5",
+    "value": "KO Foe w/Axe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A5",
+    "value": "Defeat a foe with an axe ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A6",
+    "value": "KO Foe w/Colorless Bow"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A6",
+    "value": "Defeat a foe with a colorless bow ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A7",
+    "value": "KO Foe w/Colorless Dagger"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A7",
+    "value": "Defeat a foe with a colorless dagger ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A8",
+    "value": "KO Foe w/Staff"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A8",
+    "value": "Defeat a foe with a staff ally."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A9",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A9",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A11",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A11",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A12",
+    "value": "Resonant Battles Score"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A12",
+    "value": "Earn a score in Resonant Battles\nat any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A13",
+    "value": "Clear Heroic Ordeals"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A13",
+    "value": "Clear a Heroic Ordeal."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A14",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A14",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A15",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A15",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_S202601NEWYEAR01_A16",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_S202601NEWYEAR01_A16",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA01_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA01_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA01_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA01_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA01_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA01_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA01_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA01_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA01_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_TITLE",
+    "value": "Sword Arts"
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A1",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A1",
+    "value": "Defeat an axe foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A2",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A2",
+    "value": "Defeat a sword foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A3",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A3",
+    "value": "Defeat a lance foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A4",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A4",
+    "value": "Defeat a colorless bow foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A5",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A5",
+    "value": "Defeat a colorless dagger foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A6",
+    "value": "KO Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A6",
+    "value": "Defeat a staff foe with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A7",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A7",
+    "value": "Defeat an axe foe that is level 30 or higher\nwith a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A8",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A8",
+    "value": "Defeat a sword foe that is level 30 or higher\nwith a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A9",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A9",
+    "value": "Defeat a lance foe that is level 30 or higher\nwith a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A10",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A10",
+    "value": "Defeat a colorless bow foe that is level 30\nor higher with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A11",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A11",
+    "value": "Defeat a colorless dagger foe that is level 30\nor higher with a sword ally."
+  },
+  {
+    "key": "MID_MISSION_S202601USEWEAPON01_A12",
+    "value": "KO Lvl. 30+ Foe w/Sword"
+  },
+  {
+    "key": "MID_MISSION_H_S202601USEWEAPON01_A12",
+    "value": "Defeat a staff foe that is level 30 or higher\nwith a sword ally."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_TITLE",
+    "value": "Jan Training"
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A1",
+    "value": "Tower: 1st Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A1",
+    "value": "Clear the first stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A2",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A2",
+    "value": "Clear the second stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A3",
+    "value": "Tower: 3rd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A3",
+    "value": "Clear the third stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A4",
+    "value": "Tower: 4th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A4",
+    "value": "Clear the fourth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A5",
+    "value": "Tower: 5th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A5",
+    "value": "Clear the fifth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A6",
+    "value": "Tower: 6th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A6",
+    "value": "Clear the sixth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A7",
+    "value": "Tower: 7th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A7",
+    "value": "Clear the seventh stratum of the Training\nTower. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A8",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A8",
+    "value": "Clear the eighth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A9",
+    "value": "Tower: 9th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A9",
+    "value": "Clear the ninth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A10",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A10",
+    "value": "Clear the tenth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A11",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A11",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only infantry allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A12",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A12",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only armored allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A13",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A13",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only cavalry allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202601B_A14",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202601B_A14",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only flying allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P01_TITLE",
+    "value": "Mortals' New Year"
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P01_A1",
+    "value": "Clear P119-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P01_A1",
+    "value": "Clear Paralogue 119: Part 1 on Lunatic\ndifficulty with a sword ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P01_A2",
+    "value": "Clear P119-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P01_A2",
+    "value": "Clear Paralogue 119: Part 2 on Lunatic\ndifficulty with a lance ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P01_A3",
+    "value": "Clear P119-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P01_A3",
+    "value": "Clear Paralogue 119: Part 3 on Lunatic\ndifficulty with an axe ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MPID_比翼バルドル",
+    "value": "Baldr"
+  },
+  {
+    "key": "MPID_SEARCH_比翼バルドル",
+    "value": "Baldr"
+  },
+  {
+    "key": "MPID_年明ヴァーリ",
+    "value": "Váli"
+  },
+  {
+    "key": "MPID_SEARCH_年明ヴァーリ",
+    "value": "Vali"
+  },
+  {
+    "key": "MPID_年明ヘイムダル",
+    "value": "Heimdallr"
+  },
+  {
+    "key": "MPID_SEARCH_年明ヘイムダル",
+    "value": "Heimdallr"
+  },
+  {
+    "key": "MPID_年明ザガロ",
+    "value": "Sedgar"
+  },
+  {
+    "key": "MPID_SEARCH_年明ザガロ",
+    "value": "Sedgar"
+  },
+  {
+    "key": "MPID_HONOR_比翼バルドル",
+    "value": "New Year's Elite"
+  },
+  {
+    "key": "MPID_HONOR_年明ヴァーリ",
+    "value": "Devoted Sister"
+  },
+  {
+    "key": "MPID_HONOR_年明ヘイムダル",
+    "value": "New Year's Vision"
+  },
+  {
+    "key": "MPID_HONOR_年明ザガロ",
+    "value": "Festive Horseman"
+  },
+  {
+    "key": "MPID_H_比翼バルドル",
+    "value": "Gods of Ásgarðr, the celestial realm, who\ndescend from the heavens to deliver the best\npossible New Year."
+  },
+  {
+    "key": "MPID_H_年明ヴァーリ",
+    "value": "A god of Ásgarðr, the celestial realm, who\nadores her sister Baldr and is celebrating\nthe New Year and all its splendor with her."
+  },
+  {
+    "key": "MPID_H_年明ヘイムダル",
+    "value": "A god of Ásgarðr, the celestial realm, who is\nknown for her foresight. She plans out the\nperfect year on its very first day."
+  },
+  {
+    "key": "MPID_H_年明ザガロ",
+    "value": "Second in command of the Coyote's Men of\nAurelis under Hardin's command. He is calm\nand collected as he stands amidst the morning\nglow, unaffected by the New Year's liveliness.\nAppears in Fire Emblem: Mystery of the Emblem."
+  },
+  {
+    "key": "MPID_VOICE_比翼バルドル",
+    "value": "Sam Slade + Emi Lo"
+  },
+  {
+    "key": "MPID_VOICE_年明ヴァーリ",
+    "value": "Mia Paige"
+  },
+  {
+    "key": "MPID_VOICE_年明ヘイムダル",
+    "value": "Elsie Lovelock"
+  },
+  {
+    "key": "MPID_VOICE_年明ザガロ",
+    "value": "Brandon Jay"
+  },
+  {
+    "key": "MPID_ILLUST_比翼バルドル",
+    "value": "HACCAN"
+  },
+  {
+    "key": "MPID_ILLUST_年明ヴァーリ",
+    "value": "ecu (えく)"
+  },
+  {
+    "key": "MPID_ILLUST_年明ヘイムダル",
+    "value": "Homare (誉)"
+  },
+  {
+    "key": "MPID_ILLUST_年明ザガロ",
+    "value": "motsutsu / Trys Inc."
+  },
+  {
+    "key": "MPID_LEGEND_比翼バルドル",
+    "value": "(Duo Skills can be used once per map by\ntapping the Duo button. Duo Skills cannot\nbe used by units deployed using Pair Up.)\n(When unit has a status or a skill that enables\nuse of a Style, Duo Skills and Harmonized Skills\ncannot be used while unit can take an action\n(those skills can be used after unit has acted).)\n\nStandard Effect 1: Duel\nIf unit is 5★ and level 40 and unit's stats total\nless than 220, treats unit's stats as 220 in\nmodes like Arena. (Higher-scoring opponents\nwill appear. Stat total calculation excludes any\nvalues added by merges and skills.)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1000d_newyear_01_比翼バルドル",
+    "value": "They can brush aside green foes with\nStyle! Pierce foes five spaces away\nand fashionably retreat to safety."
+  },
+  {
+    "key": "MID_TIPS_Summon_v1000d_newyear_01_年明ヴァーリ",
+    "value": "Recovers before battle and can\nendure lethal attacks! Grants this\npower of healing to her allies too!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1000d_newyear_01_年明ヘイムダル",
+    "value": "Restrains foes with Foresight Snare.\nIncreases power with Liberate effects,\nand overwhelms foes with her Special!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1000d_newyear_01_年明ザガロ",
+    "value": "Deals +10 damage to foes in a wide\narea! Uses Reposition while also\nexposing the enemy's weaknesses."
+  },
+  {
+    "key": "MSID_天の女神姉妹の祭器",
+    "value": "Godly Devices"
+  },
+  {
+    "key": "MSID_SEARCH_天の女神姉妹の祭器",
+    "value": "Godly Devices"
+  },
+  {
+    "key": "MSID_愛しき姉の羽子板",
+    "value": "Sister Hagoita"
+  },
+  {
+    "key": "MSID_SEARCH_愛しき姉の羽子板",
+    "value": "Sister Hagoita"
+  },
+  {
+    "key": "MSID_一年の計の扇子",
+    "value": "New Year's Fan"
+  },
+  {
+    "key": "MSID_SEARCH_一年の計の扇子",
+    "value": "New Year's Fan"
+  },
+  {
+    "key": "MSID_午年の弓",
+    "value": "Horse Bow"
+  },
+  {
+    "key": "MSID_SEARCH_午年の弓",
+    "value": "Horse Bow"
+  },
+  {
+    "key": "MSID_午年の弓＋",
+    "value": "Horse Bow+"
+  },
+  {
+    "key": "MSID_SEARCH_午年の弓＋",
+    "value": "Horse Bow+"
+  },
+  {
+    "key": "MSID_天に代わりて・近",
+    "value": "Heaven's Stead N"
+  },
+  {
+    "key": "MSID_SEARCH_天に代わりて・近",
+    "value": "Heaven's Stead N"
+  },
+  {
+    "key": "MSID_天舞い立つ",
+    "value": "Heavenly Soar"
+  },
+  {
+    "key": "MSID_SEARCH_天舞い立つ",
+    "value": "Heavenly Soar"
+  },
+  {
+    "key": "MSID_攻速十紋章・治癒",
+    "value": "Uplift Imbue A/S"
+  },
+  {
+    "key": "MSID_SEARCH_攻速十紋章・治癒",
+    "value": "Uplift Imbue A/S"
+  },
+  {
+    "key": "MSID_攻撃魔防の解放",
+    "value": "Atk/Res Liberate"
+  },
+  {
+    "key": "MSID_SEARCH_攻撃魔防の解放",
+    "value": "Atk/Res Liberate"
+  },
+  {
+    "key": "MSID_H_天の女神姉妹の祭器",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nNeutralizes \"effective against flying\" bonuses.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Spd/Def/Res-5, inflicts\nadditional penalty on foe's Atk/Spd/Def/Res =\ncurrent bonus on each of foe's stats × 2\n(calculates each stat penalty independently),\nand reduces the percentage of foe's\nnon-Special \"reduce damage by X%\" skills by\n50% during combat (excluding area-of-effect\nSpecials).\n\nGrants Atk/Spd/Def/Res+10 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby X (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional X (excluding area-of-effect Specials;\nif unit has weapon-triangle disadvantage,\nX = 20% of unit's Spd; otherwise, X = 50%\nof unit's Spd), and neutralizes effects that\ninflict \"Special cooldown charge -X\" on unit\nduring combat.\n\nUnit can use the following【Style】:\n――――― Weapon Triangle: Red Style ―――――\nWhen determining weapon triangle, counts\nunit as red (does not affect skill effects\nthat trigger based on attribute, such as \"if\nin combat against a red foe\"). This Style can\nbe used only once per turn.\n―――――――――――――――――――――――――\n\n【Style】\nChange Style using the Style button at the\nbottom of the screen.\n\nA unit's Style is only active when that unit\nis taking an action. Style use is disabled when\nunit is deployed using Pair Up or when unit is\nequipped with multiple skills that have a Style."
+  },
+  {
+    "key": "MSID_H_天の女神姉妹の祭器_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nNeutralizes \"effective against flying\" bonuses.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Spd/Def/Res-5, inflicts\nadditional penalty on foe's Atk/Spd/Def/Res =\ncurrent bonus on each of foe's stats × 2\n(calculates each stat penalty independently),\nand reduces the percentage of foe's\nnon-Special \"reduce damage by X%\" skills by\n50% during combat (excluding area-of-effect\nSpecials).\n\nGrants Atk/Spd/Def/Res+10 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby X (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional X (excluding area-of-effect Specials;\nif unit has weapon-triangle disadvantage,\nX = 20% of unit's Spd; otherwise, X = 50%\nof unit's Spd), and neutralizes effects that\ninflict \"Special cooldown charge -X\" on unit\nduring combat.\n\nUnit can use the following【Style】:\n――――― Weapon Triangle: Red Style ―――――\nWhen determining weapon triangle, counts\nunit as red (does not affect skill effects\nthat trigger based on attribute, such as \"if\nin combat against a red foe\"). This Style can\nbe used only once per turn.\n―――――――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_愛しき姉の羽子板",
+    "value": "$aEnables【Canto (Rem.; Min １)】.\n\nNeutralizes \"effective against flying\" bonuses.\nGrants Spd+3. Unit can counterattack\nregardless of foe's range.\n\nGrants Atk/Spd+5 to allies within 3 spaces\nof unit during combat and those allies can\ncounterattack regardless of foe's range.\n\nFor allies within 3 spaces of unit, if ally's\nHP > 1 and foe would reduce ally's HP to 0\nduring combat, ally survives with 1 HP, and\nafter combat, restores 40 HP and grants\nAtk/Spd【Great Talent】+10 to ally (effect only\ntriggers for player's team once per map\nand does not stack with non-Special effects\nthat allow unit to survive with 1 HP if foe's\nattack would reduce unit's HP to 0; when any\nother such effect triggers on an ally granted\nthis effect, this effect will trigger too).\n\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes\nfoe's bonuses, unit deals +X damage (excluding\narea-of-effect Specials; X = 15 + total value of\nAtk and Spd【Great Talent】), reduces damage\nfrom foe's first attack by 15 (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes), and neutralizes effects that\nguarantee foe's follow-up attacks and effects\nthat prevent unit's follow-up attacks\nduring combat.\n\n(This skill grants max of【Great Talent】+10.)\n\n【Canto (Rem.; Min １)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = any\nmovement not already used that turn (min. １;\nif unit used a movement skill that warped\nthem, unit can move １ space(s)).\n(Once per turn. Only highest value applied.\nDoes not stack.)\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
+  },
+  {
+    "key": "MSID_H_愛しき姉の羽子板_NOSKW",
+    "value": "$aEnables【Canto (Rem.; Min １)】.\n\nNeutralizes \"effective against flying\" bonuses.\nGrants Spd+3. Unit can counterattack\nregardless of foe's range.\n\nGrants Atk/Spd+5 to allies within 3 spaces\nof unit during combat and those allies can\ncounterattack regardless of foe's range.\n\nFor allies within 3 spaces of unit, if ally's\nHP > 1 and foe would reduce ally's HP to 0\nduring combat, ally survives with 1 HP, and\nafter combat, restores 40 HP and grants\nAtk/Spd【Great Talent】+10 to ally (effect only\ntriggers for player's team once per map\nand does not stack with non-Special effects\nthat allow unit to survive with 1 HP if foe's\nattack would reduce unit's HP to 0; when any\nother such effect triggers on an ally granted\nthis effect, this effect will trigger too).\n\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes\nfoe's bonuses, unit deals +X damage (excluding\narea-of-effect Specials; X = 15 + total value of\nAtk and Spd【Great Talent】), reduces damage\nfrom foe's first attack by 15 (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes), and neutralizes effects that\nguarantee foe's follow-up attacks and effects\nthat prevent unit's follow-up attacks\nduring combat.\n\n(This skill grants max of【Great Talent】+10.)"
+  },
+  {
+    "key": "MSID_H_一年の計の扇子",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf defending in Aether Raids, at the start\nof enemy phase, grants【Foresight Snare】\nto allies closest to the bottom of the map\nwithin 3 columns centered on unit for 1 turn.\n\nIf not defending in Aether Raids, at the start\nof enemy phase, if there is only one ally\n(excluding unit) with the highest Def among\nallies closest to foe, grants\n【Foresight Snare】to that ally for 1 turn.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Def/Res-5 during combat,\nand also, if foe's attack can trigger their Special\nand if foe's Res at the start of battle ≤ 39,\ninflicts Special cooldown count+1 on foe before\nfoe's first attack during combat (cannot exceed\nthe foe's maximum Special cooldown; \"at start\nof battle\" excludes increases to Res granted\nafter foe is deployed, such as Legendary\nEffects, Mythic Effects, Bonus Heroes, Great\nTalent, etc.).\n\nGrants Atk/Def/Res+11 to unit, unit deals +25\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 15\n(excluding area-of-effect Specials), and\ngrants Special cooldown count-X to unit\nbefore unit's first attack during combat (X =\nnumber of Penalty effects active on foe,\nexcluding stat penalties; max 2).\n\n【Foresight Snare】\nIf foe initiates combat and there were no\ncombat instances on the current turn yet\n(player phase and enemy phase are counted\nseparately), triggers the following effects:\n- Cancels foe's attack, completing their action.\n- Inflicts【Isolation】and status preventing\ncounterattacks on foe through foe's next\naction.\n- Cancels Foresight Snare granted to your army.\n\n(These effect trigger after Aether Raids traps\nbut before Savior; does not trigger in Pawns\nof Loki).\n\n【Isolation】\nTarget cannot use or be the target of Assist\nskills through its next action. (Target can\nneither use nor be the target of skills like\nDance and Sing, skills that neutralize penalties,\nlike Restore and Harsh Command+, etc.)"
+  },
+  {
+    "key": "MSID_H_一年の計の扇子_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf defending in Aether Raids, at the start\nof enemy phase, grants【Foresight Snare】\nto allies closest to the bottom of the map\nwithin 3 columns centered on unit for 1 turn.\n\nIf not defending in Aether Raids, at the start\nof enemy phase, if there is only one ally\n(excluding unit) with the highest Def among\nallies closest to foe, grants\n【Foresight Snare】to that ally for 1 turn.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Def/Res-5 during combat,\nand also, if foe's attack can trigger their Special\nand if foe's Res at the start of battle ≤ 39,\ninflicts Special cooldown count+1 on foe before\nfoe's first attack during combat (cannot exceed\nthe foe's maximum Special cooldown; \"at start\nof battle\" excludes increases to Res granted\nafter foe is deployed, such as Legendary\nEffects, Mythic Effects, Bonus Heroes, Great\nTalent, etc.).\n\nGrants Atk/Def/Res+11 to unit, unit deals +25\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 15\n(excluding area-of-effect Specials), and\ngrants Special cooldown count-X to unit\nbefore unit's first attack during combat (X =\nnumber of Penalty effects active on foe,\nexcluding stat penalties; max 2)."
+  },
+  {
+    "key": "MSID_H_午年の弓",
+    "value": "Effective against flying foes.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Spd/Def/Res-5, foe suffers\n+10 damage from attacks (excluding\narea-of-effect Specials), and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials).\n\nUnit deals +20 damage (excluding area-of-effect\nSpecials) and reduces damage from foe's\nattacks by 10 during combat (excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_午年の弓＋",
+    "value": "Effective against flying foes.\n\nFor foes within 3 rows or 3 columns centered\non unit, inflicts Atk/Spd/Def/Res-5, foe suffers\n+10 damage from attacks (excluding\narea-of-effect Specials), and reduces the\npercentage of foe's non-Special \"reduce\ndamage by X%\" skills by 50% during combat\n(excluding area-of-effect Specials).\n\nUnit deals +20 damage (excluding area-of-effect\nSpecials) and reduces damage from foe's\nattacks by 10 during combat (excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_天に代わりて・近",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\n\nAt start of turn, inflicts【Triangle Adept】and\n【Exposure】on closest foes and foes within 2\nspaces of those foes through their next actions.\n\nGrants Atk/Spd/Def/Res+9 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks during combat. If\n【Exposure】is active on foe, if unit has\nweapon-triangle advantage, or if foe initiates\ncombat, unit attacks twice during combat.\n\n【Canto (Dist. +1; Max ４)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1. (Max ４.)\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit would be able to\nmove with normal Canto movement.)\n\n【Triangle Adept】\nIf unit has weapon-triangle advantage, boosts Atk\nby 20% through its next action, and if unit has\nweapon-triangle disadvantage, reduces Atk by 20%\nthrough its next action.\n\n【Exposure】\nFoe's attacks deal +10 damage."
+  },
+  {
+    "key": "MSID_H_天に代わりて・近_NOSKW",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\n\nAt start of turn, inflicts【Triangle Adept】and\n【Exposure】on closest foes and foes within 2\nspaces of those foes through their next actions.\n\nGrants Atk/Spd/Def/Res+9 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks during combat. If\n【Exposure】is active on foe, if unit has\nweapon-triangle advantage, or if foe initiates\ncombat, unit attacks twice during combat."
+  },
+  {
+    "key": "MSID_H_天舞い立つ",
+    "value": "Unit can move through foes' spaces.\n\nFor each foe within 5 spaces of unit, unit can\nmove to any of the nearest spaces adjacent\nto that foe (unless space is impassable terrain).\n\nInflicts Atk/Spd/Def-4 on foe, neutralizes\neffects that grant \"Special cooldown charge\n+X\" to foe, unit deals damage = 20% of the\ngreater of unit's Spd or Def (excluding\narea-of-effect Specials), and reduces damage\nfrom foe's attacks by 20% of the greater of\nunit's Spd or Def during combat (excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_攻速十紋章・治癒",
+    "value": "$aFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd+5, reduces\ndamage from foe's first attack by 5 (\"first\nattack\" normally means only the first strike; for\neffects that grant \"unit attacks twice,\" it means\nthe first and second strikes), and reduces the\neffect of【Deep Wounds】by 50% during\ncombat, and also, restores 40% of max HP as\ncombat begins (triggers after effects that deal\ndamage as combat begins; only highest value\napplied; does not stack).\n\n【Deep Wounds】\nUnit's HP cannot be healed through its\nnext action."
+  },
+  {
+    "key": "MSID_H_攻速十紋章・治癒_NOSKW",
+    "value": "$aFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd+5, reduces\ndamage from foe's first attack by 5 (\"first\nattack\" normally means only the first strike; for\neffects that grant \"unit attacks twice,\" it means\nthe first and second strikes), and reduces the\neffect of【Deep Wounds】by 50% during\ncombat, and also, restores 40% of max HP as\ncombat begins (triggers after effects that deal\ndamage as combat begins; only highest value\napplied; does not stack)."
+  },
+  {
+    "key": "MSID_H_攻撃魔防の解放",
+    "value": "$aAt start of player phase or enemy phase,\ngrants【Atk Liberate】and【Res Liberate】to\nunit and allies closest to foe (excluding unit)\nfor 1 turn.\n\nGrants Atk/Res+4 to unit during combat.\n\nFor unit and allies on the map with the\n【Atk Liberate】or【Res Liberate】effects\nactive, deals damage during combat = number\nof【Bonus】effects active on unit or ally + 5,\nexcluding stat bonuses (max 10; excluding\narea-of-effect Specials).\n\n【Atk Liberate】\nGrants bonus to Atk during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Res Liberate】\nGrants bonus to Res during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_攻撃魔防の解放_NOSKW",
+    "value": "$aAt start of player phase or enemy phase,\ngrants【Atk Liberate】and【Res Liberate】to\nunit and allies closest to foe (excluding unit)\nfor 1 turn.\n\nGrants Atk/Res+4 to unit during combat.\n\nFor unit and allies on the map with the\n【Atk Liberate】or【Res Liberate】effects\nactive, deals damage during combat = number\nof【Bonus】effects active on unit or ally + 5,\nexcluding stat bonuses (max 10; excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_比翼バルドル",
+    "value": "$aNeutralizes any【Penalty】and grants\nAtk/Spd/Def/Res+6,【Fringe Bonus】, and\n【Cancel Affinity】to unit and allies within 3\nspaces of unit for 1 turn.\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard).\n\n【Fringe Bonus】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = highest bonus on each stat between\nunit and allies within 2 spaces of unit for 1 turn.\nCalculates each stat bonus independently.\n\n【Cancel Affinity】\nIf unit has weapon-triangle disadvantage,\nreverses weapon-triangle advantage granted\nby foe's skills for 1 turn."
+  },
+  {
+    "key": "MSID_H_比翼バルドル_NOSKW",
+    "value": "$aNeutralizes any【Penalty】and grants\nAtk/Spd/Def/Res+6,【Fringe Bonus】, and\n【Cancel Affinity】to unit and allies within 3\nspaces of unit for 1 turn."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_CX118",
+    "value": "Paralogue 119"
+  },
+  {
+    "key": "MID_CHAPTER_CX118",
+    "value": "Mortals' New Year"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1181",
+    "value": "Paralogue 119-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1182",
+    "value": "Paralogue 119-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1183",
+    "value": "Paralogue 119-3"
+  },
+  {
+    "key": "MID_STAGE_X1181",
+    "value": "My Unbeatable Sister"
+  },
+  {
+    "key": "MID_STAGE_X1182",
+    "value": "Foreseen Victory"
+  },
+  {
+    "key": "MID_STAGE_X1183",
+    "value": "Relaxing into the Future"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB298",
+    "value": "Skill Studies 298"
+  },
+  {
+    "key": "MID_STAGE_PB298",
+    "value": "Goddess Sisters' New Year"
+  }
+]
