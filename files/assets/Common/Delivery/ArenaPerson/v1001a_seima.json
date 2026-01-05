@@ -1,0 +1,182 @@
+[
+  {
+    "hero_id": "PID_伝承リュール男",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承ルフレ女",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_紋章エーデル",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_比翼バルドル",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ヴァーリ",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ヘイムダル",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ザガロ",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_イグナーツ",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ラファエル",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アルフォンス",
+    "active": {
+      "start": "2026-01-06T07:00:00Z",
+      "finish": "2026-01-13T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承サクラ",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_伝承チキ",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_紋章エーデル",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_比翼バルドル",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ヴァーリ",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ヘイムダル",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_年明ザガロ",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_イグナーツ",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ラファエル",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アルフォンス",
+    "active": {
+      "start": "2026-01-13T07:00:00Z",
+      "finish": "2026-01-20T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]

@@ -5910,8 +5910,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      7,
-      8
+      0,
+      0
     ]
   },
   {
@@ -5923,8 +5923,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      0,
+      0
     ]
   },
   {
@@ -5936,8 +5936,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      7,
-      8
+      0,
+      0
     ]
   },
   {
@@ -5949,8 +5949,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      0,
+      0
     ]
   },
   {
@@ -5962,8 +5962,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      7,
-      8
+      0,
+      0
     ]
   },
   {
@@ -6127,7 +6127,7 @@
     "finish": "2026-02-16T23:00:00Z",
     "seasons": [
       1,
-      4
+      2
     ],
     "_skip0": null,
     "aether_seasons": [
@@ -6144,8 +6144,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6157,8 +6157,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6170,8 +6170,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6183,8 +6183,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6196,8 +6196,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6209,8 +6209,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6222,8 +6222,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6235,8 +6235,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6248,8 +6248,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6261,8 +6261,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6274,8 +6274,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6287,8 +6287,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6300,8 +6300,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6313,8 +6313,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6326,8 +6326,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6335,12 +6335,12 @@
     "finish": "2026-06-08T23:00:00Z",
     "seasons": [
       1,
-      0
+      2
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6348,12 +6348,12 @@
     "finish": "2026-06-15T23:00:00Z",
     "seasons": [
       1,
-      0
+      4
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6361,12 +6361,12 @@
     "finish": "2026-06-22T23:00:00Z",
     "seasons": [
       1,
-      0
+      3
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6374,181 +6374,181 @@
     "finish": "2026-06-29T23:00:00Z",
     "seasons": [
       1,
-      0
+      2
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-06-29T23:00:00Z",
     "finish": "2026-07-06T23:00:00Z",
     "seasons": [
-      0,
-      0
+      2,
+      4
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-07-06T23:00:00Z",
     "finish": "2026-07-13T23:00:00Z",
     "seasons": [
-      0,
-      0
+      2,
+      3
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-07-13T23:00:00Z",
     "finish": "2026-07-20T23:00:00Z",
     "seasons": [
-      0,
-      0
+      2,
+      1
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-07-20T23:00:00Z",
     "finish": "2026-07-27T23:00:00Z",
     "seasons": [
-      0,
-      0
+      2,
+      4
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-07-27T23:00:00Z",
     "finish": "2026-08-03T23:00:00Z",
     "seasons": [
-      0,
-      0
+      2,
+      3
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-08-03T23:00:00Z",
     "finish": "2026-08-10T23:00:00Z",
     "seasons": [
-      0,
-      0
+      3,
+      1
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-08-10T23:00:00Z",
     "finish": "2026-08-17T23:00:00Z",
     "seasons": [
-      0,
-      0
+      3,
+      4
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-08-17T23:00:00Z",
     "finish": "2026-08-24T23:00:00Z",
     "seasons": [
-      0,
-      0
+      3,
+      2
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-08-24T23:00:00Z",
     "finish": "2026-08-31T23:00:00Z",
     "seasons": [
-      0,
-      0
+      3,
+      4
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-08-31T23:00:00Z",
     "finish": "2026-09-07T23:00:00Z",
     "seasons": [
-      0,
+      4,
       0
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-09-07T23:00:00Z",
     "finish": "2026-09-14T23:00:00Z",
     "seasons": [
-      0,
+      4,
       0
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-09-14T23:00:00Z",
     "finish": "2026-09-21T23:00:00Z",
     "seasons": [
-      0,
+      4,
       0
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
     "start": "2026-09-21T23:00:00Z",
     "finish": "2026-09-28T23:00:00Z",
     "seasons": [
-      0,
+      4,
       0
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6560,8 +6560,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6573,8 +6573,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6586,8 +6586,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6599,8 +6599,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6612,8 +6612,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6625,8 +6625,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6638,8 +6638,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6651,8 +6651,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6664,8 +6664,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6677,8 +6677,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6690,8 +6690,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6703,8 +6703,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6716,8 +6716,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6729,8 +6729,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6742,8 +6742,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6755,8 +6755,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6768,8 +6768,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6781,8 +6781,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6794,8 +6794,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6807,8 +6807,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6820,8 +6820,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6833,8 +6833,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6846,8 +6846,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6859,8 +6859,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6872,8 +6872,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6885,8 +6885,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6898,8 +6898,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6911,8 +6911,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6924,8 +6924,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6937,8 +6937,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6950,8 +6950,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   },
   {
@@ -6963,8 +6963,8 @@
     ],
     "_skip0": null,
     "aether_seasons": [
-      5,
-      6
+      7,
+      8
     ]
   }
 ]

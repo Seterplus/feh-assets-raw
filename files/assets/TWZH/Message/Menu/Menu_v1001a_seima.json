@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MID_PORTRAIT_TITLE_202601",
+    "value": "聖光的守護者們"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_GRANTED_SAVIOR_PARTNER",
+    "value": "救世英雄"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BLESSING_HELP_DIALOG_01_v1001",
+    "value": "◆賦予祝福◆\n可以消費道具「祝福」，\n將祝福賦予給夥伴。\n\n無法將祝福賦予給\n傳承英雄、神階英雄、救世英雄。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BLESSING_HELP_DIALOG_02_v1001",
+    "value": "◆祝福的效果１◆\n透過戰鬥獲得的經驗值及ＳＰ\n會變為２倍。\n\n雖然無法賦予祝福給\n傳承英雄、神階英雄、救世英雄，\n但該英雄們一開始透過戰鬥獲得的\n經驗值及ＳＰ即為２倍。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BLESSING_HELP_DIALOG_03_v1001",
+    "value": "◆祝福的效果２◆\n受到與目前季節相同祝福的夥伴，\n若和同種類的傳承英雄・神階英雄\n一同出擊，可得到特別效果。\n（例）…\n在「水」的季節時，\n被賦予「水」之祝福的夥伴，\n若與「水」的傳承英雄菲約爾姆一起\n出擊，則ＨＰ＋３、速度＋３。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BLESSING_HELP_DIALOG_04_v1001",
+    "value": "◆目前季節◆\n目前季節會顯示於\n會戰首頁等畫面的左上方。\n\n◆傳承英雄、神階英雄、救世英雄◆\n在狀態畫面帶有特別的圖示，\n點觸圖示就可確認效果。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BLESSING_HELP_DIALOG__05_v1001",
+    "value": "◆神階、傳承、救世英雄的效果◆\n傳承、救世英雄在與自己屬性\n相同的季節中，於飛空城內\n能獲得神階效果加持。\n\n神階、救世英雄在與自己屬性\n相同的季節中，能獲得傳承效果加持。\n（神階英雄僅限於飛空城以外）"
+  }
+]
