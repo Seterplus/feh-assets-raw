@@ -1,0 +1,750 @@
+[
+  {
+    "key": "MDAID_旅先の年始の髪飾り",
+    "value": "New Year's Frill"
+  },
+  {
+    "key": "MDAID_H_旅先の年始の髪飾り",
+    "value": "Proof that two Heroes bested a boss\non their journeys together. Serves as\na souvenir from their travels."
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_103",
+    "value": "Grants bonus to Atk/Spd/Def/Res during\ncombat = number of spaces from start\nposition to end position of whoever\ninitiated combat × 2 (max 8). (For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_104",
+    "value": "$aGrants bonus to Spd during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MID_ENHANCE_FORMAL_HELP_104_NOSKW",
+    "value": "$aGrants bonus to Spd during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8). (For 1 turn.)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_102",
+    "value": "Status effect that can trigger other skill effects"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_103",
+    "value": "Bonus to Atk/Spd/Def/Res = spaces moved by\n  attacker × 2 (max 8)"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_104",
+    "value": "Grants Spd bonus = number of Bonuses on\n  unit + 4 (max 8)"
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_TITLE",
+    "value": "Three Heroes"
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_A2",
+    "value": "KO w/Sully"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_A2",
+    "value": "Use Sully to defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_A3",
+    "value": "KO w/Miriel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_A3",
+    "value": "Use Miriel to defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_B1",
+    "value": "KO Lvl. 20+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_B1",
+    "value": "Defeat a foe that is level 20 or higher\nwith Sully."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_B2",
+    "value": "KO Lvl. 20+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_B2",
+    "value": "Defeat a foe that is level 20 or higher\nwith Miriel."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_B3",
+    "value": "KO Lvl. 20+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_B3",
+    "value": "Defeat a foe that is level 20 or higher with\nEmmeryn: Gentle Exalt."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_C1",
+    "value": "KO Lvl. 35+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_C1",
+    "value": "Defeat a foe that is level 35 or higher\nwith Sully."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_C2",
+    "value": "KO Lvl. 35+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_C2",
+    "value": "Defeat a foe that is level 35 or higher\nwith Miriel."
+  },
+  {
+    "key": "MID_MISSION_S202601CHARA01_C3",
+    "value": "KO Lvl. 35+ Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601CHARA01_C3",
+    "value": "Defeat a foe that is level 35 or higher with\nEmmeryn: Gentle Exalt."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_TITLE",
+    "value": "Grand Hero Battles"
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_A1",
+    "value": "Defeat Chulainn"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO02_A1",
+    "value": "Clear the Grand Hero Battle against Chulainn:\nUnbeaten Warrior with Sharena: Princess of\nAskr on your team."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_A2",
+    "value": "Defeat Chulainn"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO02_A2",
+    "value": "Clear the Grand Hero Battle against Chulainn:\nUnbeaten Warrior on Lunatic or higher difficulty\nwith Chulainn: Unbeaten Warrior on your team."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_A3",
+    "value": "Defeat Chulainn"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO02_A3",
+    "value": "Defeat Chulainn: Unbeaten Warrior at level 40\nor higher with Sharena: Princess of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_A4",
+    "value": "Defeat Chulainn"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO02_A4",
+    "value": "Defeat Chulainn: Unbeaten Warrior at level 40\nor higher with Chulainn: Unbeaten Warrior."
+  },
+  {
+    "key": "MID_MISSION_S202601HERO02_A5",
+    "value": "Defeat Chulainn"
+  },
+  {
+    "key": "MID_MISSION_H_S202601HERO02_A5",
+    "value": "Clear the Grand Hero Battle against Chulainn:\nUnbeaten Warrior on Lunatic or higher\ndifficulty using only armored allies."
+  },
+  {
+    "key": "MID_MISSION_S202601JOURNEY01_TITLE",
+    "value": "Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_S202601JOURNEY01_A1",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202601JOURNEY01_A1",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202601JOURNEY01_A2",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202601JOURNEY01_A2",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_TITLE",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_A1",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202601KIZUNA01_A1",
+    "value": "Clear the Bound Hero Battle against Nergal\n& Ursula with Anna: Commander on your team."
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_A2",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202601KIZUNA01_A2",
+    "value": "Clear the Bound Hero Battle against Nergal\n& Ursula on Lunatic or higher difficulty with\nAlfonse: Prince of Askr on your team."
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_A3",
+    "value": "Defeat Ursula"
+  },
+  {
+    "key": "MID_MISSION_H_S202601KIZUNA01_A3",
+    "value": "Defeat Ursula: Blackened Crow at level 40\nor higher with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_A4",
+    "value": "Defeat Nergal"
+  },
+  {
+    "key": "MID_MISSION_H_S202601KIZUNA01_A4",
+    "value": "Defeat Nergal at level 40 or higher with\nAlfonse: Prince of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202601KIZUNA01_A5",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202601KIZUNA01_A5",
+    "value": "Clear the Bound Hero Battle against Nergal &\nUrsula on Lunatic or higher difficulty using\nonly infantry allies."
+  },
+  {
+    "key": "MID_MISSION_S202601MJOLNIR02_TITLE",
+    "value": "Mjölnir's Strike"
+  },
+  {
+    "key": "MID_MISSION_S202601MJOLNIR02_A1",
+    "value": "KO w/Summoner"
+  },
+  {
+    "key": "MID_MISSION_H_S202601MJOLNIR02_A1",
+    "value": "Defeat a foe with the My Summoner unit\nin Mjölnir's Strike."
+  },
+  {
+    "key": "MID_MISSION_S202601MJOLNIR02_A2",
+    "value": "KO w/Summoner"
+  },
+  {
+    "key": "MID_MISSION_H_S202601MJOLNIR02_A2",
+    "value": "Defeat a foe with the My Summoner unit\nin Mjölnir's Strike."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA03_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA03_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA03_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA03_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA03_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA03_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA03_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA03_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA03_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA04_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA04_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA04_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA04_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA04_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA04_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA04_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SENKA04_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SENKA04_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_TITLE",
+    "value": " Feh Pass"
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A3",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A3",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A5",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A5",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_S202601SUBSC02_A6",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202601SUBSC02_A6",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P02_TITLE",
+    "value": "Cure for Shyness"
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P02_A1",
+    "value": "Clear P120-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P02_A1",
+    "value": "Clear Paralogue 120: Part 1 on Lunatic\ndifficulty with a lance ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P02_A2",
+    "value": "Clear P120-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P02_A2",
+    "value": "Clear Paralogue 120: Part 2 on Lunatic\ndifficulty with an axe ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202601STORY_P02_A3",
+    "value": "Clear P120-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202601STORY_P02_A3",
+    "value": "Clear Paralogue 120: Part 3 on Lunatic\ndifficulty with a sword ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MPID_双界ヒルダ",
+    "value": "Hilda"
+  },
+  {
+    "key": "MPID_SEARCH_双界ヒルダ",
+    "value": "Hilda"
+  },
+  {
+    "key": "MPID_イリアアクア",
+    "value": "Azura"
+  },
+  {
+    "key": "MPID_SEARCH_イリアアクア",
+    "value": "Azura"
+  },
+  {
+    "key": "MPID_イリアワユ",
+    "value": "Mia"
+  },
+  {
+    "key": "MPID_SEARCH_イリアワユ",
+    "value": "Mia"
+  },
+  {
+    "key": "MPID_イリアミネルバ",
+    "value": "Minerva"
+  },
+  {
+    "key": "MPID_SEARCH_イリアミネルバ",
+    "value": "Minerva"
+  },
+  {
+    "key": "MPID_HONOR_双界ヒルダ",
+    "value": "Skyward Wings"
+  },
+  {
+    "key": "MPID_HONOR_イリアアクア",
+    "value": "Lady of the Sky"
+  },
+  {
+    "key": "MPID_HONOR_イリアワユ",
+    "value": "Zenith Challenger"
+  },
+  {
+    "key": "MPID_HONOR_イリアミネルバ",
+    "value": "Above the Stars"
+  },
+  {
+    "key": "MPID_H_双界ヒルダ",
+    "value": "Hilda, the lazy daughter of a privileged family,\nand Florina, from Ilia, descend from the skies to\nparticipate in the Ilian festival! They appear in\nFire Emblem: Three Houses / The Blazing Blade."
+  },
+  {
+    "key": "MPID_H_イリアアクア",
+    "value": "A songstress who was raised in Hoshido. She\nparticipates in the Ilian festival, where her song\nresounds throughout. Appears in Fire\nEmblem Fates."
+  },
+  {
+    "key": "MPID_H_イリアワユ",
+    "value": "A swordswoman and member of the Greil\nMercenaries. She mounts a pegasus at the\nIlian festival, where mercenaries gather.\nAppears in Fire Emblem: Radiant Dawn."
+  },
+  {
+    "key": "MPID_H_イリアミネルバ",
+    "value": "Eldest princess of Macedon. She mounts a\npegasus for the first time in ages to participate\nin the Ilian festival, where mercenaries gather.\nAppears in Fire Emblem: Mystery of the Emblem."
+  },
+  {
+    "key": "MPID_VOICE_双界ヒルダ",
+    "value": "Salli Saffioti + Julie Maddalena"
+  },
+  {
+    "key": "MPID_VOICE_イリアアクア",
+    "value": "Rena Strober"
+  },
+  {
+    "key": "MPID_VOICE_イリアワユ",
+    "value": "Anne Yatco"
+  },
+  {
+    "key": "MPID_VOICE_イリアミネルバ",
+    "value": "Cindy Robinson"
+  },
+  {
+    "key": "MPID_VOICE_ベルベットEX01",
+    "value": "Jessica Gee-George"
+  },
+  {
+    "key": "MPID_ILLUST_双界ヒルダ",
+    "value": "GomashioPonzu (ごましおポン酢)"
+  },
+  {
+    "key": "MPID_ILLUST_イリアアクア",
+    "value": "Saine (さいね)"
+  },
+  {
+    "key": "MPID_ILLUST_イリアワユ",
+    "value": "Mai Okuma (大熊まい)"
+  },
+  {
+    "key": "MPID_ILLUST_イリアミネルバ",
+    "value": "RIZ3"
+  },
+  {
+    "key": "MPID_ILLUST_ベルベットEX01",
+    "value": "GENKIENJIN / Trys Inc."
+  },
+  {
+    "key": "MPID_LEGEND_双界ヒルダ",
+    "value": "(Harmonized Skills can be used by tapping the\nHarmonized button. This skill can be used only\nonce per map. Harmonized Skills cannot be\nused by units deployed using Pair Up.)\n(When unit has a status or a skill that enables\nuse of a Style, Duo Skills and Harmonized Skills\ncannot be used while unit can take an action\n(those skills can be used after unit has acted).)\n\nResonance Effect: Three Houses /\nThe Blazing Blade\nIncreases scores in Resonant Battles.\n(More details can be found in the Help\nmessages within Resonant Battles.)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1001b_ilia_01_双界ヒルダ",
+    "value": "They can attack twice and allow their\nallies to do the same. They defeat\nfoes while ignoring obstructions!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1001b_ilia_01_イリアアクア",
+    "value": "Her song reaches two spaces away!\nShe bolsters her allies and slays\nfoes with three attacks in a row!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1001b_ilia_01_イリアワユ",
+    "value": "Empowers allies to deflect damage\nand strengthens their next strikes!\nPunishes foes and retreats to safety!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1001b_ilia_01_イリアミネルバ",
+    "value": "Stands strong against archers! If she\nhas many staff or flying allies on the\nmap, her Special is relentless!"
+  },
+  {
+    "key": "MSID_イリアの長剣",
+    "value": "Ilian Longsword"
+  },
+  {
+    "key": "MSID_SEARCH_イリアの長剣",
+    "value": "Ilian Longsword"
+  },
+  {
+    "key": "MSID_イリアの長槍",
+    "value": "Ilian Greatlance"
+  },
+  {
+    "key": "MSID_SEARCH_イリアの長槍",
+    "value": "Ilian Greatlance"
+  },
+  {
+    "key": "MSID_イリアの戦斧",
+    "value": "Ilian Battleaxe"
+  },
+  {
+    "key": "MSID_SEARCH_イリアの戦斧",
+    "value": "Ilian Battleaxe"
+  },
+  {
+    "key": "MSID_武門の妹二人の剛弓",
+    "value": "Skybound Bow"
+  },
+  {
+    "key": "MSID_SEARCH_武門の妹二人の剛弓",
+    "value": "Skybound Bow"
+  },
+  {
+    "key": "MSID_うたうせいひつ",
+    "value": "Songful Essence"
+  },
+  {
+    "key": "MSID_SEARCH_うたうせいひつ",
+    "value": "Songful Essence"
+  },
+  {
+    "key": "MSID_ウィークショット",
+    "value": "Waning Shot"
+  },
+  {
+    "key": "MSID_SEARCH_ウィークショット",
+    "value": "Waning Shot"
+  },
+  {
+    "key": "MSID_真・赤い竜騎士",
+    "value": "Dragoon Pillar"
+  },
+  {
+    "key": "MSID_SEARCH_真・赤い竜騎士",
+    "value": "Dragoon Pillar"
+  },
+  {
+    "key": "MSID_攻撃速さの領空",
+    "value": "Atk/Spd Airspace"
+  },
+  {
+    "key": "MSID_SEARCH_攻撃速さの領空",
+    "value": "Atk/Spd Airspace"
+  },
+  {
+    "key": "MSID_蒼穹・鬼没",
+    "value": "Blue-Sky Gust"
+  },
+  {
+    "key": "MSID_SEARCH_蒼穹・鬼没",
+    "value": "Blue-Sky Gust"
+  },
+  {
+    "key": "MSID_速守十牽制・謀策",
+    "value": "S/D Crux: Ploy"
+  },
+  {
+    "key": "MSID_SEARCH_速守十牽制・謀策",
+    "value": "S/D Crux: Ploy"
+  },
+  {
+    "key": "MSID_H_イリアの長剣",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf a skill compares unit's Spd to a foe's or ally's\nSpd, treats unit's Spd as if granted +7.\n\nAt start of player phase or enemy phase, grants\n【Reflex】,【Dodge】, and【Truly Incited】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit during\ncombat. If decreasing the Spd difference\nnecessary to make a follow-up attack by 10\nwould allow unit to trigger a follow-up attack\n(excluding guaranteed or prevented follow-ups),\ntriggers【Potent Follow 100%】during combat.\n\n【Reflex】\nReduces damage from foe's first attack by 7\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes) and unit's next attack deals damage =\ntotal damage reduced from foe's first attack\n(by any source, including other skills; resets at\nend of combat). (For 1 turn.)\n\n【Dodge】\nIf unit's Spd > foe's Spd, reduces damage from\nattacks during combat and from area-of-effect\nSpecials (excluding Røkkr area-of-effect\nSpecials) by percentage = difference between\nstats × 4 (max 40%).\n\n【Truly Incited】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = number of spaces from start\nposition to end position of whoever\ninitiated combat × 2 (max 8).\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_イリアの長剣_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf a skill compares unit's Spd to a foe's or ally's\nSpd, treats unit's Spd as if granted +7.\n\nAt start of player phase or enemy phase, grants\n【Reflex】,【Dodge】, and【Truly Incited】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit during\ncombat. If decreasing the Spd difference\nnecessary to make a follow-up attack by 10\nwould allow unit to trigger a follow-up attack\n(excluding guaranteed or prevented follow-ups),\ntriggers【Potent Follow 100%】during combat."
+  },
+  {
+    "key": "MSID_H_イリアの長槍",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nGrants Res+3.\n\nFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+Z\n(for unit, Z = 15; for allies, Z = 5) and deals +Y\ndamage (excluding area-of-effect Specials; for\nunit, Y = 25; for allies, Y = 10) during combat,\nand also, if decreasing the Spd difference\nnecessary to make a follow-up attack by 25\nwould allow unit or ally to trigger a follow-up\nattack (excluding guaranteed or prevented\nfollow-ups), triggers【Potent Follow X%】during\ncombat (if unit or ally cannot perform follow-up\nand attack twice, X = 100; otherwise, X = 50).\n\nReduces damage from foe's attacks by 15\nduring combat (excluding area-of-effect\nSpecials). If unit initiates combat, unit can make\na follow-up attack before foe's next attack.\n\n【Canto (Dist. +1; Max ４)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1. (Max ４.)\n\n【Potent Follow X%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = X% of unit's normal\nattack damage (if unit cannot make a follow-up\nattack, this effect triggers when the standard\nfollow-up attack would occur; this effect is\ntreated like a follow-up attack, so effects like\n\"reduce damage by X%\" still apply, but this\neffect is not affected by effects that prevent\nfollow-ups or \"attacks twice\" effects; only\nhighest value applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_イリアの長槍_NOSKW",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nGrants Res+3.\n\nFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+Z\n(for unit, Z = 15; for allies, Z = 5) and deals +Y\ndamage (excluding area-of-effect Specials; for\nunit, Y = 25; for allies, Y = 10) during combat,\nand also, if decreasing the Spd difference\nnecessary to make a follow-up attack by 25\nwould allow unit or ally to trigger a follow-up\nattack (excluding guaranteed or prevented\nfollow-ups), triggers【Potent Follow X%】during\ncombat (if unit or ally cannot perform follow-up\nand attack twice, X = 100; otherwise, X = 50).\n\nReduces damage from foe's attacks by 15\nduring combat (excluding area-of-effect\nSpecials). If unit initiates combat, unit can make\na follow-up attack before foe's next attack."
+  },
+  {
+    "key": "MSID_H_イリアの戦斧",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nAccelerates Special trigger (cooldown count-1).\n\nAt start of turn and after unit acts (if Canto\ntriggers, after Canto), inflicts Spd/Def-7,\n【Frozen】, and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 15 during combat (excluding\narea-of-effect Specials), and also, when unit's\nSpecial triggers, neutralizes foe's \"reduces\ndamage by X%\" effects from non-Special\nskills (excluding area-of-effect Specials).\n\n【Canto (Dist. +1; Max ４)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1. (Max ４.)\n\n【Frozen】\nIncreases Spd difference necessary for unit to\nmake a follow-up attack by X and decreases\nSpd difference necessary for foe to make a\nfollow-up attack by X during combat (if foe's\nDef > unit's Def, X = 10 + difference between\nDef stats × 2; otherwise, X = 10).\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit. Calculates each stat penalty\nindependently."
+  },
+  {
+    "key": "MSID_H_イリアの戦斧_NOSKW",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\nAccelerates Special trigger (cooldown count-1).\n\nAt start of turn and after unit acts (if Canto\ntriggers, after Canto), inflicts Spd/Def-7,\n【Frozen】, and【Sabotage】on closest foes and\nfoes within 2 spaces of those foes through\ntheir next actions.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 15 during combat (excluding\narea-of-effect Specials), and also, when unit's\nSpecial triggers, neutralizes foe's \"reduces\ndamage by X%\" effects from non-Special\nskills (excluding area-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_武門の妹二人の剛弓",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes.\n\nIf a Rally or movement Assist skill is used by\nunit, grants【Coax】to target for 1 turn\nand grants another action to unit (once per\nturn).\n\nIf a Rally or movement Assist skill is used by\nunit or targets unit, inflicts Atk/Spd/Def-7,\n【Exposure】, and【Panic】on closest foes to both\nunit and target ally or unit and targeting ally\nafter movement and foes within 2 spaces of\nthose foes through their next actions.\n\nAllies on the map with【Coax】active deal\n+7 damage during combat (excluding\narea-of-effect Specials). If Savior has not\ntriggered, those allies attack twice\nduring combat.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), grants Special cooldown charge\n+1 to unit per attack (only highest value\napplied; does not stack), and reduces damage\nfrom foe's attacks by 15 during combat\n(excluding area-of-effect Specials). If unit's\nSpd > foe's Spd or if unit is not adjacent to an\nally with an active【Coax】effect, unit attacks\ntwice during combat.\n\n【Coax】\nGrants a status that can trigger certain skill\neffects to unit.\n\n【Exposure】\nFoe's attacks deal +10 damage.\n\n【Panic】\nConverts bonuses on unit into penalties."
+  },
+  {
+    "key": "MSID_H_武門の妹二人の剛弓_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\nEffective against flying foes.\n\nIf a Rally or movement Assist skill is used by\nunit, grants【Coax】to target for 1 turn\nand grants another action to unit (once per\nturn).\n\nIf a Rally or movement Assist skill is used by\nunit or targets unit, inflicts Atk/Spd/Def-7,\n【Exposure】, and【Panic】on closest foes to both\nunit and target ally or unit and targeting ally\nafter movement and foes within 2 spaces of\nthose foes through their next actions.\n\nAllies on the map with【Coax】active deal\n+7 damage during combat (excluding\narea-of-effect Specials). If Savior has not\ntriggered, those allies attack twice\nduring combat.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), grants Special cooldown charge\n+1 to unit per attack (only highest value\napplied; does not stack), and reduces damage\nfrom foe's attacks by 15 during combat\n(excluding area-of-effect Specials). If unit's\nSpd > foe's Spd or if unit is not adjacent to an\nally with an active【Coax】effect, unit attacks\ntwice during combat."
+  },
+  {
+    "key": "MSID_H_うたうせいひつ",
+    "value": "$aGrants another action to target ally, and if\nCanto has already been triggered by target\nally, re-enables Canto.\n\nAt start of player phase or enemy phase, grants\n【Draconic Hex】and【Preempt Pulse】to unit and\nallies within 3 spaces of unit for 1 turn.\n\nAt start of turn, grants \"unit can move 1 extra\nspace\" (that turn only; does not stack) to target\nallies within 3 spaces of unit (if support partner\nother than calvary with a Range = 2 is on player\nteam, targets any support partner; otherwise,\ntargets ally with the highest Atk at start of battle,\nexcluding unit and cavalry allies with Range = 2;\n\"at start of battle\" excludes increases to Atk\ngranted after ally is deployed, such as Legendary\nEffects, Mythic Effects, Bonus Heroes, Great\nTalent, etc.).\n\n(Cannot target an ally with Sing or Dance. This\nskill treated as Sing or Dance.)\n\n【Draconic Hex】\nInflicts Atk/Spd/Def/Res-5 on foe during\ncombat and inflicts penalty on each of those\nstats = 5 - current penalty on each of those\nstats during combat for 1 turn (min 0;\ncalculates each stat penalty independently).\n\n【Preempt Pulse】\nGrants Special cooldown count-1 to unit\nbefore unit's first attack during combat."
+  },
+  {
+    "key": "MSID_H_うたうせいひつ_NOSKW",
+    "value": "$aGrants another action to target ally, and if\nCanto has already been triggered by target\nally, re-enables Canto.\n\nAt start of player phase or enemy phase, grants\n【Draconic Hex】and【Preempt Pulse】to unit and\nallies within 3 spaces of unit for 1 turn.\n\nAt start of turn, grants \"unit can move 1 extra\nspace\" (that turn only; does not stack) to target\nallies within 3 spaces of unit (if support partner\nother than calvary with a Range = 2 is on player\nteam, targets any support partner; otherwise,\ntargets ally with the highest Atk at start of battle,\nexcluding unit and cavalry allies with Range = 2;\n\"at start of battle\" excludes increases to Atk\ngranted after ally is deployed, such as Legendary\nEffects, Mythic Effects, Bonus Heroes, Great\nTalent, etc.).\n\n(Cannot target an ally with Sing or Dance. This\nskill treated as Sing or Dance.)"
+  },
+  {
+    "key": "MSID_H_ウィークショット",
+    "value": "Boosts damage by 80% of the greater of unit's\nSpd or Def when Special triggers.\n\nInflicts penalty on foe’s Atk/Def = highest\npenalty on each stat between target and foes\nwithin 2 spaces of target (calculates each stat\npenalty independently) and reduces damage\nfrom foe's first attack by 40% during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes)."
+  },
+  {
+    "key": "MSID_H_真・赤い竜騎士",
+    "value": "$aAt start of player phase or enemy phase, grants\n【Atk Liberate】,【Spd Liberate】, and\n\"neutralizes 'effective against flying' bonuses\" to\nunit and allies within 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+9 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), inflicts\nSpecial cooldown charge -1 on foe per attack\n(only highest value applied; does not stack),\nand grants Special cooldown count-X to unit\nbefore unit's first attack and before unit's first\nfollow-up attack during combat (X = number of\nstaff and flying allies on the map, including unit;\nmax 3). Restores 7 HP to unit after combat.\n\n【Atk Liberate】\nGrants bonus to Atk during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Spd Liberate】\nGrants bonus to Spd during combat = number\nof【Bonus】effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance)."
+  },
+  {
+    "key": "MSID_H_真・赤い竜騎士_NOSKW",
+    "value": "$aAt start of player phase or enemy phase, grants\n【Atk Liberate】,【Spd Liberate】, and\n\"neutralizes 'effective against flying' bonuses\" to\nunit and allies within 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+9 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), inflicts\nSpecial cooldown charge -1 on foe per attack\n(only highest value applied; does not stack),\nand grants Special cooldown count-X to unit\nbefore unit's first attack and before unit's first\nfollow-up attack during combat (X = number of\nstaff and flying allies on the map, including unit;\nmax 3). Restores 7 HP to unit after combat."
+  },
+  {
+    "key": "MSID_H_攻撃速さの領空",
+    "value": "$aEnables【Canto (２)】.\n\nIf unit initiates combat or is within 3 spaces of\nan ally, grants Atk/Spd+10 to unit and unit\ndeals +X damage during combat (excluding\narea-of-effect Specials; if any space within\n2 spaces of unit or foe has a Divine Vein effect\napplied, is defensive terrain, or counts as\ndifficult or impassable terrain for units other\nthan flying, X = 12; otherwise, X = 7), and\nrestores 7 HP to unit after combat.\n\n【Canto (２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move ２ space(s).\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit would be able to\nmove with normal Canto movement.)"
+  },
+  {
+    "key": "MSID_H_攻撃速さの領空_NOSKW",
+    "value": "$aEnables【Canto (２)】.\n\nIf unit initiates combat or is within 3 spaces of\nan ally, grants Atk/Spd+10 to unit and unit\ndeals +X damage during combat (excluding\narea-of-effect Specials; if any space within\n2 spaces of unit or foe has a Divine Vein effect\napplied, is defensive terrain, or counts as\ndifficult or impassable terrain for units other\nthan flying, X = 12; otherwise, X = 7), and\nrestores 7 HP to unit after combat."
+  },
+  {
+    "key": "MSID_H_蒼穹・鬼没",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\n\nIf unit initiates combat or if there is an ally\nwithin 3 columns or 3 rows centered on\nunit, grants Atk/Spd+10 to unit, unit deals\n+X×4 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's first\nattack by X×3 during combat (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes; X = number of allies within\n3 rows or 3 columns centered on unit; max 3).\n\n【Canto (Dist. +1; Max ４)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1. (Max ４.)\n\n(Unit moves according to movement type. Once\nper turn. Cannot attack or assist. Only highest\nvalue applied. Does not stack. After moving,\nif a skill that grants another action would be\ntriggered (like with Galeforce), Canto will\ntrigger after the granted action. Unit's base\nmovement has no effect on movement granted.\nCannot warp (using skills like Wings of Mercy)\na distance greater than unit would be able to\nmove with normal Canto movement.)"
+  },
+  {
+    "key": "MSID_H_蒼穹・鬼没_NOSKW",
+    "value": "$aEnables【Canto (Dist. +1; Max ４)】.\n\nIf unit initiates combat or if there is an ally\nwithin 3 columns or 3 rows centered on\nunit, grants Atk/Spd+10 to unit, unit deals\n+X×4 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's first\nattack by X×3 during combat (\"first attack\"\nnormally means only the first strike; for effects\nthat grant \"unit attacks twice,\" it means the first\nand second strikes; X = number of allies within\n3 rows or 3 columns centered on unit; max 3)."
+  },
+  {
+    "key": "MSID_H_速守十牽制・謀策",
+    "value": "$aAt start of player phase or enemy phase, if any\nfoes within 3 rows or 3 columns centered on\nunit have Res < unit's Res+5, inflicts【Ploy】\nand【Exposure】on those foes through their\nnext actions.\n\nInflicts Spd/Def-4 on foes within 3 rows or 3\ncolumns centered on unit, and those foes suffer\nguaranteed follow-up attacks during combat.\n\n【Ploy】\nNeutralizes【Bonus Doubler】,【Treachery】,\nand【Grand Strategy】effects active on unit\nduring combat through unit's next action.\n\n【Exposure】\nFoe's attacks deal +10 damage.\n\n【Bonus Doubler】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current bonus on each of unit's stats\nfor 1 turn. Calculates each stat bonus\nindependently.\n\n【Treachery】\nUnit deals additional damage = total bonuses\non unit for 1 turn.\n\n【Grand Strategy】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = current penalty on each of unit's\nstats × 2 for 1 turn. (Example: if unit has -7\npenalty to Atk, grants Atk+14, for a net bonus\nof Atk+7.) Calculates each stat bonus\nindependently.\n\nUnit's negative effects that last \"through\nunit's next action\" will remain in effect until\nthis status (Grand Strategy) is neutralized."
+  },
+  {
+    "key": "MSID_H_速守十牽制・謀策_NOSKW",
+    "value": "$aAt start of player phase or enemy phase, if any\nfoes within 3 rows or 3 columns centered on\nunit have Res < unit's Res+5, inflicts【Ploy】\nand【Exposure】on those foes through their\nnext actions.\n\nInflicts Spd/Def-4 on foes within 3 rows or 3\ncolumns centered on unit, and those foes suffer\nguaranteed follow-up attacks during combat."
+  },
+  {
+    "key": "MSID_H_双界ヒルダ",
+    "value": "$aGrants【Resonance: Blades】to unit and allies\nfrom the same titles as unit.\n\nInflicts【Frozen】and【Share Spoils+】on closest\nfoes and any foe within 2 spaces of those foes\nthrough their next actions.\n\n【Resonance: Blades】\nGrants Atk/Spd+4 during combat for 1 turn.\n\n【Frozen】\nIncreases Spd difference necessary for unit to\nmake a follow-up attack by X and decreases\nSpd difference necessary for foe to make a\nfollow-up attack by X during combat (if foe's\nDef > unit's Def, X = 10 + difference between\nDef stats × 2; otherwise, X = 10).\n\n【Share Spoils+】\nInflicts Atk/Spd/Def/Res-5 on unit during\ncombat and neutralizes \"reduces damage\nby X%\" effects from unit's non-Special skills\n(excluding area-of-effect Specials).\n\nOnce per turn for the entire map, if foe\ninitiates combat and if unit is defeated in\ncombat, grants another action to that foe\nafter combat (this effect has priority over\nother similar effects aside from Share Spoils;\nif this status and Share Spoils are both active\nat the same time, they are both treated as\nhaving been triggered; other similar effects\naside from Share Spoils are treated as not\nhaving triggered)."
+  },
+  {
+    "key": "MSID_H_双界ヒルダ_NOSKW",
+    "value": "$aGrants【Resonance: Blades】to unit and allies\nfrom the same titles as unit.\n\nInflicts【Frozen】and【Share Spoils+】on closest\nfoes and any foe within 2 spaces of those foes\nthrough their next actions."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_CX119",
+    "value": "Paralogue 120"
+  },
+  {
+    "key": "MID_CHAPTER_CX119",
+    "value": "Cure for Shyness"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1191",
+    "value": "Paralogue 120-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1192",
+    "value": "Paralogue 120-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1193",
+    "value": "Paralogue 120-3"
+  },
+  {
+    "key": "MID_STAGE_X1191",
+    "value": "Introducing My Homeland"
+  },
+  {
+    "key": "MID_STAGE_X1192",
+    "value": "Fond Memories"
+  },
+  {
+    "key": "MID_STAGE_X1193",
+    "value": "With a Helping Hand"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0215",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_STAGE_T0215",
+    "value": "M & H"
+  },
+  {
+    "key": "MID_CHAPTER_ST_CX060",
+    "value": "P. 119 & 120"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0118",
+    "value": "Paralogue 119"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0119",
+    "value": "Paralogue 120"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X1119",
+    "value": "P. 119 & 120"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB300",
+    "value": "Skill Studies 300"
+  },
+  {
+    "key": "MID_STAGE_PB300",
+    "value": "Skyward Stars of Ilia"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PC148",
+    "value": "Grandmaster 148"
+  },
+  {
+    "key": "MID_STAGE_PC148",
+    "value": "Engaging in Spirit"
+  }
+]
