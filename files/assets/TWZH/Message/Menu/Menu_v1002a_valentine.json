@@ -1,0 +1,14 @@
+[
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202602",
+    "value": "花園的茶會"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_10_v1001",
+    "value": "編組至特別欄位時，\n能使特別欄位有效的英雄如下：\n\n・處於現在季節的傳承英雄、救世英雄\n・處於現在季節的光、\n　天屬性的神階英雄\n・被賦予與現在季節\n　相同屬性光、天之祝福的英雄"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_09_v1001",
+    "value": "編組至特別欄位時，\n能使特別欄位有效的英雄如下：\n\n・處於現在季節的傳承英雄、救世英雄\n・處於現在季節的闇、\n　理屬性的神階英雄\n・被賦予與現在季節\n　相同屬性闇、理之祝福的英雄"
+  }
+]

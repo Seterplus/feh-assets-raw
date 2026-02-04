@@ -25030,5 +25030,1417 @@
   {
     "key": "MID_VOTE_TERM_202411",
     "value": "集合！忍者們！"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_02_v0900",
+    "value": "◆可成為夥伴的英雄◆\n僅可讓版本「１」～「６」的英雄\n成為夥伴。\n\n自己派遣的英雄、\n阿爾馮斯、夏蓉、安娜\n無法成為夥伴。"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING9",
+    "value": "第９部開頭影片"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A",
+    "value": "為紀念第９部開始，\n已贈送城堡畫面特殊主題\n「天之王國之城」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「天之王國之城」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_V0900A_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「天之王國之城」進行變更。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202412",
+    "value": "奧斯提亞的雄風"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65544",
+    "value": "天之王國之城"
+  },
+  {
+    "key": "MID_SCF_防増援魔法陣",
+    "value": "防衛・轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_防増援魔法陣_HELP",
+    "value": "$a增援將於第$a0回合登場\n此設備必須要防衛部隊中有\n擁有「增援欄位」神階效果的神階英雄\n※詳情記載於「飛空城　編組防衛部隊」內的說明"
+  },
+  {
+    "key": "MID_SCF_攻増援魔法陣",
+    "value": "攻擊・轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_攻増援魔法陣_HELP",
+    "value": "$a增援將於第$a0回合登場\n該回合內，增援在行動後可再次行動（僅限１次）\n此設備必須要攻擊部隊中有\n擁有「增援欄位」神階效果的神階英雄\n※詳情記載於「飛空城　編組攻擊部隊」內的說明"
+  },
+  {
+    "key": "MID_SCF_増援魔法陣",
+    "value": "轉移魔法陣"
+  },
+  {
+    "key": "MID_SCF_増援魔法陣_HOLIDAYHELP",
+    "value": "召喚增援英雄的魔法陣"
+  },
+  {
+    "key": "MID_SCF_天の国の玉座",
+    "value": "天之王國的寶座"
+  },
+  {
+    "key": "MID_SCF_天の国の玉座_HELP",
+    "value": "飛空城特別活動的物品\n天之王國阿斯嘉特的國王專用的高貴寶座\n底部有尖銳的腳和黑色物體，那是什麼呢？"
+  },
+  {
+    "key": "MID_SCF_天の国の旗",
+    "value": "天之王國的旗幟"
+  },
+  {
+    "key": "MID_SCF_天の国の旗_HELP",
+    "value": "飛空城特別活動的物品\n盧恩等人的國家——天之王國阿斯嘉特的旗幟"
+  },
+  {
+    "key": "MID_SCF_不思議な石板",
+    "value": "不可思議的石板"
+  },
+  {
+    "key": "MID_SCF_不思議な石板_HELP",
+    "value": "飛空城特別活動的物品\n和盧恩帶著的石板有著相同設計\n能感覺到石板中有著不可思議的力量"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_09_v0900a",
+    "value": "◆神階效果２　攻擊部隊特別欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入攻擊部隊\n（含特別欄位、增援欄位），\n即可使用特別欄位。\n\n（詳情請參考下一頁）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_16",
+    "value": "◆神階效果３　攻擊部隊增援欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入攻擊部隊\n（含特別欄位、增援欄位），\n即可使用增援欄位。\n\n能使欄位有效的英雄\n以及不會影響獲得的評價的特點\n與「特別欄位」相同。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_17",
+    "value": "此外，\n根據該神階英雄突破極限的最大次數，\n強化增援英雄的能力值。\n（每＋１相當於神龍之花＋２）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_18",
+    "value": "使用增援欄位\n需要「攻擊・轉移魔法陣」。\n\n「攻擊・轉移魔法陣」\n不會被破壞。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_08_v0900a",
+    "value": "◆神階效果２　防衛部隊特別欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入防衛部隊\n（含特別欄位、增援欄位），\n即可使用特別欄位。\n\n（詳情請參考下一頁）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_16",
+    "value": "◆神階效果３　防衛部隊增援欄位◆\n將處於現在季節，並持有\n此效果的神階英雄編入防衛部隊\n（含特別欄位、增援欄位），\n即可使用增援欄位。\n\n能使欄位有效的英雄\n以及不會影響獲得的評價的特點\n與「特別欄位」相同。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_17",
+    "value": "此外，\n根據該神階英雄突破極限的最大次數，\n強化增援英雄的能力值。\n（每＋１相當於神龍之花＋２）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_18",
+    "value": "使用增援欄位\n需要「防衛・轉移魔法陣」。\n\n「防衛・轉移魔法陣」\n不會被破壞。"
+  },
+  {
+    "key": "MID_SKYCASTLE_BATTLE_TOP_HELP_DIALOG_22_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_14_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_14_v0900a",
+    "value": "◆在混沌季節中無效的項目◆\n・季節的傳承效果、神階效果\n　・我方的能力值上升效果\n　・透過賦予祝福及突破極限\n　　獲得評價的提升、下降評價的抑制\n　・特別欄位、增援欄位"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202412",
+    "value": "冬之飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202412",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_BATTLE",
+    "value": "要進行戰鬥嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_TESTPLAY",
+    "value": "要進行模擬戰嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT_DISPATCH",
+    "value": "要進行派遣嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_LEGEND_NOT_FOUND",
+    "value": "由於未編組處於現在季節，並擁有\n「攻擊部隊增援欄位」神階效果的\n神階英雄，因此增援欄位目前無效。\n\n（※詳情記載於「飛空城　編組攻擊部隊」\n　　內的說明）"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_BLESSED",
+    "value": "由於編組於增援欄位的英雄\n未滿足以下任一條件，\n因此增援欄位目前無效。\n・處於現在季節的傳承英雄\n・處於現在季節的光、\n　天屬性的神階英雄\n・被賦予與現在季節\n　相同屬性光、天之祝福的英雄"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_FACILITY_NOT_FOUND",
+    "value": "未設置攻擊・轉移魔法陣，\n故編組於攻擊部隊增援欄位的\n英雄無法登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_ORGANIZED",
+    "value": "已設置攻擊・轉移魔法陣，\n但攻擊部隊增援欄位中\n未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_UNABLE",
+    "value": "被編組至增援欄位的英雄\n於本季節中無效。"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_BATTLE",
+    "value": "進行戰鬥"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_TESTPLAY",
+    "value": "開始戰鬥"
+  },
+  {
+    "key": "MID_SKYCASTLE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE_DISPATCH",
+    "value": "派遣"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_TROOP_ONLY_MAGIC_CIRCLE_UNIT_WARNING",
+    "value": "除了增援欄位以外未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_TEXT",
+    "value": "要結束編輯地圖嗎？"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_LEGEND_NOT_FOUND",
+    "value": "由於未編組處於現在季節，並擁有\n「防衛部隊增援欄位」神階效果的\n神階英雄，因此增援欄位目前無效。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_ORGANIZED",
+    "value": "已設置防衛・轉移魔法陣，\n但防衛部隊增援欄位中\n未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_FACILITY_NOT_FOUND",
+    "value": "未設置防衛・轉移魔法陣，\n故編組於防衛部隊增援欄位的\n英雄無法登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_DECIDE",
+    "value": "結束"
+  },
+  {
+    "key": "MID_SKYCASTLE_TROOP_REINFORCEMENT",
+    "value": "增援"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202412",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR19_RiverFlow_Title",
+    "value": "順流而下之物"
+  },
+  {
+    "key": "MID_SPR19_RiverFlow_Common",
+    "value": "和煦的春日和潺潺流水\n令人感到心曠神怡！"
+  },
+  {
+    "key": "MID_SPR19_RiverFlow_3",
+    "value": "沒想到會有出乎意料的漂流物如此開心地\n順流而下……兩人為此感到驚訝不已。"
+  },
+  {
+    "key": "MID_SPR19_RiverFlow_4",
+    "value": "河面上滿滿的花瓣美不勝收！\n兩人一起前往上游賞櫻！"
+  },
+  {
+    "key": "MID_SPR19_RiverFlow_5",
+    "value": "從水中撈起寶箱的搭檔看起來相當得意！\n搭檔好厲害！真是太帥氣了！！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202412",
+    "value": "過去的王、未來的女王　結"
+  },
+  {
+    "key": "MID_VOTE_TERM_202412",
+    "value": "雪上的熱身運動"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202501",
+    "value": "成為理想中的自己"
+  },
+  {
+    "key": "MID_OCCUPATION_RECOLLECTION_TITLE_202501",
+    "value": "菲奧拉等人　１"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202501",
+    "value": "邁向光明的人們"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_OFFENSE_HELP_DIALOG_17_2_v0901a",
+    "value": "增援英雄也可獲得\n神階效果加持而提升能力。\n（增援英雄為神階英雄時也可獲得加持）\n\n此外，當增援英雄為神階英雄時，\n不會賦予自己及夥伴增援英雄本身的\n神階效果的提升能力效果。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKYCASTLE_DEFENSE_HELP_DIALOG_17_2_v0901a",
+    "value": "增援英雄也可獲得\n神階效果加持而提升能力。\n（增援英雄為神階英雄時也可獲得加持）\n\n此外，當增援英雄為神階英雄時，\n不會賦予自己及夥伴增援英雄本身的\n神階效果的提升能力效果。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_ONLY_MAGIC_CIRCLE_SLOT",
+    "value": "$a組合$a0的防衛部隊\n除了增援欄位以外未編組英雄。\n將由等級４０的\n阿爾馮斯、夏蓉、安娜\n代為防衛，且編組於\n增援欄位的英雄不會登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_LEGEND_NOT_FOUND_MAP_INDEX",
+    "value": "$a由於組合$a0中未編組\n處於現在季節，並擁有\n「防衛部隊增援欄位」神階效果的\n神階英雄，因此增援欄位目前無效。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_ORGANIZED_MAP_INDEX",
+    "value": "$a組合$a0已設置防衛・轉移魔法陣，\n但防衛部隊增援欄位中\n未編組英雄。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_FACILITY_NOT_FOUND_MAP_INDEX",
+    "value": "$a組合$a0的防衛部隊\n未設置防衛・轉移魔法陣，\n故編組於防衛部隊增援欄位的\n英雄無法登場。"
+  },
+  {
+    "key": "MID_SKYCASTLE_DEFENSE_MAGIC_CIRCLE_SLOT_CONFIRM_DIALOG_WARNING_NOT_BLESSED",
+    "value": "$a由於組合$a0的防衛部隊中\n編組於增援欄位的英雄\n未滿足以下任一條件，\n因此增援欄位目前無效。\n・處於現在季節的傳承英雄\n・處於現在季節的闇、\n　理屬性的神階英雄\n・被賦予與現在季節\n　相同屬性闇、理之祝福的英雄"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202501R",
+    "value": "復刻・通向末日的門"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202501_2",
+    "value": "總有一天要帶著伴手禮"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202501",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_SUM21_FlowerCrown_Title",
+    "value": "花冠"
+  },
+  {
+    "key": "MID_SUM21_FlowerCrown_Common",
+    "value": "想到了一個非常好的點子！\n得悄悄準備，不讓搭檔發現。"
+  },
+  {
+    "key": "MID_SUM21_FlowerCrown_3",
+    "value": "做了個花冠想讓搭檔看看，\n結果被風吹走了，真是遺憾……"
+  },
+  {
+    "key": "MID_SUM21_FlowerCrown_4",
+    "value": "悄悄把花冠送給了搭檔！\n搭檔開心的笑容比任何花朵都美！"
+  },
+  {
+    "key": "MID_SUM21_FlowerCrown_5",
+    "value": "沒想到搭檔也送了花冠當回禮！！\n鳥兒們圍繞著兩人飛舞獻上祝福！"
+  },
+  {
+    "key": "MID_SCF_８周年ケーキ",
+    "value": "８週年蛋糕"
+  },
+  {
+    "key": "MID_SCF_８周年ケーキ_HELP",
+    "value": "飛空城特別活動的物品\n為了慶祝８週年而製作的巨大蛋糕"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202502",
+    "value": "記念用飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202502",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202502",
+    "value": "沙漠中的存活者"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_BUTTON_SCOUTED_PERSON",
+    "value": "相同的英雄已成為夥伴"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_09",
+    "value": "・在１次活動內，\n　無法使相同的英雄重複成為夥伴。\n\n・例如，使１名「神弓射手　拓海」\n　成為夥伴後，無法再使更多的\n　「神弓射手　拓海」成為夥伴。\n・於下次活動舉辦時，可重新使\n　最多１名「神弓射手　拓海」成為夥伴。"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202502",
+    "value": "送上永恆"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202502",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_AUT18_Water_Title",
+    "value": "尋求水源"
+  },
+  {
+    "key": "MID_AUT18_Water_Common",
+    "value": "好熱……發燙的身體亟需水份！\n設法挖出水源吧！！"
+  },
+  {
+    "key": "MID_AUT18_Water_3",
+    "value": "竟然挖出了蠍子！\n兩人在逃跑過程中流了更多的汗……"
+  },
+  {
+    "key": "MID_AUT18_Water_4",
+    "value": "聽見了湧泉的潺潺水聲！\n兩人帶著滿臉的笑容滋潤了喉嚨。"
+  },
+  {
+    "key": "MID_AUT18_Water_5",
+    "value": "沙漠竟然出現了綠洲！！\n度過了愉快時光，身心都得到了滋潤！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202502",
+    "value": "來自倒映的世界"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_11",
+    "value": "午後的溫室"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_11",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202503",
+    "value": "國民投票決勝錦標賽"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202503",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN19_Wind_Title",
+    "value": "強風開關"
+  },
+  {
+    "key": "MID_WIN19_Wind_Common",
+    "value": "在地下城被機關的強風吹得無法前進！\n那邊的開關想必能讓風停下來！！"
+  },
+  {
+    "key": "MID_WIN19_Wind_3",
+    "value": "抵擋不住強風，被吹飛了……\n只差一點……明明就只差一點……"
+  },
+  {
+    "key": "MID_WIN19_Wind_4",
+    "value": "搭檔馬上伸出了援手！！\n因為高興而一時鬆懈，兩人都被吹飛了……"
+  },
+  {
+    "key": "MID_WIN19_Wind_5",
+    "value": "原來是能改變風向的開關！\n被風推著順利逃離了地下城。"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202503",
+    "value": "春祭的朋友？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_0",
+    "value": "Heroes・紋章の謎・Echoes"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_1",
+    "value": "Heroes・聖戦の系譜・トラキア７７６"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_2",
+    "value": "封印の剣・烈火の剣・聖魔の光石"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_3",
+    "value": "蒼炎の軌跡・暁の女神"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_4",
+    "value": "ｉｆ・風花雪月"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_SHOP_TREE_2025_5",
+    "value": "覚醒・ENGAGE"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202503",
+    "value": "抵抗動亂漩渦之人"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202503R",
+    "value": "復刻・變強的決心"
+  },
+  {
+    "key": "MID_VOTE_TERM_202503_01",
+    "value": "拿好手中的武器！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202504",
+    "value": "幼小的英雄們"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504",
+    "value": "為紀念ＦＥ３５週年，\n已贈送城堡畫面特殊主題\n「馬賽克磚之城」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「馬賽克磚之城」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_202504_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「馬賽克磚之城」進行變更。"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202504",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_Title",
+    "value": "麵包"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_Common",
+    "value": "邊走邊吃時，被搭檔提醒了。\n可是，實在飢餓難耐……"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_3",
+    "value": "打算在原地快快吃完，卻噎到了！\n……差點以為要死掉！"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_4",
+    "value": "與提醒自己的搭檔共享麵包！\n為表謝意，大的一半給搭檔！"
+  },
+  {
+    "key": "MID_SPR20_EatWalking_5",
+    "value": "繼續吃著吃著，動物都聚集過來了！\n既填飽了肚子，心靈也得到了治癒！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202504",
+    "value": "神龍的血脈"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65545",
+    "value": "馬賽克磚之城"
+  },
+  {
+    "key": "MID_SCF_マルスの像",
+    "value": "馬爾斯像"
+  },
+  {
+    "key": "MID_SCF_マルスの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「暗黒竜と光の剣」「紋章の謎」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_アルムの像",
+    "value": "阿雷武像"
+  },
+  {
+    "key": "MID_SCF_アルムの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「外伝」「Echoes」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_セリカの像",
+    "value": "賽莉卡像"
+  },
+  {
+    "key": "MID_SCF_セリカの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「外伝」「Echoes」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_シグルドの像",
+    "value": "西格爾特像"
+  },
+  {
+    "key": "MID_SCF_シグルドの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「聖戦の系譜」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_セリスの像",
+    "value": "賽列斯像"
+  },
+  {
+    "key": "MID_SCF_セリスの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「聖戦の系譜」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_リーフの像",
+    "value": "里弗像"
+  },
+  {
+    "key": "MID_SCF_リーフの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「トラキア７７６」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ロイの像",
+    "value": "羅伊像"
+  },
+  {
+    "key": "MID_SCF_ロイの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「封印の剣」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_リンの像",
+    "value": "琳像"
+  },
+  {
+    "key": "MID_SCF_リンの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「烈火の剣」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_エリウッドの像",
+    "value": "艾利烏德像"
+  },
+  {
+    "key": "MID_SCF_エリウッドの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「烈火の剣」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ヘクトルの像",
+    "value": "海克托爾像"
+  },
+  {
+    "key": "MID_SCF_ヘクトルの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「烈火の剣」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_エイリークの像",
+    "value": "艾莉可像"
+  },
+  {
+    "key": "MID_SCF_エイリークの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「聖魔の光石」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_エフラムの像",
+    "value": "艾夫拉姆像"
+  },
+  {
+    "key": "MID_SCF_エフラムの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「聖魔の光石」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_アイクの像",
+    "value": "艾克像"
+  },
+  {
+    "key": "MID_SCF_アイクの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「蒼炎の軌跡」「暁の女神」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ミカヤの像",
+    "value": "米卡雅像"
+  },
+  {
+    "key": "MID_SCF_ミカヤの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「暁の女神」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_サザの像",
+    "value": "薩札像"
+  },
+  {
+    "key": "MID_SCF_サザの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「暁の女神」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_クロムの像",
+    "value": "庫洛武像"
+  },
+  {
+    "key": "MID_SCF_クロムの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「覚醒」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ルキナの像",
+    "value": "露琪娜像"
+  },
+  {
+    "key": "MID_SCF_ルキナの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「覚醒」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ルフレ男の像",
+    "value": "魯弗萊(男)像"
+  },
+  {
+    "key": "MID_SCF_ルフレ男の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「覚醒」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ルフレ女の像",
+    "value": "魯弗萊(女)像"
+  },
+  {
+    "key": "MID_SCF_ルフレ女の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「覚醒」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_カムイ男の像",
+    "value": "神威(男)像"
+  },
+  {
+    "key": "MID_SCF_カムイ男の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「ｉｆ」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_カムイ女の像",
+    "value": "神威(女)像"
+  },
+  {
+    "key": "MID_SCF_カムイ女の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「ｉｆ」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ベレトの像",
+    "value": "貝雷特像"
+  },
+  {
+    "key": "MID_SCF_ベレトの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「風花雪月」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ベレスの像",
+    "value": "貝雷絲像"
+  },
+  {
+    "key": "MID_SCF_ベレスの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「風花雪月」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_エーデルの像",
+    "value": "艾黛爾賈特像"
+  },
+  {
+    "key": "MID_SCF_エーデルの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「風花雪月」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ディミトリの像",
+    "value": "帝彌托利像"
+  },
+  {
+    "key": "MID_SCF_ディミトリの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「風花雪月」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_クロードの像",
+    "value": "庫羅德像"
+  },
+  {
+    "key": "MID_SCF_クロードの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「風花雪月」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_リュール男の像",
+    "value": "琉爾(男)像"
+  },
+  {
+    "key": "MID_SCF_リュール男の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「ENGAGE」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_リュール女の像",
+    "value": "琉爾(女)像"
+  },
+  {
+    "key": "MID_SCF_リュール女の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「ENGAGE」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_樹の像",
+    "value": "樹像"
+  },
+  {
+    "key": "MID_SCF_樹の像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「♯ＦＥ Encore」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_アルフォンスの像",
+    "value": "阿爾馮斯像"
+  },
+  {
+    "key": "MID_SCF_アルフォンスの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Heroes」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_シャロンの像",
+    "value": "夏蓉像"
+  },
+  {
+    "key": "MID_SCF_シャロンの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Heroes」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_アンナの像",
+    "value": "安娜像"
+  },
+  {
+    "key": "MID_SCF_アンナの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Heroes」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202504",
+    "value": "記念用飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202504",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202505",
+    "value": "被託付未來的英雄們"
+  },
+  {
+    "key": "MID_CHAIN_ARENA_HELP_DIALOG_10_v0905",
+    "value": "◆暫時撤退◆\n連戰中僅限３次，敗北時\n可保留目前的連勝數及得分\n回到敗北前的狀態。\n\n但若是結束目前的挑戰\n並重新進行挑戰，\n可暫時撤退的次數將會重置。"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_02_v0905",
+    "value": "◆可成為夥伴的英雄◆\n僅可讓版本「１」～「６」的英雄\n成為夥伴。\n\n自己派遣的英雄，\n以及活動開始時最初的４人\n（阿爾馮斯、夏蓉、安娜、艾緒）\n無法成為夥伴。"
+  },
+  {
+    "key": "MID_IDOL_TOWER_HELP_DIALOG_06_v0905",
+    "value": "◆強化偶像的機會的獎勵◆\n・到第１３層以上，\n　會選出２個\n　SP有一定程度的技能。\n\n・到第２５層，\n　會選出３個\n　SP較高的技能。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202505",
+    "value": "交錯的闇路"
+  },
+  {
+    "key": "MID_RESERVE_BARRACKS_TOP_HELP_DIALOG_03_v0905",
+    "value": "◆其他◆\n移動至預備軍營的夥伴\n將會移除聖印、飾品、雙人組合、\n與召喚師的羈絆誓約，以及結合。"
+  },
+  {
+    "key": "MID_HOME_YOU_ARE_HERO_MISSION_NOTIFICATION",
+    "value": "可獲得每日限定１次遊玩報酬。\n要移動至你是英雄！嗎？"
+  },
+  {
+    "key": "MID_HOME_YOU_ARE_HERO_NAVIGATION_JUMP",
+    "value": "前往你是英雄！"
+  },
+  {
+    "key": "MID_CONFIG_HOME_NOTIFICATION_YOU_ARE_HERO",
+    "value": "你是英雄！\n城堡通知"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_TITLE",
+    "value": "你是英雄！"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_REMAINING_DAYS",
+    "value": "$a距離結束還有$a0天"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_REMAINING_HOURS",
+    "value": "$a距離結束還有$a0小時"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_REMAINING_MINUTES",
+    "value": "$a距離結束還有$a0分鐘"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_CLOSED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_STAMINA",
+    "value": "英雄體力"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_WARNING_NO_STAMINA",
+    "value": "英雄體力不足。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_WARNING_TERM_EXPIRED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_DAILY_BONUS_REWARD",
+    "value": "每日限定１次遊玩報酬"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_DAILY_BONUS_INFO",
+    "value": "每日限定１次，首次遊玩時\n可獲得報酬。（最多領取５次）"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_FIRST_REWARD",
+    "value": "首次過關報酬"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BUTTON_STAGE_SELECT",
+    "value": "選擇關卡"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BUTTON_GAIN_ENHANCE",
+    "value": "獲得有利的狀態"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BUTTON_SYSTEM_MENU",
+    "value": "重新挑戰"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BUTTON_REWARD",
+    "value": "檢視報酬"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BONUS_TITLE",
+    "value": "獎勵角色"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_BONUS_VERSION",
+    "value": "$a版本　$a0"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_SET_TROOP_DIALOG_CONFIRM",
+    "value": "要開始活動嗎？"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_SET_TROOP_DIALOG_WARNING",
+    "value": "在活動中\n除了「從頭開始挑戰」的情況之外\n將無法變更部隊。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_SET_TROOP_DIALOG_DECIDE",
+    "value": "開始活動"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_SET_TROOP_DIALOG_FAILED",
+    "value": "無法開始活動"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_SET_TROOP_DIALOG_FAILED_WARNING_TROOP_RESTRICTION",
+    "value": "所有欄位皆須編入英雄。\n\n加入部隊裡的英雄不能重複。\n\n最多只能在隊伍中編入１名\n可使用歌唱或起舞的英雄。\n\n最多只能在隊伍中編入１名\n可使用守護人的英雄。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_ENTRANCE_GAIN_BONUS_ENHANCE_DIALOG_CONFIRM",
+    "value": "獎勵版本的英雄\n獲得了有利的狀態。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_SYSTEM_MENU_START_OVER_FROM_FIRST",
+    "value": "從頭開始挑戰"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_SYSTEM_MENU_START_OVER_FROM_FIRST_DIALOG_CONFIRM",
+    "value": "要從頭開始挑戰嗎？"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_SYSTEM_MENU_START_OVER_FROM_FIRST_DIALOG_WARNING",
+    "value": "報酬以外的進度將會消失。\n消費的英雄體力將會回復。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_SYSTEM_MENU_START_OVER_FROM_FIRST_DIALOG_DECIDE",
+    "value": "重新挑戰"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_STAGE",
+    "value": "$a第$a0層"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_HELP",
+    "value": "$a請選擇要獲得的有利的狀態。（剩餘$a0次）"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_NONE",
+    "value": "不獲得"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_DIALOG_CONFIRM",
+    "value": "要獲得此有利的狀態嗎？"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_DIALOG_DECIDE",
+    "value": "獲得"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_DIALOG_NONE_CONFIRM",
+    "value": "是否不獲得並結束？"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_GAIN_ENHANCE_DIALOG_NONE_DECIDE",
+    "value": "結束"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_00",
+    "value": "喜歡的英雄以「有利的狀態」大展身手！"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_01",
+    "value": "◆你是英雄！◆\n讓喜愛的英雄出擊吧。\n\n在這裡，英雄們能透過獲得\n並疊加大量「有利的狀態」\n而變得強大。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_02",
+    "value": "◆英雄體力◆\n・出擊時，消費１體力。\n\n・僅在最終BOSS樓層\n　敗北時會退還體力。\n（體力已經全滿時不會退還）"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_03",
+    "value": "◆戰鬥的特徵◆\n在本活動中，每回合開始時，\n每位英雄都會被賦予\n透過獎勵及過關地圖時\n獲得的所有「有利的狀態」。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_04",
+    "value": "◆編組◆\n・加入的英雄不能重複。\n・１個部隊中最多只能編入１名\n　持有歌唱或起舞技能的英雄。\n・１個部隊中最多只能編入１名\n　持有守護人技能的英雄。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_05",
+    "value": "◆獎勵英雄◆\n版本與獎勵版本一致的英雄，\n在活動開始時，\n可以獲得３個「有利的狀態」。\n\n（獲得的狀態\n　將隨機自動決定）"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_06",
+    "value": "◆獲得狀態機會◆\n過關地圖後，\n英雄可獲得「有利的狀態」。\n可從選項中選擇其中一個。"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_07",
+    "value": "◆「有利的狀態」越多就會變得越強◆\n於各地圖出擊時，英雄的\nＨＰ、攻擊、速度、防守、魔防\n將依自己至今獲得的\n「有利的狀態」的數量×２提升。\n（獎勵英雄：上限２６\n　上述之外的英雄：上限２０）"
+  },
+  {
+    "key": "MID_YOU_ARE_HERO_HELP_DIALOG_08",
+    "value": "◆其他◆\n・傳承英雄、神階英雄的\n　季節效果無效。\n・無法使用連翼或雙界技能。\n・無法獲得經驗值和ＳＰ。\n・可獲得英雄值。"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202505",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_SUM22_RainLeak_Title",
+    "value": "漏雨"
+  },
+  {
+    "key": "MID_SUM22_RainLeak_Common",
+    "value": "進了倉庫裡面躲雨，\n漏雨卻很嚴重……"
+  },
+  {
+    "key": "MID_SUM22_RainLeak_3",
+    "value": "無論怎麼躲都被滲漏的雨水擊中！\n難道有人在刻意瞄準？"
+  },
+  {
+    "key": "MID_SUM22_RainLeak_4",
+    "value": "突然有青蛙冒出！嚇到心臟都快跳出來！\n但仔細一看……還挺可愛的……"
+  },
+  {
+    "key": "MID_SUM22_RainLeak_5",
+    "value": "到處都在漏雨！兩人拚命地接雨水！！\n感覺就好像遊戲一樣，玩得非常開心！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202505R",
+    "value": "復刻・無拘無束的熱沙"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202505",
+    "value": "害怕寂寞的新娘"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_12",
+    "value": "渡海之船"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_12",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202505_01",
+    "value": "墮入黑暗之後"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING9_2",
+    "value": "第９部後半段開頭影片"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202506",
+    "value": "闇色的覺醒"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202506",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_AUT19_Turnip_Title",
+    "value": "大頭菜"
+  },
+  {
+    "key": "MID_AUT19_Turnip_Common",
+    "value": "培育出大得驚人的大頭菜！\n希望設法把這個拔出來並收穫。"
+  },
+  {
+    "key": "MID_AUT19_Turnip_3",
+    "value": "不行！它實在太大了，\n怎麼拔都紋風不動，真不甘心……"
+  },
+  {
+    "key": "MID_AUT19_Turnip_4",
+    "value": "雖然很努力，但只拔掉了葉子！\n既然這樣，無論如何都要把這大頭菜拔出來。"
+  },
+  {
+    "key": "MID_AUT19_Turnip_5",
+    "value": "在差點放棄收穫之際！\n從天而降的貓頭鷹把大頭菜拔了出來！！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202506",
+    "value": "要成為最棒的大姊姊"
+  },
+  {
+    "key": "MID_VOTE_TERM_202507",
+    "value": "姊姊最棒了！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202507R",
+    "value": "復刻・背負希望的人們"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202507",
+    "value": "開神的女兒們　１"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202507_1",
+    "value": "第６部前半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202507_2",
+    "value": "第６部後半段影片"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_SPECIAL_STORY_202507_3",
+    "value": "第６部結局"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202507",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN20_WhiteOut_Title",
+    "value": "白曚天"
+  },
+  {
+    "key": "MID_WIN20_WhiteOut_Common",
+    "value": "暴風雪使眼前一片白！而且還動彈不得……\n不知道搭檔人有沒有事……"
+  },
+  {
+    "key": "MID_WIN20_WhiteOut_3",
+    "value": "雖然暴風雪停了，但搭檔到底跑去哪了？\n親身體會到大自然有多麼嚴峻了……"
+  },
+  {
+    "key": "MID_WIN20_WhiteOut_4",
+    "value": "暴風雪停息後，眼前竟出現了溫泉！\n從大自然的恩惠當中，看到了搭檔的笑容。"
+  },
+  {
+    "key": "MID_WIN20_WhiteOut_5",
+    "value": "企鵝為了禦寒而聚集了過來！\n將身體互相依偎著，與搭檔一起取暖了！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202507",
+    "value": "胸懷解放的希望"
+  },
+  {
+    "key": "MID_SCF_向日葵畑とフェー",
+    "value": "向日葵田與菲"
+  },
+  {
+    "key": "MID_SCF_向日葵畑とフェー_HELP",
+    "value": "飛空城特別活動的物品\n菲在盛夏的向日葵田裡享受假期的雕像\n看來菲也因這些漂亮的花兒們而非常高興"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202508",
+    "value": "記念用飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202508",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202508",
+    "value": "希望不會被曬傷"
+  },
+  {
+    "key": "MID_IDOL_TOWER_HELP_DIALOG_06_v0908",
+    "value": "◆強化偶像的機會的獎勵◆\n・到第１３～２０層，\n　會選出２個\n　SP有一定程度的技能。\n\n・到第２１～２４層，\n　會選出２個\n　SP較高的技能。"
+  },
+  {
+    "key": "MID_IDOL_TOWER_HELP_DIALOG_07_v0908",
+    "value": "・到第２５層，\n　會選出３個\n　版本８以後登場\n　且SP較高的技能。"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202508",
+    "value": "開神的女兒們　２"
+  },
+  {
+    "key": "MID_SKYCASTLEHOLIDAY_EXCHANGE_CATEGORY_TITLE_MISC",
+    "value": "裝飾"
+  },
+  {
+    "key": "MID_SKYCASTLEHOLIDAY_EXCHANGE_CATEGORY_HELP_MISC",
+    "value": "觀賞用的設備"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202508",
+    "value": "與耀眼的決心同在"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_13",
+    "value": "沙漠的離宮"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_13",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202508_01",
+    "value": "偉大的英雄啊，燃起鬥志吧！"
+  },
+  {
+    "key": "MID_OCCUPATION_RECOLLECTION_TITLE_202509",
+    "value": "羅斯等人　１"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202509R",
+    "value": "復刻・可能性的氣息"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202509",
+    "value": "開神的女兒們　３"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_CONNECT",
+    "value": "$a相連英雄\n\n・每次出擊均會提升\n　「支援」「與召喚師的羈絆誓約」等級，\n　且能超越等級「Ｓ」，提升至「Ｓ＋」\n・自己和支援對象獲得支援效果時，\n　自己和支援對象\n　戰鬥中，$a0、$a1再＋$a2\n\n對相連英雄以外的英雄\n使用「$a3」後，\n可獲得與其相同的加持"
+  },
+  {
+    "key": "MID_ITEM_BOUQUET",
+    "value": "$a$a0的花束"
+  },
+  {
+    "key": "MID_ITEM_HELP_BOUQUET",
+    "value": "$a・每次出擊均會提升\n　「支援」「與召喚師的羈絆誓約」等級，\n　且能超越等級「Ｓ」，提升至「Ｓ＋」\n・自己和支援對象獲得支援效果時，\n　自己和支援對象\n　戰鬥中，$a0、$a1再＋$a2"
+  },
+  {
+    "key": "MID_ITEM_HELP_TAMER_SOUL_FOR_INFO",
+    "value": "・可裝備攜伴飾品\n・HP、攻擊、速度、防守、魔防＋１"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_9",
+    "value": "相連"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SELL_USED_BOUQUET_WARNING",
+    "value": "將要送回\n已使用花束的角色。\n\n確定要送回嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_USED_BOUQUET_WARNING",
+    "value": "將要消費\n已使用花束的角色。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_USED_BOUQUET_WARNING",
+    "value": "將要消費\n已使用花束的角色。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_GENERATE_USED_BOUQUET_WARNING",
+    "value": "將要以已使用花束的角色\n製作秘傳書。\n\n確定要製作秘傳書嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_RECOLLECTION_5",
+    "value": "支援 S+ 回顧"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_EMPTY",
+    "value": "目前未持有任何花束。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET",
+    "value": "贈送花束"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP1",
+    "value": "請選擇花束。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP2",
+    "value": "請選擇要贈送花束的對象。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_SELECT_LEFT",
+    "value": "消滅"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_SELECT_RIGHT",
+    "value": "贈送"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_CONFIRM",
+    "value": "$a要贈送\n$a0嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_WARNING",
+    "value": "贈送新的花束後，\n過去獲得的花束效果將會消失。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_DIALOG_BUTTON_DECIDE",
+    "value": "贈送"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_RANK_5",
+    "value": "S+"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_EFFECT_PAIR_5",
+    "value": "有支援對象時，\n戰鬥中的攻擊速度防守魔防＋２"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_EFFECT_PLAYER_5",
+    "value": "ＨＰ＋７、攻擊速度防守魔防＋２"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_00",
+    "value": "◆贈送花束◆\n贈送花束後，\n其他英雄也可獲得\n相連英雄所持有的效果。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_01",
+    "value": "◆效果１◆\n每次出擊均會提升\n「支援」「與召喚師的羈絆誓約」等級，\n且能超越等級Ｓ，提升至Ｓ＋。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_02",
+    "value": "・「與召喚師的羈絆誓約」S＋\n　除了等級S的效果外，ＨＰ再＋２\n\n・「支援」S＋\n　等級為Ｓ的兩人\n　在戰鬥時相鄰所發動的支援效果\n　（攻擊速度防守魔防＋２），\n　變為無論兩人距離幾格均會發動"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_03",
+    "value": "◆效果２◆\n自己和支援對象獲得支援效果時，\n自己和支援對象\n戰鬥中的能力值再提升\n（提升的能力值\n　依花束而異）"
+  },
+  {
+    "key": "MID_UNIT_EDIT_BOUQUET_HELP_DIALOG_04",
+    "value": "◆其他◆\n・能將花束贈送給\n　相連英雄以外的英雄。\n\n・以複數花束強化能力值時，\n　將依照各能力值的最大值\n　來進行判定。"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_05_v0909b",
+    "value": "◆偶像不會繼承的事物◆\n下列的事物會消失。\n\n・突破極限\n・開花擅長、神裝、攜伴之心、花束\n・祝福、聖印、飾品"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202509",
+    "value": "「西方之記」"
+  },
+  {
+    "key": "MID_SPR21_Feast_Title",
+    "value": "飽餐一頓"
+  },
+  {
+    "key": "MID_SPR21_Feast_Common",
+    "value": "睽違三天，終於能吃到像樣的一餐！！\n剩下來的甜甜圈會歸於誰呢？？"
+  },
+  {
+    "key": "MID_SPR21_Feast_3",
+    "value": "被突然出現的老鼠給搶走了……\n搭檔的跳躍力也令人大吃一驚……真厲害！"
+  },
+  {
+    "key": "MID_SPR21_Feast_4",
+    "value": "差點以為搭檔想要獨吞……\n甜甜圈非常好吃。"
+  },
+  {
+    "key": "MID_SPR21_Feast_5",
+    "value": "什麼！新的甜甜圈上桌了！！\n兩人抬頭仰望著那座氣派的甜甜圈塔！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202509",
+    "value": "為了那樣的笑容"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_PLUS",
+    "value": "兩人締結了最強韌的羈絆！\n戰鬥時無論距離幾格，能力都會提升。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_RELIANCE_PROCESS_RANK_S_PLUS_WITH_USER",
+    "value": "兩人締結了最強韌的羈絆！\n夥伴的能力進一步提升。"
+  },
+  {
+    "key": "MID_VOTE_TERM_202510",
+    "value": "跟我切磋吧！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202510",
+    "value": "開神的女兒們　４"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202510",
+    "value": "「北方之記」"
+  },
+  {
+    "key": "MID_SUM23_Ship_Title",
+    "value": "暈船"
+  },
+  {
+    "key": "MID_SUM23_Ship_Common",
+    "value": "被波浪搖得很不舒服，肯定是暈船了……\n搭檔露出擔憂的表情看了過來……"
+  },
+  {
+    "key": "MID_SUM23_Ship_3",
+    "value": "搭檔遞出了用於止暈的蘋果！\n但連收下都做不到，只能眺望海面……"
+  },
+  {
+    "key": "MID_SUM23_Ship_4",
+    "value": "一隻老鷹在面前掠過的瞬間，\n搭檔手上那顆用於止暈的蘋果消失了！"
+  },
+  {
+    "key": "MID_SUM23_Ship_5",
+    "value": "搭檔擋下了差點滾過來的木桶！\n謝謝搭檔，暈船的症狀稍微緩和了！"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202510",
+    "value": "攜手合作"
+  },
+  {
+    "key": "MID_VOTE_TERM_202510_01",
+    "value": "不給糖就變身！"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_MAP_VEIN",
+    "value": "顯示天脈"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_MAP_VEIN_RICH",
+    "value": "完整"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_MAP_VEIN_SIMPLE_WITHOUT_ICE",
+    "value": "冰系以外簡略"
+  },
+  {
+    "key": "MID_CONFIG_SHOW_MAP_VEIN_SIMPLE",
+    "value": "簡略"
+  },
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202511",
+    "value": "「東方之記」"
+  },
+  {
+    "key": "MID_AUT20_Defoliation_Title",
+    "value": "落葉"
+  },
+  {
+    "key": "MID_AUT20_Defoliation_Common",
+    "value": "在飛舞的落葉間，身心也跟著起舞！\n感覺就像是化成森林妖精了一樣……"
+  },
+  {
+    "key": "MID_AUT20_Defoliation_3",
+    "value": "搭檔啊，要是你看見了請跟我說！\n可以的話，也請忘記看到的一切……"
+  },
+  {
+    "key": "MID_AUT20_Defoliation_4",
+    "value": "什麼！搭檔也一起跳舞了！\n雖然難為情，但是非常開心！"
+  },
+  {
+    "key": "MID_AUT20_Defoliation_5",
+    "value": "在飛舞的落葉之中，大家一起跳舞了！\n森林啊！感謝你讓我們度過了美好的時光！"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202511",
+    "value": "開神的女兒們　５"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING9_3",
+    "value": "第９部結束劇情"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202511R",
+    "value": "復刻・來自倒映的世界"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_14",
+    "value": "白夜的大澡堂"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_14",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  },
+  {
+    "key": "MID_VOTE_TERM_202511",
+    "value": "肌肉不會背叛自己"
   }
 ]
