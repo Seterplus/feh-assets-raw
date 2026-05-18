@@ -1,0 +1,590 @@
+[
+  {
+    "key": "MDAID_旅先の妖精のヘッドドレス",
+    "value": "Álfar Headdress"
+  },
+  {
+    "key": "MDAID_H_旅先の妖精のヘッドドレス",
+    "value": "Proof that two Heroes bested a boss\non their journeys together. Serves as\na souvenir from their travels."
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_TITLE",
+    "value": "Grand Hero Battles"
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_A1",
+    "value": "Defeat Fáfnir"
+  },
+  {
+    "key": "MID_MISSION_H_S202605HERO01_A1",
+    "value": "Clear the Grand Hero Battle against Fáfnir:\nKing of Desolation with Anna: Commander\non your team."
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_A2",
+    "value": "Defeat Fáfnir"
+  },
+  {
+    "key": "MID_MISSION_H_S202605HERO01_A2",
+    "value": "Clear the Grand Hero Battle against Fáfnir: King\nof Desolation on Lunatic or higher difficulty\nwith Fáfnir: King of Desolation on your team."
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_A3",
+    "value": "Defeat Fáfnir"
+  },
+  {
+    "key": "MID_MISSION_H_S202605HERO01_A3",
+    "value": "Defeat Fáfnir: King of Desolation at level 40 or\nhigher with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_A4",
+    "value": "Defeat Fáfnir"
+  },
+  {
+    "key": "MID_MISSION_H_S202605HERO01_A4",
+    "value": "Defeat Fáfnir: King of Desolation at level 40 or\nhigher with Fáfnir: King of Desolation."
+  },
+  {
+    "key": "MID_MISSION_S202605HERO01_A5",
+    "value": "Defeat Fáfnir"
+  },
+  {
+    "key": "MID_MISSION_H_S202605HERO01_A5",
+    "value": "Clear the Grand Hero Battle against Fáfnir:\nKing of Desolation on Lunatic or higher\ndifficulty using only armored allies."
+  },
+  {
+    "key": "MID_MISSION_S202605JOURNEY01_TITLE",
+    "value": "Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_S202605JOURNEY01_A1",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202605JOURNEY01_A1",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202605JOURNEY01_A2",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202605JOURNEY01_A2",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA01_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA01_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA01_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA01_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA01_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA01_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA01_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA01_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA01_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA02_DAILY_TITLE",
+    "value": "Tempest Trials"
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA02_DAILY_A1",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA02_DAILY_A1",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA02_DAILY_A2",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA02_DAILY_A2",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA02_DAILY_A3",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA02_DAILY_A3",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SENKA02_DAILY_A4",
+    "value": "Clear Trial"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SENKA02_DAILY_A4",
+    "value": "Clear one of the final maps in Tempest Trials."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_TITLE",
+    "value": " Feh Pass"
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A3",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A3",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A5",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A5",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_S202605SUBSC02_A6",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202605SUBSC02_A6",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_W_S202605STORY_P01_TITLE",
+    "value": "First Festival"
+  },
+  {
+    "key": "MID_MISSION_W_S202605STORY_P01_A1",
+    "value": "Clear P124-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202605STORY_P01_A1",
+    "value": "Clear Paralogue 124: Part 1 on Lunatic\ndifficulty with an axe ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202605STORY_P01_A2",
+    "value": "Clear P124-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202605STORY_P01_A2",
+    "value": "Clear Paralogue 124: Part 2 on Lunatic\ndifficulty with a sword ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202605STORY_P01_A3",
+    "value": "Clear P124-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202605STORY_P01_A3",
+    "value": "Clear Paralogue 124: Part 3 on Lunatic\ndifficulty with a lance ally on your team.\n(Allies deployed as cohorts using Pair Up\ndo not count.) All four allies must survive."
+  },
+  {
+    "key": "MPID_比翼アシュ",
+    "value": "Ash"
+  },
+  {
+    "key": "MPID_SEARCH_比翼アシュ",
+    "value": "Ash"
+  },
+  {
+    "key": "MPID_花嫁エイル",
+    "value": "Eir"
+  },
+  {
+    "key": "MPID_SEARCH_花嫁エイル",
+    "value": "Eir"
+  },
+  {
+    "key": "MPID_花嫁ピアニー",
+    "value": "Peony"
+  },
+  {
+    "key": "MPID_SEARCH_花嫁ピアニー",
+    "value": "Peony"
+  },
+  {
+    "key": "MPID_魔器花嫁レギン",
+    "value": "Reginn"
+  },
+  {
+    "key": "MPID_SEARCH_魔器花嫁レギン",
+    "value": "Reginn"
+  },
+  {
+    "key": "MPID_HONOR_比翼アシュ",
+    "value": "Divergent Brides"
+  },
+  {
+    "key": "MPID_HONOR_花嫁エイル",
+    "value": "Until Death"
+  },
+  {
+    "key": "MPID_HONOR_花嫁ピアニー",
+    "value": "Interwoven Dream"
+  },
+  {
+    "key": "MPID_HONOR_魔器花嫁レギン",
+    "value": "Full-Tilt Bride"
+  },
+  {
+    "key": "MPID_H_比翼アシュ",
+    "value": "Hailing from different worlds, but sharing the\nsame soul, it's Ash and Melíai. Can their hearts\nand minds come together at the bridal festival?"
+  },
+  {
+    "key": "MPID_H_花嫁エイル",
+    "value": "Princess of Hel, the realm of the dead, as well\nas princess of the realm of life. Dons a floral\nwedding gown at the bridal festival."
+  },
+  {
+    "key": "MPID_H_花嫁ピアニー",
+    "value": "A ljósálfr from Ljósálfheimr, the realm of\ndreams. Participates in the bridal festival to\nsupport the dreams of the brides."
+  },
+  {
+    "key": "MPID_H_魔器花嫁レギン",
+    "value": "Princess of Niðavellir, realm of the dvergar.\nDevotes all her strength to make the bridal\nfestival a fun and fulfilling event."
+  },
+  {
+    "key": "MPID_VOICE_比翼アシュ",
+    "value": "Lily Emil Lammers"
+  },
+  {
+    "key": "MPID_VOICE_花嫁エイル",
+    "value": "Xanthe Huynh"
+  },
+  {
+    "key": "MPID_VOICE_花嫁ピアニー",
+    "value": "Ryan Bartley"
+  },
+  {
+    "key": "MPID_VOICE_魔器花嫁レギン",
+    "value": "Megan Shipman"
+  },
+  {
+    "key": "MPID_VOICE_セルジュEX01",
+    "value": "Heather Gonzalez"
+  },
+  {
+    "key": "MPID_ILLUST_比翼アシュ",
+    "value": "ekao"
+  },
+  {
+    "key": "MPID_ILLUST_花嫁エイル",
+    "value": "hanusu"
+  },
+  {
+    "key": "MPID_ILLUST_花嫁ピアニー",
+    "value": "Unamiya (うなみや)"
+  },
+  {
+    "key": "MPID_ILLUST_魔器花嫁レギン",
+    "value": "Yuko (夕子)"
+  },
+  {
+    "key": "MPID_ILLUST_セルジュEX01",
+    "value": "natteun / Trys Inc."
+  },
+  {
+    "key": "MPID_LEGEND_比翼アシュ",
+    "value": "(Duo Skills can be used once per map by\ntapping the Duo button. Duo Skills cannot\nbe used by units deployed using Pair Up.)\n(When unit has a status or a skill that enables\nuse of a Style, Duo Skills and Harmonized Skills\ncannot be used while unit can take an action\n(those skills can be used after unit has acted).)\n\nStandard Effect 1: Duel\nIf unit is 5★ and level 40 and unit's stats total\nless than 220, treats unit's stats as 220 in\nmodes like Arena. (Higher-scoring opponents\nwill appear. Stat total calculation excludes any\nvalues added by merges and skills.)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1005b_bride_01_比翼アシュ",
+    "value": "They can grant allies the protection of\nthe god of openness! They have an\nadvantage against all but colorless."
+  },
+  {
+    "key": "MID_TIPS_Summon_v1005b_bride_01_魔器花嫁レギン",
+    "value": "Unleashes a barrage with Specials on\nturns one through four! Keeps going\nstrong and suppresses foe Specials!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1005b_bride_01_花嫁ピアニー",
+    "value": "Reduces damage to allies by 10! At\nthe start of each turn, removes\npenalties on self and allies."
+  },
+  {
+    "key": "MID_TIPS_Summon_v1005b_bride_01_花嫁エイル",
+    "value": "Powers up allies with 50% or more\nHP! Uses Reposition to heal nearby\nallies and remove penalties."
+  },
+  {
+    "key": "MSID_夢の花嫁の樹剣",
+    "value": "Braided Blade"
+  },
+  {
+    "key": "MSID_SEARCH_夢の花嫁の樹剣",
+    "value": "Braided Blade"
+  },
+  {
+    "key": "MSID_生命の花嫁のベル",
+    "value": "Bride of Life"
+  },
+  {
+    "key": "MSID_SEARCH_生命の花嫁のベル",
+    "value": "Bride of Life"
+  },
+  {
+    "key": "MSID_不離の花嫁の花束",
+    "value": "Uniting Bouquet"
+  },
+  {
+    "key": "MSID_SEARCH_不離の花嫁の花束",
+    "value": "Uniting Bouquet"
+  },
+  {
+    "key": "MSID_魔器・花嫁のケーキ",
+    "value": "Arcane Cake"
+  },
+  {
+    "key": "MSID_SEARCH_魔器・花嫁のケーキ",
+    "value": "Arcane Cake"
+  },
+  {
+    "key": "MSID_真やさしいゆめ",
+    "value": "Tender Vision"
+  },
+  {
+    "key": "MSID_SEARCH_真やさしいゆめ",
+    "value": "Tender Vision"
+  },
+  {
+    "key": "MSID_真魔弾",
+    "value": "Seiðr Cannon"
+  },
+  {
+    "key": "MSID_SEARCH_真魔弾",
+    "value": "Seiðr Cannon"
+  },
+  {
+    "key": "MSID_近反・攻守魔の絆",
+    "value": "Close A/D/R Bond"
+  },
+  {
+    "key": "MSID_SEARCH_近反・攻守魔の絆",
+    "value": "Close A/D/R Bond"
+  },
+  {
+    "key": "MSID_狂涛・キャンセル",
+    "value": "Riptide Guard"
+  },
+  {
+    "key": "MSID_SEARCH_狂涛・キャンセル",
+    "value": "Riptide Guard"
+  },
+  {
+    "key": "MSID_速さ守備の魅惑",
+    "value": "Spd/Def Allure"
+  },
+  {
+    "key": "MSID_SEARCH_速さ守備の魅惑",
+    "value": "Spd/Def Allure"
+  },
+  {
+    "key": "MSID_速守の看破・俯瞰",
+    "value": "S/D Detect Aerial"
+  },
+  {
+    "key": "MSID_SEARCH_速守の看破・俯瞰",
+    "value": "S/D Detect Aerial"
+  },
+  {
+    "key": "MSID_真開神の眷属",
+    "value": "Inaugural Vassal"
+  },
+  {
+    "key": "MSID_SEARCH_真開神の眷属",
+    "value": "Inaugural Vassal"
+  },
+  {
+    "key": "MSID_真生命の輝き",
+    "value": "Exuberant Boost"
+  },
+  {
+    "key": "MSID_SEARCH_真生命の輝き",
+    "value": "Exuberant Boost"
+  },
+  {
+    "key": "MSID_H_夢の花嫁の樹剣",
+    "value": "Accelerates Special trigger (cooldown count-1).\nUnit can move through foes' spaces.\n\nUnit can move to a space within 2 spaces of\nany ally within 2 spaces of unit.\n\nFor allies within 3 rows or 3 columns centered\non unit, grants Atk/Spd/Def/Res+5, deals\n+10 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 10 (excluding area-of-effect Specials), and\ngrants Special cooldown count-1 before their\nfirst attack during combat.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials), and\ngrants Special cooldown count-1 before unit's\nfirst attack during combat."
+  },
+  {
+    "key": "MSID_H_生命の花嫁のベル",
+    "value": "$aEnables【Canto (Dist.; Max ３, Min １)】.\nAccelerates Special trigger (cooldown count-1).\n\nIf a Rally or movement Assist skill is used by\nunit, grants another action to unit (once per\nturn; if another effect that grants action to unit\nhas been activated at the same time, this effect\nis also considered to have been triggered).\n\nIf a Rally or movement Assist skill is used by\nunit or targets unit, restores 20 HP to allies\nwithin 2 spaces of both unit and target ally or\nunit and targeting ally after movement\n(including unit and that ally), and then\nneutralizes remaining negative status\neffects (does not stack even if effect ranges of\nunit and ally overlap).\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's\nattacks by 15 during combat (excluding\narea-of-effect Specials), and also, if decreasing\nthe Spd difference necessary to make a\nfollow-up attack by 10 would allow unit to\ntrigger a follow-up attack (excluding\nguaranteed or prevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nEffect:【Dagger ７】\n\n【Canto (Dist.; Max ３, Min １)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nunit moved prior to taking action (max ３;\nmin １; if unit used a movement skill\nthat warped them, unit can move １ space(s).)\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack).\n\n【Dagger ７】\nAfter combat, if unit attacked, inflicts\nDef/Res-７ on target and foes within\n2 spaces of target through their next actions."
+  },
+  {
+    "key": "MSID_H_生命の花嫁のベル_NOSKW",
+    "value": "$aEnables【Canto (Dist.; Max ３, Min １)】.\nAccelerates Special trigger (cooldown count-1).\n\nIf a Rally or movement Assist skill is used by\nunit, grants another action to unit (once per\nturn; if another effect that grants action to unit\nhas been activated at the same time, this effect\nis also considered to have been triggered).\n\nIf a Rally or movement Assist skill is used by\nunit or targets unit, restores 20 HP to allies\nwithin 2 spaces of both unit and target ally or\nunit and targeting ally after movement\n(including unit and that ally), and then\nneutralizes remaining negative status\neffects (does not stack even if effect ranges of\nunit and ally overlap).\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's\nattacks by 15 during combat (excluding\narea-of-effect Specials), and also, if decreasing\nthe Spd difference necessary to make a\nfollow-up attack by 10 would allow unit to\ntrigger a follow-up attack (excluding\nguaranteed or prevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nEffect:【Dagger ７】"
+  },
+  {
+    "key": "MSID_H_不離の花嫁の花束",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf a skill compares unit's Res to a foe's or ally's\nRes, treats unit's Res as if granted +5.\n\nAt start of player phase or enemy phase, grants\nAtk/Def/Res+6,【Fringe Bonus】,【Bulwark】, and\n【Imbue】to unit and allies within 3 spaces of\nunit for 1 turn.\n\nGrants Atk/Def/Res+16 to unit, unit deals +25\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 15\n(excluding area-of-effect Specials), inflicts\nSpecial cooldown charge -1 on foe per attack\n(only highest value applied; does not stack),\nand grants Special cooldown count-X to unit\nbefore unit's first attack during combat (X =\nthe number of allies within 3 rows or 3 columns\ncentered on unit; max 3).\n\n【Fringe Bonus】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = highest bonus on each stat between\nunit and allies within 2 spaces of unit for 1 turn.\nCalculates each stat bonus independently.\n\n【Bulwark】\nFoes with Range = 1 cannot move through\nspaces adjacent to unit (does not affect foes\nwith Pass skills). Foes with Range = 2 cannot\nmove through spaces within 2 spaces of unit\n(does not affect foes with Pass skills).\n\n【Imbue】\nReduces the effect of【Deep Wounds】on unit by\n50% during combat, and restores 40% of unit's\nmaximum HP as unit's combat begins for 1 turn\n(triggers after effects that deal damage as\ncombat begins; only highest value applied;\ndoes not stack).\n\n【Deep Wounds】\nUnit's HP cannot be healed through its\nnext action."
+  },
+  {
+    "key": "MSID_H_不離の花嫁の花束_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nIf a skill compares unit's Res to a foe's or ally's\nRes, treats unit's Res as if granted +5.\n\nAt start of player phase or enemy phase, grants\nAtk/Def/Res+6,【Fringe Bonus】,【Bulwark】, and\n【Imbue】to unit and allies within 3 spaces of\nunit for 1 turn.\n\nGrants Atk/Def/Res+16 to unit, unit deals +25\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 15\n(excluding area-of-effect Specials), inflicts\nSpecial cooldown charge -1 on foe per attack\n(only highest value applied; does not stack),\nand grants Special cooldown count-X to unit\nbefore unit's first attack during combat (X =\nthe number of allies within 3 rows or 3 columns\ncentered on unit; max 3)."
+  },
+  {
+    "key": "MSID_H_魔器・花嫁のケーキ",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of player phase or enemy phase, grants\nDef/Res+6,【Empathy】, and \"neutralizes foe's\nbonuses during combat\" to unit and allies within\n2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and reduces the percentage of foe's\nnon-Special \"reduce damage by X%\" skills by\n50% during combat (excluding area-of-effect\nSpecials).\n\n【Empathy】\nGrants bonus to unit's Atk/Spd/Def/Res =\nnumber of types of Bonus effects, excluding\nstat bonuses, and Penalty effects, excluding\nstat penalties, active on player team and\nenemy team during combat (max 7)."
+  },
+  {
+    "key": "MSID_H_魔器・花嫁のケーキ_NOSKW",
+    "value": "$aAccelerates Special trigger (cooldown count-1).\n\nAt start of player phase or enemy phase, grants\nDef/Res+6,【Empathy】, and \"neutralizes foe's\nbonuses during combat\" to unit and allies within\n2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and reduces the percentage of foe's\nnon-Special \"reduce damage by X%\" skills by\n50% during combat (excluding area-of-effect\nSpecials)."
+  },
+  {
+    "key": "MSID_H_真やさしいゆめ",
+    "value": "$aGrants another action to target ally, and if\nCanto has already been triggered by target\nally, re-enables Canto.\n\nAt start of player phase or enemy phase, grants\n【Reflex】and【Empathy】to unit and allies within\n3 spaces of unit for 1 turn.\n\nAfter start-of-turn effects trigger on player\nphase, and after start-of-turn effects trigger on\nenemy phase (except for in Summoner Duels),\nfor unit and allies within 3 spaces of unit,\nneutralizes stat penalties and two【Penalty】\neffects (does not apply to Penalty effects that\nare applied at the same time; neutralizes the\nfirst applicable Penalty effects on unit's or\nally's list of active effects).\n\n(Cannot target an ally with Sing or Dance.\nThis skill treated as Sing or Dance.)\n\n【Reflex】\nReduces damage from foe's first attack by 7\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes) and unit's next attack deals damage =\ntotal damage reduced from foe's first attack\n(by any source, including other skills; resets at\nend of combat). (For 1 turn.)\n\n【Empathy】\nGrants bonus to unit's Atk/Spd/Def/Res =\nnumber of types of Bonus effects, excluding\nstat bonuses, and Penalty effects, excluding\nstat penalties, active on player team and\nenemy team during combat (max 7).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
+  },
+  {
+    "key": "MSID_H_真やさしいゆめ_NOSKW",
+    "value": "$aGrants another action to target ally, and if\nCanto has already been triggered by target\nally, re-enables Canto.\n\nAt start of player phase or enemy phase, grants\n【Reflex】and【Empathy】to unit and allies within\n3 spaces of unit for 1 turn.\n\nAfter start-of-turn effects trigger on player\nphase, and after start-of-turn effects trigger on\nenemy phase (except for in Summoner Duels),\nfor unit and allies within 3 spaces of unit,\nneutralizes stat penalties and two【Penalty】\neffects (does not apply to Penalty effects that\nare applied at the same time; neutralizes the\nfirst applicable Penalty effects on unit's or\nally's list of active effects).\n\n(Cannot target an ally with Sing or Dance.\nThis skill treated as Sing or Dance.)"
+  },
+  {
+    "key": "MSID_H_真魔弾",
+    "value": "$aBoosts damage by 80% of unit's Spd and\ncalculates damage using the lower of foe's\nDef or Res when Special triggers.\n\nAt start of player phase or enemy phase,\ngrants【Truly Incited】and【Dodge】to unit and\nallies within 2 spaces of unit for 1 turn.\n\nReduces damage from foe's attacks by 40%\n(excluding area-of-effect Specials) and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack and before unit's first follow-up\nattack during combat (on turns 1 through 4,\nX = 3; otherwise, X = 1).\n\nOn turns 1 through 4, or if decreasing the Spd\ndifference necessary to make a follow-up\nattack by 10 would allow unit to trigger a\nfollow-up attack (excluding guaranteed or\nprevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\n【Truly Incited】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = number of spaces from start\nposition to end position of whoever\ninitiated combat × 2 (max 8).\n\n【Dodge】\nIf unit's Spd > foe's Spd, reduces damage from\nattacks during combat and from area-of-effect\nSpecials (excluding Røkkr area-of-effect\nSpecials) by percentage = difference between\nstats × 4 (max 40%).\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_真魔弾_NOSKW",
+    "value": "$aBoosts damage by 80% of unit's Spd and\ncalculates damage using the lower of foe's\nDef or Res when Special triggers.\n\nAt start of player phase or enemy phase,\ngrants【Truly Incited】and【Dodge】to unit and\nallies within 2 spaces of unit for 1 turn.\n\nReduces damage from foe's attacks by 40%\n(excluding area-of-effect Specials) and grants\nSpecial cooldown count-X to unit before unit's\nfirst attack and before unit's first follow-up\nattack during combat (on turns 1 through 4,\nX = 3; otherwise, X = 1).\n\nOn turns 1 through 4, or if decreasing the Spd\ndifference necessary to make a follow-up\nattack by 10 would allow unit to trigger a\nfollow-up attack (excluding guaranteed or\nprevented follow-ups), triggers\n【Potent Follow 100%】during combat."
+  },
+  {
+    "key": "MSID_H_近反・攻守魔の絆",
+    "value": "Unit can counterattack regardless of foe's range.\n\nIf unit is within 3 spaces of an ally, grants\nAtk/Def/Res+10 to unit, neutralizes unit's\npenalties to Atk/Def/Res, and reduces damage\nfrom foe's first attack by 7 during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes)."
+  },
+  {
+    "key": "MSID_H_狂涛・キャンセル",
+    "value": "Inflicts Atk/Spd/Def/Res-4 on foe, unit deals +X\ndamage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by X\n(excluding area-of-effect Specials; X = 20% of\nthe greater of unit's Spd/Def), neutralizes\neffects that guarantee foe's follow-up attacks\nand effects that prevent unit's follow-up\nattacks, neutralizes effects that grant \"Special\ncooldown charge +X\" to foe, and inflicts Special\ncooldown charge -1 on foe per attack during\ncombat (only highest value applied; does not\nstack), and also, if unit initiates combat and\nfoe's attack can trigger foe's Special, inflicts\nSpecial cooldown count+1 on foe before foe's\nfirst attack during combat (cannot exceed foe's\nmaximum Special cooldown)."
+  },
+  {
+    "key": "MSID_H_速さ守備の魅惑",
+    "value": "$aWhen unit is equipped with Sing or Dance as an\nAssist skill, triggers the following: enables\n【Canto (Dist. +1; Max ４, Min ２)】; at start of\nturn, and after unit acts (if Canto triggers, after\nCanto), inflicts Spd/Def-7,【Sabotage】,\n【Spd Shackle】, and【Def Shackle】on closest\nfoes and any foe within 2 spaces of those foes\nthrough their next actions; inflicts Spd/Def-4 on\nfoe, unit deals +15 damage (excluding\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 7 during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and also,\nif unit's Spd > foe's Spd, neutralizes effects\nthat guarantee foe's follow-up attacks and\neffects that prevent unit's follow-up attacks\nduring combat.\n\n【Canto (Dist. +1; Max ４, Min ２)】\nAfter an attack, Assist skill, or structure\ndestruction, unit can move spaces = number\nof spaces from start position to end position\nof unit before the above, +1 (max ４;\nmin ２; if unit used a movement skill\nthat warped them, unit can move ２ space(s).)\n\n【Sabotage】\nInflicts penalty on unit's Atk/Spd/Def/Res\nduring combat = highest penalty on each\nstat between unit and allies within 2 spaces\nof unit. Calculates each stat penalty\nindependently.\n\n【Spd Shackle】\nInflicts penalty on unit's Spd during combat =\nnumber of Penalty effects active on unit + 4,\nexcluding stat penalties (max 8).\n\n【Def Shackle】\nInflicts penalty on unit's Def during combat =\nnumber of Penalty effects active on unit + 4,\nexcluding stat penalties (max 8)."
+  },
+  {
+    "key": "MSID_H_速さ守備の魅惑_NOSKW",
+    "value": "$aWhen unit is equipped with Sing or Dance as an\nAssist skill, triggers the following: enables\n【Canto (Dist. +1; Max ４, Min ２)】; at start of\nturn, and after unit acts (if Canto triggers, after\nCanto), inflicts Spd/Def-7,【Sabotage】,\n【Spd Shackle】, and【Def Shackle】on closest\nfoes and any foe within 2 spaces of those foes\nthrough their next actions; inflicts Spd/Def-4 on\nfoe, unit deals +15 damage (excluding\narea-of-effect Specials), and reduces damage\nfrom foe's first attack by 7 during combat\n(\"first attack\" normally means only the first\nstrike; for effects that grant \"unit attacks twice,\"\nit means the first and second strikes), and also,\nif unit's Spd > foe's Spd, neutralizes effects\nthat guarantee foe's follow-up attacks and\neffects that prevent unit's follow-up attacks\nduring combat."
+  },
+  {
+    "key": "MSID_H_速守の看破・俯瞰",
+    "value": "For foes on the map whose Res < unit's Res at\nstart of combat, inflicts Spd/Def-5, neutralizes\nfoe's bonuses to Spd/Def, and foe suffers +10\ndamage during combat (excluding\narea-of-effect Specials).\n\nInflicts Spd/Def-4 on foe, and unit deals +8\ndamage during combat (excluding\narea-of-effect Specials)."
+  },
+  {
+    "key": "MSID_H_真開神の眷属",
+    "value": "Allies within 2 spaces can move to any space\nwithin 2 spaces of unit.\n\nIf there are 3 or more allies within 3 rows or 3\ncolumns centered on unit, triggers the\nfollowing: grants weapon-triangle advantage\nagainst and inflicts weapon-triangle\ndisadvantage on red, blue, and green foes\nduring combat; neutralizes effects that boost\nvalues along with weapon-triangle advantage\nor reduce values along with weapon-triangle\ndisadvantage (Triangle Adept) on unit and foe.\n\nFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Def/Res+5,\ndeals +7 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 7 (excluding area-of-effect Specials), and\nneutralizes effects that grant \"Special cooldown\ncharge +X\" to foe or inflict \"Special cooldown\ncharge -X\" on unit or ally during combat,\nand unit's or ally's next attack deals damage =\n40% of foe's first-attack damage prior to\nreductions during combat (resets at end of\ncombat; only highest value applied; does\nnot stack).\n\nUnit makes a guaranteed follow-up attack\nduring combat."
+  },
+  {
+    "key": "MSID_H_真生命の輝き",
+    "value": "Disables foe's skills that \"calculate damage\nusing the lower of foe's Def or Res\" (including\narea-of-effect Specials).\n\nFor unit and certain target allies, grants\nAtk/Spd/Def/Res+5, deals +7 damage\n(excluding area-of-effect Specials), reduces\ndamage from foe's attacks by 7 (excluding\narea-of-effect Specials), and grants Special\ncooldown count-1 to unit or ally before their\nfirst attack during combat (target allies are\nallies within 3 rows or 3 columns centered on\nunit, or allies on the map with HP ≥ 50% at\nstart of combat; does not stack even if both\nconditions are met).\n\nUnit deals +X damage (excluding\narea-of-effect Specials; X = 6 × number of\nallies on map with HP ≥ 50%, excluding unit;\nmax 18), and neutralizes effects that guarantee\nfoe's follow-up attacks and effects that prevent\nunit's follow-up attacks during combat, and\nalso, if unit's HP > 1 and foe would reduce\nunit's HP to 0 during combat, unit survives with\n1 HP (once per combat; does not stack with\nnon-Special effects that allow unit to survive\nwith 1 HP if foe's attack would reduce HP to 0)."
+  },
+  {
+    "key": "MSID_H_比翼アシュ",
+    "value": "$aGrants【Reflex】to unit and allies within 2\nspaces of unit for 1 turn.\n\nApplies【Divine Vein (Stone)】to unit's space and\nspaces within 2 spaces of unit for 2 turns.\n\n【Reflex】\nReduces damage from foe's first attack by 7\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes) and unit's next attack deals damage =\ntotal damage reduced from foe's first attack\n(by any source, including other skills; resets at\nend of combat). (For 1 turn.)\n\n【Divine Vein (Stone)】\nApplies the following effects on space for unit\nand allies: Grants Def/Res+6 during combat,\nreduces damage from foe's Specials by 10\nduring combat (excluding area-of-effect\nSpecials), and reduces damage from\narea-of-effect Specials by 50% (excluding\nRøkkr area-of-effect Specials). (Divine Vein\neffects do not stack; replaces any existing\nDivine Vein effect; Divine Vein effects applied\nsimultaneously cancel each other out. Does not\ncount as defensive terrain.)"
+  },
+  {
+    "key": "MSID_H_比翼アシュ_NOSKW",
+    "value": "$aGrants【Reflex】to unit and allies within 2\nspaces of unit for 1 turn.\n\nApplies【Divine Vein (Stone)】to unit's space and\nspaces within 2 spaces of unit for 2 turns."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_CX123",
+    "value": "Paralogue 124"
+  },
+  {
+    "key": "MID_CHAPTER_CX123",
+    "value": "First Festival"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1231",
+    "value": "Paralogue 124-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1232",
+    "value": "Paralogue 124-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_X1233",
+    "value": "Paralogue 124-3"
+  },
+  {
+    "key": "MID_STAGE_X1231",
+    "value": "A Clever Tactic"
+  },
+  {
+    "key": "MID_STAGE_X1232",
+    "value": "A New Challenger"
+  },
+  {
+    "key": "MID_STAGE_X1233",
+    "value": "You and I"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0222",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_STAGE_T0222",
+    "value": "S & Q"
+  },
+  {
+    "key": "MID_CHAPTER_ST_CX062",
+    "value": "P. 123 & 124"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0122",
+    "value": "Paralogue 123"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X0123",
+    "value": "Paralogue 124"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_X1123",
+    "value": "P. 123 & 124"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB313",
+    "value": "Skill Studies 313"
+  },
+  {
+    "key": "MID_STAGE_PB313",
+    "value": "Dvergr & Askran Brides"
+  }
+]
