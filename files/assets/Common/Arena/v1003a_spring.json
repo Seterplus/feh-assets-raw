@@ -188,7 +188,7 @@
     "start": "2026-08-18T07:00:00Z",
     "finish": "2026-08-24T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 3,
     "_skip2": null
   },
   {
@@ -204,7 +204,7 @@
     "start": "2026-09-01T07:00:00Z",
     "finish": "2026-09-07T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 3,
+    "bonus_book": 0,
     "_skip2": null
   },
   {
@@ -212,7 +212,7 @@
     "start": "2026-09-08T07:00:00Z",
     "finish": "2026-09-14T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 4,
     "_skip2": null
   },
   {
@@ -236,7 +236,7 @@
     "start": "2026-09-29T07:00:00Z",
     "finish": "2026-10-05T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 5,
     "_skip2": null
   },
   {
@@ -244,7 +244,7 @@
     "start": "2026-10-06T07:00:00Z",
     "finish": "2026-10-12T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 4,
+    "bonus_book": 0,
     "_skip2": null
   },
   {
@@ -260,7 +260,7 @@
     "start": "2026-10-20T07:00:00Z",
     "finish": "2026-10-26T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 6,
     "_skip2": null
   },
   {
@@ -284,7 +284,7 @@
     "start": "2026-11-10T07:00:00Z",
     "finish": "2026-11-16T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 5,
+    "bonus_book": 7,
     "_skip2": null
   },
   {
@@ -308,7 +308,7 @@
     "start": "2026-12-01T07:00:00Z",
     "finish": "2026-12-07T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 8,
     "_skip2": null
   },
   {
@@ -324,7 +324,7 @@
     "start": "2026-12-15T07:00:00Z",
     "finish": "2026-12-21T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 6,
+    "bonus_book": 0,
     "_skip2": null
   },
   {
@@ -332,7 +332,7 @@
     "start": "2026-12-22T07:00:00Z",
     "finish": "2026-12-28T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 9,
     "_skip2": null
   },
   {
@@ -356,7 +356,7 @@
     "start": "2027-01-12T07:00:00Z",
     "finish": "2027-01-18T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 10,
     "_skip2": null
   },
   {
@@ -364,7 +364,7 @@
     "start": "2027-01-19T07:00:00Z",
     "finish": "2027-01-25T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 7,
+    "bonus_book": 0,
     "_skip2": null
   },
   {
@@ -380,7 +380,7 @@
     "start": "2027-02-02T07:00:00Z",
     "finish": "2027-02-08T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 1,
     "_skip2": null
   },
   {
@@ -404,7 +404,7 @@
     "start": "2027-02-23T07:00:00Z",
     "finish": "2027-03-01T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 8,
+    "bonus_book": 2,
     "_skip2": null
   },
   {
@@ -428,7 +428,7 @@
     "start": "2027-03-16T07:00:00Z",
     "finish": "2027-03-22T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 3,
     "_skip2": null
   },
   {
@@ -444,7 +444,7 @@
     "start": "2027-03-30T07:00:00Z",
     "finish": "2027-04-05T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 9,
+    "bonus_book": 0,
     "_skip2": null
   },
   {
@@ -452,7 +452,7 @@
     "start": "2027-04-06T07:00:00Z",
     "finish": "2027-04-12T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 4,
     "_skip2": null
   },
   {
@@ -476,7 +476,7 @@
     "start": "2027-04-27T07:00:00Z",
     "finish": "2027-05-03T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 0,
+    "bonus_book": 5,
     "_skip2": null
   },
   {
@@ -484,7 +484,7 @@
     "start": "2027-05-04T07:00:00Z",
     "finish": "2027-05-10T23:00:00Z",
     "_skip1": null,
-    "bonus_book": 10,
+    "bonus_book": 0,
     "_skip2": null
   }
 ]

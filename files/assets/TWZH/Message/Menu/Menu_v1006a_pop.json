@@ -1,0 +1,22 @@
+[
+  {
+    "key": "MID_CONFIG_INFO_BATTLE_SUPPORT",
+    "value": "戰鬥預測輔助"
+  },
+  {
+    "key": "MID_CONFIG_INFO_BATTLE_SUPPORT_ENHANCE",
+    "value": "能力值增減"
+  },
+  {
+    "key": "MID_CONFIG_INFO_BATTLE_SUPPORT_DAMAGE",
+    "value": "戰鬥的過程"
+  },
+  {
+    "key": "MID_CONFIG_INFO_BATTLE_SUPPORT_DAMAGE_AND_HEAL",
+    "value": "戰鬥・回復的過程"
+  },
+  {
+    "key": "MID_EXTRA_MOVIELIST_OPENING10_2",
+    "value": "第１０部後半段開頭影片"
+  }
+]
