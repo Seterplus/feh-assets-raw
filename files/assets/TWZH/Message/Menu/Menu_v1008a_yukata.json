@@ -1,0 +1,62 @@
+[
+  {
+    "key": "MID_ARENA_DIALOG_HELP_06_v1008",
+    "value": "◆獎勵角色能力的提升◆\n獎勵角色的能力\n只有在鬥技場中才會提升。\n（ＨＰ、攻擊、\n　速度、防守、魔防＋１０）\n\n※此能力提升不會影響配對時\n　對手的強度以及可以獲得的得分。\n※防衛時不會提升能力。"
+  },
+  {
+    "key": "MID_NETWORK_CHECK_DIALOG_TEXT_UNKNOWN_EXCHANGE_COMPLETION",
+    "value": "發生連線錯誤。\n請確認您的連線環境是否正常。"
+  },
+  {
+    "key": "MID_NETWORK_CHECK_DIALOG_CONFIRM_UNKNOWN_EXCHANGE_COMPLETION",
+    "value": "重試"
+  },
+  {
+    "key": "MID_IDOL_TOWER_HELP_DIALOG_07_v1008",
+    "value": "・到第２５層，\n　會選出３個\n　版本９以後登場\n　且SP較高的技能。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202608R",
+    "value": "復刻・為了那樣的笑容"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202608",
+    "value": "兩個女兒　２"
+  },
+  {
+    "key": "MID_SUMMON_TAB_NEW_ARRIVAL",
+    "value": "最新"
+  },
+  {
+    "key": "MID_SUMMON_TAB_RECOMMENDATION",
+    "value": "推薦"
+  },
+  {
+    "key": "MID_SUMMON_TAB_REVIVAL",
+    "value": "復刻"
+  },
+  {
+    "key": "MID_UNIT_INFO_TO_ENGAGE",
+    "value": "結合"
+  },
+  {
+    "key": "MID_UNIT_INFO_TO_SAVIOR",
+    "value": "救世"
+  },
+  {
+    "key": "MID_UNIT_INFO_TO_EDIT_LIST",
+    "value": "強化一覽"
+  },
+  {
+    "key": "MID_CONFIG_UNIT_INFO_DETAIL_EDIT_BUTTON1",
+    "value": "詳細狀態畫面\n強化按鈕１"
+  },
+  {
+    "key": "MID_CONFIG_UNIT_INFO_DETAIL_EDIT_BUTTON2",
+    "value": "詳細狀態畫面\n強化按鈕２"
+  },
+  {
+    "key": "MID_CONFIG_UNIT_INFO_DETAIL_EDIT_BUTTON3",
+    "value": "詳細狀態畫面\n強化按鈕３"
+  }
+]
