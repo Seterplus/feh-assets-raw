@@ -1,0 +1,42 @@
+[
+  {
+    "key": "MID_JOURNEY_EVENT_TERM_202608",
+    "value": "「南方之記」"
+  },
+  {
+    "key": "MID_WIN23_Reconciliation_Title",
+    "value": "和好"
+  },
+  {
+    "key": "MID_WIN23_Reconciliation_Common",
+    "value": "吃掉了搭檔的甜甜圈，\n惹搭檔生氣了……怎麼辦……"
+  },
+  {
+    "key": "MID_WIN23_Reconciliation_3",
+    "value": "送上用雪製成的手工甜甜圈\n打算緩和氣氛，卻火上加油了……"
+  },
+  {
+    "key": "MID_WIN23_Reconciliation_4",
+    "value": "搭檔靠過來了！是消氣了嗎？\n……原來只是拿我來擋風啊……"
+  },
+  {
+    "key": "MID_WIN23_Reconciliation_5",
+    "value": "兔子的登場緩和了各自的情緒！\n答應請搭檔吃甜甜圈後就和好了。"
+  },
+  {
+    "key": "MID_NETSUIHDUJ",
+    "value": "停止再次攻擊"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202608",
+    "value": "偉大的祭典"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_17",
+    "value": "熱鬧的運動祭"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_SP_HELP_17",
+    "value": "$a還有$a0，擊敗敵人時可獲得５倍ＳＰ！此後亦可永久\n獲得２倍！（若有多個相同系統城堡效果，僅取最大值）"
+  }
+]
