@@ -1,0 +1,2022 @@
+[
+  {
+    "key": "MDAID_リベイラ村のバンダナ",
+    "value": "利貝拉村的頭巾"
+  },
+  {
+    "key": "MDAID_H_リベイラ村のバンダナ",
+    "value": "從凱伊那裡得到的簡約頭巾。\n輕飄飄的歐魯尼烏斯羽毛\n是其亮點，讓人心癢難耐。"
+  },
+  {
+    "key": "MDAID_リベイラ村のバンダナ・極",
+    "value": "利貝拉村的頭巾・極"
+  },
+  {
+    "key": "MDAID_H_リベイラ村のバンダナ・極",
+    "value": "從凱伊那裡得到的同款簡約頭巾。\n使用在利貝拉村紡織的布料製成，\n是應當隨身攜帶一件的萬能道具。"
+  },
+  {
+    "key": "MDAID_逃げない猫",
+    "value": "不逃走的貓"
+  },
+  {
+    "key": "MDAID_H_逃げない猫",
+    "value": "跟著迪托利希的貓。\n聽說貓通常都會怕他，\n如此親近他的實屬稀奇。"
+  },
+  {
+    "key": "MDAID_逃げない猫・極",
+    "value": "不逃走的貓・極"
+  },
+  {
+    "key": "MDAID_H_逃げない猫・極",
+    "value": "跟著迪托利希的貓。\n呈現完全放鬆的狀態。\n小心別讓牠掉下去了！"
+  },
+  {
+    "key": "MDAID_サラミスの女王の冠",
+    "value": "薩拉彌斯女王之冠"
+  },
+  {
+    "key": "MDAID_H_サラミスの女王の冠",
+    "value": "從賽奧朵拉那裡得到的\n壓迫感十足的王冠。光是戴著\n感覺就能讓周圍的人自動讓路。"
+  },
+  {
+    "key": "MDAID_サラミスの女王の冠・極",
+    "value": "薩拉彌斯女王之冠・極"
+  },
+  {
+    "key": "MDAID_H_サラミスの女王の冠・極",
+    "value": "從賽奧朵拉那裡得到的\n壓迫感十足的王冠。似乎與歷代的\n薩拉彌斯王所配戴的王冠是同款設計。"
+  },
+  {
+    "key": "MDAID_舞姫の頭飾り",
+    "value": "舞姬的頭飾"
+  },
+  {
+    "key": "MDAID_H_舞姫の頭飾り",
+    "value": "從蕾達那裡得到的漂亮頭飾。\n在舞台燈光下散發出魅惑的光芒。\n說不定會把大家都變成你的俘虜喔？"
+  },
+  {
+    "key": "MDAID_舞姫の頭飾り・極",
+    "value": "舞姬的頭飾・極"
+  },
+  {
+    "key": "MDAID_H_舞姫の頭飾り・極",
+    "value": "從蕾達那裡得到的漂亮頭飾。頭頂部分\n宛如月亮的美麗裝飾令人印象深刻。\n要化身成熟女性戴上它就對了。"
+  },
+  {
+    "key": "MDAID_カイのモザイク",
+    "value": "凱伊的馬賽克飾品"
+  },
+  {
+    "key": "MDAID_H_カイのモザイク",
+    "value": "以凱伊為原型所設計的\n馬賽克磚飾品。"
+  },
+  {
+    "key": "MDAID_レダのモザイク",
+    "value": "蕾達的馬賽克飾品"
+  },
+  {
+    "key": "MDAID_H_レダのモザイク",
+    "value": "以蕾達為原型所設計的\n馬賽克磚飾品。"
+  },
+  {
+    "key": "MDAID_セオドラのモザイク",
+    "value": "賽奧朵拉的馬賽克飾品"
+  },
+  {
+    "key": "MDAID_H_セオドラのモザイク",
+    "value": "以賽奧朵拉為原型所設計的\n馬賽克磚飾品。"
+  },
+  {
+    "key": "MDAID_ディートリヒのモザイク",
+    "value": "迪托利希的馬賽克飾品"
+  },
+  {
+    "key": "MDAID_H_ディートリヒのモザイク",
+    "value": "以迪托利希為原型所設計的\n馬賽克磚飾品。"
+  },
+  {
+    "key": "MDAID_くまの髪飾り・金",
+    "value": "小熊髮飾・金"
+  },
+  {
+    "key": "MDAID_H_くまの髪飾り・金",
+    "value": "戰勝新英雄凱伊、迪托利希、\n賽奧朵拉、蕾達的證明。"
+  },
+  {
+    "key": "MID_ENHANCE_HELP_117",
+    "value": "周圍５格內的敵人，可移動至能攻擊自己的格子"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃",
+    "value": "攻擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃＋",
+    "value": "攻擊＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃こそ全て",
+    "value": "攻擊即是一切"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃こそ全て＋",
+    "value": "攻擊即是一切＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃は捨てた",
+    "value": "捨棄攻擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃は捨てた＋",
+    "value": "捨棄攻擊＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・速さ",
+    "value": "攻擊・速度"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・速さ＋",
+    "value": "攻擊・速度＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・守備",
+    "value": "攻擊・防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・守備＋",
+    "value": "攻擊・防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・魔防",
+    "value": "攻擊・魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_攻撃・魔防＋",
+    "value": "攻擊・魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ",
+    "value": "速度"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ＋",
+    "value": "速度＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さこそ全て",
+    "value": "速度即是一切"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さこそ全て＋",
+    "value": "速度即是一切＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さは捨てた",
+    "value": "捨棄速度"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さは捨てた＋",
+    "value": "捨棄速度＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ・守備",
+    "value": "速度・防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ・守備＋",
+    "value": "速度・防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ・魔防",
+    "value": "速度・魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_速さ・魔防＋",
+    "value": "速度・魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備",
+    "value": "防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備＋",
+    "value": "防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備こそ全て",
+    "value": "防守即是一切"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備こそ全て＋",
+    "value": "防守即是一切＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備は捨てた",
+    "value": "捨棄防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備は捨てた＋",
+    "value": "捨棄防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備・魔防",
+    "value": "防守・魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_守備・魔防＋",
+    "value": "防守・魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防",
+    "value": "魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防＋",
+    "value": "魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防こそ全て",
+    "value": "魔防即是一切"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防こそ全て＋",
+    "value": "魔防即是一切＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防は捨てた",
+    "value": "捨棄魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_魔防は捨てた＋",
+    "value": "捨棄魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_全能力",
+    "value": "所有能力"
+  },
+  {
+    "key": "MID_GRACE_SKILL_全能力＋",
+    "value": "所有能力＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・攻撃",
+    "value": "移動・攻擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・攻撃＋",
+    "value": "移動・攻擊＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・速さ",
+    "value": "移動・速度"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・速さ＋",
+    "value": "移動・速度＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・守備",
+    "value": "移動・防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・守備＋",
+    "value": "移動・防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・魔防",
+    "value": "移動・魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_移動・魔防＋",
+    "value": "移動・魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・攻撃",
+    "value": "奧義・攻擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・攻撃＋",
+    "value": "奧義・攻擊＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・速さ",
+    "value": "奧義・速度"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・速さ＋",
+    "value": "奧義・速度＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・守備",
+    "value": "奧義・防守"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・守備＋",
+    "value": "奧義・防守＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・魔防",
+    "value": "奧義・魔防"
+  },
+  {
+    "key": "MID_GRACE_SKILL_奥義・魔防＋",
+    "value": "奧義・魔防＋"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流",
+    "value": "黑炎渦流"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流＋能力減",
+    "value": "黑炎渦流＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流＋ダメージ",
+    "value": "黑炎渦流＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流＋両強化",
+    "value": "黑炎渦流＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い",
+    "value": "影縫"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い＋能力減",
+    "value": "影縫＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い＋ダメージ",
+    "value": "影縫＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い＋両強化",
+    "value": "影縫＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾",
+    "value": "彗星煌彈"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾＋能力減",
+    "value": "彗星煌彈＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾＋ダメージ",
+    "value": "彗星煌彈＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾＋両強化",
+    "value": "彗星煌彈＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌",
+    "value": "狂騷之歌"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌＋能力減",
+    "value": "狂騷之歌＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌＋ダメージ",
+    "value": "狂騷之歌＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌＋両強化",
+    "value": "狂騷之歌＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃",
+    "value": "破邪閃擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃＋能力減",
+    "value": "破邪閃擊＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃＋ダメージ",
+    "value": "破邪閃擊＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃＋両強化",
+    "value": "破邪閃擊＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破",
+    "value": "煌龍破"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破＋能力減",
+    "value": "煌龍破＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破＋ダメージ",
+    "value": "煌龍破＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破＋両強化",
+    "value": "煌龍破＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪",
+    "value": "鈍化之冥咒"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪＋攻撃減",
+    "value": "鈍化之冥咒＋攻擊下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪＋速さ減",
+    "value": "鈍化之冥咒＋速度下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪＋両強化",
+    "value": "鈍化之冥咒＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ",
+    "value": "光輝耀槍"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ＋守備減",
+    "value": "光輝耀槍＋防守下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ＋魔防減",
+    "value": "光輝耀槍＋魔防下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ＋両強化",
+    "value": "光輝耀槍＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒",
+    "value": "霸之覺醒"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒＋能力減",
+    "value": "霸之覺醒＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒＋ダメージ",
+    "value": "霸之覺醒＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒＋両強化",
+    "value": "霸之覺醒＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃",
+    "value": "九天神擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃＋能力減",
+    "value": "九天神擊＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃＋ダメージ",
+    "value": "九天神擊＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃＋両強化",
+    "value": "九天神擊＋雙強化"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃",
+    "value": "攻擊＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃＋",
+    "value": "攻擊＋９"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃こそ全て",
+    "value": "攻擊＋９，速度－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃こそ全て＋",
+    "value": "攻擊＋１２，速度－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃は捨てた",
+    "value": "ＨＰ、速度、防守、魔防＋６，攻擊－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃は捨てた＋",
+    "value": "ＨＰ、速度、防守、魔防＋８，攻擊－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・速さ",
+    "value": "攻擊及速度＋４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・速さ＋",
+    "value": "攻擊及速度＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・守備",
+    "value": "攻擊＋４、防守＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・守備＋",
+    "value": "攻擊＋６、防守＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・魔防",
+    "value": "攻擊＋４、魔防＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_攻撃・魔防＋",
+    "value": "攻擊＋６、魔防＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ",
+    "value": "速度＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ＋",
+    "value": "速度＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さこそ全て",
+    "value": "速度＋１０，防守及魔防－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さこそ全て＋",
+    "value": "速度＋１３，防守及魔防－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さは捨てた",
+    "value": "ＨＰ、攻擊、防守、魔防＋６，速度－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さは捨てた＋",
+    "value": "ＨＰ、攻擊、防守、魔防＋８，速度－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ・守備",
+    "value": "速度＋５、防守＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ・守備＋",
+    "value": "速度＋７、防守＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ・魔防",
+    "value": "速度＋５、魔防＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_速さ・魔防＋",
+    "value": "速度＋７、魔防＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備",
+    "value": "ＨＰ＋４、防守＋９"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備＋",
+    "value": "ＨＰ＋７、防守＋１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備こそ全て",
+    "value": "ＨＰ＋７、防守＋１２，攻擊－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備こそ全て＋",
+    "value": "ＨＰ＋１０、防守＋１５，攻擊－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備は捨てた",
+    "value": "ＨＰ、攻擊、速度、魔防＋６，防守－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備は捨てた＋",
+    "value": "ＨＰ、攻擊、速度、魔防＋８，防守－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備・魔防",
+    "value": "ＨＰ＋４、防守及魔防＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_守備・魔防＋",
+    "value": "ＨＰ＋６、防守及魔防＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防",
+    "value": "ＨＰ＋４、魔防＋９"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防＋",
+    "value": "ＨＰ＋７、魔防＋１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防こそ全て",
+    "value": "ＨＰ＋７、魔防＋１２，攻擊－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防こそ全て＋",
+    "value": "ＨＰ＋１０、魔防＋１５，攻擊－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防は捨てた",
+    "value": "ＨＰ、攻擊、速度、防守＋６，魔防－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_魔防は捨てた＋",
+    "value": "ＨＰ、攻擊、速度、防守＋８，魔防－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_全能力",
+    "value": "ＨＰ、攻擊、速度、防守、魔防＋３"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_全能力＋",
+    "value": "ＨＰ、攻擊、速度、防守、魔防＋５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・攻撃",
+    "value": "移動＋１、攻擊＋２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・攻撃＋",
+    "value": "移動＋１、攻擊＋４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・速さ",
+    "value": "移動＋１、速度＋３"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・速さ＋",
+    "value": "移動＋１、速度＋５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・守備",
+    "value": "移動＋１、防守＋４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・守備＋",
+    "value": "移動＋１、防守＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・魔防",
+    "value": "移動＋１、魔防＋４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_移動・魔防＋",
+    "value": "移動＋１、魔防＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・攻撃",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n攻擊＋４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・攻撃＋",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n攻擊＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・速さ",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n速度＋５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・速さ＋",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n速度＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・守備",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n防守＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・守備＋",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n防守＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・魔防",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n魔防＋６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_奥義・魔防＋",
+    "value": "容易發動奧義（發動計量－１）\n（奧義發動計量最大值的下限為１），\n魔防＋８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流",
+    "value": "【聖焰戰技】\n給予▼範圍內的敵人５傷害，敵人的攻擊－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n敵人的攻擊再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n傷害再＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n傷害再＋３，敵人的攻擊再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い",
+    "value": "【聖焰戰技】\n給予３x３格內的敵人５傷害，敵人的速度－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n敵人的速度再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n傷害再＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n傷害再＋３，敵人的速度再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾",
+    "value": "【聖焰戰技】\n給予┃範圍內的敵人５傷害，敵人的防守－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n敵人的防守再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n傷害再＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n傷害再＋５，敵人的防守再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌",
+    "value": "【聖焰戰技】\n給予◆範圍內的敵人５傷害，敵人的魔防－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n敵人的魔防再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n傷害再＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n傷害再＋５，敵人的魔防再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃",
+    "value": "【聖焰戰技】\n給予＋範圍內的敵人５傷害，\n敵人的攻擊、速度、防守、魔防－２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n敵人的攻擊、速度、防守、魔防再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n傷害再＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n傷害再＋５，敵人的攻擊、速度、防守、魔防再－２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破",
+    "value": "【聖焰戰技】\n給予▲範圍內的敵人５傷害，敵人的攻擊及速度－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n敵人的攻擊及速度再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n傷害再＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n傷害再＋３，敵人的攻擊及速度再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪",
+    "value": "【聖焰戰技】\n＋範圍內的敵人攻擊及速度－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪＋攻撃減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的攻擊再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪＋速さ減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的速度再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的攻擊及速度再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ",
+    "value": "【聖焰戰技】\n━範圍內的敵人防守及魔防－８"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ＋守備減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的防守再－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ＋魔防減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的魔防再－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的防守及魔防再－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒",
+    "value": "【聖焰戰技】\n給予１名敵人１０傷害，\n敵人的攻擊、速度、防守、魔防－６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】\n敵人的攻擊、速度、防守、魔防再－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】\n傷害再＋２０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】\n傷害再＋１０，敵人的攻擊、速度、防守、魔防再－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃",
+    "value": "【聖焰戰技】\n給予３x３格內的敵人５傷害，\n敵人的攻擊、速度、防守、魔防－２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n敵人的攻擊、速度、防守、魔防再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n傷害再＋７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n傷害再＋３，敵人的攻擊、速度、防守、魔防再－２"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_TITLE",
+    "value": "Fortune's Weave紀念"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A1",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A1",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A2",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A2",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A3",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A3",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A4",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A4",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A5",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A5",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A6",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A6",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A7",
+    "value": "在跨越雙界中獲得得分"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A7",
+    "value": "在跨越雙界中獲得得分。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A8",
+    "value": "在英雄考驗中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A8",
+    "value": "在英雄考驗中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A9",
+    "value": "特殊:突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A9",
+    "value": "我軍全員為步行，\n在4人皆生存的狀態下\n過關修練之塔・第8層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A10",
+    "value": "特殊:突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A10",
+    "value": "我軍全員為重裝，\n在4人皆生存的狀態下\n過關修練之塔・第8層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A11",
+    "value": "特殊:突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A11",
+    "value": "我軍全員為騎馬，\n在4人皆生存的狀態下\n過關修練之塔・第8層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A12",
+    "value": "特殊:突破修練之塔・第8層"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A12",
+    "value": "我軍全員為飛行，\n在4人皆生存的狀態下\n過關修練之塔・第8層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A13",
+    "value": "特殊:突破修練之塔・第10層"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A13",
+    "value": "我軍內有步行、重裝、騎馬、飛行4個種類的成員，\n在4人皆生存的狀態下\n過關修練之塔・第10層。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A14",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A14",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A15",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A15",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A16",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A16",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A17",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A17",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609KINEN01_A18",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609KINEN01_A18",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_TITLE",
+    "value": "飛空城"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A1",
+    "value": "擊敗武器為劍的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A1",
+    "value": "擊敗武器為劍的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A2",
+    "value": "擊敗武器為槍的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A2",
+    "value": "擊敗武器為槍的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A3",
+    "value": "擊敗武器為斧的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A3",
+    "value": "擊敗武器為斧的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A4",
+    "value": "擊敗武器為無屬性弓的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A4",
+    "value": "擊敗武器為無屬性弓的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A5",
+    "value": "擊敗武器為無屬性暗器的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A5",
+    "value": "擊敗武器為無屬性暗器的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A6",
+    "value": "擊敗武器為赤魔的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A6",
+    "value": "擊敗武器為赤魔的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A7",
+    "value": "擊敗武器為青魔的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A7",
+    "value": "擊敗武器為青魔的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A8",
+    "value": "擊敗武器為綠魔的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A8",
+    "value": "擊敗武器為綠魔的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A9",
+    "value": "擊敗武器為杖的敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A9",
+    "value": "擊敗武器為杖的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A10",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A10",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A11",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A11",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A12",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A12",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A13",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A13",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A14",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A14",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SKY01_A15",
+    "value": "在飛空城的攻擊中獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SKY01_A15",
+    "value": "在飛空城的攻擊中獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_TITLE",
+    "value": "FEH PASS限定"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A1",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A1",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A2",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A2",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A3",
+    "value": "擊敗敵人"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A3",
+    "value": "擊敗敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A4",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A4",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A5",
+    "value": "在鬥技場獲勝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A5",
+    "value": "在鬥技場獲勝。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A6",
+    "value": "擊敗重裝"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A6",
+    "value": "擊敗重裝的敵人。"
+  },
+  {
+    "key": "MID_MISSION_S202609SUBSC01_A7",
+    "value": "擊敗飛行"
+  },
+  {
+    "key": "MID_MISSION_H_S202609SUBSC01_A7",
+    "value": "擊敗飛行的敵人。"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_TITLE",
+    "value": "向創造者起誓"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_A1",
+    "value": "特殊:突破第11章-第1節(超難)"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202609STORY_C01_A1",
+    "value": "我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第10部>第11章-第1節(超難)。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_A2",
+    "value": "特殊:突破第11章-第2節(超難)"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202609STORY_C01_A2",
+    "value": "我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第10部>第11章-第2節(超難)。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_A3",
+    "value": "特殊:突破第11章-第3節(超難)"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202609STORY_C01_A3",
+    "value": "我軍內有成員武器為斧，\n且在4人皆生存的狀態下\n過關<第10部>第11章-第3節(超難)。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_A4",
+    "value": "特殊:突破第11章-第4節(超難)"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202609STORY_C01_A4",
+    "value": "我軍內有成員武器為劍，\n且在4人皆生存的狀態下\n過關<第10部>第11章-第4節(超難)。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MISSION_W_S202609STORY_C01_A5",
+    "value": "特殊:突破第11章-第5節(超難)"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202609STORY_C01_A5",
+    "value": "我軍內有成員武器為槍，\n且在4人皆生存的狀態下\n過關<第10部>第11章-第5節(超難)。\n(出擊時，雙人組合的後衛角色不列入計算)"
+  },
+  {
+    "key": "MID_MUSIC_AUTHORITY_19",
+    "value": "Fire Emblem Shadows"
+  },
+  {
+    "key": "MID_MUSIC_AUTHORITY_20",
+    "value": "Fire Emblem: Fortune's Weave"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE16_27",
+    "value": "訣別之時"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE17_33",
+    "value": "神龍大人，真是個良宵啊"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_03",
+    "value": "前往未知的世界"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_04",
+    "value": "宛如利貝拉之風"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_05",
+    "value": "充滿殺意的十字路"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_06",
+    "value": "寂靜如影"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_07",
+    "value": "王的征途"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_08",
+    "value": "與榮耀同行"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_09",
+    "value": "復仇之旅"
+  },
+  {
+    "key": "MID_MUSIC_NAME_BGM_MNS_FE18_10",
+    "value": "直到心願實現的那天"
+  },
+  {
+    "key": "MPID_つながりカイ",
+    "value": "凱伊"
+  },
+  {
+    "key": "MPID_SEARCH_つながりカイ",
+    "value": "凱伊"
+  },
+  {
+    "key": "MPID_風光ディートリヒ",
+    "value": "迪托利希"
+  },
+  {
+    "key": "MPID_SEARCH_風光ディートリヒ",
+    "value": "迪托利希"
+  },
+  {
+    "key": "MPID_響心セオドラ",
+    "value": "賽奧朵拉"
+  },
+  {
+    "key": "MPID_SEARCH_響心セオドラ",
+    "value": "賽奧朵拉"
+  },
+  {
+    "key": "MPID_風光レダ",
+    "value": "蕾達"
+  },
+  {
+    "key": "MPID_SEARCH_風光レダ",
+    "value": "蕾達"
+  },
+  {
+    "key": "MPID_カイ",
+    "value": "凱伊"
+  },
+  {
+    "key": "MPID_SEARCH_カイ",
+    "value": "凱伊"
+  },
+  {
+    "key": "MPID_ディートリヒ",
+    "value": "迪托利希"
+  },
+  {
+    "key": "MPID_SEARCH_ディートリヒ",
+    "value": "迪托利希"
+  },
+  {
+    "key": "MPID_セオドラ",
+    "value": "賽奧朵拉"
+  },
+  {
+    "key": "MPID_SEARCH_セオドラ",
+    "value": "賽奧朵拉"
+  },
+  {
+    "key": "MPID_レダ",
+    "value": "蕾達"
+  },
+  {
+    "key": "MPID_SEARCH_レダ",
+    "value": "蕾達"
+  },
+  {
+    "key": "MEID_救世リーヴ",
+    "value": "利布"
+  },
+  {
+    "key": "MPID_HONOR_つながりカイ",
+    "value": "利貝拉村的少年"
+  },
+  {
+    "key": "MPID_HONOR_風光ディートリヒ",
+    "value": "俊美的殺手"
+  },
+  {
+    "key": "MPID_HONOR_響心セオドラ",
+    "value": "剛腕女王"
+  },
+  {
+    "key": "MPID_HONOR_風光レダ",
+    "value": "凱路斯的薔薇"
+  },
+  {
+    "key": "MEID_HONOR_救世リーヴ",
+    "value": "篡位的死之王"
+  },
+  {
+    "key": "MPID_H_つながりカイ",
+    "value": "充滿活力、關心家人的耿直少年。\n為了父親，渴望在大劍鬥祭上獲得勝利。\n（登場作品：\n　『Fire Emblem: Fortune's Weave』）"
+  },
+  {
+    "key": "MPID_H_風光ディートリヒ",
+    "value": "為了享受樂趣而一心追求廝殺的劍客。\n持有被稱為英雄的遺產的劍。\n（登場作品：\n　『Fire Emblem: Fortune's Weave』）"
+  },
+  {
+    "key": "MPID_H_響心セオドラ",
+    "value": "勇猛果敢的薩拉彌斯王國女王。\n其右手臂宿有身為一國之主的覺悟。\n（登場作品：\n　『Fire Emblem: Fortune's Weave』）"
+  },
+  {
+    "key": "MPID_H_風光レダ",
+    "value": "演奏著魅惑旋律的美麗舞姬。\n渴望向傷害了父親及故鄉的人們復仇。\n（登場作品：\n　『Fire Emblem: Fortune's Weave』）"
+  },
+  {
+    "key": "MEID_H_救世リーヴ",
+    "value": "死之王國赫爾的戰士。與天上締結了契約。\n殺死了死之王赫爾並篡奪其力量。"
+  },
+  {
+    "key": "MPID_VOICE_つながりカイ",
+    "value": "山下大輝(Daiki Yamashita)"
+  },
+  {
+    "key": "MPID_VOICE_風光ディートリヒ",
+    "value": "日野聡(Satoshi Hino)"
+  },
+  {
+    "key": "MPID_VOICE_響心セオドラ",
+    "value": "高山みなみ(Minami Takayama)"
+  },
+  {
+    "key": "MPID_VOICE_風光レダ",
+    "value": "伊瀬茉莉也(Mariya Ise)"
+  },
+  {
+    "key": "MEID_VOICE_救世リーヴ",
+    "value": "前野智昭(Tomoaki Maeno)"
+  },
+  {
+    "key": "MPID_VOICE_伝承ルフレ女EX01",
+    "value": "沢城みゆき(Miyuki Sawashiro)"
+  },
+  {
+    "key": "MPID_ILLUST_つながりカイ",
+    "value": "はなだ(hanada)"
+  },
+  {
+    "key": "MPID_ILLUST_風光ディートリヒ",
+    "value": "bikku"
+  },
+  {
+    "key": "MPID_ILLUST_響心セオドラ",
+    "value": "Azusa"
+  },
+  {
+    "key": "MPID_ILLUST_風光レダ",
+    "value": "ekao"
+  },
+  {
+    "key": "MEID_ILLUST_救世リーヴ",
+    "value": "コザキユースケ(Yusuke Kozaki)"
+  },
+  {
+    "key": "MPID_ILLUST_伝承ルフレ女EX01",
+    "value": "久蒼穹(kyusokyu)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_01_つながりカイ",
+    "value": "為了父親挑戰大劍鬥祭的少年。興趣是釣魚。\n能駕馭飛鴕躍過森林與河流！？\n以戰法發動突襲，用冥炎的天脈妨礙敵軍！"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_01_風光ディートリヒ",
+    "value": "一心追求和強者廝殺的劍客。興趣是冥想。\n無視妨礙移動４格，出其不意地突襲敵方，\n奧義、奧義、奧義！瞬間斬除周圍３名敵人！"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_01_響心セオドラ",
+    "value": "為祖國的宿願而戰的年輕女王。興趣是狩獵。\n以壓倒性的耐打能力與充沛的治癒能力化為\n銅牆鐵壁！發動戰法擊潰潛伏在遠處的敵人！"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_01_風光レダ",
+    "value": "為復仇而生的比維拉琴奏者。興趣是遠行。\n以戰法讓最多３人同時再次行動！\n讓敵軍變軟骨頭，承受眾人火力強大的奧義！"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_11_神階ヴェイル",
+    "value": "溫和且心地善良的邪龍之女，最愛吃辣！\n能減輕我軍受到的傷害。\n確實地妨礙敵軍發動奧義和棘手的治癒效果！"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1009a_color_12_伝承エリンシア",
+    "value": "以慈愛之心與堅定意志，為人民點亮希望之光。\n將敵人的第一發傷害變成１！？降臨到遠處的\n敵人身邊，搭配奧義以４次攻擊將其討伐！"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_68",
+    "value": "光——秩序和理性的世界"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_69",
+    "value": "闇——自由和本能的世界"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_70",
+    "value": "韃古扎"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_71",
+    "value": "亞拉格"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_72",
+    "value": "布雷扎蘭德"
+  },
+  {
+    "key": "MID_PROFILECARD_HOMETOWN_73",
+    "value": "薩拉彌斯"
+  },
+  {
+    "key": "MSID_第110迷宮の覇者1",
+    "value": "第110迷宮的霸王１"
+  },
+  {
+    "key": "MSID_SEARCH_第110迷宮の覇者1",
+    "value": "第110迷宮的霸王1"
+  },
+  {
+    "key": "MSID_第110迷宮の覇者2",
+    "value": "第110迷宮的霸王２"
+  },
+  {
+    "key": "MSID_SEARCH_第110迷宮の覇者2",
+    "value": "第110迷宮的霸王2"
+  },
+  {
+    "key": "MSID_第110迷宮の覇者3",
+    "value": "第110迷宮的霸王３"
+  },
+  {
+    "key": "MSID_SEARCH_第110迷宮の覇者3",
+    "value": "第110迷宮的霸王3"
+  },
+  {
+    "key": "MSID_クリミアの心・承",
+    "value": "克里米亞之心・承"
+  },
+  {
+    "key": "MSID_SEARCH_クリミアの心・承",
+    "value": "克里米亞之心･承"
+  },
+  {
+    "key": "MSID_邪竜の救済・神",
+    "value": "邪龍的救濟・神"
+  },
+  {
+    "key": "MSID_SEARCH_邪竜の救済・神",
+    "value": "邪龍的救濟･神"
+  },
+  {
+    "key": "MSID_死の救世の鎌",
+    "value": "死亡救世之鐮"
+  },
+  {
+    "key": "MSID_SEARCH_死の救世の鎌",
+    "value": "死亡救世之鐮"
+  },
+  {
+    "key": "MSID_魔剣アンスウェラー",
+    "value": "魔劍安薩拉"
+  },
+  {
+    "key": "MSID_SEARCH_魔剣アンスウェラー",
+    "value": "魔劍安薩拉"
+  },
+  {
+    "key": "MSID_リベイラ村の槍",
+    "value": "利貝拉村之槍"
+  },
+  {
+    "key": "MSID_SEARCH_リベイラ村の槍",
+    "value": "利貝拉村之槍"
+  },
+  {
+    "key": "MSID_マハマドゥの槍",
+    "value": "馬哈馬杜之槍"
+  },
+  {
+    "key": "MSID_SEARCH_マハマドゥの槍",
+    "value": "馬哈馬杜之槍"
+  },
+  {
+    "key": "MSID_魅惑の奏者の弓",
+    "value": "魅惑的奏者之弓"
+  },
+  {
+    "key": "MSID_SEARCH_魅惑の奏者の弓",
+    "value": "魅惑的奏者之弓"
+  },
+  {
+    "key": "MSID_即興",
+    "value": "即興"
+  },
+  {
+    "key": "MSID_SEARCH_即興",
+    "value": "即興"
+  },
+  {
+    "key": "MSID_不退の覚悟",
+    "value": "不退的覺悟"
+  },
+  {
+    "key": "MSID_SEARCH_不退の覚悟",
+    "value": "不退的覺悟"
+  },
+  {
+    "key": "MSID_刷新・拍節",
+    "value": "革故鼎新・節拍"
+  },
+  {
+    "key": "MSID_SEARCH_刷新・拍節",
+    "value": "革故鼎新･節拍"
+  },
+  {
+    "key": "MSID_助走・赤への分断",
+    "value": "助跑・對赤的分斷"
+  },
+  {
+    "key": "MSID_SEARCH_助走・赤への分断",
+    "value": "助跑･對赤的分斷"
+  },
+  {
+    "key": "MSID_助走・青への分断",
+    "value": "助跑・對青的分斷"
+  },
+  {
+    "key": "MSID_SEARCH_助走・青への分断",
+    "value": "助跑･對青的分斷"
+  },
+  {
+    "key": "MSID_活発",
+    "value": "活潑"
+  },
+  {
+    "key": "MSID_SEARCH_活発",
+    "value": "活潑"
+  },
+  {
+    "key": "MSID_影渡り",
+    "value": "影渡"
+  },
+  {
+    "key": "MSID_SEARCH_影渡り",
+    "value": "影渡"
+  },
+  {
+    "key": "MSID_初撃・追撃の鼓動",
+    "value": "初擊・追擊之躍動"
+  },
+  {
+    "key": "MSID_SEARCH_初撃・追撃の鼓動",
+    "value": "初擊･追擊之躍動"
+  },
+  {
+    "key": "MSID_攻守信念・弱化無効",
+    "value": "攻防信心・弱化無效"
+  },
+  {
+    "key": "MSID_SEARCH_攻守信念・弱化無効",
+    "value": "攻防信心･弱化無效"
+  },
+  {
+    "key": "MSID_響・後の先",
+    "value": "響・後發先至"
+  },
+  {
+    "key": "MSID_SEARCH_響・後の先",
+    "value": "響･後發先至"
+  },
+  {
+    "key": "MSID_清真アミーテR",
+    "value": "純潔亞米特"
+  },
+  {
+    "key": "MSID_SEARCH_清真アミーテR",
+    "value": "純潔亞米特"
+  },
+  {
+    "key": "MSID_聖王の参謀の術書R",
+    "value": "聖王的參謀之兵法書"
+  },
+  {
+    "key": "MSID_SEARCH_聖王の参謀の術書R",
+    "value": "聖王的參謀之兵法書"
+  },
+  {
+    "key": "MSID_王斧グリトニルR",
+    "value": "王斧格利特尼爾"
+  },
+  {
+    "key": "MSID_SEARCH_王斧グリトニルR",
+    "value": "王斧格利特尼爾"
+  },
+  {
+    "key": "MSID_H_第110迷宮の覇者1",
+    "value": "速度、防守、魔防＋２"
+  },
+  {
+    "key": "MSID_H_第110迷宮の覇者2",
+    "value": "速度、防守、魔防＋３"
+  },
+  {
+    "key": "MSID_H_第110迷宮の覇者3",
+    "value": "速度、防守、魔防＋４"
+  },
+  {
+    "key": "MSID_H_清真アミーテR",
+    "value": "自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋○（範圍奧義除外）\n（○的數值為：自己為２５，我方為１０），\n自己在初次攻擊前奧義發動計量－１\n\n戰鬥中，所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）"
+  },
+  {
+    "key": "MSID_H_オヴスキュリテR",
+    "value": "抵銷敵人的「以其防守及魔防中較低方計算傷害」效果\n（包括範圍奧義）\n\n戰鬥中的攻擊、速度、防守、魔防＋１０，\n所受傷害－１５（範圍奧義除外），\n且「自己或敵人已結合時」\n或「戰鬥中，魔防高於敵人時」，\n戰鬥中，攻擊２次"
+  },
+  {
+    "key": "MSID_H_錬磨サンダーソードR",
+    "value": "$a回合開始時及\n行動後（發動再移動時則於再移動結束後），\n離自己最近的敵人與其周圍２格內的敵人\n速度、防守、魔防－７，\n並附加【弱點暴露】、【不和】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n【弱點暴露】\n受到敵人攻擊時的傷害＋１０\n\n【不和】\n戰鬥中的攻擊、速度、防守、魔防下降\n（下降數值為：周圍２格內的我方人數（上限３）＋２）"
+  },
+  {
+    "key": "MSID_H_錬磨サンダーソードR_NOSKW",
+    "value": "$a回合開始時及\n行動後（發動再移動時則於再移動結束後），\n離自己最近的敵人與其周圍２格內的敵人\n速度、防守、魔防－７，\n並附加【弱點暴露】、【不和】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）"
+  },
+  {
+    "key": "MSID_H_王斧グリトニルR",
+    "value": "$a位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥開始後（戰鬥開始後受到傷害效果之後），\n回復最高ＨＰ的４０％\n（若有多個相同系統效果，僅取最大值），\n戰鬥中抵銷【無法回復】的５０％效果，\n且受到第一發攻擊傷害時，\n戰鬥中，傷害降低效果計算前之傷害的４０％\n將附加至自身下次攻擊\n（僅在本次戰鬥中。若有多個相同系統效果，僅取最大值）\n\n戰鬥中，所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且戰鬥中，防守高於敵人時，\n發動【神速追擊：傷害○％】\n（○的數值為：自己無攻擊２次\n　且無法追擊時為１００，若非上述情形時則為５０）\n\n【無法回復】\n無法回復ＨＰ的異常狀態\n（直到敵人下次行動結束）\n\n【神速追擊：傷害○％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的○％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_王斧グリトニルR_NOSKW",
+    "value": "$a位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥開始後（戰鬥開始後受到傷害效果之後），\n回復最高ＨＰ的４０％\n（若有多個相同系統效果，僅取最大值），\n戰鬥中抵銷【無法回復】的５０％效果，\n且受到第一發攻擊傷害時，\n戰鬥中，傷害降低效果計算前之傷害的４０％\n將附加至自身下次攻擊\n（僅在本次戰鬥中。若有多個相同系統效果，僅取最大值）\n\n戰鬥中，所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且戰鬥中，防守高於敵人時，\n發動【神速追擊：傷害○％】\n（○的數值為：自己無攻擊２次\n　且無法追擊時為１００，若非上述情形時則為５０）"
+  },
+  {
+    "key": "MSID_H_尽きざるものR",
+    "value": "$a我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位\n攻擊及速度＋６，並賦予【狀態奪取無效】、\n「抵銷敵人的＋強化狀態」的效果（１回合）\n\n戰鬥中，所受傷害－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n―――――【戰法】：弓射程＋―――――\n可攻擊與自己相距３格的敵人\n（無法攻擊與自己相距２格的敵人）\n\n戰鬥中，自己的追擊的速度條件－１０\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍３格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為２格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為２\n此戰法１回合僅可使用１次\n―――――――――――――――――――\n\n【狀態奪取無效】\n戰鬥中的攻擊、速度、防守、魔防＋４\n\n對受到此狀態者，\n發動【奪取埃基璐】等技能的\n「賦予敵人受到的【有利的狀態】」以及\n「解除敵人的【有利的狀態】」的效果時，\n抵銷自己和其他目標的該效果，\n並解除敵人的【有利的狀態】\n（無法解除敵人於同一時間賦予的【有利的狀態】）\n\n【戰法】\n點觸畫面下方的「戰法按鈕」，即可使用戰法\n\n戰法狀態僅在技能持有者行動時有效\n若自身處於雙人組合狀態，\n或裝備多個持有戰法的技能，\n戰法將無效"
+  },
+  {
+    "key": "MSID_H_尽きざるものR_NOSKW",
+    "value": "$a我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位\n攻擊及速度＋６，並賦予【狀態奪取無效】、\n「抵銷敵人的＋強化狀態」的效果（１回合）\n\n戰鬥中，所受傷害－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n―――――【戰法】：弓射程＋―――――\n可攻擊與自己相距３格的敵人\n（無法攻擊與自己相距２格的敵人）\n\n戰鬥中，自己的追擊的速度條件－１０\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍３格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為２格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為２\n此戰法１回合僅可使用１次\n―――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_聖王の参謀の術書R",
+    "value": "$a我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位防守及魔防＋７（１回合）\n\n位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥中，自己在初次追擊前奧義發動計量－２，\n且在追擊的速度條件－２５的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害○％】\n（○的數值為：地圖上我方單位（包括持有此技能者）當中\n　強化狀態合計值的最高值×４，最大１００，\n　僅會在○為１以上時發動）\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外）\n\n【神速追擊：傷害○％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的○％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_聖王の参謀の術書R_NOSKW",
+    "value": "$a我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位防守及魔防＋７（１回合）\n\n位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥中，自己在初次追擊前奧義發動計量－２，\n且在追擊的速度條件－２５的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害○％】\n（○的數值為：地圖上我方單位（包括持有此技能者）當中\n　強化狀態合計值的最高值×４，最大１００，\n　僅會在○為１以上時發動）\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外）"
+  },
+  {
+    "key": "MSID_H_炎虎の爪牙R",
+    "value": "$a使用或被施放支援、移動系輔助技能時，\n移動後，為自己和對方各自周圍２格內的\n我方單位（包含自己及對方）\n賦予【攻擊解放】、【防守解放】、\n「戰鬥中，自身奧義發動計量變化量＋１\n（若有多個相同系統效果，僅取最大值）」的效果\n（１回合）\n\n若現在的回合內自己有進行輔助，\n再移動結束後，讓自己進入可再次行動的狀態，\n並可再次發動再移動\n（１回合僅能發動１次，\n　在再移動中受到飛空城陷阱的效果時不會發動）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋２５（範圍奧義除外），\n戰鬥後回復ＨＰ１０\n\n【攻擊解放】\n戰鬥中的攻擊提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）\n\n【防守解放】\n戰鬥中的防守提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）"
+  },
+  {
+    "key": "MSID_H_炎虎の爪牙R_NOSKW",
+    "value": "$a使用或被施放支援、移動系輔助技能時，\n移動後，為自己和對方各自周圍２格內的\n我方單位（包含自己及對方）\n賦予【攻擊解放】、【防守解放】、\n「戰鬥中，自身奧義發動計量變化量＋１\n（若有多個相同系統效果，僅取最大值）」的效果\n（１回合）\n\n若現在的回合內自己有進行輔助，\n再移動結束後，讓自己進入可再次行動的狀態，\n並可再次發動再移動\n（１回合僅能發動１次，\n　在再移動中受到飛空城陷阱的效果時不會發動）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋２５（範圍奧義除外），\n戰鬥後回復ＨＰ１０"
+  },
+  {
+    "key": "MSID_H_クリミアの心・承",
+    "value": "$a周圍２格內的我方單位，\n可移動至自己周圍２格以內的格子\n（透過此效果進行移動時\n　不受技能的妨礙移動效果影響）\n\n位於自身縱向５列及橫向５列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍２格內的我方\n【真奮激】、【識破・追擊效果】的效果\n（１回合）\n\n戰鬥中，給予的傷害＋７（範圍奧義除外），\n所受傷害－７（範圍奧義除外），\n且由自己發動攻擊，\n且戰鬥中，速度及魔防其中之一高於敵人５以上時，\n將一開始受到的攻擊和攻擊２次的傷害降低至最大１\n\n【真奮激】\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：\n　攻擊方移動前與移動後的格子距離×２（最大８））\n\n【識破・追擊效果】\n戰鬥中，速度高於敵人時，\n抵銷敵人擁有的絕對追擊狀態，\n以及自己受到的無法追擊狀態"
+  },
+  {
+    "key": "MSID_H_クリミアの心・承_NOSKW",
+    "value": "$a周圍２格內的我方單位，\n可移動至自己周圍２格以內的格子\n（透過此效果進行移動時\n　不受技能的妨礙移動效果影響）\n\n位於自身縱向５列及橫向５列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍２格內的我方\n【真奮激】、【識破・追擊效果】的效果\n（１回合）\n\n戰鬥中，給予的傷害＋７（範圍奧義除外），\n所受傷害－７（範圍奧義除外），\n且由自己發動攻擊，\n且戰鬥中，速度及魔防其中之一高於敵人５以上時，\n將一開始受到的攻擊和攻擊２次的傷害降低至最大１"
+  },
+  {
+    "key": "MSID_H_邪竜の救済・神",
+    "value": "若有會將魔防差距列入條件的技能，\n則將自身的魔防＋５後再進行比較\n\n位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋５，\n且戰鬥開始時，若持有此技能者的魔防高於敵人５以上，\n將戰鬥中受到的攻擊傷害降低４０％\n（範圍奧義除外），\n且若敵人裝備有在攻擊時發動的奧義，\n戰鬥中，在敵人初次「攻擊前」\n以及在敵人初次「追擊前」，敵人奧義發動計量＋１\n（奧義發動計量均不會超越最大值）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋７（範圍奧義除外），\n所受傷害－７（範圍奧義除外），\n抵銷自己的奧義發動計量變化量－，\n自己在初次攻擊前奧義發動計量－１，\n且魔防高於敵人５以上時，\n將戰鬥中受到的攻擊傷害降低４０％\n（範圍奧義除外），\n且若敵人裝備有在攻擊時發動的奧義，\n戰鬥中，敵人無法發動奧義\n（範圍奧義除外）\n\n戰鬥後回復ＨＰ７"
+  },
+  {
+    "key": "MSID_H_死の救世の鎌",
+    "value": "$a可發動【再移動（格子間的距離＋１，最大４）】\n容易發動奧義（發動計量－１）\n敵人為魔法、杖以外時，以其魔防計算傷害\n（範圍奧義除外）\n\n回合開始時及\n行動後（發動再移動時則於再移動結束後），\n為離自己最近的敵人與其周圍２格內的敵人\n附加【無法逃離的死亡】、【慌亂】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中的攻擊、速度、防守、魔防＋１５，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且敵人為魔法、杖以外時，\n當自己在戰鬥中的ＨＰ在２以上，且遭受敵人致命攻擊時，\n將傷害降低至自身ＨＰ會剩下１\n（每次戰鬥僅能發動一次，不可和奧義以外的\n　「遭受敵人致命攻擊時，將傷害降低至\n　自身ＨＰ會剩下１的效果」重複發動）\n\n戰鬥後回復ＨＰ７\n\n【再移動（格子間的距離＋１，最大４）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n可馬上移動\n\n可移動的範圍為\n上述行動前的移動前與移動後的格子距離＋１\n（最大４）\n\n【無法逃離的死亡】\n使周圍５格内的敵人\n可移動至相距自己「敵人射程數」的格子中\n距離該敵人最近的格子的異常狀態\n（若為該敵人無法移動的地形，則無法移動，\n　透過此效果進行移動時\n　不受技能的妨礙移動效果影響）\n\n且自己在戰鬥中的攻擊、速度、防守、魔防－５，\n受到敵人攻擊時的傷害＋１０（範圍奧義除外）\n\n【慌亂】\n強化狀態由＋轉－的異常狀態"
+  },
+  {
+    "key": "MSID_H_死の救世の鎌_NOSKW",
+    "value": "$a可發動【再移動（格子間的距離＋１，最大４）】\n容易發動奧義（發動計量－１）\n敵人為魔法、杖以外時，以其魔防計算傷害\n（範圍奧義除外）\n\n回合開始時及\n行動後（發動再移動時則於再移動結束後），\n為離自己最近的敵人與其周圍２格內的敵人\n附加【無法逃離的死亡】、【慌亂】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中的攻擊、速度、防守、魔防＋１５，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且敵人為魔法、杖以外時，\n當自己在戰鬥中的ＨＰ在２以上，且遭受敵人致命攻擊時，\n將傷害降低至自身ＨＰ會剩下１\n（每次戰鬥僅能發動一次，不可和奧義以外的\n　「遭受敵人致命攻擊時，將傷害降低至\n　自身ＨＰ會剩下１的效果」重複發動）\n\n戰鬥後回復ＨＰ７"
+  },
+  {
+    "key": "MSID_H_魔剣アンスウェラー",
+    "value": "$a更容易發動奧義（發動計量－２）\n（奧義發動計量最大值的下限為１）\n\n回合開始時及\n行動後（發動再移動時則於再移動結束後），\n離自己最近的敵人與其周圍２格內的敵人\n攻擊、速度、防守－７，\n並附加【混亂】、【速度枷鎖】、【防守枷鎖】的異常狀態\n（直到敵人下次行動結束）\n\n由自己發動攻擊的戰鬥後，\n自己周圍２格內的敵人\n攻擊、速度、防守－７，\n並附加【混亂】、【速度枷鎖】、【防守枷鎖】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中的攻擊、速度、防守、魔防＋１５，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】\n\n【混亂】\n戰鬥中的攻擊、速度、防守、魔防下降\n（下降數值為：\n　自己和周圍２格內的我方單位當中最高的弱化值）\n（依能力值不同分開計算）\n\n【速度枷鎖】\n戰鬥中的速度下降\n（下降數值為：自己受到的弱化以外\n　【不利的異常狀態】數量＋４）（最大８）\n\n【防守枷鎖】\n戰鬥中的防守下降\n（下降數值為：自己受到的弱化以外\n　【不利的異常狀態】數量＋４）（最大８）\n\n【神速追擊：傷害１００％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的１００％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_魔剣アンスウェラー_NOSKW",
+    "value": "$a更容易發動奧義（發動計量－２）\n（奧義發動計量最大值的下限為１）\n\n回合開始時及\n行動後（發動再移動時則於再移動結束後），\n離自己最近的敵人與其周圍２格內的敵人\n攻擊、速度、防守－７，\n並附加【混亂】、【速度枷鎖】、【防守枷鎖】的異常狀態\n（直到敵人下次行動結束）\n\n由自己發動攻擊的戰鬥後，\n自己周圍２格內的敵人\n攻擊、速度、防守－７，\n並附加【混亂】、【速度枷鎖】、【防守枷鎖】的異常狀態\n（直到敵人下次行動結束）\n\n戰鬥中的攻擊、速度、防守、魔防＋１５，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外），\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】"
+  },
+  {
+    "key": "MSID_H_リベイラ村の槍",
+    "value": "$a容易發動奧義（發動計量－１）\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋○\n（○的數值為：自己為１５，我方為５），\n自己在初次追擊前奧義發動計量－２，\n且戰鬥中，速度高於敵人時，\n抵銷敵人擁有的絕對追擊狀態，\n以及自己受到的無法追擊狀態\n\n戰鬥中抵銷自身攻擊及速度的弱化狀態，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n――――――【戰法】：冥炎彈――――――\n可攻擊與自己相距３格的敵人（無法攻擊相鄰的敵人）\n\n戰鬥中造成的傷害＋１０（範圍奧義除外）\n\n若在戰鬥時進行攻擊，戰鬥後，\n賦予敵人的格子及其斜對角方向的１格\n【天脈・冥炎】的效果（１回合）\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍３格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為１格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為１\n使用戰法後，２回合內無法使用\n――――――――――――――――――――\n\n【戰法】\n點觸畫面下方的「戰法按鈕」，即可使用戰法\n\n戰法狀態僅在技能持有者行動時有效\n若自身處於雙人組合狀態，\n或裝備多個持有戰法的技能，\n戰法將無效\n\n【天脈・冥炎】\n進入被賦予此效果的格子中的對象會受到以下效果\n\n敵人會變得較難移動\n（移動時，移動會額外消耗１。\n　不會消耗超越敵人移動方式的基本移動力。\n　「可在自己能移動的地形如在平地般移動」\n　的效果不受此效果影響）\n\n敵人在敵軍回合開始時受到１０傷害\n（造成傷害後其ＨＰ最少保留１）\n\n敵人在戰鬥中的速度－５，\n受到戰鬥對手攻擊時的傷害＋１０\n（範圍奧義除外）\n\n（若賦予的格子上已有天脈效果，將會取代該效果）\n（若在同一時間賦予多個不同的天脈效果，\n　天脈效果將會消滅）"
+  },
+  {
+    "key": "MSID_H_リベイラ村の槍_NOSKW",
+    "value": "$a容易發動奧義（發動計量－１）\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥中的攻擊、速度、防守、魔防＋○\n（○的數值為：自己為１５，我方為５），\n自己在初次追擊前奧義發動計量－２，\n且戰鬥中，速度高於敵人時，\n抵銷敵人擁有的絕對追擊狀態，\n以及自己受到的無法追擊狀態\n\n戰鬥中抵銷自身攻擊及速度的弱化狀態，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n――――――【戰法】：冥炎彈――――――\n可攻擊與自己相距３格的敵人（無法攻擊相鄰的敵人）\n\n戰鬥中造成的傷害＋１０（範圍奧義除外）\n\n若在戰鬥時進行攻擊，戰鬥後，\n賦予敵人的格子及其斜對角方向的１格\n【天脈・冥炎】的效果（１回合）\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍３格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為１格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為１\n使用戰法後，２回合內無法使用\n――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_マハマドゥの槍",
+    "value": "$aＨＰ＋７\n容易發動奧義（發動計量－１）\n受到敵人攻擊時，可無視距離進行反擊\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥開始後（戰鬥開始後受到傷害效果之後），\n回復最高ＨＰ的４０％\n（若有多個相同系統效果，僅取最大值），\n戰鬥中的攻擊、速度、防守、魔防＋○\n（○的數值為：自己為１５，我方為５），\n抵銷【無法回復】的５０％效果，\n且防守高於敵人５以上時，\n自己與敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n―――――――【戰法】：轟土―――――――\n可無視距離攻擊周圍５格內，\n且位於自身縱向３列及橫向３列內的敵人\n\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時\n　條件Ｃ：敵人射程和自己與敵人的距離相同時）\n無法移動，戰鬥後移動技能會無效，無法發動範圍奧義，\n再移動時的剩餘距離視為０，無法破壞地形\n技能效果的射程判定視為射程為１\n此戰法１回合僅可使用１次\n―――――――――――――――――――――\n\n【無法回復】\n無法回復ＨＰ的異常狀態\n（直到敵人下次行動結束）\n\n【戰法】\n點觸畫面下方的「戰法按鈕」，即可使用戰法\n\n戰法狀態僅在技能持有者行動時有效\n若自身處於雙人組合狀態，\n或裝備多個持有戰法的技能，\n戰法將無效"
+  },
+  {
+    "key": "MSID_H_マハマドゥの槍_NOSKW",
+    "value": "$aＨＰ＋７\n容易發動奧義（發動計量－１）\n受到敵人攻擊時，可無視距離進行反擊\n\n自己和位於自身縱向３列及橫向３列內的我方，\n戰鬥開始後（戰鬥開始後受到傷害效果之後），\n回復最高ＨＰ的４０％\n（若有多個相同系統效果，僅取最大值），\n戰鬥中的攻擊、速度、防守、魔防＋○\n（○的數值為：自己為１５，我方為５），\n抵銷【無法回復】的５０％效果，\n且防守高於敵人５以上時，\n自己與敵方的戰鬥順序替換技能（埋伏、猛攻等）無效\n\n戰鬥中，給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n可使用下述的【戰法】\n―――――――【戰法】：轟土―――――――\n可無視距離攻擊周圍５格內，\n且位於自身縱向３列及橫向３列內的敵人\n\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時\n　條件Ｃ：敵人射程和自己與敵人的距離相同時）\n無法移動，戰鬥後移動技能會無效，無法發動範圍奧義，\n再移動時的剩餘距離視為０，無法破壞地形\n技能效果的射程判定視為射程為１\n此戰法１回合僅可使用１次\n―――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_魅惑の奏者の弓",
+    "value": "$a克制飛行\n容易發動奧義（發動計量－１）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５，無法反擊，\n受到戰鬥對手攻擊時的傷害＋１０\n（範圍奧義除外）\n\n戰鬥中的攻擊、速度、防守、魔防＋１０，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n抵銷自己的奧義發動計量變化量－，\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】\n\n【神速追擊：傷害１００％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的１００％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_魅惑の奏者の弓_NOSKW",
+    "value": "$a克制飛行\n容易發動奧義（發動計量－１）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５，無法反擊，\n受到戰鬥對手攻擊時的傷害＋１０\n（範圍奧義除外）\n\n戰鬥中的攻擊、速度、防守、魔防＋１０，\n給予的傷害＋２５（範圍奧義除外），\n所受傷害－１５（範圍奧義除外），\n抵銷自己的奧義發動計量變化量－，\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】"
+  },
+  {
+    "key": "MSID_H_即興",
+    "value": "$a此技能被視為「歌唱」、「起舞」\n無法使用在擁有「歌唱」、「起舞」的目標上\n\n若指定目標為已行動狀態，讓指定目標進入可行動的狀態，\n若指定目標已發動過再移動，則可再次發動\n\n若指定目標為可行動狀態，\n賦予【歌唱、起舞】的效果（１回合）\n\n再賦予自己和指定目標\n各自周圍２格內的我方（包含自己及對方）\n【赤紅詛咒】、【開闢之躍動】的效果（１回合）\n\n若現在的回合內自己有進行輔助，\n再移動結束後（包含因再移動限制而結束行動的情況），\n讓自己進入可再次行動的狀態，並可再次發動再移動，\n為自己與雙人組合的對象附加【無法輔助】的異常狀態\n（１回合僅能發動１次，因戰法「天女之歌」的效果產生的\n　戰法使用限制生效期間不會發動\n　（此前剛使用過戰法「天女之歌」時除外），\n　在再移動中受到飛空城陷阱的效果時不會發動）\n\n可使用下述的【戰法】\n―――――【戰法】：天女之歌―――――\n使用輔助技能時，\n位於與自己相鄰的格子的我方已行動者\n（輔助技能的指定目標以及\n　擁有「歌唱」、「起舞」的我方除外）當中\nＨＰ最高的我方只有１名時，\n讓該我方進入可行動的狀態，\n若已發動過再移動，則可再次發動\n\n透過戰法的效果讓我方單位可再次行動時，\n此戰法２回合內無法使用\n―――――――――――――――――――\n\n【歌唱、起舞】\n行動後（發動再移動時則於再移動結束後，\n包含因再移動限制而結束行動的情況），\n讓自己進入可再次行動的狀態，\n若已發動過再移動，則可再次發動\n（發動其他讓自己進入可再次行動的狀態之效果時\n　不會發動）\n\n發動上述效果後，\n解除我軍（包含雙人組合的對象）\n被賦予的【歌唱、起舞】\n\n（無法為擁有「歌唱」、「起舞」的英雄\n　賦予此狀態）\n\n【赤紅詛咒】\n周圍３格內的敵人戰鬥中的速度、防守、魔防－４\n\n【開闢之躍動】\n若裝備有在攻擊時發動的奧義，戰鬥中，自己在初次攻擊前\n奧義發動計量－（敵人的【不利的異常狀態】數量）\n（最大２，弱化除外）（１回合）\n\n【無法輔助】\n被附加此異常狀態的單位無法使用輔助技能，\n也無法獲得夥伴施放輔助技能效果\n（直到狀態異常者下次行動結束）\n（也無法獲得能解除不利的異常狀態的\n　「休息」、「大喝＋」等輔助技能效果）\n（也無法使用輔助技能「起舞」、「歌唱」）\n\n【戰法】\n點觸畫面下方的「戰法按鈕」，即可使用戰法\n\n戰法狀態僅在技能持有者行動時有效\n若自身處於雙人組合狀態，\n或裝備多個持有戰法的技能，\n戰法將無效"
+  },
+  {
+    "key": "MSID_H_即興_NOSKW",
+    "value": "$a此技能被視為「歌唱」、「起舞」\n無法使用在擁有「歌唱」、「起舞」的目標上\n\n若指定目標為已行動狀態，讓指定目標進入可行動的狀態，\n若指定目標已發動過再移動，則可再次發動\n\n若指定目標為可行動狀態，\n賦予【歌唱、起舞】的效果（１回合）\n\n再賦予自己和指定目標\n各自周圍２格內的我方（包含自己及對方）\n【赤紅詛咒】、【開闢之躍動】的效果（１回合）\n\n若現在的回合內自己有進行輔助，\n再移動結束後（包含因再移動限制而結束行動的情況），\n讓自己進入可再次行動的狀態，並可再次發動再移動，\n為自己與雙人組合的對象附加【無法輔助】的異常狀態\n（１回合僅能發動１次，因戰法「天女之歌」的效果產生的\n　戰法使用限制生效期間不會發動\n　（此前剛使用過戰法「天女之歌」時除外），\n　在再移動中受到飛空城陷阱的效果時不會發動）\n\n可使用下述的【戰法】\n―――――【戰法】：天女之歌―――――\n使用輔助技能時，\n位於與自己相鄰的格子的我方已行動者\n（輔助技能的指定目標以及\n　擁有「歌唱」、「起舞」的我方除外）當中\nＨＰ最高的我方只有１名時，\n讓該我方進入可行動的狀態，\n若已發動過再移動，則可再次發動\n\n透過戰法的效果讓我方單位可再次行動時，\n此戰法２回合內無法使用\n―――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_不退の覚悟",
+    "value": "$a發動奧義時，增加防守數值的奧義傷害\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍３格內的我方\n【狀態奪取無效】、【攻擊解放】、【防守解放】的效果\n（１回合）\n\n將戰鬥中受到的攻擊傷害降低４０％\n（範圍奧義除外），\n自己在初次追擊前奧義發動計量－２\n\n滿足下列任一條件時，\n戰鬥中，受到敵人攻擊時的傷害以５０％計算\n（條件Ａ：由自己發動攻擊時\n　條件Ｂ：自己和敵人的格子距離為４以上\n　　　　　受到敵人攻擊的戰鬥\n　條件Ｃ：在各回合中，持有此技能者\n　　　　　「自己和敵人的格子距離為３以下\n　　　　　受到敵人攻擊」的初次及第２次戰鬥）\n（範圍奧義除外。可與神速追擊等\n　其他傷害以○％計算的效果累計）\n\n【狀態奪取無效】\n戰鬥中的攻擊、速度、防守、魔防＋４\n\n對受到此狀態者，\n發動【奪取埃基璐】等技能的\n「賦予敵人受到的【有利的狀態】」以及\n「解除敵人的【有利的狀態】」的效果時，\n抵銷自己和其他目標的該效果，\n並解除敵人的【有利的狀態】\n（無法解除敵人於同一時間賦予的【有利的狀態】）\n\n【攻擊解放】\n戰鬥中的攻擊提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）\n\n【防守解放】\n戰鬥中的防守提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）"
+  },
+  {
+    "key": "MSID_H_不退の覚悟_NOSKW",
+    "value": "$a發動奧義時，增加防守數值的奧義傷害\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍３格內的我方\n【狀態奪取無效】、【攻擊解放】、【防守解放】的效果\n（１回合）\n\n將戰鬥中受到的攻擊傷害降低４０％\n（範圍奧義除外），\n自己在初次追擊前奧義發動計量－２\n\n滿足下列任一條件時，\n戰鬥中，受到敵人攻擊時的傷害以５０％計算\n（條件Ａ：由自己發動攻擊時\n　條件Ｂ：自己和敵人的格子距離為４以上\n　　　　　受到敵人攻擊的戰鬥\n　條件Ｃ：在各回合中，持有此技能者\n　　　　　「自己和敵人的格子距離為３以下\n　　　　　受到敵人攻擊」的初次及第２次戰鬥）\n（範圍奧義除外。可與神速追擊等\n　其他傷害以○％計算的效果累計）"
+  },
+  {
+    "key": "MSID_H_刷新・拍節",
+    "value": "受到的範圍奧義傷害降低８０％\n（巨影的範圍奧義除外）\n\n由自己發動攻擊時，\n或周圍３格內有我方單位時，\n戰鬥中，敵人的攻擊、防守、魔防－４，\n敵人奧義發動計量變化量－１\n（若有多個相同系統效果，僅取最大值），\n抵銷敵人的奧義發動計量變化量＋，\n並抵銷自己的奧義發動計量變化量－，\n自己給予的傷害＋（防守×２０％）（範圍奧義除外），\n自己所受傷害－（防守×２０％）（範圍奧義除外），\n抵銷自己受到的無法反擊狀態"
+  },
+  {
+    "key": "MSID_H_助走・赤への分断",
+    "value": "戰鬥中，敵人的速度、防守、魔防－４，\n自己給予的傷害＋\n（攻擊方移動前與移動後的格子距離×５）\n（最大２０，包括範圍奧義（巨影的範圍奧義除外）），\n自己所受傷害－１０（範圍奧義除外）\n\n由自己發動攻擊，\n且移動後的格子與移動前不同時，\n依照裝備的奧義發動不同效果\n（・裝備範圍奧義時：\n　戰鬥前（範圍奧義發動前）奧義發動計量－○\n　（巨影的範圍奧義除外）\n　・裝備有在攻擊時發動的奧義（範圍奧義除外）時：\n　戰鬥中，自己在初次攻擊前奧義發動計量－○\n\n　○的數值為：移動前與移動後的格子距離\n　為３以上時為２，１～２時為１）\n\n由自己發動攻擊時，\n戰鬥中，敵人若為赤屬性，\n抵銷來自戰鬥對手以外的敵軍技能\n\n由自己發動攻擊時，\n戰鬥中，抵銷來自\n戰鬥對手以外的赤屬性敵軍技能"
+  },
+  {
+    "key": "MSID_H_助走・青への分断",
+    "value": "戰鬥中，敵人的速度、防守、魔防－４，\n自己給予的傷害＋\n（攻擊方移動前與移動後的格子距離×５）\n（最大２０，包括範圍奧義（巨影的範圍奧義除外）），\n自己所受傷害－１０（範圍奧義除外）\n\n由自己發動攻擊，\n且移動後的格子與移動前不同時，\n依照裝備的奧義發動不同效果\n（・裝備範圍奧義時：\n　戰鬥前（範圍奧義發動前）奧義發動計量－○\n　（巨影的範圍奧義除外）\n　・裝備有在攻擊時發動的奧義（範圍奧義除外）時：\n　戰鬥中，自己在初次攻擊前奧義發動計量－○\n\n　○的數值為：移動前與移動後的格子距離\n　為３以上時為２，１～２時為１）\n\n由自己發動攻擊時，\n戰鬥中，敵人若為青屬性，\n抵銷來自戰鬥對手以外的敵軍技能\n\n由自己發動攻擊時，\n戰鬥中，抵銷來自\n戰鬥對手以外的青屬性敵軍技能"
+  },
+  {
+    "key": "MSID_H_活発",
+    "value": "$a可【跳躍飛翔】\n可發動【再移動（格子間的距離＋１，最大４）】\n\n回合開始時，賦予自己「移動＋１」的效果\n（１回合，不可累計）\n\n發動回合開始技能後，\n自己被附加【空轉】的異常狀態時，\n解除「自己移動＋１」\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍２格內的我方【真奮激】、\n【攻擊解放】、【速度解放】的效果（１回合）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋７（範圍奧義除外），\n所受傷害－７（範圍奧義除外），\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】\n\n【跳躍飛翔】\n可如在平地般穿過下述格子\n（自己無法進入，且飛行單位可進入的格子，\n　且該格子未與同類格子相鄰）\n\n【再移動（格子間的距離＋１，最大４）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n可馬上移動\n\n可移動的範圍為\n上述行動前的移動前與移動後的格子距離＋１\n（最大４）\n\n【空轉】\n「移動＋１」的效果將被視為\n「將最大移動範圍限制為１格」的異常狀態\n\n【真奮激】\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：\n　攻擊方移動前與移動後的格子距離×２（最大８））\n\n【攻擊解放】\n戰鬥中的攻擊提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）\n\n【速度解放】\n戰鬥中的速度提升\n（提升數值為：自己受到的強化以外\n　【有利的狀態】數量＋４）（最大８）\n\n【神速追擊：傷害１００％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的１００％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_活発_NOSKW",
+    "value": "$a可【跳躍飛翔】\n可發動【再移動（格子間的距離＋１，最大４）】\n\n回合開始時，賦予自己「移動＋１」的效果\n（１回合，不可累計）\n\n發動回合開始技能後，\n自己被附加【空轉】的異常狀態時，\n解除「自己移動＋１」\n\n我軍回合及敵軍回合開始時，\n賦予自己和周圍２格內的我方【真奮激】、\n【攻擊解放】、【速度解放】的效果（１回合）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n給予的傷害＋７（範圍奧義除外），\n所受傷害－７（範圍奧義除外），\n且在追擊的速度條件－１０的狀態下\n滿足追擊的速度條件時\n（不包含絕對追擊、無法追擊），\n戰鬥中發動【神速追擊：傷害１００％】"
+  },
+  {
+    "key": "MSID_H_影渡り",
+    "value": "$a可穿過敵方所在的格子\n\n可移動至自己周圍４格以內的格子（將被視為傳送）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５，\n受到戰鬥對手攻擊時的傷害＋１０\n（範圍奧義除外），\n奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）\n（範圍奧義除外）\n\n戰鬥中，所受傷害－７（範圍奧義除外），\n抵銷自己的奧義發動計量變化量－\n\n由自己發動攻擊的戰鬥後，\n以及隨後立刻進行【再次攻擊】的戰鬥後，\n可對自己周圍２格內的敵人發動【再次攻擊】\n（１回合能發動２次。以【再次攻擊】\n　攻擊與自己相距３格以上的敵人時不會發動）\n\n【再次攻擊】\n由自己發動攻擊的戰鬥後\n（戰鬥後技能發動後，行動後技能及再移動發動前，\n　解除直到行動結束為止的【不利的異常狀態】），\n可無視距離再次攻擊指定範圍內的敵人\n\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人擁有「可無視距離進行反擊」時\n　條件Ｂ：自己與敵人的射程相同時\n　條件Ｃ：敵人射程和自己與敵人的距離相同時）\n技能效果的射程判定以自己的武器射程判定，\n技能參照的自己移動前的格子及剩餘移動力\n維持再次攻擊前的狀態\n無法移動，無法使用戰法，無法破壞地形，\n無法發動範圍奧義，戰鬥後移動技能會無效，\n再次攻擊與其他再次攻擊效果的範圍重疊的敵人時，\n其他效果也會視為已進行再次攻擊，\n若有多個相同系統效果，僅取最大值\n受到飛空城陷阱及預知陷阱的效果時不會發動，\n在英雄決鬥中，我軍１回合僅可使用１次再次攻擊，\n在洛基的棋盤遊戲中則不會發動"
+  },
+  {
+    "key": "MSID_H_影渡り_NOSKW",
+    "value": "$a可穿過敵方所在的格子\n\n可移動至自己周圍４格以內的格子（將被視為傳送）\n\n位於自身縱向３列及橫向３列內的敵人\n戰鬥中的攻擊、速度、防守、魔防－５，\n受到戰鬥對手攻擊時的傷害＋１０\n（範圍奧義除外），\n奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）\n（範圍奧義除外）\n\n戰鬥中，所受傷害－７（範圍奧義除外），\n抵銷自己的奧義發動計量變化量－\n\n由自己發動攻擊的戰鬥後，\n以及隨後立刻進行【再次攻擊】的戰鬥後，\n可對自己周圍２格內的敵人發動【再次攻擊】\n（１回合能發動２次。以【再次攻擊】\n　攻擊與自己相距３格以上的敵人時不會發動）"
+  },
+  {
+    "key": "MSID_H_初撃・追撃の鼓動",
+    "value": "戰鬥中的攻擊及速度提升\n（提升數值為：奧義發動計量的最大值＋２），\n給予的傷害＋５（範圍奧義除外），\n將戰鬥中一開始受到的攻擊和攻擊２次的傷害－５，\n自己在初次攻擊前奧義發動計量－１，\n自己在初次追擊前奧義發動計量－２"
+  },
+  {
+    "key": "MSID_H_攻守信念・弱化無効",
+    "value": "$a我軍回合及敵軍回合開始時，\n賦予自己【防護屏障】的效果（１回合），\n自己和周圍２格內的我方單位攻擊及防守＋６，\n並賦予「抵銷弱化狀態」的效果（１回合）\n\n戰鬥中的攻擊及防守提升\n（提升數值為：位於自身縱向３列及橫向３列內的\n　我方人數×２（最大６）），\n給予的傷害＋５（範圍奧義除外），\n將戰鬥中一開始受到的攻擊和攻擊２次的傷害－５\n\n【防護屏障】\n讓攻擊射程為１格的敵人無法穿越\n自己周圍１格以內的格子（對持有穿越的敵人無效）\n讓攻擊射程為２格的敵人無法穿越\n自己周圍２格以內的格子（對持有穿越的敵人無效）"
+  },
+  {
+    "key": "MSID_H_攻守信念・弱化無効_NOSKW",
+    "value": "$a我軍回合及敵軍回合開始時，\n賦予自己【防護屏障】的效果（１回合），\n自己和周圍２格內的我方單位攻擊及防守＋６，\n並賦予「抵銷弱化狀態」的效果（１回合）\n\n戰鬥中的攻擊及防守提升\n（提升數值為：位於自身縱向３列及橫向３列內的\n　我方人數×２（最大６）），\n給予的傷害＋５（範圍奧義除外），\n將戰鬥中一開始受到的攻擊和攻擊２次的傷害－５"
+  },
+  {
+    "key": "MSID_H_響・後の先",
+    "value": "$a由自己發動攻擊時，敵人可搶先攻擊\n\n戰鬥中，敵方無法追擊，\n自己所受傷害－５（範圍奧義除外），\n出擊時速度為３０以上時，\n發動【神速追擊：傷害○％】\n（○的數值為：自己無攻擊２次\n　且無法追擊時為１００，若非上述情形時則為５０）\n（出擊時速度：強化、弱化、大器、傳承效果、神階效果、\n　以及獎勵角色等除外的速度數值）\n\n【神速追擊：傷害○％】\n於自己的一般追擊後，立刻發動額外追擊\n透過神速追擊給予的傷害為一般攻擊時的○％\n（自己無法追擊時，將於一般追擊的時間點發動）\n（神速追擊將被視為追擊，\n　會受「傷害降低◯◯％」等效果影響，\n　但不受無法追擊、攻擊２次的效果影響）\n（若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_響・後の先_NOSKW",
+    "value": "$a由自己發動攻擊時，敵人可搶先攻擊\n\n戰鬥中，敵方無法追擊，\n自己所受傷害－５（範圍奧義除外），\n出擊時速度為３０以上時，\n發動【神速追擊：傷害○％】\n（○的數值為：自己無攻擊２次\n　且無法追擊時為１００，若非上述情形時則為５０）\n（出擊時速度：強化、弱化、大器、傳承效果、神階效果、\n　以及獎勵角色等除外的速度數值）"
+  },
+  {
+    "key": "MSID_H_清真アミーテ改",
+    "value": "$a可發動【再移動（２）】\n\n容易發動奧義（發動計量－１）\n攻擊２次（被敵人攻擊時，也可攻擊２次）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n且攻擊、速度、防守、魔防再提升\n（提升數值為：\n　１１－敵人奧義發動計量的最大值）\n（最少５，敵人未裝備奧義時也為５），\n抵銷自己的奧義發動計量變化量－\n\n【再移動（２）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n馬上可進行２格以內的移動\n（若有多個相同系統效果，僅取最大值）\n（１回合僅能發動１次）"
+  },
+  {
+    "key": "MSID_H_清真アミーテ改_NOSKW",
+    "value": "$a可發動【再移動（２）】\n\n容易發動奧義（發動計量－１）\n攻擊２次（被敵人攻擊時，也可攻擊２次）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，\n且攻擊、速度、防守、魔防再提升\n（提升數值為：\n　１１－敵人奧義發動計量的最大值）\n（最少５，敵人未裝備奧義時也為５），\n抵銷自己的奧義發動計量變化量－"
+  },
+  {
+    "key": "MSID_H_オヴスキュリテ改",
+    "value": "$a容易發動奧義（發動計量－１）\n\n我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位\n攻擊及魔防＋６，並賦予\n【雙界效果・刃】、【雙界效果・盾】、【邪龍氣】的效果\n（１回合）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，必定可進行追擊，\n給予的傷害＋２５（範圍奧義除外），\n且戰鬥中抵銷敵人攻擊及魔防的＋強化狀態\n\n【雙界效果・刃】\n戰鬥中的攻擊及速度＋４（１回合）\n\n【雙界效果・盾】\n戰鬥中的防守及魔防＋４\n僅分別在我軍與敵軍的各回合當中，\n自身於初次戰鬥時，敵方無法追擊\n（１回合）\n\n【邪龍氣】\n戰鬥中，敵人的攻擊、速度、防守、魔防－４，\n抵銷自己受到的無法反擊狀態，\n將奧義技能中的「傷害降低◯◯％」效果\n從每次戰鬥僅能發動一次\n變為每次戰鬥能發動兩次\n（透過結合賦予的奧義效果除外。\n　若有多個相同系統效果，僅取最大值），\n且自己或敵人已結合時，\n敵人的攻擊、速度、防守、魔防再－２（１回合）"
+  },
+  {
+    "key": "MSID_H_オヴスキュリテ改_NOSKW",
+    "value": "$a容易發動奧義（發動計量－１）\n\n我軍回合及敵軍回合開始時，\n自己和周圍２格內的我方單位\n攻擊及魔防＋６，並賦予\n【雙界效果・刃】、【雙界效果・盾】、【邪龍氣】的效果\n（１回合）\n\n戰鬥中的攻擊、速度、防守、魔防＋５，必定可進行追擊，\n給予的傷害＋２５（範圍奧義除外），\n且戰鬥中抵銷敵人攻擊及魔防的＋強化狀態"
+  },
+  {
+    "key": "MSID_H_錬磨サンダーソード改",
+    "value": "$a更容易發動奧義（發動計量－２）\n（奧義發動計量最大值的下限為１）\n\n受到敵人攻擊時，可無視距離進行反擊\n以敵人防守及魔防中較低方計算傷害\n\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：戰鬥開始時的速度×１５％＋５）\n（最少１５），\n抵銷自己的奧義發動計量變化量－，\n使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）（範圍奧義除外）\n\n可使用下述的【戰法】\n――――【戰法】：千錘百鍊雷電劍――――\n可攻擊與自己相距２格的敵人（無法攻擊相鄰的敵人）\n\n戰鬥中，自己的追擊的速度條件－１０\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍２格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為１格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時\n　條件Ｃ：敵人射程和自己與敵人的距離相同時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為１\n此戰法１回合僅可使用１次\n――――――――――――――――――――\n\n【戰法】\n點觸畫面下方的「戰法按鈕」，即可使用戰法\n\n戰法狀態僅在技能持有者行動時有效\n若自身處於雙人組合狀態，\n或裝備多個持有戰法的技能，\n戰法將無效"
+  },
+  {
+    "key": "MSID_H_錬磨サンダーソード改_NOSKW",
+    "value": "$a更容易發動奧義（發動計量－２）\n（奧義發動計量最大值的下限為１）\n\n受到敵人攻擊時，可無視距離進行反擊\n以敵人防守及魔防中較低方計算傷害\n\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：戰鬥開始時的速度×１５％＋５）\n（最少１５），\n抵銷自己的奧義發動計量變化量－，\n使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）（範圍奧義除外）\n\n可使用下述的【戰法】\n――――【戰法】：千錘百鍊雷電劍――――\n可攻擊與自己相距２格的敵人（無法攻擊相鄰的敵人）\n\n戰鬥中，自己的追擊的速度條件－１０\n\n敵人發動【防護屏障】效果時，無法穿越\n其周圍２格以內的格子（若持有穿越則無效）\n滿足下列任一條件時，將受到反擊\n（條件Ａ：敵人為射程為１格的重裝時\n　條件Ｂ：敵人擁有「可無視距離進行反擊」時\n　條件Ｃ：敵人射程和自己與敵人的距離相同時）\n戰鬥後移動技能會無效\n技能效果的射程判定視為射程為１\n此戰法１回合僅可使用１次\n――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_王斧グリトニル改",
+    "value": "$a可發動【再移動（格子間的距離＋１，最大４）】\n容易發動奧義（發動計量－１）\n\n回合開始時，自己的防守及魔防＋６，\n並賦予【快跑】的效果（１回合），\n若奧義發動計量為最大值，奧義發動計量－１\n\n自己在戰鬥中的防守及魔防＋１５，\n敵人的防守及魔防－１５，\n自己給予的傷害＋２５（範圍奧義除外），\n自己所受傷害－（防守×１０％）（範圍奧義除外），\n且發動奧義時，使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果無效（範圍奧義除外）\n\n戰鬥後，\n若奧義發動計量為最大值，奧義發動計量－１\n\n【再移動（格子間的距離＋１，最大４）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n可馬上移動\n\n可移動的範圍為\n上述行動前的移動前與移動後的格子距離＋１\n（最大４）\n\n【快跑】\n移動＋２（１回合，若有多個相同系統效果，僅取最大值）"
+  },
+  {
+    "key": "MSID_H_王斧グリトニル改_NOSKW",
+    "value": "$a可發動【再移動（格子間的距離＋１，最大４）】\n容易發動奧義（發動計量－１）\n\n回合開始時，自己的防守及魔防＋６，\n並賦予【快跑】的效果（１回合），\n若奧義發動計量為最大值，奧義發動計量－１\n\n自己在戰鬥中的防守及魔防＋１５，\n敵人的防守及魔防－１５，\n自己給予的傷害＋２５（範圍奧義除外），\n自己所受傷害－（防守×１０％）（範圍奧義除外），\n且發動奧義時，使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果無效（範圍奧義除外）\n\n戰鬥後，\n若奧義發動計量為最大值，奧義發動計量－１"
+  },
+  {
+    "key": "MSID_H_尽きざるもの改",
+    "value": "$a克制飛行\n容易發動奧義（發動計量－１）\n攻擊２次（被敵人攻擊時，也可攻擊２次）\n\n可發動【再移動（格子間的距離，最大３、最少１）】\n\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：戰鬥開始時的速度×１５％＋５）\n（最少１５），\n給予的傷害＋３０（範圍奧義除外），\n使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）（範圍奧義除外）\n\n【再移動（格子間的距離，最大３、最少１）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n可馬上移動\n\n可移動的範圍為\n上述行動前的移動前與移動後的格子距離\n（最大３、最少１（傳送時也為最少１））"
+  },
+  {
+    "key": "MSID_H_尽きざるもの改_NOSKW",
+    "value": "$a克制飛行\n容易發動奧義（發動計量－１）\n攻擊２次（被敵人攻擊時，也可攻擊２次）\n\n可發動【再移動（格子間的距離，最大３、最少１）】\n\n戰鬥中的攻擊、速度、防守、魔防提升\n（提升數值為：戰鬥開始時的速度×１５％＋５）\n（最少１５），\n給予的傷害＋３０（範圍奧義除外），\n使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果減少一半\n（計算效果時，小數點後無條件捨去）（範圍奧義除外）"
+  },
+  {
+    "key": "MSID_H_聖王の参謀の術書改",
+    "value": "$a容易發動奧義（發動計量－１）\n\n使用支援、移動系輔助技能時，讓自己可再次行動\n（若在同一時間\n　發動其他讓自己進入可再次行動的狀態之效果，\n　此效果也會視為已發動）（１回合僅能發動１次）\n\n使用支援、移動系輔助技能時，\n若地圖上沒有被我軍賦予【天脈・冰】的格子，\n則賦予與移動後的對方相距２格的格子【天脈・冰】的效果\n（有敵軍的格子、可破壞地形的格子（天脈以外）、\n　壓制戰的傳送格子除外）（１回合）\n\n行動後（發動再移動時則於再移動結束後）\n及飛空城防衛時的敵軍回合開始時，\n若地圖上沒有被我軍賦予【天脈・冰】的格子，\n則賦予與自己相距２格的格子【天脈・冰】的效果\n（有敵軍的格子、可破壞地形的格子（天脈以外）、\n　壓制戰的傳送格子除外）（１回合）\n\n戰鬥中，敵人的攻擊、速度、防守、魔防－１５，\n抵銷自身的弱化狀態，\n抵銷自己的奧義發動計量變化量－，\n且發動奧義時，使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果無效（範圍奧義除外）\n\n【天脈・冰】\n被賦予此效果的格子會變為以下狀態\n\n敵軍無法進入，可被破壞（ＨＰ１）\n我軍可進入及待命\n若【天脈・冰】的格子上有我軍，\n對我軍的攻擊將優先於【天脈・冰】的破壞\n（在洛基的棋盤遊戲中無法賦予此效果）"
+  },
+  {
+    "key": "MSID_H_聖王の参謀の術書改_NOSKW",
+    "value": "$a容易發動奧義（發動計量－１）\n\n使用支援、移動系輔助技能時，讓自己可再次行動\n（若在同一時間\n　發動其他讓自己進入可再次行動的狀態之效果，\n　此效果也會視為已發動）（１回合僅能發動１次）\n\n使用支援、移動系輔助技能時，\n若地圖上沒有被我軍賦予【天脈・冰】的格子，\n則賦予與移動後的對方相距２格的格子【天脈・冰】的效果\n（有敵軍的格子、可破壞地形的格子（天脈以外）、\n　壓制戰的傳送格子除外）（１回合）\n\n行動後（發動再移動時則於再移動結束後）\n及飛空城防衛時的敵軍回合開始時，\n若地圖上沒有被我軍賦予【天脈・冰】的格子，\n則賦予與自己相距２格的格子【天脈・冰】的效果\n（有敵軍的格子、可破壞地形的格子（天脈以外）、\n　壓制戰的傳送格子除外）（１回合）\n\n戰鬥中，敵人的攻擊、速度、防守、魔防－１５，\n抵銷自身的弱化狀態，\n抵銷自己的奧義發動計量變化量－，\n且發動奧義時，使敵人奧義相關技能以外的\n「傷害降低◯◯％」效果無效（範圍奧義除外）"
+  },
+  {
+    "key": "MSID_H_炎虎の爪牙改",
+    "value": "$a防守＋３\n可發動【再移動（２）】\n\n再移動時，可對我方發動【重擊】\n（此效果不會被視為輔助技能\n　若有多個相同系統效果，則不會發動此效果）\n\n自己在戰鬥中的攻擊及防守＋６，速度及魔防＋５，\n敵人的攻擊、速度、防守下降\n（下降數值為：自己在戰鬥開始時的防守×２０％），\n敵方無法追擊，\n自己所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n回合開始時，若未與龍、獸以外的我方相鄰則為化身狀態\n（若非上述情形，將解除化身狀態）\n處於化身狀態時，攻擊＋２，\n且發動奧義時，奧義造成的傷害＋７，\n戰鬥中，抵銷敵人的奧義發動計量變化量＋，\n並抵銷自己的奧義發動計量變化量－\n\n【再移動（２）】\n由自己發動攻擊、輔助及破壞地形的行動後，\n馬上可進行２格以內的移動\n（若有多個相同系統效果，僅取最大值）\n（１回合僅能發動１次）\n\n【重擊】\n射程１\n讓指定目標朝自己的反方向移動２格"
+  },
+  {
+    "key": "MSID_H_炎虎の爪牙改_NOSKW",
+    "value": "$a防守＋３\n可發動【再移動（２）】\n\n再移動時，可對我方發動【重擊】\n（此效果不會被視為輔助技能\n　若有多個相同系統效果，則不會發動此效果）\n\n自己在戰鬥中的攻擊及防守＋６，速度及魔防＋５，\n敵人的攻擊、速度、防守下降\n（下降數值為：自己在戰鬥開始時的防守×２０％），\n敵方無法追擊，\n自己所受傷害－１５（範圍奧義除外），\n受到敵人奧義攻擊的傷害再－１５（範圍奧義除外）\n\n回合開始時，若未與龍、獸以外的我方相鄰則為化身狀態\n（若非上述情形，將解除化身狀態）\n處於化身狀態時，攻擊＋２，\n且發動奧義時，奧義造成的傷害＋７，\n戰鬥中，抵銷敵人的奧義發動計量變化量＋，\n並抵銷自己的奧義發動計量變化量－"
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_C1011",
+    "value": "第１０部　第１１章"
+  },
+  {
+    "key": "MID_CHAPTER_C1011",
+    "value": "向創造者起誓"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA111",
+    "value": "第１１章—第１節"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA112",
+    "value": "第１１章—第２節"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA113",
+    "value": "第１１章—第３節"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA114",
+    "value": "第１１章—第４節"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA115",
+    "value": "第１１章—第５節"
+  },
+  {
+    "key": "MID_STAGE_SA111",
+    "value": "不會有交集"
+  },
+  {
+    "key": "MID_STAGE_SA112",
+    "value": "利貝拉村的少年"
+  },
+  {
+    "key": "MID_STAGE_SA113",
+    "value": "俊美的殺手"
+  },
+  {
+    "key": "MID_STAGE_SA114",
+    "value": "凱路斯的薔薇"
+  },
+  {
+    "key": "MID_STAGE_SA115",
+    "value": "只有一個人能活下來"
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0228",
+    "value": "韃古扎之地的戰士"
+  },
+  {
+    "key": "MID_STAGE_T0228",
+    "value": "新英雄紀念"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SB_0110",
+    "value": "第１１０迷宮"
+  },
+  {
+    "key": "MID_STAGE_HONOR_V0660",
+    "value": "Fortune's Weave紀念"
+  },
+  {
+    "key": "MID_STAGE_V0660",
+    "value": "凱伊"
+  },
+  {
+    "key": "MID_STAGE_HONOR_V0661",
+    "value": "Fortune's Weave紀念"
+  },
+  {
+    "key": "MID_STAGE_V0661",
+    "value": "迪托利希"
+  },
+  {
+    "key": "MID_STAGE_HONOR_V0662",
+    "value": "Fortune's Weave紀念"
+  },
+  {
+    "key": "MID_STAGE_V0662",
+    "value": "賽奧朵拉"
+  },
+  {
+    "key": "MID_STAGE_HONOR_V0663",
+    "value": "Fortune's Weave紀念"
+  },
+  {
+    "key": "MID_STAGE_V0663",
+    "value": "蕾達"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB326",
+    "value": "技能篇３２６"
+  },
+  {
+    "key": "MID_STAGE_PB326",
+    "value": "為了父親，為了復仇"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB327",
+    "value": "技能篇３２７"
+  },
+  {
+    "key": "MID_STAGE_PB327",
+    "value": "為了廝殺，為了祖國"
+  },
+  {
+    "key": "MID_VEIN_8",
+    "value": "天脈・冥炎"
+  },
+  {
+    "key": "MID_H_VEIN_8",
+    "value": "進入被賦予此效果的格子中的對象會受到以下效果\n\n敵人會變得較難移動\n（移動時，移動會額外消耗１。\n　不會消耗超越敵人移動方式的基本移動力。\n　「可在自己能移動的地形如在平地般移動」\n　的效果不受此效果影響）\n\n敵人在敵軍回合開始時受到１０傷害\n（造成傷害後其ＨＰ最少保留１）\n\n敵人在戰鬥中的速度－５，\n受到戰鬥對手攻擊時的傷害＋１０（範圍奧義除外）"
+  }
+]

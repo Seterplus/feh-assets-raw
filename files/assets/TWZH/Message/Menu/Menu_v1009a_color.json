@@ -1,0 +1,498 @@
+[
+  {
+    "key": "MID_ARENA_DIALOG_HELP_08_v1009",
+    "value": "◆暫時撤退◆\n連戰中僅限４次，敗北時\n可保留目前的連勝數及得分\n回到鬥技場首頁。\n\n但若是結束目前的挑戰\n並重新進行挑戰，\n可暫時撤退的次數將會重置。"
+  },
+  {
+    "key": "MID_CONNECT_BONDS_IDOLIZE_HELP_DIALOG_05_v1009",
+    "value": "◆偶像不會繼承的事物◆\n下列的事物會消失。\n\n・突破極限\n・開花擅長、神裝、攜伴之心、花束、\n　風光之美\n・祝福、聖印、飾品"
+  },
+  {
+    "key": "MID_HOME_GRACE_FESTIVAL_MISSION_NOTIFICATION",
+    "value": "可於大神技祭獲得報酬。\n要移動至大神技祭嗎？"
+  },
+  {
+    "key": "MID_HOME_GRACE_FESTIVAL_NAVIGATION_JUMP",
+    "value": "前往大神技祭"
+  },
+  {
+    "key": "MID_CONFIG_HOME_NOTIFICATION_GRACE_FESTIVAL",
+    "value": "大神技祭\n城堡通知"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_TITLE",
+    "value": "大神技祭"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REMAINING_DAYS",
+    "value": "$a距離結束還有$a0天"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REMAINING_HOURS",
+    "value": "$a距離結束還有$a0小時"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REMAINING_MINUTES",
+    "value": "$a距離結束還有$a0分鐘"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_CLOSED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_AGGREGATING",
+    "value": "現正統計中。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_NEXT_FEATURE_INFO",
+    "value": "累計得分報酬"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HIGH_SCORE",
+    "value": "最高得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANK_OUT_OF_RANGE",
+    "value": "排名外"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANK_AGGREGATING",
+    "value": "計算中"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_HELP",
+    "value": "以能力一決勝負的簡易５連戰！\n透過神技變強，發動聖焰戰技！"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_DIFFICULTY_SELECT",
+    "value": "選擇難度"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_DIFFICULTY_0",
+    "value": "初級"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_DIFFICULTY_1",
+    "value": "中級"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_DIFFICULTY_2",
+    "value": "上級"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_BONUS_TITLE",
+    "value": "獎勵角色"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_BONUS_VERSION",
+    "value": "$a版本　$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_START_DIALOG_FAILED",
+    "value": "無法開始活動"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_START_DIALOG_FAILED_WARNING_TROOP_RESTRICTION",
+    "value": "所有欄位皆須編入英雄。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_BUTTON_REWARD",
+    "value": "檢視報酬"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_SORT",
+    "value": "$a報酬種類：$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_SORT_COMULATIVE_SCORE",
+    "value": "累計得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_SORT_HIGH_SCORE",
+    "value": "最高得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_SORT_RANK",
+    "value": "排名"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_COMULATIVE_SCORE",
+    "value": "累計得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_HIGH_SCORE",
+    "value": "最高得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_REWARD_RANK",
+    "value": "排名"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAINED_REWARDTYPE_COMULATIVE_SCORE",
+    "value": "$a累計得分報酬　$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAINED_REWARDTYPE_HIGH_SCORE",
+    "value": "$a最高得分報酬　$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAINED_REWARDTYPE_RANK",
+    "value": "$a排名報酬　$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_ENTRANCE_BUTTON_RANKING",
+    "value": "目前排名"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_WARNING_TERM_EXPIRED",
+    "value": "目前未舉辦。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANK",
+    "value": "排名"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_AROUND_ME",
+    "value": "自己的排名"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_TOP",
+    "value": "前段"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_FRIEND",
+    "value": "好友"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_UNCALCULATED_TOP",
+    "value": "正在計算排名。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_UNCALCULATED_AROUND_ME",
+    "value": "您的排名在計算範圍外。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_UNCALCULATED_FRIEND",
+    "value": "沒有好友參加。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RANKING_SORT_DIALOG",
+    "value": "顯示範圍"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_SURVIVAL",
+    "value": "生存評價"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_HP",
+    "value": "HP評價"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_TURN",
+    "value": "速度評價"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_COMPLETE",
+    "value": "過關獎勵"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_DIFFICULTY",
+    "value": "難度"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_TOTAL",
+    "value": "本次得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_RESULT_SCORE_CUMULATIVE_SCORE",
+    "value": "累計得分"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_DIALOG_END_OF_TERM",
+    "value": "由於已超過賽季結束時間，\n無法計入本次結果。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAIN_SKILL_HELP",
+    "value": "$a請選擇$a0個要獲得的神技。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAIN_SKILL_GAINED",
+    "value": "已獲得"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAIN_SKILL_SELECTING",
+    "value": "選擇中"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_GAIN_SKILL_BUTTON_VIEWER",
+    "value": "確認地圖"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_COMBINE",
+    "value": "$a$a0：$a1"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_EFFECT_DAMAGE",
+    "value": "$a傷害$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_EFFECT_DEBUFF_1",
+    "value": "$a攻擊$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_EFFECT_DEBUFF_2",
+    "value": "$a速度$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_EFFECT_DEBUFF_3",
+    "value": "$a防守$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_EFFECT_DEBUFF_4",
+    "value": "$a魔防$a0"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_MAP_BLAZE_ARTS_TEXT",
+    "value": "長按→滑動以決定範圍，放開時發動\n　　（範圍內必須有敵人在場）"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_00",
+    "value": "透過神技變強，發動聖焰戰技！"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_01",
+    "value": "◆大神技祭◆\n在受諸神守護的戰鬥祭典的\n５連戰中勝出吧。\n\n在這裡，英雄們可透過\n「神技」變得強如神明，\n以聖焰戰技\n一舉殲滅複數敵人。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_02",
+    "value": "◆戰鬥的特徵◆\n・以能力值戰鬥的簡易規則。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_03",
+    "value": "・英雄原有的技能\n　將轉換為大神技祭專用的技能。\n\n・傳承效果、支援、\n　與召喚師的羈絆誓約等\n　效果無效。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_04",
+    "value": "◆獲得「神技」機會◆\n・每張地圖開始時，\n　可獲得２個自選神技。\n\n・獲得的神技\n　將強化我方全員。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_05",
+    "value": "◆聖焰戰技◆\n・神技中有「破邪閃擊」等\n　聖焰戰技。\n\n・可獲得的聖焰戰技\n　將根據大神技祭的賽季\n　而轉換。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_06",
+    "value": "◆聖焰戰技的使用方法◆\n・可在地圖開始時\n　使用聖焰戰技。\n\n・長按以顯示範圍，\n　滑動以移動範圍，\n　放開時發動。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_07",
+    "value": "◆獎勵角色◆\n與版本（登場時期）\n一致的英雄，\nＨＰ＋１０、\n攻擊速度防守魔防＋４。"
+  },
+  {
+    "key": "MID_GRACE_FESTIVAL_HELP_DIALOG_08",
+    "value": "◆其他◆\n・攻擊的最低傷害為５。\n\n・杖的傷害計算公式\n　和其他武器相同。\n\n・無法獲得經驗值・SP。\n・可獲得英雄值。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_COLOR",
+    "value": "為紀念Fire Emblem: Fortune's Weave\n正式發售\n已贈送城堡畫面特殊主題\n「帝都韃古席翁上參道」\n給各位玩家作為紀念！\n\n請確認本次贈送的新主題外觀。"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_COLOR_DIALOG",
+    "value": "要將城堡畫面變更為確認中的主題\n「帝都韃古席翁上參道」嗎？"
+  },
+  {
+    "key": "MID_HOME_PRESENT_ELITE_CASTLE_COLOR_REVERT_AFTER",
+    "value": "於之後想變更時，\n請從「菁英之城」＞「變更主題」中，\n選擇「帝都韃古席翁上參道」進行變更。"
+  },
+  {
+    "key": "MID_ITEM_MAJESTIC_ITEM",
+    "value": "風光之美"
+  },
+  {
+    "key": "MID_ITEM_HELP_MAJESTIC_ITEM",
+    "value": "$a用於「賦予風光之美」\n・HP、攻擊、速度、防守、魔防＋２\n・可變更為風光英雄用詳細狀態畫面背景\n\n版本$a0以下的英雄\n（低於當前最新版本2個版本以下的英雄）\n可使用２個「風光之美」，\n合計可獲得２次\nHP、攻擊、速度、防守、魔防＋２"
+  },
+  {
+    "key": "MID_ITEM_HELP_MAJESTIC_ITEM_FOR_INFO",
+    "value": "$a已使用$a0次「風光之美」。"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202609",
+    "value": "韃古扎之地的戰士"
+  },
+  {
+    "key": "MID_SHOP_ELITE_CASTLE_LV65553",
+    "value": "帝都韃古席翁上參道"
+  },
+  {
+    "key": "MID_SCF_カイの像",
+    "value": "凱伊像"
+  },
+  {
+    "key": "MID_SCF_カイの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Fortune's Weave」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_ディートリヒの像",
+    "value": "迪托利希像"
+  },
+  {
+    "key": "MID_SCF_ディートリヒの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Fortune's Weave」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_セオドラの像",
+    "value": "賽奧朵拉像"
+  },
+  {
+    "key": "MID_SCF_セオドラの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Fortune's Weave」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_SCF_レダの像",
+    "value": "蕾達像"
+  },
+  {
+    "key": "MID_SCF_レダの像_HELP",
+    "value": "飛空城特別活動的馬賽克磚塑像\n喜愛「Fortune's Weave」的話\n就配置在飛空城吧！"
+  },
+  {
+    "key": "MID_DISHES_AUTHORITY_15_1",
+    "value": "獸人式"
+  },
+  {
+    "key": "MID_DISHES_AUTHORITY_16_1",
+    "value": "韃古扎式"
+  },
+  {
+    "key": "MID_SCH_みまもりフォトナ",
+    "value": "守護用芙托娜"
+  },
+  {
+    "key": "MID_SCH_みまもりフォトナ_HOLIDAYHELP",
+    "value": "於枕邊追加的布偶"
+  },
+  {
+    "key": "MID_SCH_オットーちゃん",
+    "value": "小奧托"
+  },
+  {
+    "key": "MID_SCH_オットーちゃん_HOLIDAYHELP",
+    "value": "於枕邊追加的布偶"
+  },
+  {
+    "key": "MID_SCH_ぷかぷかオルニウ",
+    "value": "輕飄飄的歐魯尼烏斯"
+  },
+  {
+    "key": "MID_SCH_ぷかぷかオルニウ_HOLIDAYHELP",
+    "value": "可以浮在熱水上玩的泡澡小物"
+  },
+  {
+    "key": "MID_ITEM_SKYCASTLE_202609",
+    "value": "秋之飛空石"
+  },
+  {
+    "key": "MID_ITEM_HELP_SKYCASTLE_202609",
+    "value": "用於「飛空城」\n可以製造期間限定的設備\n期間一過，將會全數消失。"
+  },
+  {
+    "key": "MID_STAGE_TITLE_DIFFICULTY5",
+    "value": "天國"
+  },
+  {
+    "key": "MID_STAGE_SELECT_DETAIL_SORTIE_RISTRICTION_AUTHORITY_15",
+    "value": "・『Shadows』"
+  },
+  {
+    "key": "MID_STAGE_SELECT_DETAIL_SORTIE_RISTRICTION_AUTHORITY_16",
+    "value": "・『Fortune's Weave』"
+  },
+  {
+    "key": "MID_TWIN_WORLD_AUTHORITY_15",
+    "value": "『Shadows』"
+  },
+  {
+    "key": "MID_TWIN_WORLD_AUTHORITY_16",
+    "value": "『Fortune's Weave』"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_HERO_KIND_11",
+    "value": "風光"
+  },
+  {
+    "key": "MID_UNIT_INFO_BLESSING_MAJESTIC",
+    "value": "$a風光英雄\n\n・HP、攻擊、速度、防守、魔防＋２\n・可變更為風光英雄用詳細狀態畫面背景\n\n對風光英雄以外的英雄\n使用「風光之美」後，\n可獲得與其相同的加持\n\n版本$a0以下的英雄\n（低於當前最新版本2個版本以下的英雄）\n可使用２個「風光之美」，\n合計可獲得２次\nHP、攻擊、速度、防守、魔防＋２"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM",
+    "value": "賦予風光之美"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_USE_COUNT",
+    "value": "$a使用次數　$a0/$a1"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_INFO",
+    "value": "請選擇要賦予風光之美的角色。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_COUNT_INFO",
+    "value": "請選擇要賦予的風光之美數量。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_PLUS",
+    "value": "$a＋$a0"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_CONFIRM",
+    "value": "$a要賦予$a0個風光之美嗎？\n\n每被賦予1個風光之美，\n英雄的ＨＰ、攻擊、速度、\n防守、魔防＋２，\n且可變更為\n「風光英雄用詳細狀態畫面背景」。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_CONFIRM_DECIDE",
+    "value": "賦予風光之美"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_HELP_DIALOG_00",
+    "value": "◆賦予風光之美◆\n賦予風光之美後，\n使ＨＰ、攻擊、速度、\n防守、魔防＋２，\n且可變更為\n風光英雄用詳細狀態畫面背景。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_HELP_DIALOG_01",
+    "value": "◆對鬥技場登場敵方得分的影響◆\n「賦予風光之美」提升的能力值\n並不影響在鬥技場等處\n配對對手的強度以及可獲得的得分。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_HELP_DIALOG_02",
+    "value": "◆其他◆\n・能賦予風光英雄以外的英雄\n　1個「風光之美」。\n\n・能賦予風光英雄以外，\n　且低於當前最新版本\n　2個版本以下的英雄\n　2個「風光之美」。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_HELP_DIALOG_03",
+    "value": "・能賦予低於當前最新版本\n　2個版本以下的風光英雄\n　1個「風光之美」。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_MAJESTIC_ITEM_HELP_DIALOG_04",
+    "value": "◆突破極限時◆\n關於低於當前最新版本\n2個版本以下的風光英雄以外的英雄，\n若突破極限的\n「培育」方和「消滅」方\n都被賦予「風光之美」，\n將會變為被賦予\n2個「風光之美」的狀態。"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SELL_USED_MAJESTIC_ITEM_WARNING",
+    "value": "將要送回\n已使用風光之美的角色。\n\n確定要送回嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_SKILL_TALENT_USED_MAJESTIC_ITEM_WARNING",
+    "value": "將要消費\n已使用風光之美的角色。\n\n確定要繼承技能嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_LIMIT_BREAK_USED_MAJESTIC_ITEM_WARNING",
+    "value": "將要消費\n已使用風光之美的角色。\n\n確定要突破極限嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_STOCK_GENERATE_USED_MAJESTIC_ITEM_WARNING",
+    "value": "將要以已使用風光之美的角色\n製作秘傳書。\n\n確定要製作秘傳書嗎？"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_AUTHORITY_15",
+    "value": "『Shadows』"
+  },
+  {
+    "key": "MID_UNIT_EDIT_GENERAL_FILTER_AUTHORITY_16",
+    "value": "『Fortune's Weave』"
+  }
+]
