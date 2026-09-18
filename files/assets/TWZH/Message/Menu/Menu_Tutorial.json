@@ -1933,7 +1933,7 @@
   },
   {
     "key": "MID_SUMMON_ERROR_NO_LIST",
-    "value": "目前的狀態無法進行召喚。"
+    "value": "目前此分類沒有召喚活動。"
   },
   {
     "key": "MID_SUMMON_STONE_NEUTRAL",
