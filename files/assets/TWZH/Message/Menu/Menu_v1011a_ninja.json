@@ -1,0 +1,330 @@
+[
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2",
+    "value": "黑炎渦流"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋能力減",
+    "value": "黑炎渦流＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋ダメージ",
+    "value": "黑炎渦流＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋両強化",
+    "value": "黑炎渦流＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2",
+    "value": "影縫"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋能力減",
+    "value": "影縫＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋ダメージ",
+    "value": "影縫＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋両強化",
+    "value": "影縫＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2",
+    "value": "彗星煌彈"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋能力減",
+    "value": "彗星煌彈＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋ダメージ",
+    "value": "彗星煌彈＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋両強化",
+    "value": "彗星煌彈＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2",
+    "value": "狂騷之歌"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋能力減",
+    "value": "狂騷之歌＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋ダメージ",
+    "value": "狂騷之歌＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋両強化",
+    "value": "狂騷之歌＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2",
+    "value": "破邪閃擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋能力減",
+    "value": "破邪閃擊＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋ダメージ",
+    "value": "破邪閃擊＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋両強化",
+    "value": "破邪閃擊＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2",
+    "value": "煌龍破"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋能力減",
+    "value": "煌龍破＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋ダメージ",
+    "value": "煌龍破＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋両強化",
+    "value": "煌龍破＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2",
+    "value": "鈍化之冥咒"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋攻撃減",
+    "value": "鈍化之冥咒＋攻擊下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋速さ減",
+    "value": "鈍化之冥咒＋速度下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋両強化",
+    "value": "鈍化之冥咒＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2",
+    "value": "光輝耀槍"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋守備減",
+    "value": "光輝耀槍＋防守下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋魔防減",
+    "value": "光輝耀槍＋魔防下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋両強化",
+    "value": "光輝耀槍＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2",
+    "value": "霸之覺醒"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋能力減",
+    "value": "霸之覺醒＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋ダメージ",
+    "value": "霸之覺醒＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋両強化",
+    "value": "霸之覺醒＋雙強化"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2",
+    "value": "九天神擊"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋能力減",
+    "value": "九天神擊＋能力下降"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋ダメージ",
+    "value": "九天神擊＋傷害"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋両強化",
+    "value": "九天神擊＋雙強化"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2",
+    "value": "【聖焰戰技】\n給予▼範圍內的敵人１５傷害，敵人的攻擊－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n敵人的攻擊再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n傷害再＋１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【黑炎渦流】\n傷害再＋７，敵人的攻擊再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2",
+    "value": "【聖焰戰技】\n給予３x３格內的敵人７傷害，敵人的速度－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n敵人的速度再－１３"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n傷害再＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【影縫】\n傷害再＋４，敵人的速度再－６"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2",
+    "value": "【聖焰戰技】\n給予┃範圍內的敵人１０傷害，敵人的防守－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n敵人的防守再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n傷害再＋１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【彗星煌彈】\n傷害再＋７，敵人的防守再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2",
+    "value": "【聖焰戰技】\n給予◆範圍內的敵人１０傷害，敵人的魔防－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n敵人的魔防再－１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n傷害再＋１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【狂騷之歌】\n傷害再＋７，敵人的魔防再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2",
+    "value": "【聖焰戰技】\n給予＋範圍內的敵人１０傷害，\n敵人的攻擊、速度、防守、魔防－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n敵人的攻擊、速度、防守、魔防再－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n傷害再＋１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【破邪閃擊】\n傷害再＋７，敵人的攻擊、速度、防守、魔防再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2",
+    "value": "【聖焰戰技】\n給予▲範圍內的敵人１５傷害，敵人的攻擊及速度－５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n敵人的攻擊及速度再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n傷害再＋１４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【煌龍破】\n傷害再＋７，敵人的攻擊及速度再－４"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2",
+    "value": "【聖焰戰技】\n＋範圍內的敵人攻擊及速度－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋攻撃減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的攻擊再－１７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋速さ減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的速度再－１７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【鈍化之冥咒】\n敵人的攻擊及速度再－１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2",
+    "value": "【聖焰戰技】\n━範圍內的敵人防守及魔防－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋守備減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的防守再－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋魔防減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的魔防再－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【光輝耀槍】\n敵人的防守及魔防再－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2",
+    "value": "【聖焰戰技】\n給予１名敵人２０傷害，\n敵人的攻擊、速度、防守、魔防－１５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】\n敵人的攻擊、速度、防守、魔防再－３０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】\n傷害再＋４０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【霸之覺醒】，傷害再＋２０，\n敵人的攻擊、速度、防守、魔防再－１５"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2",
+    "value": "【聖焰戰技】\n給予３x３格內的敵人１０傷害，\n敵人的攻擊、速度、防守、魔防－７"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋能力減",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n敵人的攻擊、速度、防守、魔防再－１２"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋ダメージ",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n傷害再＋１０"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋両強化",
+    "value": "【聖焰戰技強化】\n聖焰戰技【九天神擊】\n傷害再＋５，敵人的攻擊、速度、防守、魔防再－４"
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202611R",
+    "value": "復刻・邁向金色的明天"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202611",
+    "value": "兩個女兒　５"
+  }
+]

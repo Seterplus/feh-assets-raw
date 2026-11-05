@@ -1,0 +1,330 @@
+[
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2",
+    "value": "Blackfire"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋能力減",
+    "value": "Blackfire+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋ダメージ",
+    "value": "Blackfire+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_黒炎渦流2＋両強化",
+    "value": "Blackfire+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2",
+    "value": "Stifling Shadow"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋能力減",
+    "value": "Stifling+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋ダメージ",
+    "value": "Stifling+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_影縫い2＋両強化",
+    "value": "Stifling+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2",
+    "value": "Dazzling Comet"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋能力減",
+    "value": "Dazzling+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋ダメージ",
+    "value": "Dazzling+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_彗星煌弾2＋両強化",
+    "value": "Dazzling+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2",
+    "value": "Song of Madness"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋能力減",
+    "value": "Madness+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋ダメージ",
+    "value": "Madness+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_狂騒の歌2＋両強化",
+    "value": "Madness+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2",
+    "value": "Purifying Flash"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋能力減",
+    "value": "Purifying+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋ダメージ",
+    "value": "Purifying+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_破邪閃撃2＋両強化",
+    "value": "Purifying+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2",
+    "value": "Shining Dragon"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋能力減",
+    "value": "Dragon+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋ダメージ",
+    "value": "Dragon+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_煌龍破2＋両強化",
+    "value": "Dragon+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2",
+    "value": "Slowing Curse"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋攻撃減",
+    "value": "Slowing+Atk-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋速さ減",
+    "value": "Slowing+Spd-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_鈍化の冥呪2＋両強化",
+    "value": "Slowing+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2",
+    "value": "Lanze"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋守備減",
+    "value": "Lanze+Def-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋魔防減",
+    "value": "Lanze+Res-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_ランツェ2＋両強化",
+    "value": "Lanze+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2",
+    "value": "Ruler"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋能力減",
+    "value": "Ruler+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋ダメージ",
+    "value": "Ruler+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_覇ノ覚醒2＋両強化",
+    "value": "Ruler+Both"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2",
+    "value": "Nine-Sky Strike"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋能力減",
+    "value": "Nine-Sky+Stat-"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋ダメージ",
+    "value": "Nine-Sky+Dmg"
+  },
+  {
+    "key": "MID_GRACE_SKILL_九天神撃2＋両強化",
+    "value": "Nine-Sky+Both"
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2",
+    "value": "Blaze Art. Deals 15 dmg, inflicts Atk-10\non foes in a ▼."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋能力減",
+    "value": "Blaze Art upgrade for Blackfire. Also inflicts\nAtk-14 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋ダメージ",
+    "value": "Blaze Art upgrade for Blackfire. Also\ndeals +14 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_黒炎渦流2＋両強化",
+    "value": "Blaze Art upgrade for Blackfire. Also deals +7\ndamage, inflicts Atk-7 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2",
+    "value": "Blaze Art. Deals 7 dmg, inflicts Spd-12 on\nfoes in a 3×3 area."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋能力減",
+    "value": "Blaze Art upgrade for Stifling Shadow. Also\ninflicts Spd-13 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋ダメージ",
+    "value": "Blaze Art upgrade for Stifling Shadow. Also\ndeals +10 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_影縫い2＋両強化",
+    "value": "Blaze Art upgrade for Stifling Shadow. Also\ndeals +4 dmg and inflicts Spd-6 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2",
+    "value": "Blaze Art. Deals 10 dmg, inflicts Def-10 on\nfoes in a ┃."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋能力減",
+    "value": "Blaze Art upgrade for Dazzling Comet. Also\ninflicts Def-14 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋ダメージ",
+    "value": "Blaze Art upgrade for Dazzling Comet. Also\ndeals +12 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_彗星煌弾2＋両強化",
+    "value": "Blaze Art upgrade for Dazzling Comet. Also\ndeals +7 dmg, inflicts Def-7 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2",
+    "value": "Blaze Art. Deals 10 dmg, inflicts Res-10 on\nfoes in a ◆."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋能力減",
+    "value": "Blaze Art upgrade for Song of Madness. Also\ninflicts Res-14 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋ダメージ",
+    "value": "Blaze Art upgrade for Song of Madness. Also\ndeals +12 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_狂騒の歌2＋両強化",
+    "value": "Blaze Art upgrade for Song of Madness. Also\ndeals +7 dmg, inflicts Res-7 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2",
+    "value": "Blaze Art. Deals 10 dmg, inflicts\nAtk/Spd/Def/Res-7 on foes in a 十 ."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋能力減",
+    "value": "Blaze Art upgrade for Purifying Flash. Also\ninflicts Atk/Spd/Def/Res-12 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋ダメージ",
+    "value": "Blaze Art upgrade for Purifying Flash. Also\ndeals +12 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_破邪閃撃2＋両強化",
+    "value": "Blaze Art upgrade for Purifying Flash. Also\ndeals +7 dmg, inflicts Atk/Spd/Def/Res-4\non foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2",
+    "value": "Blaze Art. Deals 15 dmg, inflicts Atk/Spd-5\non foes in a ▲."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋能力減",
+    "value": "Blaze Art upgrade for Shining Dragon. Also\ninflicts Atk/Spd-7 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋ダメージ",
+    "value": "Blaze Art upgrade for Shining Dragon. Also\ndeals +14 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_煌龍破2＋両強化",
+    "value": "Blaze Art upgrade for Shining Dragon. Also\ndeals +7 dmg, inflicts Atk/Spd-4 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2",
+    "value": "Blaze Art. Inflicts Atk/Spd-12 on foes in\na 十."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋攻撃減",
+    "value": "Blaze Art upgrade for Slowing Curse. Also\ninflicts Atk-17 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋速さ減",
+    "value": "Blaze Art upgrade for Slowing Curse. Also\ninflicts Spd-17 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_鈍化の冥呪2＋両強化",
+    "value": "Blaze Art upgrade for Slowing Curse. Also\ninflicts Atk/Spd-10 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2",
+    "value": "Blaze Art. Inflicts Def/Res-12 on foes in a ━."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋守備減",
+    "value": "Blaze Art upgrade for Lanze. Also inflicts\nDef-12 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋魔防減",
+    "value": "Blaze Art upgrade for Lanze. Also inflicts\nRes-12 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_ランツェ2＋両強化",
+    "value": "Blaze Art upgrade for Lanze. Also inflicts\nDef/Res-7 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2",
+    "value": "Blaze Art. Deals 20 dmg, inflicts\nAtk/Spd/Def/Res-15 on one foe."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋能力減",
+    "value": "Blaze Art upgrade for Ruler. Also inflicts\nAtk/Spd/Def/Res-30 on foe."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋ダメージ",
+    "value": "Blaze Art upgrade for Ruler. Also deals\n+40 dmg to foe."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_覇ノ覚醒2＋両強化",
+    "value": "Blaze Art upgrade for Ruler. Also deals\n+20 dmg, inflicts Atk/Spd/Def/Res-15 on foe."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2",
+    "value": "Blaze Art. Deals 10 dmg, inflicts\nAtk/Spd/Def/Res-7 on foes in a 3×3 area."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋能力減",
+    "value": "Blaze Art upgrade for Nine-Sky Strike. Also\ninflicts Atk/Spd/Def/Res-12 on foes."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋ダメージ",
+    "value": "Blaze Art upgrade for Nine-Sky Strike. Also\ndeals +10 dmg."
+  },
+  {
+    "key": "MID_H_GRACE_SKILL_九天神撃2＋両強化",
+    "value": "Blaze Art upgrade for Nine-Sky Strike. Also\ndeals +5 dmg, inflicts Atk/Spd/Def/Res-4\non foes."
+  },
+  {
+    "key": "MID_PORTRAIT_TITLE_202611R",
+    "value": "Revival: For Tomorrow"
+  },
+  {
+    "key": "MID_SEQUENTIAL_MAP_TERM_202611",
+    "value": "Daughters 5"
+  }
+]
