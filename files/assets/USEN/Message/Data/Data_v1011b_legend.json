@@ -1,0 +1,898 @@
+[
+  {
+    "key": "MDAID_ステキな帽子・金",
+    "value": "Gold Lovely Hat"
+  },
+  {
+    "key": "MDAID_H_ステキな帽子・金",
+    "value": "Proof of victory over Mythic\nFimbulvetr and Chosen Líf."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_TITLE",
+    "value": "Black Friday"
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A3",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A3",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A5",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A5",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A6",
+    "value": "Resonant Battles Score"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A6",
+    "value": "Earn a score in Resonant Battles\nat any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A7",
+    "value": "Clear Heroic Ordeals"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A7",
+    "value": "Clear a Heroic Ordeal."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A8",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A8",
+    "value": "Clear the tenth stratum of the Training Tower\nusing a team with an infantry, armored, cavalry,\nand flying ally. (Allies deployed as cohorts\nusing Pair Up do not count.) All four allies\nmust survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A9",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A9",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A10",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A10",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A11",
+    "value": "Clear 1-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A11",
+    "value": "Clear Book X, Chapter 1: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A12",
+    "value": "Clear 2-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A12",
+    "value": "Clear Book X, Chapter 2: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A13",
+    "value": "Clear 3-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A13",
+    "value": "Clear Book X, Chapter 3: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A14",
+    "value": "Clear 4-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A14",
+    "value": "Clear Book X, Chapter 4: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A15",
+    "value": "Clear 5-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A15",
+    "value": "Clear Book X, Chapter 5: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A16",
+    "value": "Clear 6-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A16",
+    "value": "Clear Book X, Chapter 6: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A17",
+    "value": "Clear 7-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A17",
+    "value": "Clear Book X, Chapter 7: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A18",
+    "value": "Clear 8-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A18",
+    "value": "Clear Book X, Chapter 8: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A19",
+    "value": "Clear 9-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A19",
+    "value": "Clear Book X, Chapter 9: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A20",
+    "value": "Clear 10-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A20",
+    "value": "Clear Book X, Chapter 10: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A21",
+    "value": "Clear 11-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A21",
+    "value": "Clear Book X, Chapter 11: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KINEN01_A22",
+    "value": "Clear 12-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KINEN01_A22",
+    "value": "Clear Book X, Chapter 12: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_TITLE",
+    "value": "Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_A1",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KIZUNA01_A1",
+    "value": "Clear the Bound Hero Battle against Fiora &\nFarina with Anna: Commander on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_A2",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KIZUNA01_A2",
+    "value": "Clear the Bound Hero Battle against Fiora\n& Farina on Lunatic or higher difficulty with\nSharena: Princess of Askr on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_A3",
+    "value": "Defeat Fiora"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KIZUNA01_A3",
+    "value": "Defeat Fiora: Airborne Warrior at level 40 or\nhigher with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_A4",
+    "value": "Defeat Farina"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KIZUNA01_A4",
+    "value": "Defeat Farina at level 40 or higher with\nSharena: Princess of Askr."
+  },
+  {
+    "key": "MID_MISSION_S202611KIZUNA01_A5",
+    "value": "Clear Bound Hero Battle"
+  },
+  {
+    "key": "MID_MISSION_H_S202611KIZUNA01_A5",
+    "value": "Clear the Bound Hero Battle against Fiora &\nFarina on Lunatic or higher difficulty using\nonly armored allies."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_TITLE",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A1",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A1",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A2",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A2",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A3",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A3",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A4",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A4",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A5",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A5",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A6",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A6",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A7",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A7",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A8",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A8",
+    "value": "Clear the second stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A9",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A9",
+    "value": "Clear the eighth stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW01_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW01_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_TITLE",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A1",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A1",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A2",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A2",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A3",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A3",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A4",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A4",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A5",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A5",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A6",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A6",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A7",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A7",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A8",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A8",
+    "value": "Clear the second stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A9",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A9",
+    "value": "Clear the eighth stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW02_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW02_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_TITLE",
+    "value": " Feh Pass"
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A1",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A1",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A2",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A2",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A3",
+    "value": "KO Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A3",
+    "value": "Defeat a foe."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A5",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A5",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A6",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A6",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_S202611SUBSC02_A7",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SUBSC02_A7",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_TITLE",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A1",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A1",
+    "value": "Win a battle in the Voting Gauntlet."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A2",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A2",
+    "value": "Win a battle in the Voting Gauntlet."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A3",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A3",
+    "value": "Win a battle in the Voting Gauntlet."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A4",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A4",
+    "value": "Win a battle in the Voting Gauntlet."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A5",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A5",
+    "value": "Win a battle in the Voting Gauntlet."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A6",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A6",
+    "value": "Clear the second stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A7",
+    "value": "Tower: 5th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A7",
+    "value": "Clear the fifth stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A8",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A8",
+    "value": "Clear the eighth stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A9",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A9",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A11",
+    "value": "Win Int.+ Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A11",
+    "value": "Win an Arena Duel on Intermediate or higher\ndifficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A12",
+    "value": "Win Int.+ Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A12",
+    "value": "Win an Arena Duel on Intermediate or higher\ndifficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A13",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A13",
+    "value": "Win a battle in the Voting Gauntlet with a red\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A14",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A14",
+    "value": "Win a battle in the Voting Gauntlet with a blue\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A15",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A15",
+    "value": "Win a battle in the Voting Gauntlet with a green\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A16",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A16",
+    "value": "Win a battle in the Voting Gauntlet with a\ncolorless ally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A17",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A17",
+    "value": "Win a battle in the Voting Gauntlet with a red\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A18",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A18",
+    "value": "Win a battle in the Voting Gauntlet with a blue\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A19",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A19",
+    "value": "Win a battle in the Voting Gauntlet with a green\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A20",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A20",
+    "value": "Win a battle in the Voting Gauntlet with a\ncolorless ally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A21",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A21",
+    "value": "Win a battle in the Voting Gauntlet with a red\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A22",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A22",
+    "value": "Win a battle in the Voting Gauntlet with a blue\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A23",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A23",
+    "value": "Win a battle in the Voting Gauntlet with a green\nally on your team."
+  },
+  {
+    "key": "MID_MISSION_S202611VOTE01_A24",
+    "value": "Voting Gauntlet"
+  },
+  {
+    "key": "MID_MISSION_H_S202611VOTE01_A24",
+    "value": "Win a battle in the Voting Gauntlet with a\ncolorless ally on your team."
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_TITLE",
+    "value": "The Bitter End"
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_A1",
+    "value": "Clear 13-1 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202611STORY_C01_A1",
+    "value": "Clear Book X, Chapter 13: Part 1 on Lunatic\ndifficulty with an axe ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_A2",
+    "value": "Clear 13-2 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202611STORY_C01_A2",
+    "value": "Clear Book X, Chapter 13: Part 2 on Lunatic\ndifficulty with a sword ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_A3",
+    "value": "Clear 13-3 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202611STORY_C01_A3",
+    "value": "Clear Book X, Chapter 13: Part 3 on Lunatic\ndifficulty with a lance ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_A4",
+    "value": "Clear 13-4 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202611STORY_C01_A4",
+    "value": "Clear Book X, Chapter 13: Part 4 on Lunatic\ndifficulty with an axe ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_S202611STORY_C01_A5",
+    "value": "Clear 13-5 on Lunatic"
+  },
+  {
+    "key": "MID_MISSION_H_W_S202611STORY_C01_A5",
+    "value": "Clear Book X, Chapter 13: Part 5 on Lunatic\ndifficulty with a sword ally on your team. (Allies\ndeployed as cohorts using Pair Up do not\ncount.) All four allies must survive."
+  },
+  {
+    "key": "MPID_フィンブル味方",
+    "value": "Fimbulvetr"
+  },
+  {
+    "key": "MPID_SEARCH_フィンブル味方",
+    "value": "Fimbulvetr"
+  },
+  {
+    "key": "MPID_救世リーヴ味方",
+    "value": "Líf"
+  },
+  {
+    "key": "MPID_SEARCH_救世リーヴ味方",
+    "value": "Lif"
+  },
+  {
+    "key": "MPID_HONOR_フィンブル味方",
+    "value": "The Bitter End"
+  },
+  {
+    "key": "MPID_HONOR_救世リーヴ味方",
+    "value": "Deadly Miracle"
+  },
+  {
+    "key": "MPID_H_フィンブル味方",
+    "value": "The first of three stages of Ragnarök. She is the\nwinter of annihilation, the disaster that freezes\nthe realms. Unlike humans, she lacks emotion."
+  },
+  {
+    "key": "MPID_H_救世リーヴ味方",
+    "value": "Warrior of the realm of the dead who has\nentered a contract with the heavens. Kills Hel,\nthe ruler of the dead, and usurps her power."
+  },
+  {
+    "key": "MPID_VOICE_フィンブル味方",
+    "value": "Crystal Lee"
+  },
+  {
+    "key": "MPID_VOICE_救世リーヴ味方",
+    "value": "Edward Bosco"
+  },
+  {
+    "key": "MPID_VOICE_ティトEX01",
+    "value": "Kayli Mills"
+  },
+  {
+    "key": "MPID_ILLUST_フィンブル味方",
+    "value": "Yoshiku (四々九)"
+  },
+  {
+    "key": "MPID_ILLUST_救世リーヴ味方",
+    "value": "Kozaki Yusuke (コザキユースケ)"
+  },
+  {
+    "key": "MPID_ILLUST_ティトEX01",
+    "value": "Yamagiwa / Trys Inc."
+  },
+  {
+    "key": "MPID_LEGEND_フィンブル味方",
+    "value": "Mythic Effect: Dark\nBoost: HP+5, Atk+3\n\nGrants allies this Mythic Effect during Dark\nseason, if the Dark blessing has been conferred\nand if this unit enters battle in Aether Raids with\nthem: Dark-blessed allies decrease the\nAetheric Lift lost for defense failures during\nDark season. (This decrease is limited to the\nnumber of Mythic Heroes (Max: 2) × the number\nof Heroes with the blessing conferred × 5.)\n\nDuring Dark season, this Mythic Hero will\ndecrease Aetheric Lift loss for defense\nfailures depending on number of merges. (This\ndecrease is limited to the number of times the\nunits have been merged × 1 (Max: 20).)\n\nMythic Effect 2: Dark\nBoost: Defensive Team Bonus\n\nMythic Effect 3: Dark\nBoost: Defensive Team Call\n(Details can be found in Edit Defensive Team.)"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1011b_legend_01_救世リーヴ味方",
+    "value": "Cancels Great Talent bonuses for foes\nwithout magic or staves! Declares\ndeath on foes, reaping life with allies."
+  },
+  {
+    "key": "MID_TIPS_Summon_v1011b_legend_01_フィンブル味方",
+    "value": "Creates Divine Vein (Ice), providing\ntotal defense! Turns energy from foes'\nattacks into an intense counterattack!"
+  },
+  {
+    "key": "MSID_炎鋒",
+    "value": "Fire Edge"
+  },
+  {
+    "key": "MSID_SEARCH_炎鋒",
+    "value": "Fire Edge"
+  },
+  {
+    "key": "MSID_人の心を",
+    "value": "The Human Heart"
+  },
+  {
+    "key": "MSID_SEARCH_人の心を",
+    "value": "The Human Heart"
+  },
+  {
+    "key": "MSID_死の王の名において",
+    "value": "In Hel's Name"
+  },
+  {
+    "key": "MSID_SEARCH_死の王の名において",
+    "value": "In Hel's Name"
+  },
+  {
+    "key": "MSID_サイレスガード・広",
+    "value": "Silence Ward L"
+  },
+  {
+    "key": "MSID_SEARCH_サイレスガード・広",
+    "value": "Silence Ward L"
+  },
+  {
+    "key": "MSID_H_炎鋒",
+    "value": "When Special triggers, boosts damage by unit's\nDef.\n\nReduces damage from foe's first attack by 40%\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes), and if unit has weapon-triangle\nadvantage or if unit and foe are colorless,\ngrants Atk/Spd/Def/Res+5 to unit during\ncombat."
+  },
+  {
+    "key": "MSID_H_人の心を",
+    "value": "$aUnit can counterattack regardless of foe's range.\n\nAt start of player phase or enemy phase, grants\n【Atk Liberate】,【Def Liberate】, and【Reflex】\nto unit and allies within 3 spaces of unit for\n1 turn.\n\nAfter start-of-turn effects trigger on enemy\nphase, if unit's space has no Divine Vein effect\napplied by unit's team, applies\n【Divine Vein (Ice)】to that space for 1 turn\n(excludes warp spaces in Rival Domains).\n\nIf foe initiates combat against an ally on the\nmap and the ally is defeated in combat, applies\n【Divine Vein (Ice)】to unit's space and\nthat ally's space after combat for 1 turn\n(excludes warp spaces in Rival Domains).\n\nGrants Atk/Spd/Def/Res+10 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nneutralizes effects that inflict \"Special\ncooldown charge -X\" on unit during combat.\n\nIf unit's space has a Divine Vein effect applied\nby unit's team, damage from foe's attacks is\nreduced to 0 during combat (excluding\narea-of-effect Specials; Røkkr take at least\n1 damage).\n\nIf unit's space has a Divine Vein effect applied\nby unit's team after combat, neutralizes that\nDivine Vein effect. (If a Divine Vein effect is\napplied, destroyed, and neutralized at the same\ntime, application, destruction, and neutralization\nof the effect are processed in order.)\n\n【Atk Liberate】\nGrants bonus to Atk during combat = number\nof Bonus effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Def Liberate】\nGrants bonus to Def during combat = number\nof Bonus effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Reflex】\nReduces damage from foe's first attack by 7\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes) and unit's next attack deals damage =\ntotal damage reduced from foe's first attack\n(by any source, including other skills; resets at\nend of combat). (For 1 turn.)\n\n【Divine Vein (Ice)】\nApplies the following status on space: Foes\ntreat space as impassable terrain while status\nis active, but status is destructible (with 1 HP).\nAllies can move into and occupy space. If any\nallies occupy spaces with Divine Vein (Ice)\napplied, attacks targeting those spaces will hit\nthe ally over destroying the Divine Vein (Ice).\n(Does not trigger in Pawns of Loki.)"
+  },
+  {
+    "key": "MSID_H_人の心を_NOSKW",
+    "value": "$aUnit can counterattack regardless of foe's range.\n\nAt start of player phase or enemy phase, grants\n【Atk Liberate】,【Def Liberate】, and【Reflex】\nto unit and allies within 3 spaces of unit for\n1 turn.\n\nAfter start-of-turn effects trigger on enemy\nphase, if unit's space has no Divine Vein effect\napplied by unit's team, applies\n【Divine Vein (Ice)】to that space for 1 turn\n(excludes warp spaces in Rival Domains).\n\nIf foe initiates combat against an ally on the\nmap and the ally is defeated in combat, applies\n【Divine Vein (Ice)】to unit's space and\nthat ally's space after combat for 1 turn\n(excludes warp spaces in Rival Domains).\n\nGrants Atk/Spd/Def/Res+10 to unit, unit deals\n+7 damage (excluding area-of-effect Specials),\nreduces damage from foe's attacks by 7\n(excluding area-of-effect Specials), and\nneutralizes effects that inflict \"Special\ncooldown charge -X\" on unit during combat.\n\nIf unit's space has a Divine Vein effect applied\nby unit's team, damage from foe's attacks is\nreduced to 0 during combat (excluding\narea-of-effect Specials; Røkkr take at least\n1 damage).\n\nIf unit's space has a Divine Vein effect applied\nby unit's team after combat, neutralizes that\nDivine Vein effect. (If a Divine Vein effect is\napplied, destroyed, and neutralized at the same\ntime, application, destruction, and neutralization\nof the effect are processed in order.)"
+  },
+  {
+    "key": "MSID_H_死の王の名において",
+    "value": "$aAt start of player phase or enemy phase, grants\n【Truly Incited】and【Creation Pulse】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nAt start of turn, applies【Divine Vein (Haze)】on\nclosest foes' spaces and on each space within\n2 spaces of those spaces for 1 turn.\n\nIf unit initiates combat, applies\n【Divine Vein (Haze)】on target's space and\non each space within 2 spaces of target's\nspace for 1 turn after combat.\n\nAfter Canto (including cases where action is\nended due to Canto Control), if unit entered\ncombat on the current turn, grants another\naction to unit, and re-enables Canto (once per\nturn; does not trigger when affected by effects\nof traps in Aether Raids during Canto).\n\nGrants Atk/Spd/Def/Res+5, deals +7 damage\n(excluding area-of-effect Specials), reduces\ndamage from foe's attacks by 7 (excluding\narea-of-effect Specials), and grants Special\ncooldown count-2 to unit before unit's first\nfollow-up attack during combat.\n\nIf foe does not use magic or staff,\ninflicts Atk/Spd/Def/Res-X on foe during\ncombat (X = value of foe's【Great Talent】;\ncalculates each stat independently).\n\n【Truly Incited】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = number of spaces from start\nposition to end position of whoever\ninitiated combat × 2 (max 8).\n\n【Creation Pulse】\nIf unit's attack can trigger unit's Special, grants\nSpecial cooldown count-X before unit's first\nattack during combat (X = number of Penalty\neffects active on foe, excluding stat penalties;\nmax 2).\n(For 1 turn.)\n\n【Divine Vein (Haze)】\nApplies the following effects on space:\nInflicts Atk/Spd/Def/Res-5 on foe and\nneutralizes foe's bonuses during combat.\n\n【Great Talent】\nAdds value of Great Talent (+X) to specified\nstats (until end of battle; max value of X is\ndetermined by the stat reaching the limit of 99,\neach stat calculated separately and cannot\nexceed max value for each skill; stat increases\nare not treated as Bonus effects)."
+  },
+  {
+    "key": "MSID_H_死の王の名において_NOSKW",
+    "value": "$aAt start of player phase or enemy phase, grants\n【Truly Incited】and【Creation Pulse】to unit\nand allies within 2 spaces of unit for 1 turn.\n\nAt start of turn, applies【Divine Vein (Haze)】on\nclosest foes' spaces and on each space within\n2 spaces of those spaces for 1 turn.\n\nIf unit initiates combat, applies\n【Divine Vein (Haze)】on target's space and\non each space within 2 spaces of target's\nspace for 1 turn after combat.\n\nAfter Canto (including cases where action is\nended due to Canto Control), if unit entered\ncombat on the current turn, grants another\naction to unit, and re-enables Canto (once per\nturn; does not trigger when affected by effects\nof traps in Aether Raids during Canto).\n\nGrants Atk/Spd/Def/Res+5, deals +7 damage\n(excluding area-of-effect Specials), reduces\ndamage from foe's attacks by 7 (excluding\narea-of-effect Specials), and grants Special\ncooldown count-2 to unit before unit's first\nfollow-up attack during combat.\n\nIf foe does not use magic or staff,\ninflicts Atk/Spd/Def/Res-X on foe during\ncombat (X = value of foe's【Great Talent】;\ncalculates each stat independently).\n"
+  },
+  {
+    "key": "MSID_H_サイレスガード・広",
+    "value": "For unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+4\nand neutralizes effects that prevent unit's or\nally's counterattacks during combat, and also,\nif unit's or ally's attack can trigger their Special,\ngrants Special cooldown count-1 before their\nfirst attack during combat.\n\nNeutralizes penalties on unit, unit deals +5\ndamage (excluding area-of-effect Specials),\nand reduces damage from foe's first attack by\n5 during combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes)."
+  },
+  {
+    "key": "MID_CHAPTER_TITLE_C1013",
+    "value": "Book X, Chapter 13"
+  },
+  {
+    "key": "MID_CHAPTER_C1013",
+    "value": "The Bitter End"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA131",
+    "value": "Chapter 13-1"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA132",
+    "value": "Chapter 13-2"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA133",
+    "value": "Chapter 13-3"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA134",
+    "value": "Chapter 13-4"
+  },
+  {
+    "key": "MID_STAGE_TITLE_SA135",
+    "value": "Chapter 13-5"
+  },
+  {
+    "key": "MID_STAGE_SA131",
+    "value": "Fimbulvetr Must Perish"
+  },
+  {
+    "key": "MID_STAGE_SA132",
+    "value": "Chosen Frost"
+  },
+  {
+    "key": "MID_STAGE_SA133",
+    "value": "Chosen Flame"
+  },
+  {
+    "key": "MID_STAGE_SA134",
+    "value": "Chosen Death"
+  },
+  {
+    "key": "MID_STAGE_SA135",
+    "value": "If I..."
+  },
+  {
+    "key": "MID_STAGE_HONOR_L0107",
+    "value": "M & C Hero Battle"
+  },
+  {
+    "key": "MID_STAGE_L0107",
+    "value": "F & L"
+  },
+  {
+    "key": "MID_CHAPTER_ST_C0A13",
+    "value": "Chapter 13"
+  },
+  {
+    "key": "MID_STAGE_TITLE_ST_S0A13",
+    "value": "Chapter 13"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB334",
+    "value": "Skill Studies 334"
+  },
+  {
+    "key": "MID_STAGE_PB334",
+    "value": "Bitter End, Deadly Miracle"
+  }
+]
