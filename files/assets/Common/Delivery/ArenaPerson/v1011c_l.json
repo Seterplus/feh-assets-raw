@@ -1,0 +1,83 @@
+[
+  {
+    "hero_id": "PID_獣人ディミトリ",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_獣人エーデルガルト",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_フィンブル味方",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_救世リーヴ味方",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_アルヴィング味方",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_ホルスト",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_カリン",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_サクラ",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  },
+  {
+    "hero_id": "PID_総選挙エーデル",
+    "active": {
+      "start": "2026-12-01T07:00:00Z",
+      "finish": "2026-12-08T07:00:00Z",
+      "_skip0": null
+    },
+    "_skip0": null
+  }
+]

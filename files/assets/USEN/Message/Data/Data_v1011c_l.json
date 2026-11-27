@@ -1,0 +1,850 @@
+[
+  {
+    "key": "MDAID_手縫いの頭巾・金",
+    "value": "Gold Hand-Sewn Hood"
+  },
+  {
+    "key": "MDAID_H_手縫いの頭巾・金",
+    "value": "Proof of victory over Legendary Dimitri,\nLegendary Edelgard, and Attuned Alvíg."
+  },
+  {
+    "key": "MDAID_旅先の忍の巻物",
+    "value": "Shinobi Scroll"
+  },
+  {
+    "key": "MDAID_H_旅先の忍の巻物",
+    "value": "Proof that two Heroes bested a boss\non their journeys together. Serves as\na souvenir from their travels."
+  },
+  {
+    "key": "MID_MISSION_M202612A_TITLE",
+    "value": "Dec Quests"
+  },
+  {
+    "key": "MID_MISSION_M202612A_A1",
+    "value": "Arena Assault: Win 1"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A1",
+    "value": "Win one battle in Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A2",
+    "value": "Arena Assault: 3 in a Row"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A2",
+    "value": "Win three consecutive battles\nin Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A3",
+    "value": "Arena Assault: 5 in a Row"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A3",
+    "value": "Win five consecutive battles\nin Arena Assault."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A4",
+    "value": "KO w/Alfonse"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A4",
+    "value": "Defeat a foe with Alfonse: Prince of Askr."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A5",
+    "value": "KO w/Sharena"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A5",
+    "value": "Defeat a foe with Sharena: Princess of Askr."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A6",
+    "value": "KO w/Anna"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A6",
+    "value": "Defeat a foe with Anna: Commander."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A7",
+    "value": "KO Red Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A7",
+    "value": "Defeat a red foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A8",
+    "value": "KO Blue Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A8",
+    "value": "Defeat a blue foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A9",
+    "value": "KO Green Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A9",
+    "value": "Defeat a green foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A10",
+    "value": "KO Colorless Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A10",
+    "value": "Defeat a colorless foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A11",
+    "value": "KO Infantry Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A11",
+    "value": "Defeat an infantry foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A12",
+    "value": "KO Armored Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A12",
+    "value": "Defeat an armored foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A13",
+    "value": "KO Cavalry Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A13",
+    "value": "Defeat a cavalry foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A14",
+    "value": "KO Flying Foe"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A14",
+    "value": "Defeat a flying foe."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A15",
+    "value": "Clear 5-1"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A15",
+    "value": "Clear Book IX, Chapter 5: Part 1 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A16",
+    "value": "Clear 5-2"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A16",
+    "value": "Clear Book IX, Chapter 5: Part 2 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A17",
+    "value": "Clear 5-3"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A17",
+    "value": "Clear Book IX, Chapter 5: Part 3 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A18",
+    "value": "Clear 5-4"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A18",
+    "value": "Clear Book IX, Chapter 5: Part 4 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A19",
+    "value": "Clear 5-5"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A19",
+    "value": "Clear Book IX, Chapter 5: Part 5 on Lunatic\ndifficulty. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A20",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A20",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A21",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A21",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A22",
+    "value": "AR: Attack Successfully"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A22",
+    "value": "Successfully attack in Aether Raids."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A23",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A23",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A24",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A24",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_M202612A_A25",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_M202612A_A25",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_TITLE",
+    "value": "Arena & Ordeals"
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A1",
+    "value": "Clear Heroic Ordeals"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A1",
+    "value": "Clear a Heroic Ordeal."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A2",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A2",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A3",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A3",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A4",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A4",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A5",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A5",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A6",
+    "value": "Clear Heroic Ordeals"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A6",
+    "value": "Clear a Heroic Ordeal."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A7",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A7",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A8",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A8",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A9",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A9",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A11",
+    "value": "Clear Heroic Ordeals"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A11",
+    "value": "Clear a Heroic Ordeal."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A12",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A12",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A13",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A13",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A14",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A14",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611ARENA01_A15",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611ARENA01_A15",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202611MJOLNIR01_TITLE",
+    "value": "Mjölnir's Strike"
+  },
+  {
+    "key": "MID_MISSION_S202611MJOLNIR01_A1",
+    "value": "KO w/Summoner"
+  },
+  {
+    "key": "MID_MISSION_H_S202611MJOLNIR01_A1",
+    "value": "Defeat a foe with the My Summoner unit\nin Mjölnir's Strike."
+  },
+  {
+    "key": "MID_MISSION_S202611MJOLNIR01_A2",
+    "value": "KO w/Summoner"
+  },
+  {
+    "key": "MID_MISSION_H_S202611MJOLNIR01_A2",
+    "value": "Defeat a foe with the My Summoner unit\nin Mjölnir's Strike."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_TITLE",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A1",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A1",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A2",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A2",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A3",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A3",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A4",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A4",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A5",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A5",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A6",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A6",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A7",
+    "value": "Røkkr Sieges"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A7",
+    "value": "Clear a battle in Røkkr Sieges."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A8",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A8",
+    "value": "Clear the second stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A9",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A9",
+    "value": "Clear the eighth stratum of the Training Tower."
+  },
+  {
+    "key": "MID_MISSION_S202611SHADOW03_A10",
+    "value": "Win Arena Duel"
+  },
+  {
+    "key": "MID_MISSION_H_S202611SHADOW03_A10",
+    "value": "Win an Arena Duel at any difficulty."
+  },
+  {
+    "key": "MID_MISSION_S202612JOURNEY01_TITLE",
+    "value": "Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_S202612JOURNEY01_A1",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202612JOURNEY01_A1",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_S202612JOURNEY01_A2",
+    "value": "Clear Heroes Journey"
+  },
+  {
+    "key": "MID_MISSION_H_S202612JOURNEY01_A2",
+    "value": "Clear Heroes Journey."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_TITLE",
+    "value": "Dec Training"
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A1",
+    "value": "Tower: 1st Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A1",
+    "value": "Clear the first stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A2",
+    "value": "Tower: 2nd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A2",
+    "value": "Clear the second stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A3",
+    "value": "Tower: 3rd Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A3",
+    "value": "Clear the third stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A4",
+    "value": "Tower: 4th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A4",
+    "value": "Clear the fourth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A5",
+    "value": "Tower: 5th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A5",
+    "value": "Clear the fifth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A6",
+    "value": "Tower: 6th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A6",
+    "value": "Clear the sixth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A7",
+    "value": "Tower: 7th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A7",
+    "value": "Clear the seventh stratum of the Training\nTower. All four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A8",
+    "value": "Tower: 8th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A8",
+    "value": "Clear the eighth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A9",
+    "value": "Tower: 9th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A9",
+    "value": "Clear the ninth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A10",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A10",
+    "value": "Clear the tenth stratum of the Training Tower.\nAll four allies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A11",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A11",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only infantry allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A12",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A12",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only armored allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A13",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A13",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only cavalry allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MID_MISSION_W_M202612B_A14",
+    "value": "Tower: 10th Stratum"
+  },
+  {
+    "key": "MID_MISSION_H_W_M202612B_A14",
+    "value": "Clear the tenth stratum of the Training Tower\nusing only flying allies. (Allies deployed as\ncohorts using Pair Up do not count.) All four\nallies must survive."
+  },
+  {
+    "key": "MPID_獣人ディミトリ",
+    "value": "Dimitri"
+  },
+  {
+    "key": "MPID_SEARCH_獣人ディミトリ",
+    "value": "Dimitri"
+  },
+  {
+    "key": "MPID_獣人エーデルガルト",
+    "value": "Edelgard"
+  },
+  {
+    "key": "MPID_SEARCH_獣人エーデルガルト",
+    "value": "Edelgard"
+  },
+  {
+    "key": "MPID_アルヴィング味方",
+    "value": "Alvíg"
+  },
+  {
+    "key": "MPID_SEARCH_アルヴィング味方",
+    "value": "Alvig"
+  },
+  {
+    "key": "MPID_HONOR_獣人ディミトリ",
+    "value": "Echoing Roar"
+  },
+  {
+    "key": "MPID_HONOR_獣人エーデルガルト",
+    "value": "Sharpest Claws"
+  },
+  {
+    "key": "MPID_HONOR_アルヴィング味方",
+    "value": "Past-Trekker"
+  },
+  {
+    "key": "MPID_H_獣人ディミトリ",
+    "value": "A disciple who supports Fenris, the goddess of\nshadows. Has lost all memory other than\nhis name. Appears in Fire Emblem: Three\nHouses / Fire Emblem Shadows."
+  },
+  {
+    "key": "MPID_H_獣人エーデルガルト",
+    "value": "A disciple of the shadow who wants to reshape\nthe world. Has no memory other than her name.\nAppears in Fire Emblem: Three Houses / Fire\nEmblem Shadows."
+  },
+  {
+    "key": "MPID_H_アルヴィング味方",
+    "value": "Seiðr's daughter, who went missing in the\nfuture. Gróa's twin sister."
+  },
+  {
+    "key": "MPID_VOICE_獣人ディミトリ",
+    "value": "Chris Hackney"
+  },
+  {
+    "key": "MPID_VOICE_獣人エーデルガルト",
+    "value": "Tara Platt"
+  },
+  {
+    "key": "MPID_VOICE_アルヴィング味方",
+    "value": "Alejandra Reynoso"
+  },
+  {
+    "key": "MPID_ILLUST_獣人ディミトリ",
+    "value": "Fujisaka Kimihiko (藤坂公彦)"
+  },
+  {
+    "key": "MPID_ILLUST_獣人エーデルガルト",
+    "value": "Clover.K (黒葉.K)"
+  },
+  {
+    "key": "MPID_ILLUST_アルヴィング味方",
+    "value": "Kousei Horiguchi (恒星ホリグチ)"
+  },
+  {
+    "key": "MPID_LEGEND_獣人ディミトリ",
+    "value": "Legendary Effect: Wind\nAlly Boost: HP+3, Spd+3\n\nGrants allies this Legendary Effect during Wind\nseason, if the Wind blessing has been conferred\nand if this unit enters battle with them.\n\nStandard Effect 1: Duel\nIf unit is 5★ and level 40 and unit's stats total\nless than 225, treats unit's stats as 225 in\nmodes like Arena. (Higher-scoring opponents\nwill appear. Stat total calculation excludes any\nvalues added by merges and skills.)\nStandard Effect 2: Pair Up\nAn ability that can only be used under certain\ncircumstances. Pair Up can be accessed from\nthe Interact with Allies menu, and allows this\nunit to join battle in a group with another ally."
+  },
+  {
+    "key": "MPID_LEGEND_獣人エーデルガルト",
+    "value": "Legendary Effect: Fire\nAlly Boost: HP+3, Def+4\n\nGrants allies this Legendary Effect during Fire\nseason, if the Fire blessing has been conferred\nand if this unit enters battle with them.\n\nStandard Effect 1: Duel\nIf unit is 5★ and level 40 and unit's stats total\nless than 225, treats unit's stats as 225 in\nmodes like Arena. (Higher-scoring opponents\nwill appear. Stat total calculation excludes any\nvalues added by merges and skills.)\nStandard Effect 2: Pair Up\nAn ability that can only be used under certain\ncircumstances. Pair Up can be accessed from\nthe Interact with Allies menu, and allows this\nunit to join battle in a group with another ally."
+  },
+  {
+    "key": "MID_TIPS_Summon_v1011c_l_01_獣人ディミトリ",
+    "value": "His lion form paralyzes foes with fear!\nSlays them one after another and\nneutralizes their Bonus effects!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1011c_l_01_獣人エーデルガルト",
+    "value": "Moves three spaces. Boosts allies' Atk\nand reduces foes' when allies initiate\nwith weapon-triangle advantage!"
+  },
+  {
+    "key": "MID_TIPS_Summon_v1011c_l_01_アルヴィング味方",
+    "value": "Her Style prevents a foe from acting\non their next turn. Rally skills unite\nAlvíg and her allies to empower them."
+  },
+  {
+    "key": "MSID_青き獅子の爪牙",
+    "value": "Blue Lion Fang"
+  },
+  {
+    "key": "MSID_SEARCH_青き獅子の爪牙",
+    "value": "Blue Lion Fang"
+  },
+  {
+    "key": "MSID_黒き鷲の鉤爪",
+    "value": "Black Eagle Claw"
+  },
+  {
+    "key": "MSID_SEARCH_黒き鷲の鉤爪",
+    "value": "Black Eagle Claw"
+  },
+  {
+    "key": "MSID_爪牙一閃・疾風",
+    "value": "Slashing Wind"
+  },
+  {
+    "key": "MSID_SEARCH_爪牙一閃・疾風",
+    "value": "Slashing Wind"
+  },
+  {
+    "key": "MSID_爪牙一閃・大地",
+    "value": "Slashing Earth"
+  },
+  {
+    "key": "MSID_SEARCH_爪牙一閃・大地",
+    "value": "Slashing Earth"
+  },
+  {
+    "key": "MSID_渦巻く復讐心",
+    "value": "Vengeful Desire"
+  },
+  {
+    "key": "MSID_SEARCH_渦巻く復讐心",
+    "value": "Vengeful Desire"
+  },
+  {
+    "key": "MSID_世界を変えるために",
+    "value": "World-Changer"
+  },
+  {
+    "key": "MSID_SEARCH_世界を変えるために",
+    "value": "World-Changer"
+  },
+  {
+    "key": "MSID_未来の光の姫",
+    "value": "Future's Light"
+  },
+  {
+    "key": "MSID_SEARCH_未来の光の姫",
+    "value": "Future's Light"
+  },
+  {
+    "key": "MSID_速さ魔防の団結",
+    "value": "Spd/Res Union"
+  },
+  {
+    "key": "MSID_SEARCH_速さ魔防の団結",
+    "value": "Spd/Res Union"
+  },
+  {
+    "key": "MSID_暗獣・攻守対抗",
+    "value": "Dark A/D Rival"
+  },
+  {
+    "key": "MSID_SEARCH_暗獣・攻守対抗",
+    "value": "Dark A/D Rival"
+  },
+  {
+    "key": "MSID_響・共感",
+    "value": "Favor Echo"
+  },
+  {
+    "key": "MSID_SEARCH_響・共感",
+    "value": "Favor Echo"
+  },
+  {
+    "key": "MSID_H_青き獅子の爪牙",
+    "value": "$aEnables Canto (Dist.+1; Max 4).\nAccelerates Special trigger (cooldown count-1).\n\nAt start of turn, if unit's conditions for\ntransforming are met, grants【Gallop】to unit.\n\nAt start of turn, and after unit acts (if Canto\ntriggers, after Canto), inflicts【Spd Shackle】,\n【Def Shackle】, and【Frozen】on closest foes\nand foes within 2 spaces of those foes through\ntheir next actions.\n\nIf unit initiates combat, inflicts【Spd Shackle】,\n【Def Shackle】, and【Frozen】on target and\nfoes within 2 spaces of target through their next\nactions and neutralizes two Bonus effects\nactive on those foes after combat (excluding\nstat bonuses; does not apply to Bonus effects\nbeing applied at the same time; neutralizes the\nfirst applicable Bonus effects on foe's list of\nactive effects).\n\nGrants Atk/Spd/Def/Res+15 to unit, unit\ndeals +25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 15 during combat (excluding\narea-of-effect Specials), and also, if decreasing\nthe Spd difference necessary to make a\nfollow-up attack by 10 would allow unit to\ntrigger a follow-up attack (excluding guaranteed\nor prevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, deals +7\ndamage when Special triggers, and neutralizes\neffects that grant \"Special cooldown charge +X\"\nto foe or inflict \"Special cooldown charge -X\"\non unit.\n\n【Gallop】\nUnit can move 2 extra spaces (that turn only;\nonly highest value applied; does not stack).\n\n【Spd Shackle】\nInflicts penalty on unit's Spd during combat =\nnumber of Penalty effects active on unit + 4,\nexcluding stat penalties (max 8).\n\n【Def Shackle】\nInflicts penalty on unit's Def during combat =\nnumber of Penalty effects active on unit + 4,\nexcluding stat penalties (max 8).\n\n【Frozen】\nIncreases Spd difference necessary for unit to\nmake a follow-up attack by X and decreases\nSpd difference necessary for foe to make a\nfollow-up attack by X during combat (if foe's\nDef > unit's Def, X = 10 + difference between\nDef stats × 2; otherwise, X = 10).\n\n【Potent Follow 100%】\nTriggers an additional follow-up attack\nimmediately after unit's standard follow-up\nattack and deals damage = 100% of\nunit's normal attack damage (if unit cannot\nmake a follow-up attack, this effect triggers\nwhen the standard follow-up attack would\noccur; this effect is treated like a follow-up\nattack, so effects like \"reduce damage by\nX%\" still apply, but this effect is not affected\nby effects that prevent follow-ups or\n\"attacks twice\" effects; only highest\nvalue applied; does not stack)."
+  },
+  {
+    "key": "MSID_H_青き獅子の爪牙_NOSKW",
+    "value": "$aEnables Canto (Dist.+1; Max 4).\nAccelerates Special trigger (cooldown count-1).\n\nAt start of turn, if unit's conditions for\ntransforming are met, grants【Gallop】to unit.\n\nAt start of turn, and after unit acts (if Canto\ntriggers, after Canto), inflicts【Spd Shackle】,\n【Def Shackle】, and【Frozen】on closest foes\nand foes within 2 spaces of those foes through\ntheir next actions.\n\nIf unit initiates combat, inflicts【Spd Shackle】,\n【Def Shackle】, and【Frozen】on target and\nfoes within 2 spaces of target through their next\nactions and neutralizes two Bonus effects\nactive on those foes after combat (excluding\nstat bonuses; does not apply to Bonus effects\nbeing applied at the same time; neutralizes the\nfirst applicable Bonus effects on foe's list of\nactive effects).\n\nGrants Atk/Spd/Def/Res+15 to unit, unit\ndeals +25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials), and\nreduces damage from foe's Specials by an\nadditional 15 during combat (excluding\narea-of-effect Specials), and also, if decreasing\nthe Spd difference necessary to make a\nfollow-up attack by 10 would allow unit to\ntrigger a follow-up attack (excluding guaranteed\nor prevented follow-ups), triggers\n【Potent Follow 100%】during combat.\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, deals +7\ndamage when Special triggers, and neutralizes\neffects that grant \"Special cooldown charge +X\"\nto foe or inflict \"Special cooldown charge -X\"\non unit."
+  },
+  {
+    "key": "MSID_H_黒き鷲の鉤爪",
+    "value": "$aEnables【Leap】.\nEnables Canto (Dist.+1; Max 4).\n\nAccelerates Special trigger (cooldown count-1).\n\nGrants weapon-triangle advantage against\ncolorless foes and inflicts weapon-triangle\ndisadvantage on colorless foes during combat.\n\nAt start of turn, if unit's conditions for\ntransforming are met, grants【Gallop】to unit.\n\nAt start of player phase or enemy phase,\ngrants【Atk Liberate】, 【Def Liberate】, and\n【Anathema】to unit and allies within 2 spaces\nof unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit during\ncombat. If unit's Def ≥ foe's Def+5, disables\nunit's and foe's skills that change attack\npriority during combat.\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, and unit can\ncounterattack regardless of foe's range.\n\n【Leap】\nUnit can move through spaces that are\nnormally impassable by unit and passable\nby flying units, as long as those spaces are not\ncontiguous.\n\n【Gallop】\nUnit can move 2 extra spaces (that turn only;\nonly highest value applied; does not stack).\n\n【Atk Liberate】\nGrants bonus to Atk during combat = number\nof Bonus effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Def Liberate】\nGrants bonus to Def during combat = number\nof Bonus effects active on unit, excluding\nstat bonuses, + 4 (max 8).\n\n【Anathema】\nInflicts Spd/Def/Res-4 on foes within 3 spaces\nof unit during combat."
+  },
+  {
+    "key": "MSID_H_黒き鷲の鉤爪_NOSKW",
+    "value": "$aEnables【Leap】.\nEnables Canto (Dist.+1; Max 4).\n\nAccelerates Special trigger (cooldown count-1).\n\nGrants weapon-triangle advantage against\ncolorless foes and inflicts weapon-triangle\ndisadvantage on colorless foes during combat.\n\nAt start of turn, if unit's conditions for\ntransforming are met, grants【Gallop】to unit.\n\nAt start of player phase or enemy phase,\ngrants【Atk Liberate】, 【Def Liberate】, and\n【Anathema】to unit and allies within 2 spaces\nof unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+15 to unit, unit deals\n+25 damage (excluding area-of-effect\nSpecials), reduces damage from foe's attacks\nby 15 (excluding area-of-effect Specials),\nreduces damage from foe's Specials by an\nadditional 15 (excluding area-of-effect\nSpecials), and neutralizes effects that inflict\n\"Special cooldown charge -X\" on unit during\ncombat. If unit's Def ≥ foe's Def+5, disables\nunit's and foe's skills that change attack\npriority during combat.\n\nAt start of turn, if unit is adjacent to only beast\nor dragon allies or if unit is not adjacent to any\nally, unit transforms (otherwise, unit reverts).\nIf unit transforms, grants Atk+2, and unit can\ncounterattack regardless of foe's range."
+  },
+  {
+    "key": "MSID_H_爪牙一閃・疾風",
+    "value": "Boosts damage by X% of unit's Spd when\nSpecial triggers (if transformed, X = 80;\notherwise, X = 70).\n\nReduces damage from foe's first attack by 40%\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes).\n\nIf unit's Special triggers during combat\ninitiated by unit, and if unit is transformed,\ngrants another action to unit after combat\n(once per turn)."
+  },
+  {
+    "key": "MSID_H_爪牙一閃・大地",
+    "value": "Boosts damage by X% of unit's Def when\nSpecial triggers (if transformed, X = 80;\notherwise, X = 70).\n\nReduces damage from foe's first attack by 40%\nduring combat (\"first attack\" normally means\nonly the first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes).\n\nIf unit's Special triggers during combat\ninitiated by unit, and if unit is transformed,\ngrants another action to unit after combat\n(once per turn)."
+  },
+  {
+    "key": "MSID_H_渦巻く復讐心",
+    "value": "$aIf unit can transform, transformation effects\ngain \"if unit is within 2 spaces of a beast or\ndragon ally, or if number of adjacent allies\nother than beast or dragon allies ≤ 2\" as\na trigger condition (in addition to existing\nconditions).\n\nIf defending in Aether Raids, at the start of\nenemy turn 1, if conditions for transforming\nare met, unit transforms.\n\nAt start of player phase or enemy phase,\ngrants【Truly Incited】and \"neutralizes foe's\nbonuses during combat\" to unit and allies\nwithin 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+10 to unit, unit\ndeals +7 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's\nattacks by 7 during combat (excluding\narea-of-effect Specials).\n\nIf unit initiates combat, enables【Cadenza】\nagainst any foe on target's space and any foe\nwithin 2 spaces in cardinal directions of that\ntarget's space after combat (excluding after\n【Cadenza】; once per turn).\n\nUnit can use the following Style:\n――――― Mega Crossthunder EX Style ―――――\nUnit can attack foes 3 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Atk/Spd+7 to unit during combat.\n\nCannot move through spaces within 3 spaces\nof foe that has triggered the Bulwark effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1, or foe can counterattack regardless\nof unit's range.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. Once used,\nthis Style cannot be used for two turns.\n――――――――――――――――――――――――――\n\n【Truly Incited】\nGrants bonus to Atk/Spd/Def/Res during\ncombat = number of spaces from start\nposition to end position of whoever\ninitiated combat × 2 (max 8).\n\n【Cadenza】\nAfter combat initiated by unit (after\npost-combat skills are triggered; before\npost-action skills and Canto are triggered;\nPenalty effects that last through unit's action\nare neutralized), unit can attack foe again\nonce, within a specified distance, regardless\nof unit's Range.\n\nUnit suffers a counterattack if any of the\nfollowing conditions are met: foe can\ncounterattack regardless of unit's Range,\nunit's Range = foe's Range, or foe's Range is\nthe same as the distance between unit and\nfoe. Skill effect's Range is determined by\nunit's weapon's Range. Unit's space before\nmovement and unit's remaining movement\nreferenced by the skill remain the same as\nbefore Cadenza. Unit cannot move, use Style,\nor attack structures; unit's area-of-effect\nSpecials cannot be triggered, and after-combat\nmovement effects do not occur. If unit uses\nCadenza on foe that is within range of another\nCadenza effect, Cadenza is treated as if having\nbeen triggered, including the other effect.\nOnly highest value applied; does not stack.\nDoes not trigger when affected by effects of\nForesight Snare or traps in Aether Raids.\nCadenza can be used only once per turn for\nplayer team in Summoner Duels. Does not\ntrigger in Pawns of Loki."
+  },
+  {
+    "key": "MSID_H_渦巻く復讐心_NOSKW",
+    "value": "$aIf unit can transform, transformation effects\ngain \"if unit is within 2 spaces of a beast or\ndragon ally, or if number of adjacent allies\nother than beast or dragon allies ≤ 2\" as\na trigger condition (in addition to existing\nconditions).\n\nIf defending in Aether Raids, at the start of\nenemy turn 1, if conditions for transforming\nare met, unit transforms.\n\nAt start of player phase or enemy phase,\ngrants【Truly Incited】and \"neutralizes foe's\nbonuses during combat\" to unit and allies\nwithin 2 spaces of unit for 1 turn.\n\nGrants Atk/Spd/Def/Res+10 to unit, unit\ndeals +7 damage (excluding area-of-effect\nSpecials), and reduces damage from foe's\nattacks by 7 during combat (excluding\narea-of-effect Specials).\n\nIf unit initiates combat, enables【Cadenza】\nagainst any foe on target's space and any foe\nwithin 2 spaces in cardinal directions of that\ntarget's space after combat (excluding after\n【Cadenza】; once per turn).\n\nUnit can use the following Style:\n――――― Mega Crossthunder EX Style ―――――\nUnit can attack foes 3 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Atk/Spd+7 to unit during combat.\n\nCannot move through spaces within 3 spaces\nof foe that has triggered the Bulwark effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1, or foe can counterattack regardless\nof unit's range.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. Once used,\nthis Style cannot be used for two turns.\n――――――――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_世界を変えるために",
+    "value": "$aIf unit can transform, transformation effects\ngain \"if unit is within 2 spaces of a beast or\ndragon ally, or if number of adjacent allies\nother than beast or dragon allies ≤ 2\" as\na trigger condition (in addition to existing\nconditions).\n\nIf defending in Aether Raids, at the start of\nenemy turn 1, if conditions for transforming\nare met, unit transforms.\n\nFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+X\n(for unit, X = 10; for allies, X = 5) and grants\nSpecial cooldown count-2 before unit's or\nally's first follow-up during combat, and also,\nif unit or ally initiates combat and has\nweapon-triangle advantage, boosts unit's\nor ally's Atk by 20% and reduces foe's Atk\nby 20% during combat.\n\nUnit deals +7 damage (excluding area-of-effect\nSpecials) and reduces damage from foe's\nattacks by 7 during combat (excluding\narea-of-effect Specials).\n\nIf unit initiates combat, enables【Cadenza】\nagainst any foe within 3 rows and 3 columns\ncentered on target after combat (excluding\nafter【Cadenza】; once per turn).\n\nUnit can use the following Style:\n――――― Tetrawind Trilemma EX Style ――――\nUnit can attack foes 2 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Atk/Def/Res+7 to unit during combat.\n\nCannot move through spaces within 2 spaces\nof foe that has triggered the Bulwark effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1, foe can counterattack regardless\nof unit's range, or foe's Range is the same as\nthe distance between unit and foe.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1.\nThis Style can be used only once per turn.\n――――――――――――――――――――――――――\n\n【Cadenza】\nAfter combat initiated by unit (after\npost-combat skills are triggered; before\npost-action skills and Canto are triggered;\nPenalty effects that last through unit's action\nare neutralized), unit can attack foe again\nonce, within a specified distance, regardless\nof unit's Range.\n\nUnit suffers a counterattack if any of the\nfollowing conditions are met: foe can\ncounterattack regardless of unit's Range,\nunit's Range = foe's Range, or foe's Range is\nthe same as the distance between unit and\nfoe. Skill effect's Range is determined by\nunit's weapon's Range. Unit's space before\nmovement and unit's remaining movement\nreferenced by the skill remain the same as\nbefore Cadenza. Unit cannot move, use Style,\nor attack structures; unit's area-of-effect\nSpecials cannot be triggered, and after-combat\nmovement effects do not occur. If unit uses\nCadenza on foe that is within range of another\nCadenza effect, Cadenza is treated as if having\nbeen triggered, including the other effect.\nOnly highest value applied; does not stack.\nDoes not trigger when affected by effects of\nForesight Snare or traps in Aether Raids.\nCadenza can be used only once per turn for\nplayer team in Summoner Duels. Does not\ntrigger in Pawns of Loki."
+  },
+  {
+    "key": "MSID_H_世界を変えるために_NOSKW",
+    "value": "$aIf unit can transform, transformation effects\ngain \"if unit is within 2 spaces of a beast or\ndragon ally, or if number of adjacent allies\nother than beast or dragon allies ≤ 2\" as\na trigger condition (in addition to existing\nconditions).\n\nIf defending in Aether Raids, at the start of\nenemy turn 1, if conditions for transforming\nare met, unit transforms.\n\nFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+X\n(for unit, X = 10; for allies, X = 5) and grants\nSpecial cooldown count-2 before unit's or\nally's first follow-up during combat, and also,\nif unit or ally initiates combat and has\nweapon-triangle advantage, boosts unit's\nor ally's Atk by 20% and reduces foe's Atk\nby 20% during combat.\n\nUnit deals +7 damage (excluding area-of-effect\nSpecials) and reduces damage from foe's\nattacks by 7 during combat (excluding\narea-of-effect Specials).\n\nIf unit initiates combat, enables【Cadenza】\nagainst any foe within 3 rows and 3 columns\ncentered on target after combat (excluding\nafter【Cadenza】; once per turn).\n\nUnit can use the following Style:\n――――― Tetrawind Trilemma EX Style ――――\nUnit can attack foes 2 spaces away\n(unit cannot attack adjacent foes).\n\nGrants Atk/Def/Res+7 to unit during combat.\n\nCannot move through spaces within 2 spaces\nof foe that has triggered the Bulwark effect\n(does not apply if unit has a Pass skill). Unit\nsuffers a counterattack if any of the following\nconditions are met: foe is armored with\nRange = 1, foe can counterattack regardless\nof unit's range, or foe's Range is the same as\nthe distance between unit and foe.\n\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1.\nThis Style can be used only once per turn.\n――――――――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_未来の光の姫",
+    "value": "$aFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+X\n(for unit, X = 10; for allies, X = 5), deals +10\ndamage (excluding area-of-effect Specials),\nand grants Special cooldown charge +1 per\nattack during combat (only highest value\napplied; does not stack).\n\nReduces damage from foe's attacks by 7\n(excluding area-of-effect Specials),\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks, and foe cannot\ncounterattack during combat.\n\nUnit can use the following Style:\n――――――― Future's Light Style ―――――――\nUnit can attack foes within 6 spaces of unit\nand 3 rows or 3 columns centered on unit\nregardless of unit's range. (Damage dealt by\nunit's attacks and damage from foe's attacks\nduring that combat are reduced to 0, and foes'\nSavior effects will not trigger (Røkkr take at\nleast 1 damage).)\n\nInflicts【Gravity】,【Time's Grip】, and\n\"after start-of-turn skills trigger, action ends\nimmediately\" on foe through their next action\n(for foes who have not yet taken an action in\nSummoner Duels, instead of inflicting this\neffect, ends their action immediately) and\ngrants another action to unit after combat.\n\nUnit cannot move or attack structures,\nafter-combat movement effects do not occur,\nunit's area-of-effect Specials cannot be\ntriggered, and remaining movement granted\nfrom Canto is treated as 0. Unit suffers a\ncounterattack if any of the following conditions\nare met: foe is armored with Range = 2, foe\ncan counterattack regardless of unit's range,\nor foe's Range is the same as the distance\nbetween unit and foe. Skill effect's Range is\ntreated as 2. Once used, this Style cannot be\nused for two turns.\n―――――――――――――――――――――――――\n\n【Gravity】\nRestricts target's movement to 1 space through\nits next action.\n\n【Time's Grip】\nInflicts Atk/Spd/Def/Res-4 during combat.\nNeutralizes unit's skills during allies' combat\nthrough unit's next action."
+  },
+  {
+    "key": "MSID_H_未来の光の姫_NOSKW",
+    "value": "$aFor unit and allies within 3 rows or 3 columns\ncentered on unit, grants Atk/Spd/Def/Res+X\n(for unit, X = 10; for allies, X = 5), deals +10\ndamage (excluding area-of-effect Specials),\nand grants Special cooldown charge +1 per\nattack during combat (only highest value\napplied; does not stack).\n\nReduces damage from foe's attacks by 7\n(excluding area-of-effect Specials),\nneutralizes effects that guarantee foe's\nfollow-up attacks and effects that prevent\nunit's follow-up attacks, and foe cannot\ncounterattack during combat.\n\nUnit can use the following Style:\n――――――― Future's Light Style ―――――――\nUnit can attack foes within 6 spaces of unit\nand 3 rows or 3 columns centered on unit\nregardless of unit's range. (Damage dealt by\nunit's attacks and damage from foe's attacks\nduring that combat are reduced to 0, and foes'\nSavior effects will not trigger (Røkkr take at\nleast 1 damage).)\n\nInflicts【Gravity】,【Time's Grip】, and\n\"after start-of-turn skills trigger, action ends\nimmediately\" on foe through their next action\n(for foes who have not yet taken an action in\nSummoner Duels, instead of inflicting this\neffect, ends their action immediately) and\ngrants another action to unit after combat.\n\nUnit cannot move or attack structures,\nafter-combat movement effects do not occur,\nunit's area-of-effect Specials cannot be\ntriggered, and remaining movement granted\nfrom Canto is treated as 0. Unit suffers a\ncounterattack if any of the following conditions\nare met: foe is armored with Range = 2, foe\ncan counterattack regardless of unit's range,\nor foe's Range is the same as the distance\nbetween unit and foe. Skill effect's Range is\ntreated as 2. Once used, this Style cannot be\nused for two turns.\n―――――――――――――――――――――――――"
+  },
+  {
+    "key": "MSID_H_速さ魔防の団結",
+    "value": "$aAt start of player phase or enemy phase,\ngrants【Union】to unit for 1 turn.\n\nFor unit and allies on the map with the\n【Union】effect active, deals +X damage\n(excluding area-of-effect Specials; X = number\nof allies on the map with the【Union】effect\nactive, including unit, × 3; max 12), neutralizes\neffects that inflict \"Special cooldown charge -X\"\non unit or ally, and reduces the percentage\nof foe's non-Special \"reduce damage by X%\"\nskills by 50% during combat (excluding\narea-of-effect Specials).\n\nInflicts Spd/Res-4 on foe, unit deals +10\ndamage (excluding area-of-effect Specials),\nand reduces damage from foe's attacks by 10\nduring combat (excluding area-of-effect\nSpecials).\n\n【Union】\nGrants Atk/Spd/Def/Res+X to unit during\ncombat (X = number of allies on the map\nwith Union active, including unit, × 2; max 8).\n\nIf a Rally or movement Assist skill is used by\nunit or targets unit, grants Union to target ally\nor targeting ally for 1 turn.\n\nIf unit initiates combat, grants Union to allies\nwithin 3 spaces of unit after combat for 1 turn.\n\nIf ally within 3 spaces of unit initiates combat,\ngrants Union to that ally after their combat for\n1 turn."
+  },
+  {
+    "key": "MSID_H_速さ魔防の団結_NOSKW",
+    "value": "$aAt start of player phase or enemy phase,\ngrants【Union】to unit for 1 turn.\n\nFor unit and allies on the map with the\n【Union】effect active, deals +X damage\n(excluding area-of-effect Specials; X = number\nof allies on the map with the【Union】effect\nactive, including unit, × 3; max 12), neutralizes\neffects that inflict \"Special cooldown charge -X\"\non unit or ally, and reduces the percentage\nof foe's non-Special \"reduce damage by X%\"\nskills by 50% during combat (excluding\narea-of-effect Specials).\n\nInflicts Spd/Res-4 on foe, unit deals +10\ndamage (excluding area-of-effect Specials),\nand reduces damage from foe's attacks by 10\nduring combat (excluding area-of-effect\nSpecials)."
+  },
+  {
+    "key": "MSID_H_暗獣・攻守対抗",
+    "value": "Grants Atk/Def+5 and an additional Atk/Def+X\nto unit (X = highest bonus on each stat between\ntarget and foes within 2 spaces of target;\ncalculates each stat bonus independently), unit\ndeals +5 damage (excluding area-of-effect\nSpecials), reduces damage from foe's first\nattack by 5 (\"first attack\" normally means only\nthe first strike; for effects that grant \"unit\nattacks twice,\" it means the first and second\nstrikes), and disables skills of all foes excluding\nfoe in combat during combat."
+  },
+  {
+    "key": "MSID_H_響・共感",
+    "value": "$aIf a Rally or movement Assist skill is used by\nunit or targets unit, grants【Empathy】and\n\"reduces the percentage of foe's non-Special\n'reduce damage by X%' skills by 50% during\ncombat (excluding area-of-effect Specials)\"\nto unit and target ally or unit and targeting ally\nfor 1 turn, and grants Special cooldown-1 to\nunit and target ally or unit and targeting ally\nonce per turn.\n\nAllies on the map with【Empathy】active deal\n+5 damage during combat (excluding area-of-\neffect Specials).\n\nIf【Empathy】is active on unit or ally on the\nmap, unit deals +10 damage during combat\n(excluding area-of-effect Specials).\n\n【Empathy】\nGrants bonus to unit's Atk/Spd/Def/Res =\nnumber of types of【Bonus】effects, excluding\nstat bonuses, and【Penalty】effects, excluding\nstat penalties, active on player team and\nenemy team during combat (max 7).\n\n【Bonus】\nAll effects that last \"for 1 turn\" or \"that turn\nonly.\" Includes bonuses granted by a skill\nlike Rally or Hone and positive status effects\n(extra movement or effects like Dominance).\n\n【Penalty】\nAll effects that last \"on foe through its next\naction.\" Includes penalties inflicted by a skill\nlike Panic or Threaten and negative status\neffects (preventing counterattacks, restricting\nmovement, or the effects of a skill like\nTriangle Adept or Guard)."
+  },
+  {
+    "key": "MSID_H_響・共感_NOSKW",
+    "value": "$aIf a Rally or movement Assist skill is used by\nunit or targets unit, grants【Empathy】and\n\"reduces the percentage of foe's non-Special\n'reduce damage by X%' skills by 50% during\ncombat (excluding area-of-effect Specials)\"\nto unit and target ally or unit and targeting ally\nfor 1 turn, and grants Special cooldown-1 to\nunit and target ally or unit and targeting ally\nonce per turn.\n\nAllies on the map with【Empathy】active deal\n+5 damage during combat (excluding area-of-\neffect Specials).\n\nIf【Empathy】is active on unit or ally on the\nmap, unit deals +10 damage during combat\n(excluding area-of-effect Specials)."
+  },
+  {
+    "key": "MID_STAGE_HONOR_T0230",
+    "value": "Double Legends!"
+  },
+  {
+    "key": "MID_STAGE_T0230",
+    "value": "Celebration"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PB335",
+    "value": "Skill Studies 335"
+  },
+  {
+    "key": "MID_STAGE_PB335",
+    "value": "Echoing Roar, Sharpest Claws"
+  },
+  {
+    "key": "MID_STAGE_TITLE_PC160",
+    "value": "Grandmaster 160"
+  },
+  {
+    "key": "MID_STAGE_PC160",
+    "value": "Essence of Being a Shut-In"
+  }
+]
